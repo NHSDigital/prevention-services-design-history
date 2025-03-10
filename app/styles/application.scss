@@ -26,3 +26,7 @@ $govuk-font-family: Frutiger W01, arial, sans-serif;
 @import "./overrides";
 @import "./typography";
 
+// Line height copied from NHS Frontend
+.govuk-body {
+  line-height: 1.47368;
+}

@@ -55,3 +55,8 @@ $govuk-border-width-wide: 8px;
 }
 
 $govuk-font-family: Frutiger W01, arial, sans-serif;
+
+// Line height copied from NHS Frontend
+.govuk-body {
+  line-height: 1.47368;
+}
