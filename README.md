@@ -20,7 +20,7 @@ You’ll need to:
 
 * create a folder for your service within `app/posts/`, for example `app/posts/your-service-name/`
 * create a folder with the same name in `app/images/`, for example `app/images/your-service-name/`
-* create a `your-service-name.js` file within `app/posts/` that adds the eleventyNavigation parent name as the name of your service (copy an existing example)
+* create a `your-service-name.json` file within `app/posts/` that adds the eleventyNavigation parent name as the name of your service (copy an existing example)
 * create a Markdown file in `app/posts/`, for example `app/posts/your-service-name.md`. Copy an existing example and update any references to match your service.
 * update `eleventy.config.js` to create a new 'collection' for your service (copy one of the existing examples)
 * update `app/_layouts/_product.njk` to list your new service in the `sections` variable
