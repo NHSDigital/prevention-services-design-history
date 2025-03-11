@@ -14,7 +14,7 @@ tags:
 Overall the rule library was considered to add significant value, but we plan to revisit it in the future as we believe there are some improvements that we can make - in particular to do with rules involving ages and dates.
 
 ## What are rules?
-As shown in the diagram on the [brief description of this service](/what-is-this-service/), the way SPI works is by removing people from an initial dataset (the cohorts of eligible people), so that the people remaining are the ones we want to contact at that particular time.
+As shown in the diagram on the [brief description of this service](/select-people-for-invitation/what-is-this-service/), the way SPI works is by removing people from an initial dataset (the cohorts of eligible people), so that the people remaining are the ones we want to contact at that particular time.
 
 The way we remove people from an invitation group is by applying "rules" such as:
 - don't invite people who are resident in a care home (because they have alternative vaccination arrangements)
