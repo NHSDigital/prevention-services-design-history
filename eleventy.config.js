@@ -82,6 +82,10 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/book-a-vaccination/**/*.md')
   })
 
+  eleventyConfig.addCollection('select-people-for-invitation', collection => {
+    return collection.getFilteredByGlob('app/posts/select-people-for-invitation/**/*.md')
+  })
+
   // Personalised prevention collections
   eleventyConfig.addCollection('digital-nhs-health-check', collection => {
     return collection.getFilteredByGlob('app/posts/digital-nhs-health-check/**/*.md')
