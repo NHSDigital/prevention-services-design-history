@@ -209,4 +209,4 @@ So what can you expect from us next? We will:
 
 ## Previous notes on this topic
 
-* [what we set out to do and how we kicked this project off] (/explore-team/2025/01/sharing-screening-results-with-gps/)
+* [what we set out to do and how we kicked this project off](/explore-team/2025/01/sharing-screening-results-with-gps/)
