@@ -56,13 +56,13 @@ We know that almost:
 
 The technology used for this electronic messaging (‘ecomms’) is EDIFACT Laboratory Service Report, variant NHS004 of MEDRPT.
 
-EDIFACT technology is [marked for deprecation](https://digital.nhs.uk/developer/api-catalogue/pathology-messaging-edifact), it is inflexible and difficult to update. 
+EDIFACT technology is [marked for deprecation](https://digital.nhs.uk/developer/api-catalogue/pathology-messaging-edifact), it is inflexible and difficult to update.
 
 We know that some of our colleagues in Digital Services for Integrated Care (DSIC) are working on a more modern technology (FHIR R4) and cervical and bowel results are in their release 2.
 
-However, when we spoke to the head of estates responsible for 5 GP practices in one PCN, they said that the bowel pathology route was broadly working for them. 
+However, when we spoke to the head of estates responsible for 5 GP practices in one PCN, they said that the bowel pathology route was broadly working for them.
 
-It’s important to consider the impact of any changes on GPs to make sure we do not make the experience worse or more burdensome for them. 
+It’s important to consider the impact of any changes on GPs to make sure we do not make the experience worse or more burdensome for them.
 
 ![A pie chart showing that 98.8% of results in bowel are sent electronically](normal-results-letters-vs-electronic-bowel.png "The proportion of normal letters that are sent electronically and as letters each year in bowel screening")
 
@@ -99,10 +99,10 @@ Sources:
 * [Bowel cancer screening figures from 2021-2022](https://www.gov.uk/government/publications/bowel-cancer-screening-annual-report-2021-to-2022/bowel-cancer-screening-annual-report-2021-to-2022)
 
 ### Economic benefit of a potential solution
- 
+
 For the 6 BSOs we spoke to, a move to electronic patient invites and GP reports is estimated to save £500k annually.
 
-One primary care network (PCN) told us that they employ 7 clinical coders who work 176 hours a week earning £12.30 per hour processing results and letters (yes, that's right - this is 7 people employed across 5 sites just to process paperwork) across their 5 GP sites. 
+One primary care network (PCN) told us that they employ 7 clinical coders who work 176 hours a week earning £12.30 per hour processing results and letters (yes, that's right - this is 7 people employed across 5 sites just to process paperwork) across their 5 GP sites.
 
 From this PCN’s perspective, if breast screening results were automated:
 
@@ -187,7 +187,7 @@ We used these as a prop in our solution space interviews and presentations.
 2. Automatic store: Normal and abnormal beast screening results are automatically stored in the patient GP record
 3. Market incentive: Incentives are provided to the market to find its own solution ('carrot'), along with a policy mandating the storage of screening results by GPs ('stick')
 
-These options are not mutually-exclusive and for now, they are ideas that we use to stimulate discussion and improve our understanding of the range of solutions. 
+These options are not mutually-exclusive and for now, they are ideas that we use to stimulate discussion and improve our understanding of the range of solutions.
 
 ## Outstanding questions
 
@@ -205,8 +205,8 @@ So what can you expect from us next? We will:
 * learn more about how results originate in NBSS and how different BSOs process them based on the method or the outsourcing company they use
 * learn more about GP practice experience
 * refine our options based on the high-level internal feedback and then refine them again based on GP practice insight
-* conduct quantitative analysis of the economic benefits 
+* conduct quantitative analysis of the economic benefits
 
 ## Previous notes on this topic
 
-* [what we set out to do and how we kicked this project off] (/explore-team/2025/01/sharing-screening-results-with-gps/)
+* [what we set out to do and how we kicked this project off](/explore-team/2025/01/sharing-screening-results-with-gps/)
