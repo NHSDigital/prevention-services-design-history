@@ -122,7 +122,7 @@ We are working with the transition team to get better data via a survey of BSOs.
 
 ## Our assumptions about the solution space
 
-We believe that we should start with the 2.1 annual normal breast screening results, and in parallel understand the opportunities for the 1.08 million annual DNAs.
+We believe that we should start with the 2.1 annual normal breast screening results, and in parallel understand the opportunities for the 1.08 million annual DNAs (did not attend).
 
 
 Abnormal results require more research.
