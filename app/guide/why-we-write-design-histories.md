@@ -1,6 +1,9 @@
 ---
 layout: page
 title: Why we write design histories
+description: Writing up design and research work helps our teams to share and remember.
+eleventyNavigation:
+  parent: Guide
 ---
 
 It's easy to forget what’s been done, and why.

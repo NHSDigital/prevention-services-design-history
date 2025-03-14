@@ -1,6 +1,9 @@
 ---
 layout: page
 title: What to include in a design history
+description: Some tips on things to write about.
+eleventyNavigation:
+  parent: Guide
 ---
 
 Most things you do can be shared.

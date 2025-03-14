@@ -1,6 +1,9 @@
 ---
 layout: page
 title: How to publish a design history entry
+description: A guide for our teams on how to publish to this site.
+eleventyNavigation:
+  parent: Guide
 ---
 
 To publish a design history post, you need to use [GitHub](https://github.com) and [Markdown](https://www.markdownguide.org), but we can help you.
