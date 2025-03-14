@@ -53,7 +53,7 @@ After pressing "Save and continue" the copy is made and the user is given a summ
 - there was still an underlying sense of wanting to select all (though the design does allow this)
 
 ## Summary and next steps
-On the whole the design was recieved positively, we will make some small improvements such as adding example dates to help clarify the format, but the biggest mismatch between user expectation and the product design was the interstitial step where users can choose which elements to copy. From a product and design perspective we continue to beleive that this design is actually more efficient and would like to explore this further in real life scenarios (the testing was hypothetical).
+On the whole the design was recieved positively, we will make some small improvements such as adding example dates to help clarify the format, but the biggest mismatch between user expectation and the product design was the interstitial step where users can choose which elements to copy. From a product and design perspective we continue to believe that this design is actually more efficient and would like to explore this further in real life scenarios (the testing was hypothetical).
 
 There is also a theory held within the team that once improvements have been made to the rule library, the need to copy iterations will be significantly reduced. We think we can make SPI more efficient to the point that copying iterations is no longer considered to be a core part of the process and would perhaps only be worthwhile if creating a reminder iteration that is extremely similar to the original invite iteration.
 
