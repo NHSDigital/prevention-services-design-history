@@ -65,6 +65,21 @@
         {% endfor %}
       {% endfor %}
 
+      <div class="govuk-grid-column-full">
+        <hr class="govuk-section-break govuk-section-break--xl govuk-section-break--visible">
+
+        {% for item in collections.all | eleventyNavigation(options.homeKey) %}
+          {% if ("Guide" == item.title)  %}
+            <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
+              <a href="{{ item.url | pretty }}">{{ item.title }}</a>
+            </h3>
+            <p class="govuk-body">{{ item.excerpt }}</p>
+          {% endif %}
+        {% endfor %}
+
+
+      </div>
+
     {% endif %}
   </div>
 {% endblock %}

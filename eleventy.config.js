@@ -103,6 +103,10 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/smoking-cessation/**/*.md')
   })
 
+  eleventyConfig.addCollection('guide', collection => {
+    return collection.getFilteredByGlob('app/guide/**/*.md')
+  })
+
   // Config
   return {
     dataTemplateEngine: 'njk',
