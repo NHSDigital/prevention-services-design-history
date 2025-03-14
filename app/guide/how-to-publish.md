@@ -6,7 +6,9 @@ eleventyNavigation:
   parent: Guide
 ---
 
-To publish a design history post, you need to use [GitHub](https://github.com) and [Markdown](https://www.markdownguide.org), but we can help you.
+To publish a design history post, you need to use [GitHub](https://github.com) and [Markdown](https://www.markdownguide.org).
+
+If you need any help with this, ask on the Slack channel – [#dpsp-prof-ucd](https://nhsdigitalcorporate.enterprise.slack.com/archives/C06DGMH1XUN).
 
 To contribute you will need a free GitHub account, and for your account to be added to this project.
 
