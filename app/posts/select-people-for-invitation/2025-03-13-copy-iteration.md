@@ -25,17 +25,21 @@ However, iterations must have unique names, and it is also very unlikely that th
 
 ## Designs
 The first step in the process of creating a copy is to click "copy iteration" next to the appropriate iteration in the campaign iteration list. This was well understood by users and caused no problems.
+
 ![The list of iterations within a campaign](iteration-list.png)
 
 We then have an interstitial page to ask the user to update the name and date for the copied iteration
+
 ![The first step of copy an iteration process](copy-iteration1.png)
 
 Although the users' expectation was to copy the whole iteration and then have to remove cohorts or rules they didn't need, from a safety perspective we hypothesised it may be better to remove them before the copy is made. It would also be quicker and fewer clicks to remove elements during the copy process than afterwards. However we did include a "select all" option incase there was extreme similarity between the iterations (as can be the case with when sending reminders to a group that were previously invited).
+
 ![The second step of copy an iteration process](copy-iteration2.png)
 
 The checkboxes are all unchecked by default in order to encourage active decision making, which we felt increased the focus on safety (ensuring we contact the right people).
 
 After pressing "Save and continue" the copy is made and the user is given a summary screen to check the details, and from there they can make any further changes required. Any required elements which are missing are highlighted at this point.
+
 ![The third step of copy an iteration process](copy-iteration3.png)
 
 
