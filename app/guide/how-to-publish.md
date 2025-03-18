@@ -10,7 +10,7 @@ To publish a design history post, you need to use [GitHub](https://github.com) a
 
 If you need any help with this, ask on the Slack channel – [#dpsp-prof-ucd](https://nhsdigitalcorporate.enterprise.slack.com/archives/C06DGMH1XUN).
 
-To contribute you will need a free GitHub account, and for your account to be added to this project.
+To contribute you will need a free GitHub account, and for your account to be added to [NHS Digital on GitHub](http://github.com/NHSDigital/) and this project.
 
 Once this is done, these steps:
 
