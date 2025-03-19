@@ -108,9 +108,9 @@ To this end we explored:
 -	potential sources of structured information about users and services, and applicable standards
 -	broad concepts of how a platform might recommend the most appropriate preventative services to users
 
-[fig and caption:]
-Visual artefact examining the landscape using high level journey stages from people deciding or being prompted to act to choosing and using a preventative service.
-(link to PDF – here's a Sharepoint of it)
+![A thumbnail view of our mapping document used to explore the problem space.](prevention-platform-discovery.png "We mapped the problem space using broad stages of the user journey that could be experienced by people deciding (or being prompted) to act, choosing, then using a preventative service.")
+
+[Download a PDF of the discovery map (103kb)](prevention-platform-discovery.pdf)
 
 ### Technical landscape
 
