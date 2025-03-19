@@ -6,7 +6,9 @@ date: 2025-03-12
 
 ## Introduction
 
-This discovery summary captures our insights into understanding the potential value of a “digital lifestyle platform” initiative as originally proposed by the Prevention and Long-Term Conditions Strategy team:
+This discovery summary captures our insights into understanding the potential value of a “digital lifestyle platform” initiative as originally proposed by the Prevention and Long-Term Conditions Strategy team.
+
+The current situation is that:
 
 - many people are at risk of developing (or already have) single or multiple health conditions
 - only a small percentage of these people are reached and engaged by healthcare services that can support them to tackle those conditions
