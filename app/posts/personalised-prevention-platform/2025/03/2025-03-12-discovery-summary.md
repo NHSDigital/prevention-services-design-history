@@ -4,11 +4,18 @@ description: A summary post detailing our discovery into personalised prevention
 date: 2025-03-12
 ---
 
-Some form of lead-in intro – as per Ralph’s comment, what was the genesis for this disco?
+## Introduction
 
----
+This discovery summary captures our insights into understanding the potential value of a “digital lifestyle platform” initiative as originally proposed by the Prevention and Long-Term Conditions Strategy team:
 
-## Problem statement
+- many people are at risk of developing (or already have) single or multiple health conditions
+- only a small percentage of these people are reached and engaged by healthcare services that can support them to tackle those conditions
+
+Unless more can be done to target the individual (without increasing health inequalities further), the strain on the NHS of supporting people with preventable long-term health conditions will continue to grow and increase the burden on the economy.
+
+Can we help people to proactively manage their health, rather than relying on a reactive NHS?
+
+## Our problem statement
 
 <blockquote class="govuk-inset-text govuk-!-margin-left-0">
   <p>Many people are at risk of developing - or already have – one or more health conditions.</p>
