@@ -8,7 +8,7 @@ eleventyNavigation:
 
 To publish a design history post, you need to use [GitHub](https://github.com) and [Markdown](https://www.markdownguide.org).
 
-If you need any help with this, ask on the Slack channel – [#dpsp-prof-ucd](https://nhsdigitalcorporate.enterprise.slack.com/archives/C06DGMH1XUN).
+If you need any help with this, ask on the Slack channel – [#dpsp-design-histories](https://nhsdigitalcorporate.enterprise.slack.com/archives/C08JN2TJH2P).
 
 ## How to become a contributor
 
