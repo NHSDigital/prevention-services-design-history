@@ -6,8 +6,6 @@ tags:
 - discovery
 ---
 
-## Introduction
-
 This discovery summary captures our insights into understanding the potential value of a “digital lifestyle platform” initiative as originally proposed by the Prevention and Long-Term Conditions Strategy team.
 
 The current situation is that:
@@ -22,7 +20,7 @@ Can we help people to proactively manage their health, rather than relying on a 
 ## Our problem statement
 
 <blockquote class="govuk-inset-text govuk-!-margin-left-0">
-  <p>Many people are at risk of developing - or already have – one or more health conditions.</p>
+  <p>Many people are at risk of developing - or already have - one or more health conditions.</p>
   <p>People often don’t know where or how to access the services that could best help them manage or improve their health. Healthcare professionals can also struggle to find services to recommend.</p>
   <p>We also often don’t know how well services are meeting people’s needs. That means if people do find and use a service, we don’t have a way to help them stay motivated to keep using that service, or to help them find alternatives if the service doesn't work.</p>
 </blockquote>
@@ -72,8 +70,6 @@ We wanted to understand whether this sort of capability could fit alongside the 
 
 ### Primary users
 
-#### Users we focused on
-
 This type of service could have a very large scope so we started by focusing on the people we thought it could best help.
 
 We spoke to 24 people living in deprived areas in the UK, including Liverpool, Oldham, Rochdale, Bradford, Birmingham and Manchester. We targeted people who were most likely to suffer from deprivation by finding people in lower socioeconomic groups.
@@ -84,9 +80,7 @@ We talked to people with these risk factors:
 - smoking
 - heavier drinking
 
-#### Why we focused on these users
-
-People in deprived areas have the worst health outcomes and tend to make the most use of the NHS. If we can provide a service that can help them to improve or maintain their health, we can help reduce health inequalities and reduce the load on the NHS.
+We focused on these users because people in deprived areas have the worst health outcomes and tend to make the most use of the NHS. If we can provide a service that can help them to improve or maintain their health, we can help reduce health inequalities and reduce the load on the NHS.
 
 We wanted to focus on people who had existing health risk factors, but who had not yet developed a more severe health condition. We thought this could help us understand if we could prevent this group from developing those more severe conditions in the future.
 
@@ -166,7 +160,7 @@ Cost was a key factor, along with whether the service was:
 -	online or face-to-face
 -	a group or individual activity
 -	local or national
--	happening at a convenient time — one of the key barriers users cited in being able to take better care of their health was the lack of time they had around work and family or caring commitments
+-	happening at a convenient time - one of the key barriers users cited in being able to take better care of their health was the lack of time they had around work and family or caring commitments
 
 ### Moving from the platform to a service could be challenging
 
