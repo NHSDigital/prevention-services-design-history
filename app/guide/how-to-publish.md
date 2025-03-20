@@ -10,6 +10,8 @@ To publish a design history post, you need to use [GitHub](https://github.com) a
 
 If you need any help with this, ask on the Slack channel – [#dpsp-prof-ucd](https://nhsdigitalcorporate.enterprise.slack.com/archives/C06DGMH1XUN).
 
+## How to become a contributor
+
 You need three things to contribute:
 
 1. Create a free [GitHub](https://github.com) account
