@@ -8,11 +8,17 @@ eleventyNavigation:
 
 To publish a design history post, you need to use [GitHub](https://github.com) and [Markdown](https://www.markdownguide.org).
 
-If you need any help with this, ask on the Slack channel – [#dpsp-prof-ucd](https://nhsdigitalcorporate.enterprise.slack.com/archives/C06DGMH1XUN).
+If you need any help with this, ask on the Slack channel – [#dpsp-design-histories](https://nhsdigitalcorporate.enterprise.slack.com/archives/C08JN2TJH2P).
 
-To contribute you will need a free GitHub account, and for your account to be added to this project.
+## How to become a contributor
 
-Once this is done, these steps:
+You need three things to contribute:
+
+1. Create a free [GitHub](https://github.com) account
+2. Join NHS Digital on GitHub – see [how to request access](https://nhs.sharepoint.com/sites/X26_EngineeringCOE/SitePages/GitHub-User---how-to-request-access.aspx)
+3. Get contributor access to [this project on GitHub](http://github.com/NHSDigital/prevention-services-design-history/) – ask an existing team member to add you
+
+## How to publish a post
 
 1. Create a branch. The name of the branch doesn’t matter too much but you could name it after your post title.
 2. Add a new markdown file in `app/posts/[service-name]/YYYY/MM/[post-name].md`. It’s often easier to duplicate an existing post. That way, you will have the headers that contain basic information that all posts need.
