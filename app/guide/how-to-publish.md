@@ -10,6 +10,12 @@ To publish a design history post, you need to use [GitHub](https://github.com) a
 
 If you need any help with this, ask on the Slack channel – [#dpsp-prof-ucd](https://nhsdigitalcorporate.enterprise.slack.com/archives/C06DGMH1XUN).
 
+You need three things to contribute:
+
+1. Create a free [GitHub](https://github.com) account
+2. Join NHS Digital on GitHub – see [how to request access](https://nhs.sharepoint.com/sites/X26_EngineeringCOE/SitePages/GitHub-User---how-to-request-access.aspx)
+3. Get contributor access to [this project on GitHub](http://github.com/NHSDigital/prevention-services-design-history/) – ask an existing team member to add you
+
 To contribute you will need a free GitHub account, and for your account to be added to [NHS Digital on GitHub](http://github.com/NHSDigital/) and this project.
 
 Once this is done, these steps:
