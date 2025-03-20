@@ -22,7 +22,7 @@ Can we help people to proactively manage their health, rather than relying on a 
 ## Our problem statement
 
 <blockquote class="govuk-inset-text govuk-!-margin-left-0">
-  <p>Many people are at risk of developing - or already have – one or more health conditions.</p>
+  <p>Many people are at risk of developing - or already have - one or more health conditions.</p>
   <p>People often don’t know where or how to access the services that could best help them manage or improve their health. Healthcare professionals can also struggle to find services to recommend.</p>
   <p>We also often don’t know how well services are meeting people’s needs. That means if people do find and use a service, we don’t have a way to help them stay motivated to keep using that service, or to help them find alternatives if the service doesn't work.</p>
 </blockquote>
@@ -166,7 +166,7 @@ Cost was a key factor, along with whether the service was:
 -	online or face-to-face
 -	a group or individual activity
 -	local or national
--	happening at a convenient time — one of the key barriers users cited in being able to take better care of their health was the lack of time they had around work and family or caring commitments
+-	happening at a convenient time - one of the key barriers users cited in being able to take better care of their health was the lack of time they had around work and family or caring commitments
 
 ### Moving from the platform to a service could be challenging
 
