@@ -6,8 +6,6 @@ tags:
 - discovery
 ---
 
-## Introduction
-
 This discovery summary captures our insights into understanding the potential value of a “digital lifestyle platform” initiative as originally proposed by the Prevention and Long-Term Conditions Strategy team.
 
 The current situation is that:
@@ -72,8 +70,6 @@ We wanted to understand whether this sort of capability could fit alongside the 
 
 ### Primary users
 
-#### Users we focused on
-
 This type of service could have a very large scope so we started by focusing on the people we thought it could best help.
 
 We spoke to 24 people living in deprived areas in the UK, including Liverpool, Oldham, Rochdale, Bradford, Birmingham and Manchester. We targeted people who were most likely to suffer from deprivation by finding people in lower socioeconomic groups.
@@ -84,9 +80,7 @@ We talked to people with these risk factors:
 - smoking
 - heavier drinking
 
-#### Why we focused on these users
-
-People in deprived areas have the worst health outcomes and tend to make the most use of the NHS. If we can provide a service that can help them to improve or maintain their health, we can help reduce health inequalities and reduce the load on the NHS.
+We focused on these users because people in deprived areas have the worst health outcomes and tend to make the most use of the NHS. If we can provide a service that can help them to improve or maintain their health, we can help reduce health inequalities and reduce the load on the NHS.
 
 We wanted to focus on people who had existing health risk factors, but who had not yet developed a more severe health condition. We thought this could help us understand if we could prevent this group from developing those more severe conditions in the future.
 
