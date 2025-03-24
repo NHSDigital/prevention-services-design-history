@@ -1,5 +1,5 @@
 ---
-title: Guidance
+title: How we are approaching guidance
 description: How we provide help and guidance for users
 date: 2025-03-20
 tags:
