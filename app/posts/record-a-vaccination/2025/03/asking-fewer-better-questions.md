@@ -46,7 +46,7 @@ It helped us:
 
 ## Prototyping the new journey 
 
-After mapping out a few different ideas for journeys in Mural where we dropped some questions and reordered the remaining ones, we soon moved to creating a new journey in the prototyping kit.
+After mapping out a few different ideas for journeys in Mural, where we dropped some questions and reordered the remaining ones, we soon moved to creating a new journey in the prototyping kit.
 
 This forced us to move to concrete designs and think hard about the words.
 
@@ -62,7 +62,7 @@ Some things were uncontroversial. There was consensus that we don't need to:
 * ask for both the date of vaccination and the date the patient was assessed for a vaccination (since these would happen on the same date)
 * ask twice which vaccine product was being given
 * capture different clinical roles – we currently have 3 separate questions asking the user to confirm the name of the clinician who assessed the patient, who obtained consent and who gave the vaccination
-* explicitly ask if the patient had been given the vaccine, since other questions (such as where did you given the injection) already confirm this
+* explicitly ask if the patient had been given the vaccine, since other questions (such as where did you give the injection) already confirm this
 
 ### Reformatting questions   
 
@@ -70,7 +70,7 @@ While we had set out to drop as many questions as possible, it turned out that t
 
 We ended up simplifying several questions so they could be answered in fewer steps by the majority of users. Here are a couple of examples.
 
-1. In the current journey we ask users to select the date of vaccination using a fiddly date picker. We know from data that 80% of the time users select today's date. So in the new streamlined journey we've made it easier for the majority of users to answer this question by asking 'Is the vaccination today?' and offering 'Today' as the top radio answer . 
+1. In the current journey we ask users to select the date of vaccination using a fiddly date picker. We know from data that 80% of the time users select today's date. So in the new streamlined journey we've made it easier for the majority of users to answer this question by asking "Is the vaccination today?" and offering "Today" as the top radio answer. 
 
 Only the 20%  who do not select today have to go on to enter a date. We've also changed our design for date entry to the more accessible NHS date input component.   
 
@@ -78,12 +78,12 @@ Only the 20%  who do not select today have to go on to enter a date. We've also 
 
 We know from data that 98% of the time users select that the patient themselves gave consent. 
 
-In the new journey, we simplified the question to 'Who is giving consent?', presenting the name of the patient as the top answer – making it quicker to answer for the 98%. 
+In the new journey, we simplified the question to "Who is giving consent?", presenting the name of the patient as the top answer – making it quicker to answer for the 98%. 
 
 
 ### Some proposals caused concern  
 
-We proposed removing 2 optional free text comment boxes from the journey because they didn't have a defined use. Data entered in these boxes is not sent to other services but just saved locally within Record a vaccination. We’d heard from at least one user that they thought information entered here would be sent to the patient's GP so this feature could be misleading. 
+We proposed removing 2 optional free text comment boxes from the journey because they didn't have a defined use. Data entered in these boxes is not sent to other services but just saved locally within Record a vaccination. We’d heard from at least 1 user that they thought information entered here would be sent to the patient's GP so this feature could be misleading. 
 
 However, because the comment boxes were used by up to 10% of users, there was concern in our team that we might inadvertently cause problems for users by removing them. 
 
@@ -91,7 +91,7 @@ Another question that we proposed removing from the current journey is one that 
 
 We thought this question was redundant since a vaccination not given was not recorded. However some of our team were concerned that we should be doing more to address user needs around being able to record vaccinations not given.
 
-To address these concerns, we agreed to delve more into the need for free text boxes and recording 'vaccinations not given' as part of user research on the new journey.
+To address these concerns, we agreed to delve more into the need for free text boxes and recording vaccinations not given as part of user research on the new journey.
 
 ## User research
 
@@ -101,7 +101,7 @@ We carried out a round of user research with 10 sessions in total, speaking to p
 
 All users we able to click through the steps of recording a vaccination without hesitation and with minimum prompting. Perhaps the most striking thing was the lack of comments we received about how different the new journey was from the current journey. 
 
-We had anticipated that some users might react negatively to the 1question per screen approach as the new journey has more screens than the current one but this was not commented on. 
+We had anticipated that some users might react negatively to the 1 question per screen approach as the new journey has more screens than the current one but this was not commented on. 
 
 ### Users wanted the option of adding free text notes or comments 
 
@@ -115,15 +115,15 @@ We heard lots of different things about vaccinations not given. For some setting
 
 We've added a free text comments box to the end of the streamlined journey but made it clear in the interface that any text entered will not be shared with the patient's GP. We plan to monitor how this used with a view that it might still be something we remove or change in future.
 
-We've started exploring some designs for recording vaccinations not given but this is proving challenging. The Record a vaccination service is just 1 touchpoint in an end-to-end vaccination journey – and a 'vaccination not given event' does not sit neatly within it. 
+We've started exploring some designs for recording vaccinations not given but this is proving challenging. The Record a vaccination service is just 1 touchpoint in an end-to-end vaccination journey – and a "vaccination not given" does not sit neatly within it. 
 
 Data on vaccinations not given is most useful when linked to invitation, booking and appointment systems and Record a vaccination is not currently integrated with any of those.
 
-The problem space for 'not givens' stretches beyond our service. In order to solve the whole problem, we'll need to look beyond our service and our team.
+The problem space for "vaccinations not given" stretches beyond our service. In order to solve the whole problem, we'll need to look beyond our service and our team.
 
 ## What next
 
-We are planning how and when we'll roll it out to users. 
+We are planning how and when we'll roll out the new record journey to users. 
 
 We are developing further features of the streamlined journey, including:
 
