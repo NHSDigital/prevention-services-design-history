@@ -74,10 +74,10 @@ We ended up simplifying several questions so they could be answered in fewer ste
 
 Only the 20%  who do not select today have to go on to enter a date. We've also changed our design for date entry to the more accessible NHS date input component.  
 
- Before:
+Our current design to ask for the date of vaccination:
 ![Screenshot of current date question](current-date-picker.png)
 
-After:
+Our new design:
 ![Screenshot of new date question](vaccination-date.png)
 
 2. In the current journey when it comes to consent, we ask first if consent was given and then who consented. So all users have to answer a minimum of 2 questions on consent. 
