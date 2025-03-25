@@ -1,5 +1,5 @@
 ---
-title: "Asking fewer questions and making questions easier to answer "
+title: "Asking fewer better questions "
 date: 2025-03-25
 ---
 
@@ -72,7 +72,13 @@ We ended up simplifying several questions so they could be answered in fewer ste
 
 1. In the current journey we ask users to select the date of vaccination using a fiddly date picker. We know from data that 80% of the time users select today's date. So in the new streamlined journey we've made it easier for the majority of users to answer this question by asking "Is the vaccination today?" and offering "Today" as the top radio answer. 
 
-Only the 20%  who do not select today have to go on to enter a date. We've also changed our design for date entry to the more accessible NHS date input component.   
+Only the 20%  who do not select today have to go on to enter a date. We've also changed our design for date entry to the more accessible NHS date input component.  
+
+ Before:
+![Screenshot of current date question](current-date-picker.png)
+
+After:
+![Screenshot of new date question](vaccination-date.png)
 
 2. In the current journey when it comes to consent, we ask first if consent was given and then who consented. So all users have to answer a minimum of 2 questions on consent. 
 
