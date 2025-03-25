@@ -10,7 +10,7 @@ The service is set up to initially support vaccinations, but over a longer term,
 
 A 3rd party appointments management solution was procured by the NHS in response to the Covid-19 pandemic.   
 
-the MYA service was designed to replace the existing 3rd party software, and provide more flexibility for expansion of appointment management services. 
+The Manage your appointments service was designed to replace the existing 3rd party software, and provide more flexibility for expansion of appointment management services. 
 
 
 ## Where we are 
