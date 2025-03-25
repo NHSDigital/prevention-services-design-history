@@ -1,6 +1,6 @@
 ---
 title: Routing plan IDs
-description: How we provide help and guidance for users
+description: How we get routing plan IDs into SPI
 date: 2025-03-24
 tags:
   - service
