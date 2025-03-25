@@ -1,5 +1,5 @@
 ---
-title: "Designing the create availability journey "
+title: Designing the create availability journey
 date: 2024-10-05
 ---
 
