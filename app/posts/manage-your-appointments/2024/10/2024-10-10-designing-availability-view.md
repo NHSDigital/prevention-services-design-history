@@ -62,7 +62,7 @@ We introduced a daily bookings list in this iteration, to allow users to see whi
 
 ## Findings for iteration 2
  
-Users found the monthly view more useful, and the breakdown of data was mostly clear.  the term ‘available appointments’ was not understood by all users, and they were unsure how many appointments they had that were not booked. 
+Users found the monthly view more useful, and the breakdown of data was mostly clear.  The term ‘available appointments’ was not understood by all users, and they were unsure how many appointments they had that were not booked. 
 
 Users found the breakdown of data by service in the weekly view much more helpful, and found the breakdown of booked, unbooked and total appointments in this view much clearer. 
 
