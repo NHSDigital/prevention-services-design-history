@@ -26,7 +26,7 @@ After completing tasks such as creating availability, many of our users got stuc
 
 We looked at other services in Vaccinations Digital Services (VDS), to see how they approached navigation. We focused on services like Record a vaccination (RAVS) and Manage vaccinations in schools (Mavis), which were similar to MYA in terms of user groups and tasks. 
 
-We decided to introduce nhs.uk header navigation, which we assumed would make it easier for our users to move around the MYA service.  This would also make MYA visually consistent with RAVS and MYA. We also moved the ‘change site’ link into the header, in line with the NHS pattern for logged in service headers 
+We decided to introduce [NHS header navigation](https://service-manual.nhs.uk/design-system/components/header), which we assumed would make it easier for our users to move around the MYA service.  This would also make MYA visually consistent with RAVS and MYA. We also moved the ‘change site’ link into the header, in line with the NHS pattern for logged in service headers 
 
 The navigation is visible when the user is moving around the site, and disappears when the user starts a task (e.g creating availability), to avoid them accidentally leaving the task flow before they are finished. 
 
