@@ -1,5 +1,5 @@
 ---
-title: "Asking fewer better questions "
+title: "Asking fewer, better questions "
 date: 2025-03-25
 ---
 
