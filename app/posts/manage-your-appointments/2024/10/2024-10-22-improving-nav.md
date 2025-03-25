@@ -1,5 +1,5 @@
 ---
-title: "Improving navigation within the MYA dashboard "
+title: "Improving navigation within the dashboard"
 date: 2024-10-22
 ---
 
