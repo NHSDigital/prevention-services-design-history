@@ -15,7 +15,7 @@ The Manage your appointments service was designed to replace the existing 3rd pa
 
 ## Where we are 
  
-We’ve built an MVP, and are testing our service with users delivering the RSV vaccination service in the east of England. 
+We’ve built an minimum viable product (MVP), and are testing our service with users delivering the RSV vaccination service in the east of England. 
 
 The service will expand in line with the community pharmacy expansion initiative, and we plan to continue testing and improving the service, to support further expansion, including Covid-19 and flu vaccines. 
  
