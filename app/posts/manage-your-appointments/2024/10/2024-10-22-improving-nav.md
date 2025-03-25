@@ -35,7 +35,7 @@ The navigation is visible when the user is moving around the site, and disappear
 
 ![Screenshot of a page that shows a monthly overview, where users can see appointment data broken down by week](landing-improved.png)
 
-In V2 of the availability view, we changed the yearly view for a monthly view that would give users a breakdown of appointment totals by week.  We also updated the weekly view, so that the booked appointments were broken down by service or cohort for each day. 
+In the second iteration of the availability view, we changed the yearly view for a monthly view that would give users a breakdown of appointment totals by week.  We also updated the weekly view, so that the booked appointments were broken down by service or cohort for each day. 
 
 ### Availability view
 
