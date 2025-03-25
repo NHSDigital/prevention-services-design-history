@@ -70,16 +70,16 @@ module.exports = function (eleventyConfig) {
   })
 
   // Vaccination collections
-  eleventyConfig.addCollection('record-a-vaccination', collection => {
-    return collection.getFilteredByGlob('app/posts/record-a-vaccination/**/*.md')
+   eleventyConfig.addCollection('book-a-vaccination', collection => {
+    return collection.getFilteredByGlob('app/posts/book-a-vaccination/**/*.md')
   })
 
   eleventyConfig.addCollection('manage-your-appointments', collection => {
     return collection.getFilteredByGlob('app/posts/manage-your-appointments/**/*.md')
-  })
+  })  
 
-  eleventyConfig.addCollection('book-a-vaccination', collection => {
-    return collection.getFilteredByGlob('app/posts/book-a-vaccination/**/*.md')
+ eleventyConfig.addCollection('record-a-vaccination', collection => {
+    return collection.getFilteredByGlob('app/posts/record-a-vaccination/**/*.md')
   })
 
   eleventyConfig.addCollection('select-people-for-invitation', collection => {
