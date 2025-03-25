@@ -80,6 +80,8 @@ Only the 20%  who do not select today have to go on to enter a date. We've also 
 
 We know from data that 98% of the time users select that the patient themselves gave consent.
 
+![Screenshots showing before and after for the consent question](consent-before-and-after.png)
+
 In the new journey, we simplified the question to "Who is giving consent?", presenting the name of the patient as the top answer – making it quicker to answer for the 98%.
 
 
