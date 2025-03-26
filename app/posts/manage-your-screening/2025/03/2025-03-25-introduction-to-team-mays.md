@@ -3,25 +3,42 @@ title: Introduction to team MAYS
 date: 2025-03-25
 ---
 
-## Key opportunity
+## Opportunity
 
-Currently the participant experience of screening programmes is fragmented, manual and participants have minimal control over their screening journey.
+Mays is working to deliver:
 
-## Our hypothesis
+Reduced dependencies on legacy tech stacks
 
-We believe that by building a Single Source of Truth for screening data we will be able to deliver a solution that gives participants the right information, at moments that matter, in an experience that empowers them to take preventative action to improve their health.
+Consistent participant experiences across all screening pathways (Participant Manager)
+
+An end-to-end orchestration process for screening programmes that can dynamically adapt to business needs (Pathway Co-ordinator)
+
+## Hypothesis
+
+We believe that by building a Single Source of Truth for screening data we will deliver a solution that gives participants the right information, at moments that matter, in an experience that empowers them to take preventative action to improve their health.
 
 ## Future vision
 
-A user would be able to:
+MAYs will give Participants a consistent screening experience and access to screening information all in one place:
 
-- View screening record and next due date
-- View results
-- Self-refer
-- Order test kit
-- Book appointments
-- Personalised screening content
+- Pathway enrolment
 
-## Web first approach
+- Pathway episode information
 
-Start build for the authenticated users that don't necessarily have access to the app and add functionality as a standalone website before integrating with the app. This is because there will be a proportion of the population (particularly underserved groups) that won’t or don't use the NHS App.
+- Pathway screening record
+
+## Initial approach
+
+By leveraging business events to drive screening processes MAYS will ensure a more patient-centric screening infrastructure, capable of evolving to meet future needs.
+
+In the first instance, we will allow eligible participants within routine breast screening to see:
+
+- relevant screening pathway content,
+
+- episode information: next due date
+
+- screening records for routine screening appointments
+
+We will do this using a standalone ‘Manage Your Screening’ website (to enable unauthenticated users to access certain functionality).
+
+We will later integrate with the NHS App as a 3rd party web integration (just like the NBS booking integration used in vaccinations currently).
