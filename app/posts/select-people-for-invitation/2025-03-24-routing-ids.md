@@ -4,7 +4,8 @@ description: How we get routing plan IDs into SPI
 date: 2025-03-24
 tags:
   - service
-  - routing
+  - routing plans
+  - communication channels
   - user research
   - reference data
 ---
