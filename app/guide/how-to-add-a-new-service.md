@@ -10,7 +10,7 @@ Posts in this design history are grouped by the service or team they relate to. 
 
 You may want to [look at an existing pull request](https://github.com/NHSDigital/prevention-services-design-history/pull/20) to see the files you need to update.
 
-You will need to create some files and folders based on the name of your service, using lowercase and hypens. For example for `Manage breast screening` you would use `manage-breast-screening`
+You will need to create some files and folders based on the name of your service, using lowercase and hypens. For example, for `Manage breast screening` you would use `manage-breast-screening`
 
 You’ll need to:
 
