@@ -57,7 +57,7 @@ to
 
 > “If there was a queue of people it might be tricky”
 
-One user suggested that having recorded a single vaccination was not sufficient to be able to give feedback, and that they’d rather wait until they had recorded a few.
+One user suggested it was too soon to give feedback after recording just 1 vaccination, and that they’d rather wait until they had recorded a few.
 
 We also had some feedback on the wider notion of giving feedback.
 
