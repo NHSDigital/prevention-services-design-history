@@ -16,7 +16,7 @@ For this round we focused on refining the screening journey once a participant h
 
 We’ve tried reducing the information shown on the initial screening event page – removing screening history and some participant information, and instead focusing on just the things the mammographer needs immediate access to.
 
-We’ve also tried highlighting special appointments using a warning callout to ensure they are prominent.
+We’ve also tried highlighting special appointments using a [warning callout](https://service-manual.nhs.uk/design-system/components/warning-callout) to ensure they are prominent.
 
 ![A screenshot of the initial screening page for a participant.](event-page--new.png)
 
