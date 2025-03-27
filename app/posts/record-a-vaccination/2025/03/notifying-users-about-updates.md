@@ -1,9 +1,7 @@
-
 ---
 title: "Notifying users about updates"
 date: 2025-03-25
 ---
-
 We wanted to explore how we might tell RAVs users about any updates to the service which might impact them. This could include new features to RAVs such as asking them to complete new fields when adding a vaccine batch or larger scale changes such as a new streamlined journey of how users can record vaccinations in RAVs.
 Both new feature examples are on the release roadmap for RAVs, so we were able to use these scenarios to demonstrate with users and give the designs appropriate scenarios for which alerts or notifications might be used.
 
