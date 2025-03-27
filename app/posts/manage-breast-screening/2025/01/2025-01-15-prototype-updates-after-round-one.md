@@ -21,6 +21,10 @@
         caption: Once screening is complete, medical information and images are added as tabs to the appointment
       - text: "Clinics attended not screened reason"
         src: clinics_attended-not-screened-reason.png
+  tags:
+    - alpha
+    - prototype
+    - initial screening
 ---
 
 ## Expanding our prototype

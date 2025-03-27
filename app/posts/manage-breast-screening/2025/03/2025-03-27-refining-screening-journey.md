@@ -2,7 +2,10 @@
   title: Refining the screening journey
   description: Expanding the medical information sections and improving information display
   date: 2025-03-27
-
+  tags:
+    - alpha
+    - prototype
+    - initial screening
 ---
 
 Our previous iterations didn’t focus much on medical information – they had an initial idea for being able to bulk answer questions in one go, but this wasn’t too clear to participants.
