@@ -17,17 +17,15 @@ https://github.com/ctdesign/gov-design-systems-list
 
 [Notification banner from Gov.UK service manual](https://design-system.service.gov.uk/components/notification-banner/)
 
-
-![ONS banner](ONS_banner.png)
-
+![Alt text](gov_uk_notification_banner.png)
 
 [Scottish government design system notification](https://designsystem.gov.scot/components/notification-banner)
 
-![Alt text](ONS banner.png)
+![Alt text](Scottish_gov_notification.png)
 
 [Office for national Stistics success panel](https://service-manual.ons.gov.uk/design-system/components/success-panel)
 
-![Alt text](ONS banner.png)
+![ONS banner](ONS_banner.png)
 
 
 
