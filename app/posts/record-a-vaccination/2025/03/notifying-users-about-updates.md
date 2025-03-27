@@ -26,15 +26,11 @@ We checked this [list of government design systems](https://github.com/ctdesign/
 
 ![ONS banner](ONS_banner.png)
 
-
-
 These design systems are all from UK government agencies and will either take inspiration from or work directly with the GOV.UK design system, as does NHS England. 
 
 As much as possible we wanted to stay closely aligned to the GOV.UK designs, but applying any necessary NHS styling in terms of typeface and colours. 
 
 However one apparent problem for our users with the Notification Banner used on GOV.UK is the inability to close the banner once the user has read the notification. It is intended for public facing services and this may not be as appropriate in RAVS where users would see the same message throughout their working day if they cannot close the message. That said, we wanted to test if this was true with RAVS users through user testing.
-
-
 
 ## Our designs
 
@@ -45,19 +41,15 @@ We decided that 3 different levels of updates would be appropriate to cover diff
 It was also discussed that updates may need to be released alongside other communications such as an email to users. 
 
 **Interruption** - We opted for an interruption card as used in MOJ for high level changes where the impact to users would be severe. Users would be shown the message after logging in, but before the home page and would need to click the call to action to indicate they have read the message.
+
 ![interruption](interruption.png)
 
-
-
 **Notification** - For medium level severity changes we opted for a notification banner to be placed within the right context and on the right page. For example, if the message impacted user management, then the intent was that it would only be shown in this section. 
+
 ![notification message](notification.png)
-
-
 
 **‘New’ tag** - We opted for a tag to indicate a low level change which would not significantly impact the user but may help to highlight where a feature or field had been newly added.
 ![new tag](new_tag.png)
-
-
 
 ## Pilot test
 
@@ -66,8 +58,6 @@ Before conducting any user testing sessions, we ran a small pilot test with 1 us
 This feedback validated an important initial assumption which was that users would need a way to close the medium level notification, rather than it persisting as is the intention of the GOV.UK notification banner.
 
 We amended the design by adding a close icon to the notification before further testing.
-
-
 
 ## Design iteration
 
@@ -83,14 +73,13 @@ The feedback validated some of our initial assumptions for the medium level noti
 
 With this feedback and in the interest of consistency in RAVS we re-styled the notification message to look similar to the design for the feedback message: blue border with white background. The close icon was also replaced with a link below the message to be consistent, whilst the header and body also reflected how the feedback message is presented. This meant that our messages would be consistent in design and that the design was clear and the message clearly conveyed.
 
+Notification re-design:
 
-
-Notification re-design
 ![new notification](notification1.png)
-
 
 The high level interruption card was also re-styled to be clearer and consistent with other messages.
 ![new interruption](interruption1.png)
 
 ## Future
+
 We will need to continue to assess the effectiveness of these components through user testing and also keep speaking and learning from other services within the NHS which may share a similar problem, particularly staff facing products or services.
