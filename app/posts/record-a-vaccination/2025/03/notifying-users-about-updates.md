@@ -18,7 +18,7 @@ https://github.com/ctdesign/gov-design-systems-list
 [Notification banner from Gov.UK service manual](https://design-system.service.gov.uk/components/notification-banner/)
 
 
-![ONS banner](ONS banner.png)
+![ONS banner](ONS_banner.png)
 
 
 [Scottish government design system notification](https://designsystem.gov.scot/components/notification-banner)
