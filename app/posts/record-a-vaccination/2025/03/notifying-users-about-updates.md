@@ -19,15 +19,19 @@ https://github.com/ctdesign/gov-design-systems-list
 
 [Notification banner from Gov.UK service manual](https://design-system.service.gov.uk/components/notification-banner/)
 
-**image palceholder**
+
+![ONS banner](ONS banner.png)
+
 
 [Scottish government design system notification](https://designsystem.gov.scot/components/notification-banner)
 
-**image palceholder**
+![Alt text](ONS banner.png)
 
 [Office for national Stistics success panel](https://service-manual.ons.gov.uk/design-system/components/success-panel)
 
-**image palceholder**
+![Alt text](ONS banner.png)
+
+
 
 These design systems are all UK government agencies and will either take inspiration from or work directly with the GOV.UK design system, as does NHS England. 
 As much as possible we wanted to stay closely aligned to the gov.uk designs, but applying any necessary NHS styling in terms of typeface and colours. However one apparent problem for our users with the Notification Banner used on GOV.UK is the inability to close the banner once the user has read. It is intended for public facing services and this may not be as appropriate in RAVs which will require users to see the same message throughout their working day if they cannot close the message. That said, we wanted to test if this was true with RAVs users through user-testing.
