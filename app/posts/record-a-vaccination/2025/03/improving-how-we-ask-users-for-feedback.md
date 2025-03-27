@@ -11,7 +11,7 @@ Since fully launching the service in September 2024 we have had a banner underne
 
 ![Screenshot showing a white banner directly beneath a blue header which has a 'Beta' label and the text 'This is a new service - your feedback (opens in a new tab) will help improve it.'](feedback-banner.png "Existing feedback banner")
 
-The link opens a page in a separate tab, which is hosted via Qualtrics, and includes a short survey with a few questions and the option for users to leave their email address. :comment_add:[JR - would be tempted to add how many questions]
+The link opens a page in a separate tab, which is hosted via Qualtrics, and includes a short survey with 2 questions and the option for users to leave their email address.
 
 However, despite having had 8,000 users recording over 1 million vaccinations, we have only had 185 feedback forms submitted, a 2% response rate.
 
