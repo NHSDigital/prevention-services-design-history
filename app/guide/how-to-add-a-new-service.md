@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to add a new service
-description: A guide for our teams on how to add their service to the design history
+description: A guide for our teams on how to add their service or team to the design history
 eleventyNavigation:
   parent: Guide
 ---
