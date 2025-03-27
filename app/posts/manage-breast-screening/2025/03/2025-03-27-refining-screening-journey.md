@@ -20,7 +20,7 @@ We’ve also tried highlighting special appointments using a [warning callout](h
 
 ![A screenshot of the initial screening page for a participant.](event-page--new.png)
 
-Iterating how medical information is collected
+## Iterating how medical information is collected
 
 Our previous version had UI to let you answer multiple medical questions at once, but this was not immediately clear to users in usability testing. For this round, we have tried adding a guard question up front. If users answer yes, they can provide detailed medical information. If they answer no, then all sections in medical information section can get answered with ‘no’ or ‘none’.
 
