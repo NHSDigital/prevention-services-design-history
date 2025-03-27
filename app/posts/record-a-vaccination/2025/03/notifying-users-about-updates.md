@@ -17,11 +17,11 @@ https://github.com/ctdesign/gov-design-systems-list
 
 [Notification banner from Gov.UK service manual](https://design-system.service.gov.uk/components/notification-banner/)
 
-![Alt text](gov_uk_notification_banner.png)
+![gov_uk_notification_banner](gov_uk_notification_banner.png)
 
 [Scottish government design system notification](https://designsystem.gov.scot/components/notification-banner)
 
-![Alt text](Scottish_gov_notification.png)
+![Scottish government design system notification](Scottish_gov_notification.png)
 
 [Office for national Stistics success panel](https://service-manual.ons.gov.uk/design-system/components/success-panel)
 
@@ -39,17 +39,17 @@ As much as possible we wanted to stay closely aligned to the gov.uk designs, but
 As a design team we discussed the various needs for notifications within the service that might warrant messaging to users ‘in service’ as oppose to via email. We decided that 3 different levels of alerts and notices would eb appropriate to cover different levels of eventualities depending on the severity and impact of the change to RAVs. It was also discussed that this would need to be released with corresponding communications such as email or via service agents. 
 
 **Interruption** - An interruption card as used in MOJ was decided as needed for high level changes were the impact to users would be severe. Users would be shown the message after logging in, but before the home page and need to click the call to action to indicate they have read the message.
-
+![interruption](interruption.png)
 
 
 
 **Notification** - For medium level severity changes a notification banner was used to be placed within the right context and page. For example, if the message impacted user management, then the intent was that it would only be shown in this section. 
-
+![notification message](notification.png)
 
 
 
 **‘New’ tag** - A tag was used to indicate a low level change which would not significantly impact the user but may help to highlight where a feature or field had been newly added.
-
+![new tag](new_tag.png)
 
 
 
@@ -77,12 +77,11 @@ With this feedback and in the interest of consistency in RAVs we re-styled the n
 
 
 Notification re-design
+![new notification](notification1.png)
 
-**IMAGE PALCEHOLDER**
 
 The high-level interruption card was also re-styled to be clearer and consistent with other messages.
-**IMAGE PALCEHOLDER**
+![new interruption](interruption1.png)
 
 ## Future
 We will need to continue to assess the effectiveness of these components through user-testing and also keep speaking and learning from other services within the NHS which may share a similar problem, particularly for staff facing products or services.
-**IMAGE PALCEHOLDER**
