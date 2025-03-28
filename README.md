@@ -16,29 +16,45 @@ To add a new service, there is some set up involved.
 
 You will need to create some files and folders based on the name of your service, using lowercase and hypens. For example `your-service-name`.
 
+There are two options for getting started. The instructions below are the fail-safe manual way of creating a new service
+
 You’ll need to:
 
-* create a folder for your service within `app/posts/`, for example `app/posts/your-service-name/`
-* create a folder with the same name in `app/images/`, for example `app/images/your-service-name/`
-* create a `your-service-name.json` file within `app/posts/` that adds the eleventyNavigation parent name as the name of your service (copy an existing example)
-* create a Markdown file in `app/posts/`, for example `app/posts/your-service-name.md`. Copy an existing example and update any references to match your service.
-* update `eleventy.config.js` to create a new 'collection' for your service (copy one of the existing examples)
-* update `app/_layouts/_product.njk` to list your new service in the `sections` variable
+### Manually getting started
+
+- create a folder for your service within `app/posts/`, for example `app/posts/your-service-name/`
+- create a folder with the same name in `app/images/`, for example `app/images/your-service-name/`
+- create a `your-service-name.json` file within `app/posts/` that adds the eleventyNavigation parent name as the name of your service (copy an existing example)
+- create a Markdown file in `app/posts/`, for example `app/posts/your-service-name.md`. Copy an existing example and update any references to match your service.
+- update `eleventy.config.js` to create a new 'collection' for your service (copy one of the existing examples)
+- update `app/_layouts/_product.njk` to list your new service in the `sections` variable
 
 See [Divide a design history into different sections](https://x-govuk.github.io/govuk-design-history/divide-a-design-history-into-sections/).
+
+### Scripted getting started.
+
+An alternative method is to run a script that will create a service and first post for you. It assumes you are working on a linux based system with access to bash
+
+```
+./make-design-history.sh "your service name" "Screening|Vaccinations|Healthchecks"
+```
+
+That should create some files and update some existing ones and provide you with your first entry
 
 ## Adding a new post
 
 You have two choices for adding a post:
 
-* [Add a post manually](#add-a-post-manually)
-* [Use the post generation scripts](https://x-govuk.github.io/govuk-design-history/generate-a-page-of-screenshots/)
+- [Add a post manually](#add-a-post-manually)
+- [Use the post generation scripts](https://x-govuk.github.io/govuk-design-history/generate-a-page-of-screenshots/)
 
 ### Add a post manually
 
 1. Draft your design history post - it's often easiest to do this in Sharepoint
 1. Create a new markdown file in `app/posts/[service-name]/YYYY/MM/[post-name].md`
-  * * It's often easier to duplicate an existing post as that will have the headers you need
+
+- - It's often easier to duplicate an existing post as that will have the headers you need
+
 3. Edit the post with your content - make sure it has a title, subtitle, and date
 4. If you have images, add them to a folder in `app/images/[service-name]/YYYY/MM/[post-name]/`
 5. Make a PR with your changes and get it reviewed
