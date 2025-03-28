@@ -1,44 +1,41 @@
 ---
 title: Introduction to team MAYS
+description: The purpose of the team and future vision of the Manage Your Screening service.
 date: 2025-03-25
 ---
 
 ## Opportunity
 
-Mays is working to deliver:
+We’re working to make screening easier to understand, easier to access, and easier to manage.
+Right now, the experience can feel confusing or disconnected—especially if you’re taking part in more than one screening programme. We’re changing that by:
 
-Reduced dependencies on legacy tech stacks
-
-Consistent participant experiences across all screening pathways (Participant Manager)
-
-An end-to-end orchestration process for screening programmes that can dynamically adapt to business needs (Pathway Co-ordinator)
+- Replacing outdated systems that make things harder than they need to be
+- Creating one simple, consistent journey—no matter which screening you’re invited to
+- Building a service that can adapt as your needs, or the NHS’s needs, change over time
 
 ## Hypothesis
 
-We believe that by building a Single Source of Truth for screening data we will deliver a solution that gives participants the right information, at moments that matter, in an experience that empowers them to take preventative action to improve their health.
+We believe that if your screening information is all in one place, you’ll feel more informed, more confident, and more in control of your health.
+When you know what to expect—and when—you’re better able to take action at the right time.
 
 ## Future vision
 
-MAYs will give Participants a consistent screening experience and access to screening information all in one place:
+We want you to be able to manage your entire screening journey in one place. That means:
 
-- Pathway enrolment
+- Seeing clearly when and how you joined a screening programme
+- Understanding each step along the way
+- Being able to view your past screening appointments and results
 
-- Pathway episode information
+Everything in one easy-to-use space
 
-- Pathway screening record
+## Our Starting Point
 
-## Initial approach
+We’re beginning with people invited for routine breast screening. In this first version of the service, you’ll be able to:
 
-By leveraging business events to drive screening processes MAYS will ensure a more patient-centric screening infrastructure, capable of evolving to meet future needs.
+- Learn more about your screening and how it works
+- Check when your next appointment is due
+- View a clear record of your past screening appointments
 
-In the first instance, we will allow eligible participants within routine breast screening to see:
+You’ll be able to do this through a new website called Manage Your Screening—even if you’re not logged in or using the NHS App.
 
-- relevant screening pathway content,
-
-- episode information: next due date
-
-- screening records for routine screening appointments
-
-We will do this using a standalone ‘Manage Your Screening’ website (to enable unauthenticated users to access certain functionality).
-
-We will later integrate with the NHS App as a 3rd party web integration (just like the NBS booking integration used in vaccinations currently).
+In the future, we’ll also bring this service into the NHS App, so you can choose the way that works best for you.
