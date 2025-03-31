@@ -106,5 +106,5 @@ One of many examples for this could be creating and communicating with a cohort 
 - [Cohorting as a Service (CaaS) - NHS England Digital](https://digital.nhs.uk/services/cohorting-as-a-service-caas)
 - [NHS General Practice Extraction Service (GPES) - NHS England Digital](https://digital.nhs.uk/services/general-practice-extraction-service)
 - [NHS Hospital Episode Statistics (HES) data - NHS England Digital](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics)
-- [NHS Notify – NHS England Digital](https://digital.nhs.uk/services/nhs-notify")
-- [NHS App and your NHS account – NHS](https://www.nhs.uk/nhs-app/")
+- [NHS Notify – NHS England Digital](https://digital.nhs.uk/services/nhs-notify)
+- [NHS App and your NHS account – NHS](https://www.nhs.uk/nhs-app/)
