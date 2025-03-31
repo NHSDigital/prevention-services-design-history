@@ -6,7 +6,7 @@ tags:
 - discovery
 ---
 
-As part of the Personalised Prevention Platform discovery, we examined the existing and planned NHS England technology platforms and products so we could understand what could be reused or extended, and what we might need to build from scratch.
+As part of the Personalised Prevention Platform discovery, we examined the existing and planned NHS England technology platforms and products to understand what we could reuse or extend, and what we might need to build from scratch.
 
 ## Problem statement
 
@@ -16,7 +16,7 @@ Our current problem statement has evolved over the course of discovery as we lea
 
 ## Purpose
 
-This analysis aims to give a simplified view of what NHS services, platforms and data could be available to technical solutions in the personalised prevention space.
+This analysis aims to give a simplified view of the NHS services, platforms and data that could be available to technical solutions in the personalised prevention space.
 
 We explored 4 overarching hypotheses in the Personalised Prevention Platform Discovery  However, for the purposes of technology research, we focused on these 2 hypotheses:
 1. There is a serviceable cohort of people who will proactively manage their health to reduce their need for future treatment.
@@ -30,16 +30,10 @@ In the context of this early‑stage technology research, personalised preventio
 
 ## What we explored
 
-### Understanding more about how to create people cohorts with shared characteristics and risk factors
-
 We wanted to understand what NHS England:
-- technology we can use to create, manage and enable the cohorting of people with shared characteristics
+- technology we can use to create, manage and enable the cohorting of people with shared characteristics and risk factors
 - data sets and collections we can use to create cohorts of people
 - technology we can use to communicate with cohorts of people
-
-## What we did
-
-### Research the relevant NHS technology and data landscape
 
 Our research included several NHS internal technology platforms and data sets. The main ones reviewed throughout this research are:
 1. NHS Patient Demographics Service (PDS)
@@ -49,11 +43,13 @@ Our research included several NHS internal technology platforms and data sets. T
 5. NHS Notify
 6. NHS App
 
-#### What NHS England technology we can use to create, manage and enable the cohorting of people with shared characteristics
+## What the current technology and data landscape looks like
 
-The conclusion is that we can use the NHS Cohorting as a Service (CaaS) platform to create and manage cohorts of people for national campaigns.
+### NHS England technology we can use to create, manage and enable the cohorting of people with shared characteristics
 
-#### What NHS England data sets and collections we can use to create cohorts of people
+We can use the NHS Cohorting as a Service (CaaS) platform to create and manage cohorts of people for national campaigns.
+
+### NHS England data sets and collections we can use to create cohorts of people
 
 CaaS currently has access to several data services, sets and collections that can allow the creation of patient cohorts:
 - Personal Demographics Service (PDS)
@@ -62,9 +58,9 @@ CaaS currently has access to several data services, sets and collections that ca
 - Systemic Anti-Cancer Therapy (SACT)
 - Radiotherapy Treatment Data Set (RTDS)
 
-#### What NHS England technology we can use to communicate with cohorts of people
+### NHS England technology we can use to communicate with cohorts of people
 
-The conclusion is that we can use the NHS Notify platform to communicate with cohorts of people for national campaigns. This is because NHS Notify:
+We can use the NHS Notify platform to communicate with cohorts of people for national campaigns. This is because NHS Notify:
 
 - is a national level strategic platform for messaging and communicating with citizens via SMS messages, emails, NHS App messages, and even physical letters.
 - can easily integrate with CaaS and therefore use it to communicate with cohorts of people created by the latter.
@@ -72,22 +68,20 @@ The conclusion is that we can use the NHS Notify platform to communicate with co
 
 ## What we learned
 
-### We can already create people cohorts with shared characteristics and risk factors
+We can already create people cohorts with shared characteristics and risk factors.
 
-The following would still need to be approved by the NHS Information Governance and Clinical teams.
-
-There is a healthy level of maturity in the technology that allows us to define cohorts of people with shared characteristics and risk factors. CaaS, combined with a range of tools and technologies already used for immunisation campaigns, could be reused to create campaigns with a focus on personalised prevention.
+There is a healthy level of maturity in the technology that allows us to define cohorts of people with shared characteristics and risk factors. We could reuse CaaS, combined with a range of tools and technologies already used for immunisation campaigns, to create campaigns with a focus on personalised prevention.
 
 The key considerations are:
 
-1.  NHS CaaS and NHS Notify are live, and already supporting the rollout of campaigns for prevention (for example Immunisations).
-2. NHS Data sets and collections are ready and available through CaaS, but subject to NHS Information Governance, Legal and Clinical engagement and approval.
+1.  NHS CaaS and NHS Notify are live, and already supporting the rollout of prevention campaigns (for example Immunisations).
+2. NHS data sets and collections are ready and available through CaaS, but subject to NHS Information Governance, Legal and Clinical engagement and approval.
 
 ## What we are doing next
 
-If we want to create people cohorts with shared characteristics and risk factors. The next steps are well defined given, the high level of maturity of CaaS and its pre‑existing integrations to other national platforms (for example NHS Notify).
+If we want to create people cohorts with shared characteristics and risk factors, the next steps are well defined given the high level of maturity of CaaS and its pre‑existing integrations to other national platforms (for example NHS Notify).
 
-The following is needed to create new citizen or patient cohorts for prevention campaigns:
+To create new citizen or patient cohorts for prevention campaigns, we need to:
 1. Refine the scope of the proposed cohorts and the data requirements.
 2. Formally engage all relevant NHS platforms teams (including CaaS).
 3. Secure and make funding available for all the required activities.
@@ -96,9 +90,9 @@ The following is needed to create new citizen or patient cohorts for prevention 
 6. Complete clinical assurance of the proposed cohorts.
 7. Create, test and assure the proposed cohorts.
 
-## What opportunities does this offer?
+## Opportunities this offers
 
-Subject to NHS Information Governance and Clinical approval, the technologies and data researched can enable opportunities to create cohorts of people with shared characteristics and risk factors.
+Subject to NHS Information Governance and Clinical approval, the technologies and data researched can help us create cohorts of people with shared characteristics and risk factors.
 
 One of many examples for this could be creating and communicating with a cohort of people who lack knowledge and are under‑represented in accessing mental health services and resources. The cohort could be created based on one or more of these attributes:
 - age
@@ -108,8 +102,8 @@ One of many examples for this could be creating and communicating with a cohort 
 
 ## Further information
 
-- [Personal Demographics Service - NHS England Digital](https://digital.nhs.uk/services/personal-demographics-service")
-- [Cohorting as a Service (CaaS) - NHS England Digital](https://digital.nhs.uk/services/cohorting-as-a-service-caas")
+- [Personal Demographics Service - NHS England Digital](https://digital.nhs.uk/services/personal-demographics-service)
+- [Cohorting as a Service (CaaS) - NHS England Digital](https://digital.nhs.uk/services/cohorting-as-a-service-caas)
 - [NHS General Practice Extraction Service (GPES) - NHS England Digital](https://digital.nhs.uk/services/general-practice-extraction-service)
 - [NHS Hospital Episode Statistics (HES) data - NHS England Digital](https://digital.nhs.uk/data-and-information/data-tools-and-services/data-services/hospital-episode-statistics)
 - [NHS Notify – NHS England Digital](https://digital.nhs.uk/services/nhs-notify")
