@@ -85,9 +85,7 @@ The key considerations are:
 
 ## What we are doing next
 
-### If we want to create people cohorts with shared characteristics and risk factors
-
-The next steps are well defined given the high level of maturity of CaaS and its pre‑existing integrations to other national platforms (for example NHS Notify).
+If we want to create people cohorts with shared characteristics and risk factors. The next steps are well defined given, the high level of maturity of CaaS and its pre‑existing integrations to other national platforms (for example NHS Notify).
 
 The following is needed to create new citizen or patient cohorts for prevention campaigns:
 1. Refine the scope of the proposed cohorts and the data requirements.
