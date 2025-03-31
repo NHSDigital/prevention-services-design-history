@@ -6,12 +6,12 @@ date: 2025-03-20
 tags:
 ---
 
-To achieve the government goal of a smoke-free Britain by 2030, populations with increasing dependence need access to smoking treatment services which meets their needs. 
+To achieve the government goal of a smoke-free Britain by 2030, populations with increasing dependence need access to smoking treatment services which meets their needs.
 
-Currently, people who want to stop smoking tobacco can use: 
-- in-person NHSE services via routes like their pharmacy or GP 
-- digital apps 
-- work out a plan on their own 
+Currently, people who want to stop smoking tobacco can use:
+- in-person NHSE services via routes like their pharmacy or GP
+- digital apps
+- work out a plan on their own
 
 People who want more guided support but cannot access in-person services for any reason do not have an NHSE digital service to use.
 
@@ -19,17 +19,17 @@ Availability of tobacco treatment services is not consistent across the country 
 
 A third of surveyed local authorities (33%) did not commission a universal service to help people stop smoking in 2022 (latest available data).
 
-Local Authority tobacco treatment services are mostly delivered face-to-face, which is harder for people who work shifts or travel for their work to access. These services are mostly accessed by the middle-to-older age groups, and fewer men accessing from younger age groups than women. 
+Local Authority tobacco treatment services are mostly delivered face-to-face, which is harder for people who work shifts or travel for their work to access. These services are mostly accessed by the middle-to-older age groups, and fewer men accessing from younger age groups than women.
 
 Evidence from the national digital weight management service shows that digital services can engage more deprived populations and fill gaps in provision. This evidence comes from increased access and engagement rates across all indices of multiple deprivation (IMD) bands (measure of relative deprivation for small, fixed geographic areas of the UK).
 
 ## Aim
 
-To create a digital pathway for tobacco cessation that helps people quit smoking while accessing the support they need, with a particular focus on those currently underserved by in-person services. 
+To create a digital pathway for tobacco cessation that helps people quit smoking while accessing the support they need, with a particular focus on those currently underserved by in-person services.
 
-## Our proposed approach
+## Our approach
 
-The service launch is broken into two phases:
+The service launch is split into two phases:
 
 Phase 1: Providing NHS Staff with access to digital support services via two external service providers, which will help us understand the efficacy of incentive-based models (models where providers are paid based on milestones reached by service users) and begin to evaluate the benefits of digital pathways.
 
@@ -45,18 +45,22 @@ Our planned research activity would allow us to:
 
 Our research and design activities focused on leveraging existing data and conducting interviews with stakeholders to ensure we have a strong foundational knowledge of the existing service, before conducting primary research.
 
-Our understanding of the Digital Tobacco Treatment (DTT) service was informed by conversations with: 
+Our understanding of the Digital Tobacco Treatment (DTT) service was informed by conversations with:
 - DTT team – collaborating with the tobacco team to understand the service proposition and map the end-to-end user journey
 - Service providers – to understand the service from the perspective of those providing it, visualising each step a user goes through when using the service
-- National Voices – drawing on insights from adjacent research, which focused on user experience when attempting to stop smoking with one of our service providers 
+- National Voices – drawing on insights from adjacent research, which focused on user experience when attempting to stop smoking with one of our service providers
 
-For both phases, we created user journeys and service maps which highlight the steps that will need to be taken by NHS Staff, NHSE colleagues and service providers for each of the phases to work seamlessly and help us ensure our research plan will validate or test key areas for discovery. The user journey maps can be seen in more detail via this link. This image contains the user journey maps of both Phases 1 and 2. There is a link provided to see the maps in a more navigable format. 
+For both phases, we created user journeys and service maps which highlight the steps that will need to be taken by NHS Staff, NHSE colleagues and service providers for each of the phases to work seamlessly and help us ensure our research plan will validate or test key areas for discovery.
+
+![The user journey maps phases 1 and 2. There is a link provided to see the maps in a more navigable format.](user-journeys.png)
+
+[See the user journey map in Mural (needs an HSCIC account)](https://app.mural.co/t/nhsdigital8118/m/nhsdigital8118/1738339722878/729c1da461b58b6d192ffc44cb060c547424ed0f).
 
 After the first and second phase, there will be further iteration to the service to make sure we meet the desired outcomes for tobacco cessation.
 
 ## Core elements of the current and future service vision
 
-We mapped the core elements of phase 1 and 2 against what a service for members of the public would need. 
+We mapped the core elements of phase 1 and 2 against what a service for members of the public would need.
 
 The core elements we focused on were:
 - who this service will ultimately serve
@@ -65,19 +69,15 @@ The core elements we focused on were:
 - the scope of the work (for example tobacco or tobacco and nicotine)
 - integration with wider NHSE services
 
-By having this articulated, we can let the research and insights guide us to how we should adapt the current service to meet this vision going forward 
+By having this articulated, we can let the research and insights guide us to how we should adapt the current service to meet this vision going forward.
 
 ### Current vision:
 
-This image shows six scales which relate to core elements of the current service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. 
-
-The aim is for this image to be compared with the future service vision to understand the differences between the two.
+![This image shows six scales which relate to core elements of the current service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the future service vision to understand the differences between the two.](current-service-vision.png)
 
 ### Future vision:
 
-This image shows six scales which relate to core elements of the future service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. 
-
-The aim is for this image to be compared with the current service vision to understand the differences between the two.
+![This image shows six scales which relate to core elements of the future service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the current service vision to understand the differences between the two.](future-service-vision.png)
 
 ## What is the future work?
 
@@ -93,9 +93,9 @@ Qualitative research
 
 Design and development
 - translate research insights into an evidence-led approach
-- shape the future service with user needs at its core 
+- shape the future service with user needs at its core
 
-We prepared the following research materials, so that when phase 1 begins, user research can take place as soon as possible. 
+We prepared the following research materials, so that when phase 1 begins, user research can take place as soon as possible.
 
 User surveys:
 - with NHS staff using the service (key insights into their experience)
@@ -140,4 +140,4 @@ We ask TDAs about:
 
 ## What happened next?
 
-Unfortunately, this work has been indefinitely paused because of the latest spending review. This work is a critical element of preventative services as a reduction of smokers across England reduces future burden on NHS services. So, this work can be picked up again we packaged our findings into a Confluence index and developed a plan for future development. This allowed us to reflect on our progress and provide a foundation for any teams that may take on the work in the future. 
+Unfortunately, this work has been indefinitely paused because of the latest spending review. This work is a critical element of preventative services as a reduction of smokers across England reduces future burden on NHS services. So, this work can be picked up again we packaged our findings into a [Confluence index](https://nhsd-confluence.digital.nhs.uk/display/PPP/Tobacco+Alpha) and developed a plan for future development. This allowed us to reflect on our progress and provide a foundation for any teams that may take on the work in the future.
