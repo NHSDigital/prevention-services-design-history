@@ -1,5 +1,5 @@
 ---
-title: Introduction to team MAYS
+title: Introduction to team Manage Your Screening (MAYS)
 description: The purpose of the team and future vision of the Manage Your Screening service.
 date: 2025-03-25
 ---
@@ -28,7 +28,7 @@ We want you to be able to manage your entire screening journey in one place. Tha
 
 Everything in one easy-to-use space
 
-## Our Starting Point
+## Our starting point
 
 We’re beginning with people invited for routine breast screening. In this first version of the service, you’ll be able to:
 
