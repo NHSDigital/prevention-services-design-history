@@ -10,9 +10,9 @@ As part of the Personalised Prevention Platform discovery, we examined the exist
 
 ## Problem statement
 
-We need to understand the availability and readiness of the NHS platforms and data we could use to identify and select people with certain characteristics and risk factors.
+> We need to understand the availability and readiness of the NHS platforms and data we could use to identify and select people with certain characteristics and risk factors.
 
-Our current problem statement will continue to evolve over the course of discovery and alpha as we learn more about the problem we are trying to understand, and the hypotheses we are aiming to prove or disprove.
+Our current problem statement has evolved over the course of discovery as we learned more about the problem we were trying to understand. It may change as we learn more in the alpha.
 
 ## Purpose
 
@@ -64,13 +64,11 @@ CaaS currently has access to several data services, sets and collections that ca
 
 #### What NHS England technology we can use to communicate with cohorts of people
 
-The conclusion is that we can use the NHS Notify platform to communicate with cohorts of people for national campaigns. This is because:
+The conclusion is that we can use the NHS Notify platform to communicate with cohorts of people for national campaigns. This is because NHS Notify:
 
-NHS Notify is a national level strategic platform for messaging and communicating with citizens via SMS messages, emails, NHS App messages, and even physical letters.
-
-It can easily integrate with CaaS and therefore use it to communicate with cohorts of people created by the latter.
-
-It can also easily integrate with the NHS App, to send messages directly to its users. These messages can appear in the NHS App inbox and are accompanied by push notifications, such as banner or badge alerts, to ensure recipients are aware of new communications.
+- is a national level strategic platform for messaging and communicating with citizens via SMS messages, emails, NHS App messages, and even physical letters.
+- can easily integrate with CaaS and therefore use it to communicate with cohorts of people created by the latter.
+- can also easily integrate with the NHS App, to send messages directly to its users. These messages can appear in the NHS App inbox and are accompanied by push notifications, such as banner or badge alerts, to ensure recipients are aware of new communications.
 
 ## What we learned
 
@@ -91,18 +89,18 @@ The key considerations are:
 
 The next steps are well defined given the high level of maturity of CaaS and its pre‑existing integrations to other national platforms (for example NHS Notify).
 
-1. The following is needed to create new citizen or patient cohorts for prevention campaigns:
-2. Refine the scope of the proposed cohorts and the data requirements.
-3. Formally engage all relevant NHS platforms teams (including CaaS).
-4. Secure and make funding available for all the required activities.
-5. Agree the legal basis for accessing and using the required data.
-6. Complete Information Governance (IG) activities resulting in an approved Data Protection Impact Assessment (DPIA).
-7. Complete clinical assurance of the proposed cohorts.
-8. Create, test and assure the proposed cohorts.
+The following is needed to create new citizen or patient cohorts for prevention campaigns:
+1. Refine the scope of the proposed cohorts and the data requirements.
+2. Formally engage all relevant NHS platforms teams (including CaaS).
+3. Secure and make funding available for all the required activities.
+4. Agree the legal basis for accessing and using the required data.
+5. Complete Information Governance (IG) activities resulting in an approved Data Protection Impact Assessment (DPIA).
+6. Complete clinical assurance of the proposed cohorts.
+7. Create, test and assure the proposed cohorts.
 
 ## What opportunities does this offer?
 
-Important – Subject to NHS Information Governance and Clinical approval, the technologies and data researched can enable opportunities to create cohorts of people with shared characteristics and risk factors.
+Subject to NHS Information Governance and Clinical approval, the technologies and data researched can enable opportunities to create cohorts of people with shared characteristics and risk factors.
 
 One of many examples for this could be creating and communicating with a cohort of people who lack knowledge and are under‑represented in accessing mental health services and resources. The cohort could be created based on one or more of these attributes:
 - age
