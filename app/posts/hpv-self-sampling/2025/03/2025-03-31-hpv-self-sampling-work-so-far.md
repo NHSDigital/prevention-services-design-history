@@ -209,7 +209,7 @@ Based on this our hypotheses for this round of research were:​
 11. Many participants said they would be happy to click a link in a text message, however, if the link needed to be copy and pasted – they would be less likely to engage with it.
 12. A forewarning of the invite would be useful for participants who felt the invite was out of the blue and would help with trust – this could act as a sort of GP endorsement which we know works well in bowel screening, creating more trust of links. 
 
-**What's next:**
+**What's next**
 
 - Iterate content to better align with user needs and ensure clarity. Insights from the research have guided refinements in language, structure, and tone to improve understanding and engagement.​
 - Conduct content concept testing to assess how users respond to different messaging approaches​
