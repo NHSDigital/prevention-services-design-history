@@ -1,5 +1,5 @@
 ---
-title: HPV Self-Sampling - Design work so far
+title: Design work so far
 description: This is a recap of what our design team has done in Q3/Q4 2024-25.
 date: 2025-03-31
 tags:
