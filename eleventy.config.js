@@ -69,6 +69,10 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/bowel-screening/**/*.md')
   })
 
+  eleventyConfig.addCollection('hpv-self-sampling', collection => {
+    return collection.getFilteredByGlob('app/posts/hpv-self-sampling/**/*.md')
+  })
+
   // Vaccination collections
    eleventyConfig.addCollection('book-a-vaccination', collection => {
     return collection.getFilteredByGlob('app/posts/book-a-vaccination/**/*.md')
