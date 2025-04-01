@@ -9,6 +9,7 @@ tags:
   - workshops
 ---
 
+This post summarises what the HPV Self-Sampling service is about, going into some detail about the design and research work that has been done between November 2024 - March 2025. Artefacts from Mural, Sharepoint or Figma that are mentioned will be linked. 
 
 ## Overview of HPV Self-Sampling
 
@@ -146,7 +147,7 @@ The invitation message and the start page had different content so we could test
 
 ![](Slide29.jpg)
 
-**Design findings and decisions made based on the unmoderated research findings:**
+**Design findings and decisions made based on the unmoderated research findings**
 
 1. There needs to be content about the age eligibility to ensure people of their own eligibility.
 2. The invitation message needs to clearly address why a person has been invited. Futher research is needed to better understand how to make the invite more personalised so that the "why" is clearer and what specific content is needed to reinforce that "why" behind they have been invited. 
@@ -163,12 +164,12 @@ The invitation message and the start page had different content so we could test
 
 With this round of research, we focused solely on Invitation content, to better understand which content users engage with and why.  ​
 
-**Research aims:​**
+**Research aims**
 
 - To better understand user needs for an invitation to take part in HPV self-sampling​
 - To engage with a more diverse participant pool, including non-responders to cervical screening and understand preferences on being invited to take part in HPV self-sampling.​
 
-**Hypotheses:​**
+**Hypotheses​**
 
 Research conducted by the CSMS team showed users better engaged with invitations via SMS in comparison to other invite content options, trusting the tone and links over those in email invite.​
 
@@ -179,7 +180,7 @@ Based on this our hypotheses for this round of research were:​
 
 ![Screenshot of slides describing the methodology for the pop-up research](methodologypopup.png)
 
-**What did we test:​**
+**What did we test​**
 
 - Version 1 of NHS App message invite
 
@@ -191,7 +192,7 @@ Based on this our hypotheses for this round of research were:​
 
 ![](messagestested.png)
 
-**Design findings and decisions made based on the unmoderated research findings:**
+**Design findings and decisions made based on the unmoderated research findings**
 
 1. There are a few content decisions we had made that tested well.
 
@@ -217,7 +218,7 @@ Based on this our hypotheses for this round of research were:​
 - A/B testing on invite content to determine which version drives higher participation and resonates best with users.​
 - Accessibility testing, to better understand how longer content performs
 
-**Considerations:**
+**Considerations**
 
 - On the 21st March, a decision to use the NHS App as the front door for the service. This means we have to rework our user journeys and flows to identify all the scenarios involving the NHS App on web and mobile. 
 - Pre-election period between 10th April - 2nd May will delay the next usability testing.

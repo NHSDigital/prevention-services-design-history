@@ -1,5 +1,5 @@
 ---
-title: HPV Self-Sampling - Digital service context
+title: Digital service context and background
 description: Setting the context for the discovery and alpha phases of the HPV Self-Sampling service
 date: 2025-03-31
 tags:
@@ -7,8 +7,7 @@ tags:
   - hpv self sampling
   - nhs ambitions
 ---
-
-
+This post explains the background and context for HPV Self-Sampling and the ambitions and vision the NHS has for cervical screening uptake and inclusion of under-served groups. 
 
 ## Project background
 
