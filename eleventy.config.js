@@ -65,8 +65,12 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/manage-breast-screening/**/*.md')
   })
 
-  eleventyConfig.addCollection('bowel-screening', collection => {
-    return collection.getFilteredByGlob('app/posts/bowel-screening/**/*.md')
+  eleventyConfig.addCollection("bowel-screening", (collection) => {
+    return collection.getFilteredByGlob("app/posts/bowel-screening/**/*.md")
+  })
+
+  eleventyConfig.addCollection("manage-your-screening", (collection) => {
+    return collection.getFilteredByGlob("app/posts/manage-your-screening/**/*.md")
   })
 
   eleventyConfig.addCollection('hpv-self-sampling', collection => {
@@ -80,7 +84,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addCollection('manage-your-appointments', collection => {
     return collection.getFilteredByGlob('app/posts/manage-your-appointments/**/*.md')
-  })  
+  })
 
  eleventyConfig.addCollection('record-a-vaccination', collection => {
     return collection.getFilteredByGlob('app/posts/record-a-vaccination/**/*.md')
