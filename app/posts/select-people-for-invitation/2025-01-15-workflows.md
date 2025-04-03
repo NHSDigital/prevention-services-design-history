@@ -1,5 +1,5 @@
 ---
-title: Workflows part 1 
+title: Exploring how checking and approval workflows could work 
 description: Looking beyond MVP
 date: 2025-01-15
 tags:
@@ -8,7 +8,7 @@ tags:
   - service design
 ---
 
-The current version of SPI is just beyond Minimum Viable Product (MVP). The very high-level (and rough) service map below shows the extent of the SPI front end currently, in the context of the wider end-to-end service (click the image for a bigger version): 
+The current version of the Select people for invitation (SPI) service is just beyond Minimum Viable Product (MVP). The very high-level (and rough) service map below shows the extent of the SPI front end currently, in the context of the wider end-to-end service (click the image for a bigger version): 
 
 [![high level service map of SPI](workflows-1.png)](workflows-1.png)
 
@@ -52,7 +52,13 @@ This is consistent with current ways of working (outside SPI), where there is a 
 
 These principles align with our product metrics for Q4 2024/25:
 
-[![Metrics of safety, accuracy, robustness, auditability and reliability](workflows-3.png)](workflows-3.png)
+| Theme      | Metric for success |
+| ----------- | ----------- |
+| Safety     | Does this reduce risk, simplify things or make something easier to do or understand?       |
+| Accuracy   | Does this reduce the number of errors produced between business rules and configuration files? Does this help enable the right person to be invited at the right time with the correct invitation?        |
+| Robustness   | Is SPI readily available and responsive when needed by users?        |
+| Auditability   | Does this allow for better auditability to track who made changes, with appropriate safe-guards to prevent duplication and unintended harm?         |
+| Reliability   | Consistently performs across multiple vaccination types when required, and enables the user to safely and accurately select the right person at the right time and send them the right invitation.        |
 
 We highlighted (in blue in the whiteboard photo), the features that don't yet exist in SPI which would be required to enable the desired approval workflows. This allowed us to create a number of Epics in the backlog and start to consider how we might break the work down.
 
