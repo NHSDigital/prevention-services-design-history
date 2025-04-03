@@ -40,13 +40,15 @@ This allowed us to agree 3 principles for the approval workflows in SPI:
 
 ### 1. Iteration configurations should be approved before they are submitted to the Invitation Processor
 	
-This is in part because of the procesing time and cost overhead. We want to minimise processing by ensuring we get the configuration right first time
+This is in part because of the procesing time and cost overhead. We want to minimise processing by ensuring we get the configuration right first time.
 	
 ### 2. Summary reports must be approved before we allow the release of the invitations via NHS Notify
+
 This is to ensure accuracy, have we set up the configuration as intended – is it providing the expected output?
 	
 ### 3. A user should not be able to approve an iteration configuration they created, or be the sole approver of the resulting summary report
-This is consistent with current ways of working (outside SPI), where there is a peer review of the configuration and the summary report is checked by a number of people 
+
+This is consistent with current ways of working (outside SPI), where there is a peer review of the configuration and the summary report is checked by a number of people.
 
 These principles align with our product metrics for Q4 2024/25:
 
