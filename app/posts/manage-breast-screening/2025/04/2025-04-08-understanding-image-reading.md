@@ -33,7 +33,7 @@ If the 2 readers disagree, then the case will go to ‘arbitration‘ or ‘cons
 
 If both agree abnormalities are present, then the participant will be asked back to the breast screening unit for further tests. This is known as ‘assessment’. Some units will take these to arbitration first.
 
-Two additional outcomes can occur:
+2 additional outcomes can occur:
 
 * **Technical recall**: If image quality issues prevent proper interpretation, the participant is asked back for new mammograms
 * **Clinical recall**: If the participant reported significant symptoms during screening, they may be recalled for assessment regardless of the mammogram findings
