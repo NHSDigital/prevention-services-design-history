@@ -25,7 +25,7 @@ The exact process varies by breast screening unit, but the general workflow is:
 3. **Second read**: A different reader examines the same images
 4. **Results comparison**: The system compares the two readings
 
-Many units use 'blind reading' where the second reader doesn't see the first reader's opinion, but this practice isn't universal across all screening units.
+Many units use ‘blind reading’ where the second reader doesn’t see the first reader’s opinion, but this practice isn’t universal across all screening units.
 
 If both readers agree the images do not show any abnormalities, then the participant is classed as 'routine recall' and will be told their results are normal. This is the most common result and happens about 90% of the time.
 
