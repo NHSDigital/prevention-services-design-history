@@ -9,7 +9,7 @@ tags:
   - workshops
 ---
 
-This post summarises what the HPV Self-Sampling service is about, going into some detail about the design and research work that has been done between November 2024 - March 2025. Artefacts from Mural, Sharepoint or Figma that are mentioned will be linked. 
+This post summarises what the HPV Self-Sampling service is about, going into some detail about the design and research work that has been done between November 2024 - March 2025. 
 
 ## Overview of HPV Self-Sampling
 
@@ -51,12 +51,7 @@ After the success of the YouScreen pilot in London that enabled people to comple
 
 - The self-sampling intervention resulted in a 22% increase in non-attenders screened per month​
 
-​
-NHS London team are due to restart this pilot in summer 2025, trialing the opportunistic offering with a larger cohort across London practices. Their kit will be used in a clinical setting.
-
 [The research findings from the YouScreen Nov 2021 Pilot](https://www.thelancet.com/journals/eclinm/article/PIIS2589-5370(24)00251-7/fulltext)
-
-
 
 ### What our team will explore during Alpha
 
@@ -64,63 +59,37 @@ The below demonstrates the proposed high-level service we will be exploring thro
 
 ![Simplified service journey](simplifiedjourney.png)
 
-[The detailed service blueprint can be found here](https://app.mural.co/t/nhsdigital8118/m/nhsdigital8118/1734623454017/b17b3e3374bdaf6356393225ff24d1c427d58587)
-​
-
 ### Timelines
 
 This is subject to change based on UKNSC decisions and dependencies on procurement of the kit provier, lab logistics and technical development.
-
-![Slide screenshot of timelines for the HPV SS project](timelines.png)
-
 ​
 ## Service design and research activities so far
 Time period: November 2024 - March 2025
 
-**Key workshops ran:**
+In the past 6 months, we have completed an extensive review of existing medical journals, case studies, articles and more, to understand the ecosystem of cervical screening and barriers people have related to attending these appointments. We have compiled everything into a seconday research report. We have also ran various stakeholder workshops and worked on artefacts for:
 
-- Internal service design workshop (November 2024)​ - [8th November Workshop write-up](https://nhs.sharepoint.com/:p:/r/sites/X26_SSD/screen/PMO/CSMS/02.%20Delivery/Product/HPV%20Self-Sampling%20(CRM)/Workshops/Workshop%20write-up_8th%20November%202024.pptx?d=we1d04815bc9b45f899c553e72584ed49&csf=1&web=1&e=ZDRgVy)
-- Defining the service design phases with V&S stakeholders (December 2024)​ - [3rd December Workshop write-up](https://nhs.sharepoint.com/:p:/r/sites/X26_SSD/screen/PMO/CSMS/02.%20Delivery/Product/HPV%20Self-Sampling%20(CRM)/Workshops/Workshop%20write-up_3rd%20December%202024.pptx?d=wae1615b943d34466bdea5b06fad56f16&csf=1&web=1&e=V8JTMi)
-- Notifications and messaging workshop (December 2024)​ - [4th December Workshop write-up](https://nhs.sharepoint.com/:p:/r/sites/X26_SSD/screen/PMO/CSMS/02.%20Delivery/Product/HPV%20Self-Sampling%20(CRM)/Workshops/Workshop%20write-up_4th%20December%202024.pptx?d=w08e53c9bf6784f17a7154f33d8f121b7&csf=1&web=1&e=v9yRL4)
-- Service design x technical considerations working sessions​
-- Clinical considerations with NHS App and Screening clinical teams (January 2025)​ - [21st Jan Workshop write-up](https://nhs.sharepoint.com/:p:/r/sites/X26_SSD/screen/PMO/CSMS/02.%20Delivery/Product/HPV%20Self-Sampling%20(CRM)/Workshops/Workshop%20write-up_21st%20Jan%202025.pptx?d=w9091d243f98446b49cb530a3e4774e9c&csf=1&web=1&e=lh1gif)
-- Content strategy workshop with V&S stakeholders and NHS App + NHS.UK (29th Jan)​ - [29th Jan Workshop write-up](https://nhs.sharepoint.com/:p:/r/sites/X26_SSD/screen/PMO/CSMS/02.%20Delivery/Product/HPV%20Self-Sampling%20(CRM)/Workshops/Workshop%20write-up_Morning%2029th%20Jan%202025.pptx?d=w68743dfe1c1547a8a88ae85b357972e1&csf=1&web=1&e=GqOu0c)
-- London Opportunistic Offering team collaboration session (29th Jan)
-
-**Key artefacts created so far:**
-
-- [Extensive Secondary research pack​](https://nhs-my.sharepoint.com/:p:/g/personal/ellie_milne1_nhs_net/EWd8-yJn19ZKhKYq1ihXPOsB7YT4UP0lrjMktQjptOzmdA?e=XpMNOU)
-- [Market research and benchmarking​](https://app.mural.co/t/nhsdigital8118/m/nhsdigital8118/1729853470288/f816d7d07eb2c0a04154b7add69c6ce785915d3b?sender=u6c791d975632f39bdf923204)
-- [User demographics matrix​](https://nhsd-confluence.digital.nhs.uk/x/YQTENw)
-- [Hypotheses and risky assumptions documentation​](https://nhsd-confluence.digital.nhs.uk/x/BnUXNw)
-- [WIP Service blueprints​](https://app.mural.co/t/nhsdigital8118/m/nhsdigital8118/1734623454017/b17b3e3374bdaf6356393225ff24d1c427d58587)
+- Market research and benchmarking
+- User demographics matrix
+- Hypotheses and risky assumptions documentation​
+- WIP Service blueprints
 - Experience Based Maps with OKRs​
 - Process flows and high-level user flows​
 - Unhappy paths mapping and prioritisation
-- [COM-B model for behavioural change strategy](https://nhs.sharepoint.com/:p:/s/X26_SSD/screen/EdfCMcinMERBkczdSpj0FTgBByudTI-uD00vlHWnrCDdTA?e=9VJ2kw)
+- COM-B model for behavioural change strategy
+
 
 **Research done so far:**
 
 - 1 Qualtrics surveys sent out to NHS App panel
      - Aim: To understand user needs surrounding HPV self-sampling and how personalisation within the NHS App, could be used to drive uptake and awareness of HPV self-sampling, alongside traditional cervical screening.
      - 240 participant responses 
-     - [October 2024 survey deck](https://nhs.sharepoint.com/:p:/s/CitizenExperience1/EcE9M0hdx0BJnQ9wkNVKhq8BebKIh__rrNPEhZna3EYdhg?e=uLk9oa)
 - 1 Qualtrics survey sent out to Lived Experience panel and Citizens Panel
      - Aim: To gather more information on how much users understand about HPV in the context of cervical screening, preferences for receiving inivtations and messages about the service and explore user motivations
      - 391 participant responses
-     - [January 2025 survey deck](https://nhs.sharepoint.com/:p:/s/CitizenExperience1/EWrRRI9IfmZMmurKrf0K6LkBCO0mo6aEZgfOvUMuXu08Qg?e=5nYQhc)
 - 1 unmoderated research study with 32 participants
 - 1 pop-up research study with 27 participants across 5 locations in Leeds
 
 ### What we have learned so far and design decisions
-
-![](Slide18.jpg)
-![](Slide19.jpg)
-![](Slide20.jpg)
-![](Slide21.jpg)
-![](Slide22.jpg)
-![](Slide23.jpg)
-![](Slide24.jpg)
 
 #### First iteration of design
 
@@ -133,31 +102,11 @@ In the first iteration, we explored:
 - Brainstormed all the content we may have to write for this service
 
 ![](Slide26.jpg)
-![](contenttowrite.png)
-![](userflow1.png)
 
-#### Unmoderated research study - February 2025
-
-In this study, we tested 2 journeys: 
-1. One that started with an NHS App message, that would then take the user to a mobile browser view of an NHS.UK website with the ordering journey
-
-2. One that started with an email, in a desktop client, that would then take the user to a web browser view of an NHS.UK website with the ordering journey
-
-The invitation message and the start page had different content so we could test which version addresses the needs of users better.
-
-![](Slide29.jpg)
 
 **Design findings and decisions made based on the unmoderated research findings**
 
-1. There needs to be content about the age eligibility to ensure people of their own eligibility.
-2. The invitation message needs to clearly address why a person has been invited. Futher research is needed to better understand how to make the invite more personalised so that the "why" is clearer and what specific content is needed to reinforce that "why" behind they have been invited. 
-3. If technically feasible, we should display the registerd address from PDS we have on the user. Most participants felt that the NHS should have their addresss on file so they do not have to re-enter this information. It was also not clear that they can choose **any** address, even one that is not their place of residence. For those that were clearer on the fact they could enter an alternative address, they thought this would be updating their address on the system too. Content to making these aspects more explicit will be needed.
-4. Explore including an order reference number and the address of delivery on the confirmation page as that matches the user's mental models better. Futher content and usability testing on the confirmation page, notifications and specific updates on this will be needed to get the balance between the right content on sceen and which pieces of information users prefer to follow and which channels. 
-5. Signpost to traditional cervical screening as an option that is still available to them. This seems to comfort people and to assure them that the NHS is not taking that service away from them.
-6. Clearer content around results. Further testing will be needed to get the balance of how much information users will find helpful in regards to how long different parts of the process take such as the swabbing, how long it usually takes a kit to arrive to the lab and in particular results, how long it takes to receive them and how will they receive them.
-
-
-
+To improve the user experience in screening programs, content should clearly communicate age eligibility and the reason for the invitation, ideally in a personalized way. If possible, pre-filling addresses from NHS records could reduce confusion and effort, while clarifying that any delivery address is acceptable and not system-updating. Confirmation pages could benefit from showing an order reference and delivery address, aligning with user expectations. Clear signposting to traditional screening options reassures users, and additional detail about timelines and results can help manage expectations across the process.
 
 
 #### Pop-up research study - March 2025
@@ -169,17 +118,6 @@ With this round of research, we focused solely on Invitation content, to better 
 - To better understand user needs for an invitation to take part in HPV self-sampling​
 - To engage with a more diverse participant pool, including non-responders to cervical screening and understand preferences on being invited to take part in HPV self-sampling.​
 
-**Hypotheses​**
-
-Research conducted by the CSMS team showed users better engaged with invitations via SMS in comparison to other invite content options, trusting the tone and links over those in email invite.​
-
-Based on this our hypotheses for this round of research were:​
-
-- Including specific information on cervical screening overdue status will mean users are more likely to continue with the journey as they will feel a greater sense of trust that the NHS knows their medical history, and the invite is for them. ​
-- Adding specific content on how the self-sampling kit works and that it does not involve reaching the cervix will mean greater uptake of as users will feel reassured this is something they are able to do themselves.​
-
-![Screenshot of slides describing the methodology for the pop-up research](methodologypopup.png)
-
 **What did we test​**
 
 - Version 1 of NHS App message invite
@@ -190,25 +128,9 @@ Based on this our hypotheses for this round of research were:​
 
 - SMS invite
 
-![](messagestested.png)
-
 **Design findings and decisions made based on the unmoderated research findings**
 
-1. There are a few content decisions we had made that tested well.
-
-![](testedwell.png)
-
-2. Participants did not initially understand how HPV fits into traditional cervical screening. Using the non-abbreviated human papillomavirus first gives people a better sense of what HPV is, especially when followed up with further info about being overdue for traditional cervical screening as this makes the link between the two stronger.​
-3. There is a need for supporting content to help drive home what HPV is and why it is being tested for. This could be supported by a visual diagram for people who learn in different ways.
-4. Some aspects of the invitation and next steps of the process are not clear. Although there is content on how results will arrive (by post) in the email invite it would be better placed in a 'how it works' section so users are more aware of what to expect.  
-5. Having access to previous screening would allow users a greater sense of confidence in the fact they are 'overdue' allowing them to trust their invite. ​
-6. Users with limited internet access or low digital confidence would benefit from accessing kits in locations like pharmacies or sexual health clinics. This will also allow the option to see the kit before deciding whether to use it.
-7. Time-limited participants like to know as much as possible upfront. Having key information in the invite about how the process works, and if there is anything they need to do to prepare, as this will help participants understand what is needed from them. For participants with English as a second language there were specific questions about what was needed ahead of taking part.​
-8. Having information in an easily readable format that can be skimmed for key information is particularly useful for users with dyslexia.
-9. There was still confusion around how the self-sample works. Clearly outlining how HPV Self-Sampling works and that there is not a need to touch the cervix may help those who are worried. 
-10. For some, there were questions on how to tell if the invitation they were receiving was trustworthy and truly from the NHS.​ There were also mention of feeling the invite did not seem personal enough and would then cause doubt in whether this was truly for them.
-11. Many participants said they would be happy to click a link in a text message, however, if the link needed to be copy and pasted – they would be less likely to engage with it.
-12. A forewarning of the invite would be useful for participants who felt the invite was out of the blue and would help with trust – this could act as a sort of GP endorsement which we know works well in bowel screening, creating more trust of links. 
+Several content strategies have shown promise and continue to be refined. Clarity around HPV and its link to cervical screening is vital—spelling out "human papillomavirus" and offering supportive visuals or diagrams can aid understanding. Participants value transparency about process steps, timing, and trust indicators (e.g., NHS branding or GP endorsements). Accessibility remains crucial: providing skimmable formats, language support, alternative kit access points (like pharmacies), and upfront information helps diverse user needs. Improving trust, digital usability, and clarity around self-sampling can enhance confidence and engagement with screening invitations.
 
 **What's next**
 
@@ -222,4 +144,3 @@ Based on this our hypotheses for this round of research were:​
 
 - On the 21st March, a decision to use the NHS App as the front door for the service. This means we have to rework our user journeys and flows to identify all the scenarios involving the NHS App on web and mobile. 
 - Pre-election period between 10th April - 2nd May will delay the next usability testing.
-- Our team is currently in the process of moving from NHS App governance to a Digital Screeing governance.
