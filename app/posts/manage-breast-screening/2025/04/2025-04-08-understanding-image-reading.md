@@ -48,7 +48,7 @@ Image reading represents one of the main stages that would need to modernise to 
 
 ## How reading works day-to-day
 
-For routine screening, image reading happens using NBSS – but is still heavily paper-based. Admins staff carefully look after this process, making sure everyone who was screened in a clinic is ready for reading.
+For routine screening, image reading happens using NBSS – but is still heavily paper-based. Admin staff carefully look after this process, making sure everyone who was screened in a clinic is ready for reading.
 
 If screening identified that the participant had had mammograms at another location previously, admin staff may attempt to retrieve copies of these before putting that case to reading - this is known as ‘awaiting priors’. Not all units do this - some will only request prior mammograms after reading if concerns are seen.
 
