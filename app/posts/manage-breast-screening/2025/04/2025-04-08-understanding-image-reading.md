@@ -29,7 +29,7 @@ Many units use 'blind reading' where the second reader doesn't see the first rea
 
 If both readers agree the images do not show any abnormalities, then the participant is classed as 'routine recall' and will be told their results are normal. This is the most common result and happens about 90% of the time.
 
-If the the two readers disagree, then the case will go to 'arbitration' or 'consensus' - where further discussion by a third reader or panel takes place to decide whether to recall for assessment or give a normal result.
+If the 2 readers disagree, then the case will go to ‘arbitration‘ or ‘consensus’ – where further discussion by a third reader or panel takes place to decide whether to recall for assessment or give a normal result.
 
 If both agree abnormalities are present, then the participant will be asked back to the breast screening unit for further tests. This is known as ‘assessment’. Some units will take these to arbitration first.
 
