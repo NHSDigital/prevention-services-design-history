@@ -10,7 +10,9 @@
 
 ## What is image reading
 
-Image reading (or film reading) is the process where specially trained healthcare professionals review mammograms taken during breast screening, looking for abnormalities. It's colloquially called 'film reading' because traditionally they would be reviewing physical x-ray films. Although mammograms are now digital, the term 'film reading' remains in common use.
+Image reading (or film reading) is when trained staff check mammograms from breast screening to find anything unusual.
+
+It's often called ‘film reading’ because traditionally the process was done with actual x-ray films. Although mammograms are now digital, the term 'film reading' remains in common use.
 
 ## How image reading works
 
