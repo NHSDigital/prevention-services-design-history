@@ -16,7 +16,7 @@ Image reading (or film reading) is the process where specially trained healthcar
 
 Mammogram images are primarily read by consultant radiologists but can also be read by advanced practitioner radiographers and breast clinicians who have undergone specific training in mammogram interpretation. For consistency and safety, each participant's set of mammograms is read twice (called first read and second read) by two different readers.
 
-Each mammogram typically consists of four standard views - right and left breast, each usually with two different angles (craniocaudal and mediolateral oblique views). The reader examines all views carefully, looking for subtle signs that might indicate cancer. If available they’ll compare these to prior mammograms to look for any changes.
+Each mammogram typically consists of 4 standard views - right and left breast, each usually with 2 different angles (craniocaudal and mediolateral oblique views). The reader examines all views carefully, looking for subtle signs that might indicate cancer. If available they’ll compare these to prior mammograms to look for any changes.
 
 The exact process varies by breast screening unit, but the general workflow is:
 
