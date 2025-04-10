@@ -1,6 +1,6 @@
 .app-screenshots__contents,
 .app-screenshots__screenshot {
-  margin-bottom: govuk-spacing(9);
+  margin-bottom: govuk-spacing(9) !important;
 }
 
 @include govuk-media-query($media-type: print) {
