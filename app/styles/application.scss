@@ -10,6 +10,7 @@ eleventyExcludeFromCollections: true
   src: url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.eot?#iefix");
   src: url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.eot?#iefix") format("eot"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.woff2") format("woff2"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.woff") format("woff"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.ttf") format("truetype"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.svg#7def0e34-f28d-434f-b2ec-472bde847115") format("svg");
 }
+
 @font-face {
   font-display: swap;
   font-family: "Frutiger W01";
@@ -29,4 +30,10 @@ $govuk-font-family: Frutiger W01, arial, sans-serif;
 // Line height copied from NHS Frontend
 .govuk-body {
   line-height: 1.47368;
+}
+
+.app-prose-scope {
+  video {
+    max-width: 100%;
+  }
 }
