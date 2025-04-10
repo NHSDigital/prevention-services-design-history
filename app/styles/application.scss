@@ -33,6 +33,30 @@ $govuk-font-family: Frutiger W01, arial, sans-serif;
 }
 
 .app-prose-scope {
+  // Simulate design used in NHS design system
+  figure {
+    @include govuk-responsive-margin(6, "bottom");
+    @include govuk-responsive-margin(6, "top");
+
+    background-color: govuk-colour("white");
+    border-bottom: 1px solid #d8dde0;
+  }
+
+  figcaption {
+    @include govuk-typography-responsive(16);
+    color: $govuk-text-colour;
+    margin-top: 0;
+    padding: govuk-spacing(3);
+
+    * {
+      @include govuk-typography-responsive(16);
+    }
+
+    :last-child {
+      margin-bottom: 0;
+    }
+  }
+
   video {
     max-width: 100%;
   }
