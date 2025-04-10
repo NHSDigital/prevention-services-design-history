@@ -57,6 +57,16 @@ $govuk-font-family: Frutiger W01, arial, sans-serif;
     }
   }
 
+  // Improve display of mission patch images inside figures
+  figure:has(img[src$="mission-patch.png"]) {
+    background-color: transparent;
+    border: 0;
+
+    img {
+      outline: 0 none;
+    }
+  }
+
   video {
     max-width: 100%;
   }
