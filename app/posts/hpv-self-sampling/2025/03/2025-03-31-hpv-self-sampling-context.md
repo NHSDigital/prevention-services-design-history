@@ -7,6 +7,9 @@ tags:
   - hpv self sampling
   - nhs ambitions
 ---
+> The UKNSC is consulting on introducing self sampling for cervical screening. Find out more: [UK NSC consults on offering HPV self-sampling option to under-screened people in cervical screening programme – UK National Screening Committee.](https://nationalscreening.blog.gov.uk/2024/12/04/uk-nsc-consults-on-offering-hpv-self-sampling-option-to-under-screened-people-in-cervical-screening-programme/)
+**We are running discovery and alpha in parallel to this consultation, to prepare for potential implementation in future.**
+
 This post explains the background and context for HPV Self-Sampling and the ambitions and vision the NHS has for cervical screening uptake and inclusion of under-served groups. 
 
 ## Project background

@@ -8,6 +8,8 @@ tags:
   - research
   - workshops
 ---
+> The UKNSC is consulting on introducing self sampling for cervical screening. Find out more: [UK NSC consults on offering HPV self-sampling option to under-screened people in cervical screening programme – UK National Screening Committee.](https://nationalscreening.blog.gov.uk/2024/12/04/uk-nsc-consults-on-offering-hpv-self-sampling-option-to-under-screened-people-in-cervical-screening-programme/)
+**We are running discovery and alpha in parallel to this consultation, to prepare for potential implementation in future.**
 
 This post summarises what the HPV Self-Sampling service is about, going into some detail about the design and research work that has been done between November 2024 - March 2025. 
 
