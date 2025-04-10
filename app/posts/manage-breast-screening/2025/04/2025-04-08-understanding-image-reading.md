@@ -14,6 +14,8 @@ Image reading (or film reading) is when trained staff check mammograms from brea
 
 It's often called ‘film reading’ because traditionally the process was done with actual x-ray films. Although mammograms are now digital, the term 'film reading' remains in common use.
 
+![An image reading workstation in a breas screening unit. The photo shows a desk with three monitors in portrait orientation. The left monitor shows NBSS. The right two monitors are the PACs workstation and can show mammograms.](image-reading-workstation.jpg "An image reading workstation showing NBSS on the left monitor, and PACs showing related mammograms on the right monitors.")
+
 ## How image reading works
 
 Mammogram images are primarily read by consultant radiologists but can also be read by advanced practitioner radiographers and breast clinicians who have undergone specific training in mammogram interpretation. For consistency and safety, each participant’s set of mammograms is read twice (called first read and second read) by 2 different readers.
