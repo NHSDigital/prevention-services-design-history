@@ -10,6 +10,7 @@ eleventyExcludeFromCollections: true
   src: url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.eot?#iefix");
   src: url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.eot?#iefix") format("eot"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.woff2") format("woff2"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.woff") format("woff"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.ttf") format("truetype"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.svg#7def0e34-f28d-434f-b2ec-472bde847115") format("svg");
 }
+
 @font-face {
   font-display: swap;
   font-family: "Frutiger W01";
@@ -29,4 +30,44 @@ $govuk-font-family: Frutiger W01, arial, sans-serif;
 // Line height copied from NHS Frontend
 .govuk-body {
   line-height: 1.47368;
+}
+
+.app-prose-scope {
+  // Simulate design used in NHS design system
+  figure {
+    @include govuk-responsive-margin(6, "bottom");
+    @include govuk-responsive-margin(6, "top");
+
+    background-color: govuk-colour("white");
+    border-bottom: 1px solid #d8dde0;
+  }
+
+  figcaption {
+    @include govuk-typography-responsive(16);
+    color: $govuk-text-colour;
+    margin-top: 0;
+    padding: govuk-spacing(3);
+
+    * {
+      @include govuk-typography-responsive(16);
+    }
+
+    :last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  // Improve display of mission patch images inside figures
+  figure:has(img[src$="mission-patch.png"]) {
+    background-color: transparent;
+    border: 0;
+
+    img {
+      outline: 0 none;
+    }
+  }
+
+  video {
+    max-width: 100%;
+  }
 }

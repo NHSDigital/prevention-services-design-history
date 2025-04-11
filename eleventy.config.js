@@ -78,15 +78,19 @@ module.exports = function (eleventyConfig) {
   // })
 
   // Vaccination collections
-   eleventyConfig.addCollection('book-a-vaccination', collection => {
+  eleventyConfig.addCollection('book-a-vaccination', collection => {
     return collection.getFilteredByGlob('app/posts/book-a-vaccination/**/*.md')
+  })
+
+  eleventyConfig.addCollection('manage-vaccinations-in-schools', collection => {
+    return collection.getFilteredByGlob('app/posts/manage-vaccinations-in-schools/**/*.md')
   })
 
   eleventyConfig.addCollection('manage-your-appointments', collection => {
     return collection.getFilteredByGlob('app/posts/manage-your-appointments/**/*.md')
   })
 
- eleventyConfig.addCollection('record-a-vaccination', collection => {
+  eleventyConfig.addCollection('record-a-vaccination', collection => {
     return collection.getFilteredByGlob('app/posts/record-a-vaccination/**/*.md')
   })
 

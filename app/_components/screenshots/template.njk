@@ -19,10 +19,10 @@
   {%- set itemId = item.id or (itemTitle | slugify) -%}
   {%- set file = item.src or (itemId + ".png") -%}
   {%- set alt = item.alt or ("Screenshot of " + itemTitle) -%}
+  <h{{ headingLevel + 1 }} class="govuk-heading-m" tabindex="-1">
+    <a class="app-link--heading govuk-link" href="#{{ itemId }}">{{ itemTitle }}</a>
+  </h{{ headingLevel + 1 }}>
   <figure class="app-screenshots__screenshot" id="{{ itemId }}">
-    <h{{ headingLevel + 1 }} class="govuk-heading-m" tabindex="-1">
-      <a class="app-link--heading govuk-link" href="#{{ itemId }}">{{ itemTitle }}</a>
-    </h{{ headingLevel + 1 }}>
     <a class="govuk-link" href="{{ file }}"><img src="{{ file }}" alt="{{ alt }}"></a>
     {%- if item.caption %}<figcaption>{{ item.caption | markdown | safe }}</figcaption>{% endif %}
   </figure>
