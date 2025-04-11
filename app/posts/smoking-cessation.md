@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Smoking cessation
-description: Helping people stop using niccotine.
+description: Helping people stop using nictone.
 pagination:
   data: collections.smoking-cessation
   reverse: true
