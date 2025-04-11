@@ -8,6 +8,7 @@ tags:
   - research
   - workshops
 ---
+
 > The UKNSC is consulting on introducing self sampling for cervical screening. Find out more: [UK NSC consults on offering HPV self-sampling option to under-screened people in cervical screening programme – UK National Screening Committee.](https://nationalscreening.blog.gov.uk/2024/12/04/uk-nsc-consults-on-offering-hpv-self-sampling-option-to-under-screened-people-in-cervical-screening-programme/)
 **We are running discovery and alpha in parallel to this consultation, to prepare for potential implementation in future.**
 
@@ -79,15 +80,16 @@ In the past 6 months, we have completed an extensive review of existing medical 
 - Unhappy paths mapping and prioritisation
 - COM-B model for behavioural change strategy
 
-
 **Research done so far:**
 
 - 1 Qualtrics surveys sent out to NHS App panel
      - Aim: To understand user needs surrounding HPV self-sampling and how personalisation within the NHS App, could be used to drive uptake and awareness of HPV self-sampling, alongside traditional cervical screening.
      - 240 participant responses 
+
 - 1 Qualtrics survey sent out to Lived Experience panel and Citizens Panel
      - Aim: To gather more information on how much users understand about HPV in the context of cervical screening, preferences for receiving inivtations and messages about the service and explore user motivations
      - 391 participant responses
+
 - 1 unmoderated research study with 32 participants
 - 1 pop-up research study with 27 participants across 5 locations in Leeds
 
@@ -105,11 +107,9 @@ In the first iteration, we explored:
 
 ![](Slide26.jpg)
 
-
 **Design findings and decisions made based on the unmoderated research findings**
 
 To improve the user experience in screening programs, content should clearly communicate age eligibility and the reason for the invitation, ideally in a personalized way. If possible, pre-filling addresses from NHS records could reduce confusion and effort, while clarifying that any delivery address is acceptable and not system-updating. Confirmation pages could benefit from showing an order reference and delivery address, aligning with user expectations. Clear signposting to traditional screening options reassures users, and additional detail about timelines and results can help manage expectations across the process.
-
 
 #### Pop-up research study - March 2025
 
