@@ -113,7 +113,7 @@ To improve the user experience in screening programs, content should clearly com
 
 #### Pop-up research study - March 2025
 
-With this round of research, we focused solely on Invitation content, to better understand which content users engage with and why.  ​
+With this round of research, we focused solely on invitation content, to better understand which content users engage with and why.  ​
 
 **Research aims**
 
@@ -122,13 +122,7 @@ With this round of research, we focused solely on Invitation content, to better 
 
 **What did we test​**
 
-- Version 1 of NHS App message invite
-
-- Version 2 of NHS App message invite
-
-- Email invite
-
-- SMS invite
+- Invitation options through different channels, such as NHS App, email and SMS.
 
 **Design findings and decisions made based on the unmoderated research findings**
 
@@ -141,8 +135,3 @@ Several content strategies have shown promise and continue to be refined. Clarit
 - Highlight testing to identify which parts of the content are most effective and engaging.​
 - A/B testing on invite content to determine which version drives higher participation and resonates best with users.​
 - Accessibility testing, to better understand how longer content performs
-
-**Considerations**
-
-- On the 21st March, a decision to use the NHS App as the front door for the service. This means we have to rework our user journeys and flows to identify all the scenarios involving the NHS App on web and mobile. 
-- Pre-election period between 10th April - 2nd May will delay the next usability testing.
