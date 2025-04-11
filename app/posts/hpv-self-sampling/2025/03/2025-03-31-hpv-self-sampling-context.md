@@ -7,6 +7,10 @@ tags:
   - hpv self sampling
   - nhs ambitions
 ---
+
+> The UKNSC is consulting on introducing self sampling for cervical screening. Find out more: [UK NSC consults on offering HPV self-sampling option to under-screened people in cervical screening programme – UK National Screening Committee.](https://nationalscreening.blog.gov.uk/2024/12/04/uk-nsc-consults-on-offering-hpv-self-sampling-option-to-under-screened-people-in-cervical-screening-programme/)
+**We are running discovery and alpha in parallel to this consultation, to prepare for potential implementation in future.**
+
 This post explains the background and context for HPV Self-Sampling and the ambitions and vision the NHS has for cervical screening uptake and inclusion of under-served groups. 
 
 ## Project background
@@ -25,15 +29,7 @@ Approximately 3 in 10 people do not take up the offer of screening. Barriers lik
 
 National and international evidence now suggests that offering the option of HPV self-sampling could help overcome some of these barriers among the under-screened group, leading to improved participation in screening and preventing more cervical cancer deaths.​
 
-Based on the guidance from the UK National Screening Committee, the cervical screening programme will launch a national roll out of an HPV self-sampling offer to under-screened participants across England. To manage the implementation of this service, HPV self-sampling will be offered based on a risk based roll out model:​​
-
-- **Initial priority:** Those who have never responded to an invite to cervical screening ​
-
-- **Second priority:** Those who have failed to take up their 2 most recent screening invites​
-
-- **Following cohorts:** Will be broken down by riskiest age band to target those at highest risk first e.g. approaching the end of the age covered by the screening process​
-
-Once these priority cohorts have been offered the service, it will be rolled out to any other non-responders e.g. new non responders to their most recent screening invite.
+Based on the guidance from the UK National Screening Committee, the cervical screening programme will launch a national roll out of an HPV self-sampling offer to under-screened participants across England. The service will be offered based on a risk-based roll-out  model.
 
 [The UK National Screening Committee announcement for HPV self-sampling](https://nationalscreening.blog.gov.uk/2024/12/04/uk-nsc-consults-on-offering-hpv-self-sampling-option-to-under-screened-people-in-cervical-screening-programme/)
 
