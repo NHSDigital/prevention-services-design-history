@@ -9,7 +9,7 @@
 ---
 
 
-Some years ago an NHS team did some design sprints looking at [image reading](/manage-breast-screening/2025/04/understanding-image-reading/). We understand that they wanted to explore concepts for how image reading could work in the future and come up with some aspirational designs to show stakeholders.
+Some years ago an NHS team did some design sprints looking at [image reading](/manage-breast-screening/2025/04/understanding-image-reading/). The team wanted to explore concepts for how image reading could work in the future and come up with some aspirational designs to show stakeholders.
 
 The team worked with clinical colleagues and stakeholders over several iterations. This post will show selected pages from the designs and how they changed between versions. The prototypes weren’t fully functional and tended to follow a scripted path – for example read a normal case first, then a technical recall, then an abnormal.
 
