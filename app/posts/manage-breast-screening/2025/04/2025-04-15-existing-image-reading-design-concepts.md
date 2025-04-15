@@ -8,7 +8,6 @@
     - image reading
 ---
 
-# Existing image reading design concepts
 
 Some years ago an NHS team did some design sprints looking at [image reading](/manage-breast-screening/2025/04/understanding-image-reading/). We understand that they wanted to explore concepts for how image reading could work in the future and come up with some aspirational designs to show stakeholders.
 
