@@ -96,7 +96,7 @@ Navigation at the top alludes to how users might get to various bits of data. Sy
 
 The page has radio options that mirror the options in NBSS and has the ability to add a comment.  We can also see that users can skip or ‘end reading session.
 
-Compared to v1, the mammograms are given less visual prominence, and the hint text for each option has been removed. This is likely because image readers will have the full size mammograms open in their PACS workstation – so showing them here isn’t absolutely necessary.
+Compared to version 1, the mammograms are given less visual prominence, and the hint text for each option has been removed. This is likely because image readers will have the full size mammograms open in their PACS workstation – so showing them here isn’t absolutely necessary.
 
 ![Screenshot of initial image reading screen, showing some participant information and radios to select a reading outcome – choosing between normal, abnormal, technical recall and clinical recall](v2-image-reading-initial.png)
 
