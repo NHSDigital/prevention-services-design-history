@@ -80,7 +80,7 @@ After describing abnormalities, users are shown a confirmation of the data.
 
 ### Dashboard
 
-Users start on a dashboard with a number of options. In the prototype, only the green 'Start reading images’ button works. Compared to version 1, it seems the team has tried to put focus on this main reading action.
+Users start on a dashboard with a number of options. In the prototype, only the green 'Start reading images’ button works. Compared to version 1, the team put focus on this main reading action.
 
 
 
