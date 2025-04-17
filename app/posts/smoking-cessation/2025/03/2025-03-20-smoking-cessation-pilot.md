@@ -6,12 +6,15 @@ date: 2025-03-20
 tags:
 ---
 
-To achieve the government goal of a smoke-free Britain by 2030, populations with increasing dependence need access to smoking treatment services which meets their needs.
+To achieve the government goal of a smoke-free Britain by 2030, populations with increasing dependence needed access to smoking treatment services which meet their needs.
 
 Currently, people who want to stop smoking tobacco can use:
 - in-person NHSE services via routes like their pharmacy or GP
-- digital apps
+- digital apps provided by private sector suppliers
 - work out a plan on their own
+
+
+## The current situation
 
 People who want more guided support but cannot access in-person services for any reason do not have an NHSE digital service to use.
 
@@ -19,21 +22,31 @@ Availability of tobacco treatment services is not consistent across the country 
 
 A third of surveyed local authorities (33%) did not commission a universal service to help people stop smoking in 2022 (latest available data).
 
-Local Authority tobacco treatment services are mostly delivered face-to-face, which is harder for people who work shifts or travel for their work to access. These services are mostly accessed by the middle-to-older age groups, and fewer men accessing from younger age groups than women.
+Local authority tobacco treatment services are mostly delivered face-to-face, which is harder for people who work shifts or travel for their work to access. These services are mostly accessed by the middle-to-older age groups, and fewer men accessing from younger age groups than women.
+
+## The opportunity
 
 Evidence from the national digital weight management service shows that digital services can engage more deprived populations and fill gaps in provision. This evidence comes from increased access and engagement rates across all indices of multiple deprivation (IMD) bands (measure of relative deprivation for small, fixed geographic areas of the UK).
 
+The core offer of the digital tobacco treatment service (DTTS), which will be free at the point of access, is access to behavioural and motivational support for tobacco dependency, tailored access to live tobacco dependency support, and a free and direct supply of smoking cessation aids.
+
+Tobacco dependency advisors (TDAs) employed by the digital apps will meet the training standards defined by the National Centre for smoking Cessation and Training (NCSCT). The long term goal of the service is to increase the overall available national capacity to treat the 5.6 million adults in England that are smokers, and to improve choice of treatment options through the provision of a service that can be accessed by the service user, at a time and location that suits them.
+
+This degree of flexibility in treatment will be particularly valuable to people working shift patterns, people with caring commitments or those with chaotic lives. The service will initially be rolled out across a defined population cohort (NHS Staff).
+
 ## Aim
 
-To create a digital pathway for tobacco cessation that helps people quit smoking while accessing the support they need, with a particular focus on those currently underserved by in-person services.
+To create a digital tobacco treatment service (DTTS) that helps people quit smoking while accessing the support they need, with a particular focus on those currently underserved by in-person services.
 
-## Our approach
+## Our phased approach
 
-The service launch is split into two phases:
+The service launch was to be split into two phases:
 
-Phase 1: Providing NHS Staff with access to digital support services via two external service providers, which will help us understand the efficacy of incentive-based models (models where providers are paid based on milestones reached by service users) and begin to evaluate the benefits of digital pathways.
+##Phase 1:
+Providing NHS Staff with access to digital support services via two external service providers, to help us understand the efficacy of incentive-based models (models where providers are paid based on milestones reached by service users) and begin to evaluate the benefits of digital pathways.
 
-Phase 2: Providing NHS Staff with access to a dedicated Tobacco Dependency Hub (similar to the existing Weight Management Service) to continue evaluating the benefits of digital pathways, impact on targeted groups and desirability of a digital pathway (will introduce the third service provider).
+##Phase 2:
+Providing NHS Staff with access to a dedicated Tobacco Dependency Hub (similar to the existing Weight Management Service) to continue evaluating the benefits of digital pathways, impact on targeted groups and desirability of a digital pathway (will introduce the third service provider).
 
 Our planned research activity would allow us to:
 
@@ -45,8 +58,8 @@ Our planned research activity would allow us to:
 
 Our research and design activities focused on leveraging existing data and conducting interviews with stakeholders to ensure we have a strong foundational knowledge of the existing service, before conducting primary research.
 
-Our understanding of the Digital Tobacco Treatment (DTT) service was informed by conversations with:
-- DTT team – collaborating with the tobacco team to understand the service proposition and map the end-to-end user journey
+Our understanding of the digital tobacco treatment service (DTTS) was informed by conversations with:
+- DTTS team – collaborating with the DTTS team to understand the service proposition and map the end-to-end user journey
 - Service providers – to understand the service from the perspective of those providing it, visualising each step a user goes through when using the service
 - National Voices – drawing on insights from adjacent research, which focused on user experience when attempting to stop smoking with one of our service providers
 
@@ -56,7 +69,7 @@ For both phases, we created user journeys and service maps which highlight the s
 
 [See the user journey map in Mural (needs an HSCIC account)](https://app.mural.co/t/nhsdigital8118/m/nhsdigital8118/1738339722878/729c1da461b58b6d192ffc44cb060c547424ed0f).
 
-After the first and second phase, there will be further iteration to the service to make sure we meet the desired outcomes for tobacco cessation.
+After the first and second phase, there will be further iteration to the service to make sure we meet the desired outcomes for smoking cessation.
 
 ## Core elements of the current and future service vision
 
@@ -73,18 +86,32 @@ By having this articulated, we can let the research and insights guide us to how
 
 ### Current vision:
 
-![This image shows six scales which relate to core elements of the current service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the future service vision to understand the differences between the two.](current-service-vision.png)
+![This image shows six scales which relate to core elements of the current service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the future service vision to understand the differences between the two.
+The six scales include:
+1. Supported service vs Fully self service - currently this is a service where users are supported by referrers and primary care providers
+2. Closed cohort vs Open to all - currently this is a service for invited cohorts
+3. Single service provider vs Multiple service providers - currently, multiple service providers will support this service
+4. Used in selected regions vs Available in all regions - currently, only chosen regions can participate in the pilot
+5. Stand alone service vs Fully part of NHS App offer - currently this is a stand alone service
+6. Tobacco only vs Tobacco and nicotine - currently the service only supports tobacco cessation] (current-service-vision.png)
 
 ### Future vision:
 
-![This image shows six scales which relate to core elements of the future service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the current service vision to understand the differences between the two.](future-service-vision.png)
+![This image shows six scales which relate to core elements of the future service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the current service vision to understand the differences between the two.
+The six scales include:
+1. Supported service vs Fully self service - the aim for the future service is to allow users to be supported by referrers and primary care providers as well as allowing for self service is preferred
+2. Closed cohort vs Open to all - this service will continue to be for invited cohorts only
+3. Single service provider vs Multiple service providers - this service will continue to have multiple service providers to support this service
+4. Used in selected regions vs Available in all regions - in future, this service will be open to all commissioning regions
+5. Stand alone service vs Fully part of NHS App offer - in future, this service will integrate with all wider services
+6. Tobacco only vs Tobacco and nicotine - the hope is that nicotine cessation will be included in future service offers] (future-service-vision.png)
 
 ## What is the future work?
 
 Once phase 1 launches, the next steps will focus on gathering deeper insights and refining the service based on user needs.
 
 Quantitative research:
-- distribute surveys to users of the DTT service and Tobacco Dependency Advisors (TDAs) to assess service usage and satisfaction
+- distribute surveys to users of the digital tobacco treatment service and Tobacco Dependency Advisors (TDAs) to assess service usage and satisfaction
 - analyse service usage data to identify patterns and trends
 
 Qualitative research
@@ -105,11 +132,11 @@ User surveys:
 
 Discussion guides and consent forms:
 - discussion guides for in-depth interviews (to be amended as new insights emerge)
-- informed consent forms 
+- informed consent forms
 
 ### User survey
 
-The user survey is designed to gather insights from NHS staff who use the service, helping us understand their experiences, challenges, and the impact of the digital service on their quitting journey.
+The user survey was designed to gather insights from NHS staff who use the service, helping us understand their experiences, challenges, and the impact of the digital service on their quitting journey.
 
 The questions cover:
 - demographics and segmentation (age, gender, location, work pattern)
@@ -117,27 +144,29 @@ The questions cover:
 - motivation to quit (health conditions, attitudes)
 - digital readiness (comfort with tech, use of health apps)
 - overall experience and usability (service ease, impact on quitting, improvements)
-- journey through service:
-  - pre-service (finding and being introduced to the service) 
-  - accessing and registering for the service 
+- journey through the service:
+  - pre-service (finding and being introduced to the service)
+  - accessing and registering for the service
   - quit attempt (users’ experience of actively trying to stop smoking with the service)
-  - discharge and exit from the service 
+  - discharge and exit from the service
   - returning or re-entering the service (where the previous quit attempt was unsuccessful)
 
 ### Tobacco dependency advisor (TDA) survey
 
-The TDA survey focuses on the perspectives of those providing the service, capturing their views on the service’s effectiveness and usability. It also explores how the digital service compares to other cessation support methods and their experiences at different stages of the process:
+The TDA survey focused on the perspectives of those providing the service, capturing their views on the service’s effectiveness and usability. It also explored how the digital service compares to other cessation support methods and their experiences at different stages of the process:
 
-We ask TDAs about:
+The survey asks TDAs about:
 - demographic information (age, location, experience)
-- overall assessment of the DTT service (usability, effectiveness, comparison with other services)
+- overall assessment of the digital tobacco treatment service (usability, effectiveness, comparison with other services)
 - assessment of the journey through the service:
 - pre-service
 - access and registration
 - quit attempt
 - discharge and exit
-- re-entry 
+- re-entry
 
 ## What happened next?
 
-Unfortunately, this work has been indefinitely paused because of the latest spending review. This work is a critical element of preventative services as a reduction of smokers across England reduces future burden on NHS services. So, this work can be picked up again we packaged our findings into a [Confluence index](https://nhsd-confluence.digital.nhs.uk/display/PPP/Tobacco+Alpha) and developed a plan for future development. This allowed us to reflect on our progress and provide a foundation for any teams that may take on the work in the future.
+Unfortunately, this work has been indefinitely paused because of the latest spending review. This work is a critical element of preventative services as a reduction of smokers across England reduces future burden on NHS services.
+
+So that this work can be picked up again we packaged our findings into a [Confluence index](https://nhsd-confluence.digital.nhs.uk/display/PPP/Tobacco+Alpha) and developed a plan for future development. This allowed us to reflect on our progress and provide a foundation for any teams that may take on the work in the future.
