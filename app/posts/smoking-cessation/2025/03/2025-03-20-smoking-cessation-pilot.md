@@ -42,10 +42,10 @@ To create a digital tobacco treatment service (DTTS) that helps people quit smok
 
 The service launch was to be split into two phases:
 
-##Phase 1:
+### Phase 1:
 Providing NHS Staff with access to digital support services via two external service providers, to help us understand the efficacy of incentive-based models (models where providers are paid based on milestones reached by service users) and begin to evaluate the benefits of digital pathways.
 
-##Phase 2:
+### Phase 2:
 Providing NHS Staff with access to a dedicated Tobacco Dependency Hub (similar to the existing Weight Management Service) to continue evaluating the benefits of digital pathways, impact on targeted groups and desirability of a digital pathway (will introduce the third service provider).
 
 Our planned research activity would allow us to:
@@ -69,6 +69,12 @@ For both phases, we created user journeys and service maps which highlight the s
 
 [See the user journey map in Mural (needs an HSCIC account)](https://app.mural.co/t/nhsdigital8118/m/nhsdigital8118/1738339722878/729c1da461b58b6d192ffc44cb060c547424ed0f).
 
+<p class="govuk-body">
+  <a href="/pdfs/smoking-cessation/2025/03/smoking-cessation-pilot/tobacco-journey-map.pdf" class="govuk-link">
+    Download user journey map as a PDF (960KB)
+  </a>
+</p>
+
 After the first and second phase, there will be further iteration to the service to make sure we meet the desired outcomes for smoking cessation.
 
 ## Core elements of the current and future service vision
@@ -86,25 +92,23 @@ By having this articulated, we can let the research and insights guide us to how
 
 ### Current vision:
 
-![This image shows six scales which relate to core elements of the current service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the future service vision to understand the differences between the two.
-The six scales include:
-1. Supported service vs Fully self service - currently this is a service where users are supported by referrers and primary care providers
-2. Closed cohort vs Open to all - currently this is a service for invited cohorts
-3. Single service provider vs Multiple service providers - currently, multiple service providers will support this service
-4. Used in selected regions vs Available in all regions - currently, only chosen regions can participate in the pilot
-5. Stand alone service vs Fully part of NHS App offer - currently this is a stand alone service
-6. Tobacco only vs Tobacco and nicotine - currently the service only supports tobacco cessation] (current-service-vision.png)
+![This image shows six scales which relate to core elements of the current service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the future service vision to understand the differences between the two.](current-service-vision.png)
+
+<p class="govuk-body">
+  <a href="/pdfs/smoking-cessation/2025/03/smoking-cessation-pilot/current-vision.pdf" class="govuk-link">
+    Download the current vision as a PDF (325KB)
+  </a>
+</p>
 
 ### Future vision:
 
-![This image shows six scales which relate to core elements of the future service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the current service vision to understand the differences between the two.
-The six scales include:
-1. Supported service vs Fully self service - the aim for the future service is to allow users to be supported by referrers and primary care providers as well as allowing for self service is preferred
-2. Closed cohort vs Open to all - this service will continue to be for invited cohorts only
-3. Single service provider vs Multiple service providers - this service will continue to have multiple service providers to support this service
-4. Used in selected regions vs Available in all regions - in future, this service will be open to all commissioning regions
-5. Stand alone service vs Fully part of NHS App offer - in future, this service will integrate with all wider services
-6. Tobacco only vs Tobacco and nicotine - the hope is that nicotine cessation will be included in future service offers] (future-service-vision.png)
+![This image shows six scales which relate to core elements of the future service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the current service vision to understand the differences between the two.](future-service-vision.png)
+
+<p class="govuk-body">
+  <a href="/pdfs/smoking-cessation/2025/03/smoking-cessation-pilot/future-vision.pdf" class="govuk-link">
+    Download the current future as a PDF (347KB)
+  </a>
+</p>
 
 ## What is the future work?
 

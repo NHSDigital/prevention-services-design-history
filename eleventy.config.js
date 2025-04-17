@@ -55,6 +55,8 @@ module.exports = function (eleventyConfig) {
 
   // Passthrough
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
+  eleventyConfig.addPassthroughCopy('./app/pdfs');
+
 
   // Screening collections
   eleventyConfig.addCollection('explore-team', collection => {
