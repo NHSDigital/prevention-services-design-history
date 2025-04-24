@@ -108,7 +108,7 @@ For example, we've added guidance to explain:
 
 This helps users understand what they're doing and why it matters, especially when setting up rules that others might need to read or reuse later:
 
-[![Example of a screen showing inline help](SPI-content-inline-example2.png)](SPI-content-inline-example2.png)
+[![Example of a screen showing inline help](SPI-content-inline-example.png)](SPI-content-inline-example.png)
 
 We also use inline content to help users understand what they need to input in blank fields. This includes:
 
@@ -118,7 +118,7 @@ We also use inline content to help users understand what they need to input in b
 
 This kind of support is especially useful when the field requires something specific, like a naming convention, format, or a value that affects how a rule works. By adding this guidance, we reduce guesswork and help users feel more confident as they fill things in:
 
-[![Example of a screen showing inline help](SPI-content-inline-example.png)](SPI-content-inline-example.png)
+[![Example of a screen showing inline help](SPI-content-inline-example2.png)](SPI-content-inline-example2.png)
 
 In addition to the inline support, we've developed detailed guidance documentation to help novice users self-serve. This allows users to access step-by-step instructions and clear explanations whenever they need extra help, without needing to ask for assistance. 
 
