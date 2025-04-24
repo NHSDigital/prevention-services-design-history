@@ -1,5 +1,5 @@
 ---
-title: How we're developing SPI content 
+title: How we're designing the user interface content 
 description: Our approach to content design and testing
 date: 2025-04-16
 tags:
@@ -10,7 +10,7 @@ tags:
 
 ## Background 
 
-Before SPI was built, campaigns were created with configuration files (JSON format) and largely used technical language. Initially, much of this terminology was copied into the UI but we simplified the language as we built SPI and continue to iterate. 
+Before this service was built, campaigns were created with configuration files (JSON format) and largely used technical language. Initially, much of this terminology was copied into the user interface but we simplified the language as we built the service and continue to iterate. 
 
 Our goal is to empower all users – both current expert users, and potential new non-expert users. This aligns to our metric of making SPI easier to understand and simplifying the experience.
 
@@ -29,7 +29,7 @@ From the outset, we've been working on making the content clearer for novice use
 
 ## How we track content changes
 
-To get SPI ready for MVP, we created a content board in Mural. This helps us to:
+To get the service ready as a minimum viable product (MVP), we created a content board in Mural. This helps us to:
 
 - track and share content changes
 - keep a record of ideas, feedback and decisions
@@ -51,9 +51,12 @@ We update it regularly based on:
 - technical updates
 - releases
 
-Example of captured UR insights:
+Example of insights from user research:
 
-[![Snippet of a Mural board showing some examples of content insights](SPI-content-insights.png)](SPI-content-insights.png)
+- Is a routing plan and a routing ID the same thing?
+- The consensus was that the descriptions under filter rules could be shortened
+- Agreement that less is more for these descriptions and they should be as plain English as possible (they just want to see in layman's terms)
+- Example rules need to be updated and made more visible
 
 Insights from user research are added to a spreadsheet, organised by section, and prioritised so we can make sure they're actioned. Example:
 
@@ -63,7 +66,7 @@ We then draft the required content changes in a Word document. This gives the UC
 
 [![Snippet of a word document showing content changes](SPI-content-word-document.png)](SPI-content-word-document.png)
 
-## Other content insights
+## Other ways we gathered insights
 
 In addition to user research sessions, we also invite users to share their content feedback asynchronously. This is particularly useful for technical terminology, as it gives users time to consider their answers, rather than responding immediately during a user research session. Example:
 
