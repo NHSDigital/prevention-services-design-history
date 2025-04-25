@@ -36,7 +36,7 @@ They showed us how easy it was to apply rules to bowel screening results and aut
 
 > “You tick a box that correlates to the pathology screen, apply a really quick rule and it will autofile in 2 minutes.”
 
-![Special perforated paper in a printer](perforated-paper-in-printer.jpg "Special perforated paper used for breast screening GP reports, kindly sent to us by one BSO")
+![Special perforated paper in a printer](perforated-paper-in-printer.jpeg "Special perforated paper used for breast screening GP reports, kindly sent to us by one BSO")
 
 ## Being creative and pragmatic
 
@@ -133,6 +133,7 @@ We say ‘invalidate’ because the goal is to experiment, test, learn and itera
 **We believe** making normal and DNA breast screening results available to GPs in a structured format
 
 **will result in** cheaper, faster and more accurate result processing, as well as more accurate uptake data  
+
 **for** BSOs, GPs, patients and the breast screening programme.  
 
 **We will know this is true** when we receive quantitative and qualitative feedback from GPs, BSOs and patients that the new process is working better for them.
@@ -142,24 +143,20 @@ We say ‘invalidate’ because the goal is to experiment, test, learn and itera
 There is a wide range of job roles within GP practices and BSOs. We are deliberately using broad user types ('GP administrator' and 'BSO') until we learn more. 
 
 ### As a GP administrator
-**I need** an easy way to process and file medical reports  
-**so that** I can focus on providing care to patients
 
-**I need** to identify patients who miss screening appointments  
-**so that** I can understand their reasons and support them to attend
+* I need an easy way to process and file medical reports so that I can focus on providing care to patients
+
+* I need to identify patients who miss screening appointments so that I can understand their reasons and support them to attend
 
 ### As a BSO
-**I need** breast screening results to be reliably stored
-**so that** GPs and patients can access them when needed, rather than having to request this information from us
 
-**I need** an easy, cost-effective and reliable way to share screening results with patients  
-**so that** they feel reassured and know what, if any, action to take
+* I need breast screening results to be reliably stored so that GPs and patients can access them when needed, rather than having to request this information from us
 
-**I need** an easy, cost-effective and reliable way to share screening results with GPs  
-**so that** the patient screening record is accurate for future screening
+* I need an easy, cost-effective and reliable way to share screening results with patients so that they feel reassured and know what, if any, action to take
 
-**I need GPs** to help identify people who haven’t attended screening  
-**so that** GPs can encourage them to attend
+* I need an easy, cost-effective and reliable way to share screening results with GPs so that the patient screening record is accurate for future screening
+
+* I need GPs to help identify people who haven’t attended screening so that GPs can encourage them to attend
 
 ## Next steps
 
