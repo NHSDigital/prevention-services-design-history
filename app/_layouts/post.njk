@@ -1,5 +1,11 @@
 {% extends "layouts/post.njk" %}
 
+{% if eleventyNavigation.parent %}
+  {% block pageTitle %}
+    {{- title }} - {{ eleventyNavigation.parent }} - {{ options.titleSuffix -}}
+  {% endblock %}
+{% endif %}
+
 {% from "screenshots/macro.njk" import appScreenshots %}
 
 {% block content %}
