@@ -195,7 +195,7 @@ There is still some work for us to do before we can scope the route to delivery:
 
 * results printing in BSOs: what happens in those BSOs that print in-house and those that use ‘other’ types of outsourcing?
 * what are the intended and unintended consequences of a solution (eg for printing service providers) - we are collaborating with the transition team on this
-* what are the timeline, cost, complexity of each option - we are collaborating with the transition team and the [manage team](/manage-breast-screening/) on a single survey to BSOs; colleagues mentioned Lucy Jenkins' analysis that we should follow
+* what are the timeline, cost, complexity of each option - we are collaborating with the transition team and the [manage team](/manage-breast-screening/) on a single survey to BSOs 
 * who and how will take this work forward, if, as we are learning, there is a benefit to delivering it?
 
 ## Next steps
