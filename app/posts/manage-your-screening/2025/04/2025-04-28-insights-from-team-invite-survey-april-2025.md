@@ -75,35 +75,21 @@ Whilst the group polled skew towards NHS app users and those that are digitally 
 
 Participants were asked to rank the information from most to least important for what they think should be within communications about Breast Screening normal results: 
 
-1.The result  
-
-2.What to do if you notice any breast cancer symptoms  
-
-3.How to ask questions about the result  
-
-4.A link to further guidance  
-
-5.Your breast screening office phone number  
-
-6.Your NHS Number  
-
-7.When you will next be invited  
-
-8.You will stop being invited to appointments after your 71st birthday  
-
-9.How to request this information in an alternative format  
-
-10.You can still self-refer for appointments after your 71st birthday  
-
-11.A thank you for your attendance  
-
-12.Disclaimer that the result doesn't mean you will never have cancer  
-
-13.The date and location of the screening appointment you attended  
-
-14.A reminder to update your contact details with your GP  
-
-15.A sign off at the end of the message such as 'kind regards' 
+1. The result  
+2. What to do if you notice any breast cancer symptoms  
+3. How to ask questions about the result  
+4. A link to further guidance  
+5. Your breast screening office phone number  
+6. Your NHS Number  
+7. When you will next be invited  
+8. You will stop being invited to appointments after your 71st birthday  
+9. How to request this information in an alternative format  
+10. You can still self-refer for appointments after your 71st birthday  
+11. A thank you for your attendance  
+12. Disclaimer that the result doesn't mean you will never have cancer  
+13. The date and location of the screening appointment you attended  
+14. A reminder to update your contact details with your GP  
+15. A sign off at the end of the message such as 'kind regards' 
 
 #### Impact on Mays: 
 
