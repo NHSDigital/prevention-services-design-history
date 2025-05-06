@@ -3,7 +3,6 @@ title: "Smoking cessation pilot"
 description:
   "Summary of work done to support the launch of a smoking cessation support service."
 date: 2025-03-20
-tags:
 ---
 
 To achieve the government goal of a smoke-free Britain by 2030, populations with increasing dependence needed access to smoking treatment services which meet their needs.
