@@ -103,7 +103,7 @@ Our testing of this prototype was largely positive, with a few issues identified
 
 Users were able to easily navigate to a clinic and start reading. The options were familiar to them or they easily found equivalents. The general workflow of reading an individual case is similar to the current process – though a big change is in not having medical information to hand in paper form and instead needing to look for it.
 
-The largest issue observed was in adding annotations. Partly this is because the design is unfinished – the intention is that users can loop through the annotations and add multiple observations. The prototype has a button to ‘select location on image’ - but this was unfunctional in testing. Without selecting a specific area on the breast, users felt that the whole page felt burdensome – why not just collect this info on the main recall page?
+The largest issue observed was in adding annotations. Partly this is because the design is unfinished – the intention is that users can loop through the annotations and add multiple observations. The prototype has a button to ‘select location on image’ - but this was not functional in testing. Without selecting a specific area on the breast, users felt that the whole page felt burdensome – why not just collect this info on the main recall page?
 
 We’re changing the data collected to collect abnormalities per annotation – but this wasn’t clear to users so just felt like a second page required to collect information thy currently provide using one page.
 
