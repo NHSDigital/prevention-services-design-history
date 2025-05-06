@@ -109,4 +109,4 @@ We’re changing the data collected to collect abnormalities per annotation – 
 
 We think this new process might be clearer if users first select an area on a breast, then describe what they see there.
 
-Other general feedback was around knowing if a clinic had been first read or second read, and who had done what. These are areas we’ve not focused on yet so it's unsurprising this wasn’t clear to users.
+Other general feedback was around knowing if a clinic had been first read or second read, and who had done what. These are areas we’ve not focused on yet but will return to in the future.
