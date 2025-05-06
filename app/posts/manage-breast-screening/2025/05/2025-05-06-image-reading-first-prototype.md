@@ -7,7 +7,7 @@
     - image reading
 ---
 
-Building on the [previous design explorations](/ manage-breast-screening/2025/04/existing-image-reading-design-concepts/) of breast image reading, our initial image reading prototype focuses on three key user needs for image readers: choosing which cases to read, giving opinions on cases and efficiently navigating between them. We've deferred addressing first and second read communication for future design iterations.
+Building on the [previous design explorations](/manage-breast-screening/2025/04/existing-image-reading-design-concepts/) of breast image reading, our initial image reading prototype focuses on three key user needs for image readers: choosing which cases to read, giving opinions on cases and efficiently navigating between them. We've deferred addressing first and second read communication for future design iterations.
 
 ## Reading cases in batches
 
