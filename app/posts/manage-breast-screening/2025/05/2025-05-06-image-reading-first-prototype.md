@@ -41,7 +41,7 @@ When you select a clinic or ‘start reading’ it takes you through to a page s
 
 ## Giving an opinion
 
-When a radiologist opens a case, we show high-level information about the participant with buttons to give an opinion. This works similarly to the National Breast Screening System (NBSS) – when opening a case, the relevant mammograms open in the radiologist's Picture Archiving and Communication System (PACS) image viewer. Our job is to let them record their opinion and review any relevant medical information.
+When a radiologist opens a case, we show high-level information about the participant with buttons to give an opinion. This works similarly to the National Breast Screening System (NBSS). When opening a case, the relevant mammograms open in the radiologist's Picture Archiving and Communication System (PACS) image viewer. Our job is to let them record their opinion and review any relevant medical information.
 
 The page has two other key areas – tabs for background information about the participant, and navigation.
 
