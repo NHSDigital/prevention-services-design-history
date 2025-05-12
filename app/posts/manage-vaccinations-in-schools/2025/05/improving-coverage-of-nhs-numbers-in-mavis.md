@@ -13,7 +13,7 @@ As of Friday 2nd May 2025, across all SAIS teams using Mavis, there were around 
 
 Our most recently onboarded SAIS provider experienced 10% of records having no NHS number after uploading and automatic matching in Mavis. Our first SAIS provider also had 10% of records without NHS numbers after uploading to Mavis. They have since reduced this to less than 1% through manual matching of records.
 
-![A diagram showing the flow of patient records into Mavis.](./mavis-record-flow-nhs-numbers.png "**Figure 1:** A diagram showing the flow of patient records into Mavis.")
+![A diagram showing the flow of patient records into Mavis.](./nhs-number-flow-borderless-diagram.png "**Figure 1:** A diagram showing the flow of patient records into Mavis.")
 
 ### Sources of records
 

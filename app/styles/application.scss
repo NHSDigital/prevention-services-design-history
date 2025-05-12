@@ -60,7 +60,7 @@ $govuk-font-family: Frutiger W01, arial, sans-serif;
 
   // Improve display of mission patch images inside figures
   figure:has(img[src$="mission-patch.png"]),
-  figure:has(img[src$="mavis-record-flow-nhs-numbers.png"]) {
+  figure:has(img[src$="borderless-diagram.png"]) {
     background-color: transparent;
     border: 0;
 
