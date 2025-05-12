@@ -33,6 +33,7 @@ $govuk-font-family: Frutiger W01, arial, sans-serif;
 }
 
 .app-prose-scope {
+
   // Simulate design used in NHS design system
   figure {
     @include govuk-responsive-margin(6, "bottom");
@@ -58,7 +59,8 @@ $govuk-font-family: Frutiger W01, arial, sans-serif;
   }
 
   // Improve display of mission patch images inside figures
-  figure:has(img[src$="mission-patch.png"]) {
+  figure:has(img[src$="mission-patch.png"]),
+  figure:has(img[src$="mavis-record-flow-nhs-numbers.png"]) {
     background-color: transparent;
     border: 0;
 
