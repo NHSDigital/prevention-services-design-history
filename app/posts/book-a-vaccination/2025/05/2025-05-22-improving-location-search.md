@@ -77,7 +77,7 @@ We updated the site list page to reflect how sites are displayed on NHS.uk, and 
 
 Most participants preferred using a full postcode for accuracy, especially those living in larger cities like London. Two participants said they would prefer to enter a town name. 
 
-**Location selection** 
+### Location selection
 
 Participants said the list of possible locations appeared clear and that they would be happy to select from it. 
 
