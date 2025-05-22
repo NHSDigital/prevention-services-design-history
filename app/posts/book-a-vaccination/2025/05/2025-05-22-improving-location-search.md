@@ -27,7 +27,7 @@ We reviewed the [find a pharmacy search on the NHS website](https://www.nhs.uk/s
 
  
 
-**Option 1 – Search and return results on next page** 
+### Option 1 – Search and return results on next page
 
 We designed a version that was similar to the service search function on NHS.uk.  This allowed the user to enter either: 
 
