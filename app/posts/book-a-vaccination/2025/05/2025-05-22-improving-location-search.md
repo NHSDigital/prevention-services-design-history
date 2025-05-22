@@ -91,7 +91,7 @@ Most users found the information clear and said provided all the details they ne
 
 ## Future considerations
 
-We may consider adding the 'use your location' function from the 'find a' service on NHS.uk in future.  
+We may consider adding the 'use your location' function from the 'find a' service on the NHS website in future.  
 
 We would first need to explore:
 
