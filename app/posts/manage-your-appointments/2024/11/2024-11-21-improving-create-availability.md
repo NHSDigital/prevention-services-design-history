@@ -31,4 +31,4 @@ Users understood that saving the sessions would publish the availability to NBS,
 
 Users expressed a need to create more flexibility, including adding multiple breaks within a session.
 
-Based on these findings, we concluded that creating sessions one by one worked better for our users, but that we needed to consider how we might add more flexibility to the journey
+Based on these findings, we concluded that creating sessions one by one worked better for our users, but that we needed to consider how we might add more flexibility to the journey.
