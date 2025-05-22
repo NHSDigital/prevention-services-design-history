@@ -85,7 +85,7 @@ The ability to try another town, city or postcode was seen as a helpful fallback
 
 > Entering the town name is good, I like it, quite clever because if my dad is visiting a different town we can get a site there for his jab. 
 
-**Choosing a site**
+### Choosing a site
 
 Most users found the information clear and said provided all the details they needed.  Participants generally preferred choosing the nearest site or one they had visited before.  
 
