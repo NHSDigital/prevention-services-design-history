@@ -23,7 +23,7 @@ We also observed users assuming there was only one site, and not scrolling down 
 
 We hypothesised that expanding the search functionality to allow users to search with partial postcodes or town names would make it easier for people to find appointments near their preferred location. 
 
-We reviewed the <a href="https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy/">find a pharmacy search on NHS.uk</a>, and based on this, proposed two potential design options.   
+We reviewed the [find a pharmacy search on the NHS website](https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy/), and based on this, proposed two potential design options.   
 
  
 
