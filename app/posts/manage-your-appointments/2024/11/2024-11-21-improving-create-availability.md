@@ -1,5 +1,5 @@
 ---
-title: Improving the create availability journey
+title: Improving how users create availability for bookings
 date: 2024-11-21
 ---
 
