@@ -45,7 +45,7 @@ If the user enters a city or town name, the system returns a list of potential m
 
  
 
-**Option 2 – Enhanced autocomplete search** 
+### Option 2 – Enhanced autocomplete search*
 
 Another option we considered was to use an autocomplete component to immediately return results based on the user input.  This would still allow users to search using full or partial postcodes, and town names. 
 
