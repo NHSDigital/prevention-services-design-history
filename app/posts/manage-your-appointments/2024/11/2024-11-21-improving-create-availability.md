@@ -3,7 +3,7 @@ title: Improving how users create availability for bookings
 date: 2024-11-21
 ---
 
-We knew from our previous research on creating availability, that the concept of availability periods didn’t fit well with our users mental models.  We’d found that users expected to create availability sessions, and publish these straight away. 
+We knew from our [previous research on creating availability](/manage-your-appointments/2024/10/create-availability/), that the concept of availability periods didn’t fit well with our users mental models.  We’d found that users expected to create availability sessions, and publish these straight away. 
 
 ## What we did 
 
