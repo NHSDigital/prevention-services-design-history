@@ -72,4 +72,15 @@ $govuk-font-family: Frutiger W01, arial, sans-serif;
   video {
     max-width: 100%;
   }
+
+  // Class to allow full-width, breaking out of the grid
+  // add to a lone element (ie img) or a container (ie figure)
+  .app-media--full-width {
+    width: 92vw;
+    max-width: 960px;
+
+    figcaption {
+      max-width: 44em;
+    }
+  }
 }
