@@ -4,6 +4,8 @@ description: "Personalised prevention services’ working definitions"
 date: 2025-06-03
 ---
 
+These working definitions aim to give people working on personalised prevention services a shared understanding of the language they’re using internally.
+
 ## Prevention
 
 Any work or activity we do to stop someone getting ill with a named clinical condition.
