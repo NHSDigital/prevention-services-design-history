@@ -1,5 +1,5 @@
 ---
-title: "Personalised prevention: working definitions"
+title: "Personalised prevention – working definitions"
 description: "Working definitions of terms we use when we’re talking about personalised prevention"
 date: 2025-06-03
 ---
