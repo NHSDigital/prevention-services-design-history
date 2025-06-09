@@ -53,7 +53,7 @@ Alongside screening appointment information, we’ve displayed the ‘Last known
 
 Mammographers would be expected to verify this information is correct. If it’s not, they would click ‘Add another’. 
 
-![Image description](participant-details.png "Image caption.")
+![Table of example patient data for a mammogram appointment including name, date of birth, ethnicity, address, phone, email and last known mammogram.](participant-details.png)
 
 It’s important to keep in mind when collecting this data that we are relying on each participant’s memory and understanding of what a mammogram is. It will be down to those asking the question to clarify that we need to know about breast X-rays, rather than any of the other types of screening scans they may have had. 
 
@@ -63,7 +63,7 @@ None of this collected data will sit in the system as ‘fact’ until the proce
 
 The first question we ask is where the breast X-rays were taken. 
 
-![Image description](previous-mammogram-location.png "Image caption.")
+![A form question asking where previous mammograms were taken - options are at this location, at another NHS location, somewhere else in the UK, outside the UK, or prefer not to say.](previous-mammogram-location.png)
 
 The answers each come with different implications: 
 
@@ -74,7 +74,7 @@ The answers each come with different implications:
 
 Next, we ask when this happened. 
 
-![Image description](previous-mammogram-date.png "Image caption.") 
+![A form question asking when previous mammograms were taken - options are to provide an exact date, an approximate day, or to say not sure.](previous-mammogram-date.png) 
 
 The possible answers are: 
 
@@ -86,15 +86,15 @@ The search for previous images will be much simpler if the correct name is used.
 
 Most commonly this would occur following a marriage. There’s no reason for us to collect the ‘why’, so we just ask what the previous name was. 
 
-![Image description](previous-mammogram-name.png "Image caption.")
+![A form question asking if previous mammograms were taken using the same as the participant's current name - options are yes or no, with the ability to add the name if they were not.](previous-mammogram-name.png "Image caption.")
 
 Before clicking continue, there is an opportunity to provide any additional information. There is yet to be an established user need for this but for the purposes of testing we’re making this available to see if there are any common details that might not be covered in our previous questions. 
 
-![Image description](previous-mammogram-info.png "Image caption.") 
+![A text area providing users space to add any additional information, for example the reasons for and outcome of a previous mammogram.](previous-mammogram-info.png "Image caption.") 
 
 After clicking continue, the previous mammogram is saved and presented alongside the last known mammogram within the appointment detail. Options will be available to edit this information or add another mammogram. 
 
-![Image description](new-mammogram-added.png "Image caption.")
+![A table showing the last known mammogram along with details of a new mammogram added during the appointment.](new-mammogram-added.png "Image caption.")
 
 ## Continuing or ending the appointment 
 
@@ -102,11 +102,11 @@ If the reported mammogram was more than 6 months ago, the appointment can procee
 
 If the date added is within the past 6 months, users are directed to a separate page. This can also be triggered by free text in the approximate date option, however this relies on the system being able to intelligently interpret the details that have been added - “3 months ago” is easy to assess, but “Earlier this year” would be less likely to be picked up. 
 
-![Image description](appointment-should-stop.png "Image caption.") 
+![A page suggesting that the appointment should not proceed as the last mammogram took place less than 6 months ago. The user is directed towards a button that cancels the appointment, but there is also an option to proceed.](appointment-should-stop.png "Image caption.") 
 
 Typically the appointment would stop here, however we’ve allowed users to override this and ‘Proceed with this appointment’ anyway. If they make a clinical decision to carry on, they are required to provide a reason for doing so. 
 
-![Image description](clinical-decision-needed.png "Image caption.") 
+![A page including a yellow warning box that alerts the user they are about to make a clinical decision to proceed against recommended advice. A text box is provided for their reason before proceeding.](clinical-decision-needed.png "Image caption.") 
 
 ## Preliminary testing 
 
