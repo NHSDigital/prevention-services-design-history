@@ -29,7 +29,7 @@ Here is an example of PDF results using test data.
 
 Because NBSS generates these reports in PDF, BSOs have struggled to find a way to automate the process of sending participant results to GP surgeries. The main problem that BSOs have faced is accessing the data held within NBSS in a format that would allow them to integrate with other digital services.
 
-Some BSOs told us that this leads to them being locked-in to certain printing suppliers. Even when their trust moves on to different ones. Whilst other service communications within trusts have been digitised, breast screening has been unable to.
+Some BSOs told us that this leads to them being locked in to certain printing suppliers. Even when their trust switch to different suppliers. Whilst other service communications within trusts have been digitised, breast screening has been unable to.
 
 **Most of the 3 million annual breast screening results are sent to participants and GP surgeries using paper.**
 
