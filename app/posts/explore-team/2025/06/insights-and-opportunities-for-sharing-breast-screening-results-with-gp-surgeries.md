@@ -47,7 +47,7 @@ Some BSOs, tired of waiting for a national solution, are creating their own. For
 
 On the other side of this, admin staff in GP surgeries receive an influx of paper results for their eligible breast screening participants every 3 years. We heard that this is unlike bowel cancer screening results that come in 'dribs and drabs' and are easier to handle.
 
-![GP system demo](MESH-demo-4.png " A GP staff member shared their screen with us to show how they receive breast screening results. SystmOne is the GP system on the left, and on the right is a test-data PDF screening result.")
+![GP system demo](MESH-demo-4.png "A GP staff member shared their screen with us to show how they receive breast screening results. SystmOne is the GP system on the left, and on the right is a test-data PDF screening result.")
 
 One practice showed us how pathology test results can be auto-filed after having rules applied to them. They said:
 
