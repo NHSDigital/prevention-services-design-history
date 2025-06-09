@@ -37,7 +37,7 @@ Some BSOs told us that this leads to them being locked in to certain printing su
 
 ## BSOs are doing everything they can to avoid human error
 
-We heard that dealing with breast screening results relies on 'triple checking', 'eyeballing' and 'auditing', which is stressful and exhausting for BSO staff who are battling with this manual process to avoid human error.
+We heard that dealing with breast screening results relies on 'triple checking', 'eyeballing', and 'auditing'. This is stressful and exhausting for BSO staff who are battling with this manual process to avoid human error.
 
 ![Paper trays at a BSO](letter-drop-front-desk.jpeg "A paper tray in a BSO asking participants to leave their invitation letters")
 
