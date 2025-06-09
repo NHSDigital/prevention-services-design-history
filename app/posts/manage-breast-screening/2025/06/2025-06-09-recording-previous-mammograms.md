@@ -1,6 +1,6 @@
 ---
   title: Recording previous mammograms
-  description: Helping radiographers and breast clinic admin teams to log mammograms that aren’t on their system
+  description: How we're helping radiographers and breast clinic admin teams to log mammograms that aren’t on their system
   date: 2025-06-09
   breast screening
   tags:
@@ -9,17 +9,17 @@
     - breast screening
 ---
 
-We’re helping radiographers and breast clinic admin teams to log mammograms that aren’t on their system. This will help radiologists when reviewing breast images, and prevent participants from receiving unnecessary radiation from having X-rays too soon. 
+We’re helping radiographers and breast clinic admin teams to log mammograms that aren’t on their system. This will help radiologists when reviewing breast images, and prevent participants from receiving unnecessary radiation by having X-rays too soon. 
 
 ## Getting a full picture 
 
-In routine breast cancer screening, women are invited to have a mammogram every three years. They have their breasts X-rayed, and these images are assessed by a specialist.  
+In routine breast cancer screening, women are invited to have a mammogram every three years. They have their breasts X-rayed, and the images taken are assessed by a specialist.  
 
-The X-ray images are stored for the future so radiologists reviewing them can compare them against previous scans.  
+The X-rays are stored for the future so radiologists looking for signs of cancer can compare the latest images against previous scans.  
 
-Each breast screening unit (BSU) will have details of prior mammograms taken there stored on their system. But if the participant moves area or has a mammogram at a private clinic, this information may not be available. 
+Each breast screening unit (BSU) will have details of prior mammograms taken at that location stored on their system. But if the participant has moved from a different area or has a mammogram at a private clinic, this information may not be available. 
 
-Previous X-rays are essential for radiologists, who will look to see if something that causes them concern appears on past scans, or has been previously investigated. This will influence their decision to recall for further assessment. 
+Previous mammogram information is essential for radiologists when reading images. They refer to them to see if something that causes them concern has appeared on past scans, or has been previously investigated. This will influence their decision on whether to recall a participant for further assessment. 
 
 Mammographers also need to know about previous mammograms to make sure a participant does not have breast X-rays within 6 months of each other. 
 
@@ -27,11 +27,11 @@ This timeframe is part of the [Ionising Radiation (Medical Exposures) Regulation
 
 ## Data integration 
 
-In an ideal world, the databases that hold breast X-ray image files and mammogram information from each BSU would all talk to each other, making it easy to locate this information using a name and NHS number. With complete data, nobody would receive an invite to a screening mammogram if they had received one within the past 6 months. 
+In an ideal world, the databases that hold breast X-ray image files and mammogram information from each BSU would be integrated, making it easy to locate this information using a name and NHS number. With complete data, nobody would receive an invite to a screening mammogram if they had received one within the past 6 months. 
 
 But that’s not always the case. 
 
-Mammogram data across the NHS is not stored centrally, so if someone moves area, their mammogram history may not follow with them. There is also no integration with private clinics where mammograms may have been taken, and if mammograms have been taken in another country it’s unlikely this will be on NHS records. 
+Mammogram data across the NHS is not stored centrally, so if someone moves area, their mammogram history may not follow with them. There is also no syndication with private clinics where mammograms may have been taken, and if mammograms have been taken in another country it’s unlikely this will be on NHS records. 
 
 ## Tracking down the detail 
 
