@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Personalised prevention services
-description: intro.
+description: Making it easy for people to understand their health risks and find the right services to stay well.
 pagination:
   data: collections.personalised-prevention-services
   reverse: true
