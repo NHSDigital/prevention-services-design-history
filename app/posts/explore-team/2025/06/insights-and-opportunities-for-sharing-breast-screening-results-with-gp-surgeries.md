@@ -49,13 +49,13 @@ On the other side of this, admin staff in GP surgeries receive an influx of pape
 
 ![GP system demo](MESH-demo-4.png "A GP staff member shared their screen with us to show how they receive breast screening results. SystmOne is the GP system on the left, and on the right is a test-data PDF screening result.")
 
-One practice showed us how pathology test results can be auto-filed after having rules applied to them. They said:
+One practice showed us how pathology test results can be automatically filed after having rules applied to them. They said:
 
 > "Bowel and cervical results come through already coded, so there is no burden or responsibility on staff to pick the right code - it just needs filing."
 
 But for breast screening results each letter or PDF result must be individually added to the patient's record and coded with the correct SNOMED code. Adding a SNOMED code means the result is searchable within a patient's record.
 
-Despite their best efforts, GP surgeries simply cannot keep up with the paper and PDFs they receive from breast screening as well as from hospitals and other services. One GP staff member told us that their practice receives 300 letters and emails a day. Some employ clinical coders specifically to deal with them.
+Despite their best efforts, GP surgeries simply cannot keep up with the paper and PDFs they receive from breast screening as well as from hospitals and other services. One GP staff member told us that their practice receives 300 letters and emails a day. Some practices employ clinical coders specifically to deal with them.
 
 We heard:
 
@@ -126,7 +126,7 @@ The underlying change needed is not easy.
 
 Participant results and GP results need to come from the same source of data (currently NBSS). If that source changes, it needs to change for both recipients.
 
-There might be more dependencies that we need to be aware of. For example, we heard that BSO communications are entangled with the wider trust communications.
+There might be more dependencies we need to be aware of. For example, we heard that BSO communications are entangled with the wider trust communications.
 
 Because the reality on the ground is complex and varied, we are proposing a 'test and learn' approach. We'd work with one or a small number of BSOs to design a solution that works for them.
 
