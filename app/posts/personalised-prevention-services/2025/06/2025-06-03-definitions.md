@@ -18,7 +18,7 @@ The examination and treatment of patients and ill people by a medical profession
 
 Clinical services are specifically provided by medical professionals.
 
-A clinical service the Personalised Prevention Platform recommends might be a self-referral to Talking Therapies.
+A clinical service the Personalised Prevention Platform recommends might be a self‑referral to Talking Therapies.
 
 ### Lifestyle
 
