@@ -97,7 +97,7 @@ Even where GP surgeries are working hard to code participant results, there's a 
 
 This makes it much harder for BSOs and GP surgeries to design local interventions to target areas or segments of the population who don't attend screening. Unlike other screening services, such as bowel screening, GPs won't always know if a patient has attended their screening appointment.
 
-> "So if Mrs. Jones came and is really reluctant to have [their] breast screening, there's no conversation happening [with a clinician] because it's not on the system"
+> "So if Mrs Jones came and is really reluctant to have [their] breast screening, there's no conversation happening [with a clinician] because it's not on the system"
 
 ## There are clear opportunities for improvement
 
