@@ -1,15 +1,15 @@
 ---
 title: "Health assessments discovery"
 description:
-  "Summary of a discovery exploring which health checks the NHS could offer as digital self-assessments, and how to evaluate their potential."
+  "Summary of a discovery exploring which health checks the NHS could offer as digital self‑assessments, and how to evaluate their potential."
 date: 2025-06-09
 ---
 
 This discovery sought to understand whether the NHS could introduce additional health checks as a digital self‑assessment.
 
-Evidence strongly confirms that offering health checks to patients contributed to reducing health risks.
+Evidence strongly confirms that offering health checks to patients contributes to reducing health risks.
 
-However, there is not sufficient understanding of what types of checks would provide the most benefit to patients if offered as a digital self‑assessment. It is also unclear if providing healthcare professionals (HCPs) with a choice between digital and in‑person assessments would add value.
+However, we don't sufficiently understand what types of checks would provide the most benefit to patients if offered as a digital self‑assessment. It is also unclear if providing healthcare professionals (HCPs) with a choice between digital and in‑person assessments would add value.
 
 We also did not know which groups would benefit most from access to self‑assessments, or how to ensure disadvantaged groups were included appropriately.
 
@@ -164,7 +164,7 @@ For each of these questions, the health assessment needs to meet at least one of
 
 Stage 3 examined how feasible it would be to offer a digital version of an assessment. All health assessments follow a similar high‑level process – Data submission, Data storage and evaluation, and onward action.
 
-In this stage we map the data points that would be required to fulfil the end‑to-end assessment. These data points are then categorised into the following:
+In this stage we map the data points that would be required to fulfil the end‑to‑end assessment. These data points are then categorised into the following:
 
 // to do add diagram
 
