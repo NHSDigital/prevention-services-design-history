@@ -24,7 +24,7 @@ A clinical service the Personalised Prevention Platform recommends might be a se
 
 The way someone lives.
 
-A lifestyle service the Personalised Prevention Platform recommends might be a non-medical service we think could help stop you getting ill, for example WeightWatchers or a yoga class.
+A lifestyle service recommended to a user might be a non‑medical service we think could help stop you getting ill, for example WeightWatchers or a yoga class.
 
 Lifestyle services are not delivered by medical professionals.
 
