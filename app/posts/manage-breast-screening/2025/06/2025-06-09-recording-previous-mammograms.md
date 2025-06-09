@@ -53,7 +53,7 @@ Alongside screening appointment information, we’ve displayed the ‘Last known
 
 Mammographers would be expected to verify this information is correct. If it’s not, they would click ‘Add another’. 
 
-![Table of example patient data for a mammogram appointment including name, date of birth, ethnicity, address, phone, email and last known mammogram.](participant-details.png)
+![Table of example participant data for a mammogram appointment including name, date of birth, ethnicity, address, phone, email and last known mammogram.](participant-details.png)
 
 It’s important to keep in mind when collecting this data that we are relying on each participant’s memory and understanding of what a mammogram is. It will be down to those asking the question to clarify that we need to know about breast X-rays, rather than any of the other types of screening scans they may have had. 
 
@@ -67,10 +67,10 @@ The first question we ask is where the breast X-rays were taken.
 
 The answers each come with different implications: 
 
-- **‘At [THIS LOCATION]’** suggests there’s an issue with how internal database are synced 
-- **‘At another NHS breast screening unit’** presents a selection of the other BSUs across the UK (with an autocomplete text input) 
+- **‘At [THIS LOCATION]’** suggests there’s an issue with how the internal database is synced 
+- **‘At another NHS breast screening unit’** prompts the user to select from the other BSUs across the UK (with an autocomplete text input) 
 - **‘Somewhere else in the UK’** or **‘Outside the UK’** triggers a free-text area to provide details on the clinic, hospital or any other detail that would help them be tracked down. We’re treating these as separate fields as we’re likely to be able to source mammograms if they happened in the UK, but it’s less likely if they were abroad 
-- **‘Prefer not to say’** would likely be a rare response but something we need to provide for certain scenarios, for example, if they were in prison which the participant does not want to divulge 
+- **‘Prefer not to say’** we need to provide this for certain scenarios, for example, if they were in prison which the participant does not want to divulge 
 
 Next, we ask when this happened. 
 
