@@ -93,7 +93,7 @@ The inconsistent coding of participant results means that data on screening upta
 
 Even where GP surgeries are working hard to code participant results, there's a delay in the data because of the backlogs that staff are working with.
 
-> "We've got a very big practice that's got 20,000 patients, they had just over 1,000 patients to be screened who were eligible in their last round, which was November...They've not yet got through all of that coding just because it's hundreds and hundreds of manual entries to get them in. So our data...isn't up to date. I can't rely on it yet because that data lag is there."
+> "We've got a very big practice that's got 20,000 patients, they had just over 1,000 patients to be screened who were eligible in their last round, which was November... They've not yet got through all of that coding just because it's hundreds and hundreds of manual entries to get them in. So our data... isn't up to date. I can't rely on it yet because that data lag is there."
 
 This makes it much harder for BSOs and GP surgeries to design local interventions to target areas or segments of the population who don't attend screening. Unlike other screening services, such as bowel screening, GPs won't always know if a patient has attended their screening appointment.
 
