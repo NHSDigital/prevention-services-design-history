@@ -45,7 +45,7 @@ Any service that can be used in a self-service way, for example by:
 
 ### NHS only
 
-Services presenting as “from the NHS”, for example Couch to 5k or Better Health services. Possibly funded centrally by, for example, NHSE or DHSC.
+Services presenting as “from the NHS”, for example Couch to 5k or Better Health services. These services might be funded centrally by organisations like NHSE or DHSC.
 
 ### NHS-supported services
 
@@ -55,7 +55,7 @@ A service that’s delivered in partnership with a charity like Mind or anything
 
 ### Wider healthcare prevention services
 
-Anything else not funded by NHS bodies, for example services provided by:
+Anything else not funded by NHS bodies, such as services provided by:
 * councils, for example leisure centres, gyms or wellness hubs
 * the third sector, for example by a community group or voluntary organisation
 * private organisations, for example, Better Health recommends WeightWatchers and Joe Wicks
