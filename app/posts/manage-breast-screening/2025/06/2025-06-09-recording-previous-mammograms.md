@@ -53,7 +53,7 @@ Alongside screening appointment information, we’ve displayed the ‘Last known
 
 Mammographers would be expected to verify this information is correct. If it’s not, they would click ‘Add another’. 
 
-![Image description](image-reading-workstation.jpg "Image caption.")
+![Image description](participant-details.png "Image caption.")
 
 It’s important to keep in mind when collecting this data that we are relying on each participant’s memory and understanding of what a mammogram is. It will be down to those asking the question to clarify that we need to know about breast X-rays, rather than any of the other types of screening scans they may have had. 
 
@@ -63,7 +63,7 @@ None of this collected data will sit in the system as ‘fact’ until the proce
 
 The first question we ask is where the breast X-rays were taken. 
 
-![Image description](image-reading-workstation.jpg "Image caption.")
+![Image description](previous-mammogram-location.png "Image caption.")
 
 The answers each come with different implications: 
 
@@ -74,7 +74,7 @@ The answers each come with different implications:
 
 Next, we ask when this happened. 
 
-![Image description](image-reading-workstation.jpg "Image caption.") 
+![Image description](previous-mammogram-date.png "Image caption.") 
 
 The possible answers are: 
 
@@ -86,15 +86,15 @@ The search for previous images will be much simpler if the correct name is used.
 
 Most commonly this would occur following a marriage. There’s no reason for us to collect the ‘why’, so we just ask what the previous name was. 
 
-![Image description](image-reading-workstation.jpg "Image caption.")
+![Image description](previous-mammogram-name.png "Image caption.")
 
 Before clicking continue, there is an opportunity to provide any additional information. There is yet to be an established user need for this but for the purposes of testing we’re making this available to see if there are any common details that might not be covered in our previous questions. 
 
-![Image description](image-reading-workstation.jpg "Image caption.") 
+![Image description](previous-mammogram-info.png "Image caption.") 
 
 After clicking continue, the previous mammogram is saved and presented alongside the last known mammogram within the appointment detail. Options will be available to edit this information or add another mammogram. 
 
-![Image description](image-reading-workstation.jpg "Image caption.")
+![Image description](new-mammogram-added.png "Image caption.")
 
 ## Continuing or ending the appointment 
 
@@ -102,11 +102,11 @@ If the reported mammogram was more than 6 months ago, the appointment can procee
 
 If the date added is within the past 6 months, users are directed to a separate page. This can also be triggered by free text in the approximate date option, however this relies on the system being able to intelligently interpret the details that have been added - “3 months ago” is easy to assess, but “Earlier this year” would be less likely to be picked up. 
 
-![Image description](image-reading-workstation.jpg "Image caption.") 
+![Image description](appointment-should-stop.png "Image caption.") 
 
 Typically the appointment would stop here, however we’ve allowed users to override this and ‘Proceed with this appointment’ anyway. If they make a clinical decision to carry on, they are required to provide a reason for doing so. 
 
-![Image description](image-reading-workstation.jpg "Image caption.") 
+![Image description](clinical-decision-needed.png "Image caption.") 
 
 ## Preliminary testing 
 
