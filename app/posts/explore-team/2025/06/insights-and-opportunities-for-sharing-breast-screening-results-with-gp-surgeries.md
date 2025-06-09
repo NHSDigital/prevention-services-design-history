@@ -39,7 +39,7 @@ Some BSOs told us that this leads to them being locked-in to certain printing su
 
 We heard that dealing with breast screening results relies on 'triple checking', 'eyeballing' and 'auditing', which is stressful and exhausting for BSO staff who are battling with this manual process to avoid human error.
 
-![Paper trays at a BSO](letter-drop-front-desk.jpeg "A paper tray in a BSO asking participants to leave their invitations letters")
+![Paper trays at a BSO](letter-drop-front-desk.jpeg "A paper tray in a BSO asking participants to leave their invitation letters")
 
 Some BSOs, tired of waiting for a national solution, are creating their own. For example, at University Hospitals Sussex NHS Foundation Trust the breast screening services developed a digital system to share results with GP surgeries using Crystal reports.
 
