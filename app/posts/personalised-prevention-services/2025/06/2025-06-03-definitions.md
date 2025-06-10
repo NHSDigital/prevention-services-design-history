@@ -8,25 +8,25 @@ These working definitions aim to give people working on personalised prevention 
 
 ## Prevention
 
-Any work or activity we do to stop someone getting ill with a named clinical condition.
+Any work or activity we do to stop someone getting ill with a named clinical condition, or someone living with a named condition worsening.
 
-## Clinical versus lifestyle
+## Clinical treatment versus lifestyle and behaviour change
 
-### Clinical
+### Clinical treatment
 
 The examination and treatment of patients and ill people by a medical professional.
 
-Clinical services are specifically provided by medical professionals.
+Clinical treatment services are specifically provided by medical professionals.
 
-A clinical service the Personalised Prevention Platform recommends might be a self‑referral to Talking Therapies.
+A clinical treatment service the Personalised Prevention Platform recommends might be a self‑referral to Talking Therapies.
 
-### Lifestyle
+### Lifestyle and behaviour change
 
 The way someone lives.
 
-A lifestyle service recommended to a user might be a non‑medical service we think could help stop you getting ill, for example WeightWatchers or a yoga class.
+A lifestyle and behaviour change service recommended to a user might be a non‑medical service we think could help stop you getting ill, for example WeightWatchers or a yoga class.
 
-Lifestyle services are not delivered by medical professionals.
+Lifestyle and behaviour change services are not required to be delivered by medical professionals.
 
 ## Assisted and unassisted services
 
