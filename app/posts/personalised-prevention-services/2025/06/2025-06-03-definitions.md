@@ -24,7 +24,7 @@ A clinical treatment service the Personalised Prevention Platform recommends mig
 
 The way someone lives.
 
-A lifestyle and behaviour change service recommended to a user might be a non‑medical service we think could help stop you getting ill, for example WeightWatchers or a yoga class.
+A lifestyle and behaviour change service recommended to a user might be a service we think could help stop you getting ill, for example WeightWatchers or a yoga class.
 
 Lifestyle and behaviour change services are not required to be delivered by medical professionals.
 
