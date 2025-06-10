@@ -9,7 +9,7 @@ tags:
   - NBSS
 ---
 
-In our [previous design history](https://design-history.prevention-services.nhs.uk/explore-team/2025/04/finding-the-right-solution-for-sharing-breast-results-with-GPs/) we described what an alpha team taking our discovery work forward would need to solve. At that point we still needed to synthesise findings from over 40 conversations and emails with breast screening office (BSO) staff, general practice (GP) staff and internal NHSE colleagues.
+In our [previous design history](https://design-history.prevention-services.nhs.uk/explore-team/2025/04/finding-the-right-solution-for-sharing-breast-results-with-GPs/) we described the problems an alpha team taking our discovery work forward would need to solve. At that point we still needed to synthesise findings from over 40 conversations and emails with breast screening office (BSO) staff, general practice (GP) staff and internal NHSE colleagues.
 
 In this post we'll share:
 
@@ -31,9 +31,7 @@ Because NBSS generates these reports in PDF, BSOs have struggled to find a way t
 
 Some BSOs told us that this leads to them being locked in to certain printing suppliers. Even when their trust switch to different suppliers. Whilst other service communications within trusts have been digitised, breast screening has been unable to.
 
-**Most of the 3 million annual breast screening results are sent to participants and GP surgeries using paper.**
-
-![Printer with paper](printer-in-a-BSO.png "Image description: Results are printed on perforated paper at a BSO")
+Most of the 3 million annual breast screening results are sent to participants and GP surgeries using paper.
 
 ## BSOs are doing everything they can to avoid human error
 
@@ -41,11 +39,13 @@ We heard that dealing with breast screening results relies on 'triple checking',
 
 ![Paper trays at a BSO](letter-drop-front-desk.jpeg "A paper tray in a BSO asking participants to leave their invitation letters")
 
-Some BSOs, tired of waiting for a national solution, are creating their own. For example, at University Hospitals Sussex NHS Foundation Trust the breast screening services developed a digital system to share results with GP surgeries using Crystal reports.
+Some BSOs, tired of waiting for a national solution, are creating their own. For example, at University Hospitals Sussex NHS Foundation Trust the [breast screening services developed a digital system](https://www.uhsussex.nhs.uk/news/innovative-digital-system-helps-improve-access-to-breast-screening-in-sussex/) to share results with GP surgeries using Crystal reports.
 
 ## GP surgeries battle with paper piling up on desks
 
-On the other side of this, admin staff in GP surgeries receive an influx of paper results for their eligible breast screening participants every 3 years. We heard that this is unlike bowel cancer screening results that come in 'dribs and drabs' and are easier to handle.
+Eligible participants are invited for screening every 3 years. The complex participant selection rules mean that, in some regions, all eligible participants at a GP surgery will be invited at the same time.  
+
+When the results are posted to GP surgeries, admin staff receive an influx of paperwork that needs processing. We heard that this is unlike bowel cancer screening results, where eligible participants are screened on a rolling basis. This means the results come in ‘dribs and drabs’ and are easier to handle. 
 
 ![GP system demo](MESH-demo-4.png "A GP staff member shared their screen with us to show how they receive breast screening results. SystmOne is the GP system on the left, and on the right is a test-data PDF screening result.")
 
@@ -63,7 +63,7 @@ We heard:
 
 and:
 
-> "As much as everybody is aware of the importance of this, unfortunately what we found is that having dedicated people in practises to sit and manually put that information onto the system, it sometimes gets delayed due to staff absences, other priorities in the practice. Some practices just simply cannot keep up with it."
+> "As much as everybody is aware of the importance of this, unfortunately what we found is that having dedicated people in practices to sit and manually put that information onto the system, it sometimes gets delayed due to staff absences, other priorities in the practice. Some practices just simply cannot keep up with it."
 
 One BSO told us that they surveyed GP practices and found that many:
 
@@ -81,11 +81,13 @@ This local coding is often applied inconsistently, potentially leading to years 
 
 ## What this means for screening participants
 
-There's a risk of people being invited to screening when they're not due. For example, one BSO invited everyone who hadn't attended breast screening based on their GP patient records. But they had been screened the year before. The BSO then received a huge number of calls from participants trying to book appointments. But most of these participants didn't need to be screened.
+Inaccurate data create a risk of people being invited to screening when they're not due. For example, one BSO invited everyone who appeared to have missed their breast screening appointment based on their GP patient records. 
+
+But they had been screened the year before, their GP record wasn't up to date. The BSO then received a huge number of calls from participants trying to book unnecessary appointments.
 
 We heard that the system for routine screening, NBSS, doesn't interact with systems for symptomatic services. So a person who is under the care of a different pathway might be invited for a routine screening when they shouldn't be.
 
-There's also a risk that participants who are eligible for additional support might not be receiving it. Some cancer care coordinators rely on pulling reports of patients who have had a recent diagnosis to see who needs support. If a participant's abnormal result wasn't entered on their GP record, for example, they would not appear on those reports.
+There's also a risk that participants who are eligible for additional support might not be receiving it. Some cancer care coordinators rely on pulling reports of patients who have had a recent diagnosis to see who needs support. If a participant's abnormal result (showing they have cancer) wasn't entered on their GP record, for example, they would not appear on those reports.
 
 ## National screening uptake data is inaccurate
 
@@ -103,7 +105,7 @@ This makes it much harder for BSOs and GP surgeries to design local intervention
 
 Moving from a largely paper-based process of sending and posting results to GP surgeries to an automated digital service would save on the cost of printing and staff time. It would remove the stressful burden on staff of triple checking paper results and manually coding to patient records.
 
-We estimated that the benefits of a solution will result in:
+Quantified the benefits of a solution, focusing only on automating breast screening results sent to GPs. Our initial analysis estimated the benefits of a solution will result in:
 
 - 152,000 GP staff hours saved annually, an equivalent of £1.3 million
 - £333,000 of reduced letter spend by BSOs or trusts
@@ -128,7 +130,7 @@ Participant results and GP results need to come from the same source of data (cu
 
 There might be more dependencies we need to be aware of. For example, we heard that BSO communications are entangled with the wider trust communications.
 
-Because the reality on the ground is complex and varied, we are proposing a 'test and learn' approach. We'd work with one or a small number of BSOs to design a solution that works for them.
+Because the reality on the ground is complex and varied, we suggest working with one or a small number of BSOs to design a solution that works for them. Following the [NHS service standard](https://service-manual.nhs.uk/standards-and-technology/service-standard), the team can use agile ways of working to iteratively design and build a solution. 
 
 
 ![Focus on MVP](MVP.png "A chart showing the number of users on one axis, and time on another. The minimum viable product (MVP) starts early on with a small number of users. As time goes on the number of users increases as we learn more and become more confident in our solution. Concept credit: Richard Pope")
@@ -139,7 +141,7 @@ We know there's an urgent need for a solution for both BSOs and GP surgeries. Th
 
 The problems that the PDF reports from NBSS create are just one part of a bigger and more complex picture. The GP IT suppliers, who control data in the patient record, would also need to be involved to fully solve the problem of sharing results with GP surgeries. We are dependent on them to add any potential solution to their roadmaps.
 
-Next, we need to understand if we can design an intermediate solution to this problem. Or if the solution will be found as part of replacing NBSS which NHS England has just announced. Both approaches will have their pros and cons.
+Next, we need to understand if we can design an intermediate solution to this problem. Or if the solution will be found as part of [replacing NBSS (requires login to NHS Futures)](https://future.nhs.uk/vaccsandscreening/view?objectId=249769957) which NHS England has just announced. Both approaches will have their pros and cons.
 
 ## A thank you
 
