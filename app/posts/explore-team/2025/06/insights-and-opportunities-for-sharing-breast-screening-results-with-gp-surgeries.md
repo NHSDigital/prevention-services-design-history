@@ -81,9 +81,9 @@ This local coding is often applied inconsistently, potentially leading to years 
 
 ## What this means for screening participants
 
-Inaccurate data creates a risk of people being invited to screening when they're not due. For example, one BSO invited everyone who appeared to have missed their breast screening appointment based on their GP patient records. 
+Inaccurate data creates a risk of people being invited to screening when they're not due. 
 
-But they had been screened the year before, their GP record wasn't up to date. The BSO then received a huge number of calls from participants trying to book unnecessary appointments.
+For example, one BSO invited everyone who appeared to have missed their breast screening appointment based on their GP patient records. But they had been screened the year before, their GP record wasn't up to date. The BSO then received a huge number of calls from participants trying to book unnecessary appointments.
 
 We heard that the system for routine screening, NBSS, doesn't interact with systems for symptomatic services. So a person who is under the care of a different pathway might be invited for a routine screening when they shouldn't be.
 
@@ -105,7 +105,7 @@ This makes it much harder for BSOs and GP surgeries to design local intervention
 
 Moving from a largely paper-based process of sending and posting results to GP surgeries to an automated digital service would save on the cost of printing and staff time. It would remove the stressful burden on staff of triple checking paper results and manually coding to patient records.
 
-Quantified the benefits of a solution, focusing only on automating breast screening results sent to GPs. Our initial analysis estimated the benefits of a solution will result in:
+We quantified the benefits of a solution, focusing only on automating breast screening results sent to GPs. Our initial analysis estimated the benefits of a solution will result in:
 
 - 152,000 GP staff hours saved annually, an equivalent of £1.3 million
 - £333,000 of reduced letter spend by BSOs or trusts
