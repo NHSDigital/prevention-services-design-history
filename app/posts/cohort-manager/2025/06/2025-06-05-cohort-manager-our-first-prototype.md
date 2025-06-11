@@ -9,10 +9,9 @@ tags:
   - cohort manager breast screening
 ---
 
-Cohort manager is being developed to help identify, receive and correct the demographic details for eligible participants of a screening service, so that they are correctly selected for invitation. It is initially being built for use with the breast screening programme, with the intent that it will be available for use by any screening programme in the future. 
+Cohort manager is being developed to help identify, receive and correct the demographic details for eligible participants of a screening service, so they are correctly selected for invitation. It's initially being built for use with the breast screening programme, with the intent that it will be available for use by any screening programme in the future. 
 
-
-Please note that the post provides the early design of our user interface. We will be sharing updated versions soon and exploring how it has been developed to align with changes in our user group and the tasks they will complete. 
+Please note that this post provides the early design of our user interface. We'll be sharing updated versions soon and exploring how it has been developed to align with changes in our user group and the tasks they will complete. 
 
 ## Improving the quality of screening data
 
