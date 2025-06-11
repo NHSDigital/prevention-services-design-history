@@ -11,10 +11,6 @@ tags:
 
 Cohort manager is being developed to help identify, receive and correct the demographic details for eligible participants of a screening service, so that they are correctly selected for invitation. It is initially being built for use with the breast screening programme, with the intent that it will be available for use by any screening programme in the future. 
 
-This post will explore:
-
-* cohort manager's ability to improve the quality of screening data 
-* the very first design of our user interface 
 
 Please note that the post provides the early design of our user interface. We will be sharing updated versions soon and exploring how it has been developed to align with changes in our user group and the tasks they will complete. 
 
@@ -58,7 +54,7 @@ The intention is that by presenting the information in a [basic table](https://s
 
 Other key design components included on the summary page are:  
 
-**Snapshots of key information for each exception** 
+#### Snapshots of key information for each exception
 
 From our research with users, we knew that information they looked for to help prioritise and carry out their tasks effectively were:   
 
@@ -66,7 +62,7 @@ From our research with users, we knew that information they looked for to help p
 * the date the exception was created 
 * a short description of the problem 
 
-**Unique identifier for each exception** 
+#### Unique identifier for each exception
 
 Each exception has a unique ID. We used this as the point of navigation for the user to find more detail about an exception. 
 
@@ -86,7 +82,7 @@ The level of detail included was based on our research with this user group. We 
 * avoiding overloading them with information  
 * preventing information governance issues that may arise from revealing more personal data than is needed for a task 
 
-To keep the layout simple, we used the principles of a summary list to pair related information and used [tabs](https://service-manual.nhs.uk/design-system/components/tabs) to separate the participant data from the details of the exception that has occurred. Our intention was to structure the information in a way that places the least strain possible on the user. 
+To keep the layout simple, we used a summary list to pair related information and used [tabs](https://service-manual.nhs.uk/design-system/components/tabs) to separate the participant data from the details of the exception that has occurred. Our intention was to structure the information in a way that places the least strain possible on the user. 
 
 ## Next steps 
 
