@@ -54,7 +54,7 @@ The intention is that by presenting the information in a [basic table](https://s
 
 Other key design components included on the summary page are:  
 
-**Snapshots of key information for each exception** 
+#### Snapshots of key information for each exception
 
 From our research with users, we knew that information they looked for to help prioritise and carry out their tasks effectively were:   
 
