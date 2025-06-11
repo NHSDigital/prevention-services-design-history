@@ -8,9 +8,7 @@ tags:
   - cohort manager diabetic eye screening
 --- 
 
-## What was the purpose of the project?   
-
-Digital screening teams have set out to work on the digital transformation of national screening programmes. The [review of the breast screening services in 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/764413/independent-breast-screening-review-report.pdf) resulted in breast screening being prioritised for this enormous task. Next in line was the diabetic eye screening (DES) programme; the discovery work for which had been paused in early 2024. Diabetic eye screening is an important test for people with diabetes to check for diabetic retinopathy, a condition that can lead to irreversible sight loss if not detected and treated early. This screening is usually offered for free and is an essential part of diabetes care to help prevent vision loss. You can read more about diabetic eye screening here.  
+Digital screening teams have set out to work on the digital transformation of national screening programmes. The [review of the breast screening services in 2018](https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/764413/independent-breast-screening-review-report.pdf) resulted in breast screening being prioritised for this enormous task. Next in line was the diabetic eye screening (DES) programme; the discovery work for which had been paused in early 2024. Diabetic eye screening is an important test for people with diabetes to check for diabetic retinopathy, a condition that can lead to irreversible sight loss if not detected and treated early. This screening is usually offered for free and is an essential part of diabetes care to help prevent vision loss. Learn more about [diabetic eye screening](https://www.nhs.uk/tests-and-treatments/diabetic-eye-screening/).  
 
 The commercial contracts for cohorting and quality assurance (QA) services with third-party providers for DES expire in 2026, presenting a strong commercial and business case for the digital screening programme to consider DES.  
 
