@@ -36,9 +36,11 @@ We examined and synthesised the pain points identified in the programme by diffe
 
 ## Output 
 
-We produced a high-level artefact of the DES as-is and desired to-be end-to-end screening journey  
+We produced a high-level artefact of the DES as-is and desired to-be end-to-end screening journey.
 
-We started with bringing together various teams and professions to engage with the artefact so all teams could have a shared understanding of DES and our to-be desired state. Moreover, getting more teams and professions involved meant more perspectives and ideas to examine a possible vision for DES  
+![The high level end-to-end desired journey for diabetic eye screening](end-to-end-journey.png)
+
+We started with bringing together various teams and professions to engage with the artefact so all teams could have a shared understanding of DES and our to-be desired state. Moreover, getting more teams and professions involved meant more perspectives and ideas to examine a possible vision for DES.
 
 The artefact has become a starting point for various outcome teams who can start visualising the end-to-end user journeys, systems and processes and then zoom into their specific service offerings and products.   
 
