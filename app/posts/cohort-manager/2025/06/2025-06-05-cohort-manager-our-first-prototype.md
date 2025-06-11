@@ -62,7 +62,7 @@ From our research with users, we knew that information they looked for to help p
 * the date the exception was created 
 * a short description of the problem 
 
-**Unique identifier for each exception** 
+#### Unique identifier for each exception
 
 Each exception has a unique ID. We used this as the point of navigation for the user to find more detail about an exception. 
 
