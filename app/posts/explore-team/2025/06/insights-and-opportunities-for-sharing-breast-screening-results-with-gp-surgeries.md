@@ -9,7 +9,7 @@ tags:
   - NBSS
 ---
 
-In our [previous design history](https://design-history.prevention-services.nhs.uk/explore-team/2025/04/finding-the-right-solution-for-sharing-breast-results-with-GPs/) we described the problems an alpha team taking our discovery work forward would need to solve. At that point we still needed to synthesise findings from over 40 conversations and emails with breast screening office (BSO) staff, general practice (GP) staff and internal NHSE colleagues.
+In our [previous design history](/explore-team/2025/04/finding-the-right-solution-for-sharing-breast-results-with-GPs/) we described the problems an alpha team taking our discovery work forward would need to solve. At that point we still needed to synthesise findings from over 40 conversations and emails with breast screening office (BSO) staff, general practice (GP) staff and internal NHSE colleagues.
 
 In this post we'll share:
 
