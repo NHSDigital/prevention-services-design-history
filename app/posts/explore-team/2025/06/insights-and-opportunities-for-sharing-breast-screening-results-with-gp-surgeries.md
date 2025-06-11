@@ -81,7 +81,7 @@ This local coding is often applied inconsistently, potentially leading to years 
 
 ## What this means for screening participants
 
-Inaccurate data create a risk of people being invited to screening when they're not due. For example, one BSO invited everyone who appeared to have missed their breast screening appointment based on their GP patient records. 
+Inaccurate data creates a risk of people being invited to screening when they're not due. For example, one BSO invited everyone who appeared to have missed their breast screening appointment based on their GP patient records. 
 
 But they had been screened the year before, their GP record wasn't up to date. The BSO then received a huge number of calls from participants trying to book unnecessary appointments.
 
