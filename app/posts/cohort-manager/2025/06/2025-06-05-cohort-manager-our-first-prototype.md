@@ -82,7 +82,7 @@ The level of detail included was based on our research with this user group. We 
 * avoiding overloading them with information  
 * preventing information governance issues that may arise from revealing more personal data than is needed for a task 
 
-To keep the layout simple, we used the principles of a summary list to pair related information and used [tabs](https://service-manual.nhs.uk/design-system/components/tabs) to separate the participant data from the details of the exception that has occurred. Our intention was to structure the information in a way that places the least strain possible on the user. 
+To keep the layout simple, we used a summary list to pair related information and used [tabs](https://service-manual.nhs.uk/design-system/components/tabs) to separate the participant data from the details of the exception that has occurred. Our intention was to structure the information in a way that places the least strain possible on the user. 
 
 ## Next steps 
 
