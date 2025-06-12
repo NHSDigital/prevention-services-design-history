@@ -8,13 +8,13 @@
     - breast screening
 ---
 
-We’re helping radiographers and breast clinic admin teams to log mammograms that aren’t on their system. This will help radiologists when reviewing breast images, and prevent participants from receiving unnecessary radiation by having X-rays too soon. 
+We’re helping radiographers and breast clinic admin teams to log mammograms that aren’t on their system. This will help radiologists when reviewing breast images, and protect participants from unnecessary radiation exposure by having X-rays too soon. 
 
 ## Getting a full picture 
 
 In routine breast cancer screening, women are invited to have a mammogram every three years. They have their breasts X-rayed, and the images taken are assessed by a specialist.  
 
-The X-rays are stored for the future so radiologists looking for signs of cancer can compare the latest images against previous scans. They refer to them to see if something that causes them concern has appeared on past scans, or has been previously investigated. This will influence their decision on whether to recall a participant for further assessment. 
+The X-rays are stored for the future so radiologists looking for signs of cancer can compare the latest images against previous scans. They refer to them to see if something that causes them concern has appeared previously, or has already been investigated. This will influence their decision on whether to recall a participant for further assessment. 
 
 Mammographers also need to know about previous mammograms to make sure a participant does not have breast X-rays within 6 months of each other. 
 
@@ -36,13 +36,13 @@ Once underway, this is a relatively smooth process. The difficulty comes with en
 
 The BSUs we have visited and spoken to use a variety of ways to collect and communicate this information. Most commonly this will be recorded manually on a paper screening form during an appointment which is then transcribed before making the request. 
 
-By digitising this process, we’re hoping to make it more efficient to retrieve images, without adding any additional burden on mammographers when collecting information 
+By digitising this process, we’re hoping to make it more efficient to retrieve images, without adding any additional burden on mammographers when collecting information.
 
-## The previous mammogram user journey
+## The 'previous mammogram' user journey
 
-The most sensible time for this question to be asked is during the initial ID check. This is a potential appointment-stopper, so it's a necessary thing to establish up-front before progressing with other questions around the participant's medical history or current symptoms. 
+The most sensible time for participants to be asked about their most recent mammogram is during the initial ID check. This is a potential appointment-stopper, so it's a necessary thing to establish up-front before progressing with other questions around their medical history or current symptoms. 
 
-Alongside participant information, we’ve displayed thier ‘Last known mammogram’ held on our records, with details on when and where it was. 
+Alongside participant information, we’ve displayed their ‘Last known mammogram’ held on our records, with details on when and where it was. 
 
 Mammographers would be expected to verify this information is correct. If it’s not, they would click ‘Add another’. 
 
