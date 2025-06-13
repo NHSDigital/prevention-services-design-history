@@ -2,7 +2,7 @@
 title: Diabetic eye screening - start with what we know 
 description: How we approached understanding the service
 date: 2025-06-06
-author: Sakshi Lamba
+author: Sakshi Lamba Jhanji
 tags:
   - discovery
   - cohort manager diabetic eye screening
@@ -39,6 +39,7 @@ We examined and synthesised the pain points identified in the programme by diffe
 We produced a high-level artefact of the DES as-is and desired to-be end-to-end screening journey.
 
 ![The high level end-to-end desired journey for diabetic eye screening](end-to-end-journey.png)
+[Download the image as a PDF (102 KB)](/pdfs/cohort-manager/2025/06/start-with-what-we-know/diabetic-eye-desired-end-to-end-journey.pdf)
 
 We started with bringing together various teams and professions to engage with the artefact so all teams could have a shared understanding of DES and our to-be desired state. Moreover, getting more teams and professions involved meant more perspectives and ideas to examine a possible vision for DES.
 
