@@ -14,7 +14,7 @@ We’re helping radiographers and breast clinic admin teams to log mammograms th
 
 In routine breast cancer screening, women are invited to have a mammogram every three years. They have their breasts X-rayed, and the images taken are assessed by a specialist.  
 
-The X-rays are stored for the future so radiologists looking for signs of cancer can compare the latest images against previous scans. They refer to them to see if something that causes them concern has appeared previously, or has already been investigated. This will influence their decision on whether to recall a participant for further assessment. 
+The X-rays are stored for the future so radiologists looking for signs of cancer can compare the latest images against previous scans. They refer to them to see if something that causes them concern has appeared previously, or has already been investigated. This can influence their decision on whether to recall a participant for further assessment. 
 
 Mammographers also need to know about previous mammograms to make sure a participant does not have breast X-rays within 6 months of each other. 
 
