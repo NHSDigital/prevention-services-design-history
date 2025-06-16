@@ -1,7 +1,7 @@
 ---
   title: Recording previous mammograms
   description: How we're helping radiographers and breast clinic admin teams to log mammograms that aren’t on their system
-  date: 2025-06-09
+  date: 2025-06-16
   tags:
     - alpha
     - prototype
