@@ -97,7 +97,7 @@ If the date added is within the past 6 months, users are directed to a different
 
 ![A page suggesting that the appointment should not proceed as the last mammogram took place less than 6 months ago. The user is directed towards a button that cancels the appointment, but there is also an option to proceed.](appointment-should-stop.png) 
 
-Typically the appointment would stop here, however we’ve allowed users to override this and ‘Proceed with this appointment’ anyway. If they make a clinical decision to carry on, they are required to provide a reason for doing so. 
+Typically the appointment would stop here, however we’ve allowed mammographers to override this and ‘Proceed with this appointment’ anyway. If they make a clinical decision to carry on, they are required to provide a reason for doing so. 
 
 ![A page including a yellow warning box that alerts the user they are about to make a clinical decision to proceed against recommended advice. A text box is provided for their reason before proceeding.](clinical-decision-needed.png) 
 
