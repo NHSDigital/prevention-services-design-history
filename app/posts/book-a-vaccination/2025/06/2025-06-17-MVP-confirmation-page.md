@@ -3,7 +3,7 @@ title: "Allowing users to check their booking details"
 date: 2025-06-17
 ---
 
-We’ve found during research that some users find the end of the booking journey a little sudden. 
+We found during research that some users find the end of the booking journey a little sudden. 
 
 They are surprised by seeing the confirmation page, and worry they could've made a mistake when selecting their appointment. 
 
