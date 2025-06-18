@@ -24,7 +24,7 @@ This timeframe is part of the [Ionising Radiation (Medical Exposures) Regulation
 
 In an ideal world, the databases that hold breast X-ray image files and assessment information from each breast screening unit (BSU) would be integrated, making it easy to locate this information using a name and NHS number. With complete data, nobody would receive an invite to a screening mammogram if they had already had one within the past 6 months. 
 
-Each BSU will have details of prior mammograms taken at that location stored on their system. But mammogram data across the NHS is not stored centrally, so if someone moves area, their mammogram history may not follow with them. There is also no syndication with private clinics where mammograms may have been taken, and if mammograms have been taken in another country it’s unlikely this will be on NHS records.
+BSUs will usually have details of prior mammograms taken at that location stored on their system. But mammogram data across the NHS is not stored centrally, so if someone moves area, their mammogram history may not follow with them. There is also no syndication with private clinics where mammograms may have been taken, and if mammograms have been taken in another country it’s unlikely this will be on NHS records.
 
 ## Tracking down the detail 
 
