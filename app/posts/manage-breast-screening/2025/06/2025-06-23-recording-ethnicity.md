@@ -74,9 +74,9 @@ A more recent pattern using ONS data from the 2021 census is available on the [G
 
 The major change over the past 20 years has been the introduction of ethnic groups. This can be seen on services such as Register with a GP surgery, which asks users to select their ethnic group, and then a background. 
 
-![]()
+![A form on the Register with a GP service showing five broad ethnicity groups for users to select from](ethnicity-register-gp.png)
 
-![]()
+![A screen presented to users after making their initial ethnicity group selection, showing options for a more detailed ethnic background](ethnicity-register-gp-bg.png)
 
 ## Adjusting the pattern to meet our user needs 
 
@@ -86,7 +86,7 @@ With a two-step process, if the participant responded "I'm from Sri Lanka", user
 
 The initial solution we have implemented presents the available options on a single screen, with headings separating each ethnic group. The assumption is, this saves the user a click and takes away any need to assess in which group an ethnic background may be – as they get to know the service, users will instinctively know where on the list to look. 
 
-![]()
+![A prototype page from the Manage breast screening service showing all available ethnic background optiosn presented to users on a single page, with ethnic group subheadings](ethnicity-one-page.png)
 
 Behind the scenes, these are matched to the standard NHS ethnicity codes allowing our service to be cross-compatible with other systems. 
 
@@ -108,7 +108,7 @@ Mammographers are all likely to approach this slightly differently, so we have s
 
 After saving this information, the user is returned to the appointment information screen and given the option to change their selection if any errors have been made. This 'Change' option is also available if ethnicity information already exists for a participant. 
 
-![]()
+![The ethnicity selection made by users displayed in a table among other participant information](ethnicity-participant-info.png)
 
 ## Initial tests 
 
