@@ -3,7 +3,7 @@
   description: How we're providing a way for participant ethnicity to be collected during a mammogram appointment.
   date: 2025-06-23
   tags:
-    - alpha
+    - beta
     - prototype
     - breast screening
 ---
