@@ -86,7 +86,7 @@ With a two-step process, if the participant responded "I'm from Sri Lanka", user
 
 The initial solution we have implemented presents the available options on a single screen, with headings separating each ethnic group. The assumption is, this saves the user a click and takes away any need to assess in which group an ethnic background may be – as they get to know the service, users will instinctively know where on the list to look. 
 
-![A prototype page from the Manage breast screening service showing all available ethnic background optiosn presented to users on a single page, with ethnic group subheadings](ethnicity-one-page.png)
+![A prototype page from the Manage breast screening service showing all available ethnic background options presented to users on a single page, with ethnic group subheadings](ethnicity-one-page.png)
 
 Behind the scenes, these are matched to the standard NHS ethnicity codes allowing our service to be cross-compatible with other systems. 
 
