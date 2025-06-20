@@ -38,21 +38,15 @@ Part of the goal of digitising the breast screening service will be to collect a
 
 ## Making it easy for mammographers 
 
-With no easy way for ethnicity data to be captured on the software or paper forms used within most BSUs, this is a new data requirement that mammographers will be asked to complete. 
+Ethnicity data is not typically captured during breast screening appointments and will be a new requirement that mammographers will be asked to complete. 
 
-We are expecting this to be met with some pushback from users. [Guidance from digital.nhs.uk](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets/mental-health-services-data-set/submit-data/data-quality-of-protected-characteristics-and-other-vulnerable-groups/ethnicity) suggests:
+We are expecting this to be met with some pushback from them. [Guidance from digital.nhs.uk](https://digital.nhs.uk/data-and-information/data-collections-and-data-sets/data-sets/mental-health-services-data-set/submit-data/data-quality-of-protected-characteristics-and-other-vulnerable-groups/ethnicity) suggests:
 
 > "Research has shown there are a number of reported barriers in the collection of ethnicity data in the UK. This is mainly due to a lack of knowledge from staff about the importance and use of data, alongside patients' perception of how data is used, specifically concerns that the information will be used to discriminate against them."
 
 Anecdotal evidence from those working in BSUs suggests they do not like raising this topic during appointments. Having a mammogram can be an awkward experience already, and asking questions about ethnicity is unlikely to make the situation any more comfortable. 
 
-Forcing mammographers or admin staff into a mandatory journey to collect this information will likely lead to poor quality data. Users will find workarounds by ticking the 'other' option, or making a guess at the ethnicity of a participant without actually asking them. 
-
-So despite this being a mandatory request for NHS organisations, in our service it has been designed as an optional journey. 
-
-The service will store data that shows the success rate of collecting this information. If 1,000 women attend appointments that did not have their ethnicity already within the system, and a BSU submits information for 500 of them, they would have a completion rate of 50%. 
-
-It will be up to BSUs to set targets and train their staff, with the service there to facilitate ethnicity data collection rather than dictate it. 
+Some of the user testing we'll be conducting will evaluate the pros and cons of making this a mandatory or optional journey.
 
 ## Picking the right data approach 
 
@@ -72,7 +66,7 @@ The [data dictionary](https://www.datadictionary.nhs.uk/attributes/ethnic_catego
 
 A more recent pattern using ONS data from the 2021 census is available on the [GOV.UK design system](https://design-system.service.gov.uk/patterns/equality-information/). 
 
-The major change over the past 20 years has been the introduction of ethnic groups. This can be seen on services such as Register with a GP surgery, which asks users to select their ethnic group, and then a background. 
+As well as adding to and amending the list of ethnic backgrounds, the major change over the past 20 years has been the introduction of ethnic groups. This can be seen on services such as Register with a GP surgery, which asks users to select their ethnic group, and then a background. 
 
 ![A form on the Register with a GP service showing five broad ethnicity groups for users to select from](ethnicity-register-gp.png)
 
@@ -82,7 +76,7 @@ The major change over the past 20 years has been the introduction of ethnic grou
 
 This makes sense when a person is self-selecting their ethnicity, but users of our service will be mammographers asking this question to participants, and then having to interpret the answer. 
 
-With a two-step process, if the participant responded "I'm from Sri Lanka", users would first have to select the ethnic group they think that will come under, then see if there's a relevant option to reflect the answer. In this case, that would be 'Any other Asian background'. 
+With a two-step process, if the participant responded "I'm Sri Lankan", users would first have to select the ethnic group they think that will come under, then see if there's a relevant option to reflect the answer. In this case, that would be 'Any other Asian background'. 
 
 The initial solution we have implemented presents the available options on a single screen, with headings separating each ethnic group. The assumption is, this saves the user a click and takes away any need to assess in which group an ethnic background may be – as they get to know the service, users will instinctively know where on the list to look. 
 
@@ -90,7 +84,7 @@ The initial solution we have implemented presents the available options on a sin
 
 Behind the scenes, these are matched to the standard NHS ethnicity codes allowing our service to be cross-compatible with other systems. 
 
-In another change from the Register with a GP surgery service, we have chosen to order the options by commonality rather than in alphabetical order. According to the 2021 census, the ethnic breakdown of England and Wales is: 
+In contrast to the Register with a GP surgery service which lists ethnic groups alphabetically, we have chosen to order the options by commonality. According to the 2021 census, the ethnic breakdown of England and Wales is: 
 
 - White - 81.7%
 - Asian - 9.3%
@@ -128,9 +122,9 @@ There is also a solution to explore around using autocomplete functionality wher
 
 Feedback has suggested that 'Arab' should not be grouped under 'Other'.  
 
-While we want to reflect the reality of how people identify, we are also keen not to reinvent the wheel and to stick closely to the work done by the ONS. Ethnicity has been a question on the census since 1991 and it has gone through various iterations since then – for example, the Chinese ethnic group moved from 'Other' to 'Asian' in 2011. 
+While we want to reflect the reality of how people identify, we are also keen not to reinvent the wheel and to stick closely to the work done by the ONS. Ethnicity has been a question on the census since 1991 and it has gone through various iterations since then – for example, the Chinese ethnic group moved from 'Other' to 'Asian' in 2011.
 
-We plan to monitor any future changes and incorporate the commonly accepted pattern into our service. 
+There are risks to the compatibility of data if each service collects data inconsistenlty. We plan to monitor any future changes to standard patterns and incorporate the latest iterations into our service. 
 
 ## What we're doing next 
 
@@ -138,11 +132,17 @@ As well as continuing to iterate this journey following user testing, this work 
 
 ### Data synchronization 
 
-Ideally, this data will be entered once and available across the NHS ecosystem through patient records. We need to explore how this would work and consider the implications of changing data on our system that has been incorrectly logged elsewhere (or vice versa). 
+Ideally, ethnicity data will be entered once and available across the NHS ecosystem through patient records. If this field is available from the core NHS data, we aim to pull this infomation into our service and remove the need for mammographers to collect it separately. Conversely, we plan to feed back any data we have collected to update the central database.
+
+We need to explore how this would work and consider the implications of conflicting ethnicity information.
+
+### Data compatibility 
+
+The datasets we have identified are a good starting point, but for full cross-compatibility with medical and non-medical systems we need to consider how the ethnicity codes we're implementing map to standards such as SNOMED CT (the Systematized Nomenclature of Medicine Clinical Terms).
 
 ### Pre-appointment data collection 
 
-The ethnicity question is a prime candidate to go on a questionnaire that would be sent to participants before their mammogram appointment. 
+If it's not already in the system, the ethnicity question is a prime candidate to go on a questionnaire that would be sent to participants before their mammogram appointment. 
 
 This will take the burden off mammographers from recording this information, while allowing participants to follow a self-selection path that they will recognise from other government and NHS services. A back-up option would still be there for mammographers to record this information or change it if any obvious errors had been submitted.   
 
