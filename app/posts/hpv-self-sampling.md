@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: HPV Self-Sampling
-description: A record of HPV Self-Sampling design work
+title: HPV self-sampling
+description: A record of HPV self-sampling design and research work
 pagination:
   data: collections.hpv-self-sampling
   reverse: true
