@@ -9,7 +9,7 @@ This discovery sought to understand whether the NHS could introduce additional h
 
 Evidence strongly confirms that offering health checks to patients contributes to reducing health risks.
 
-However, we don't sufficiently understand what types of checks would provide the most benefit to patients if offered as a digital self‑assessment. It is also unclear if providing healthcare professionals (HCPs) with a choice between digital and in‑person assessments would add value.
+However, we do not sufficiently understand what types of checks would provide the most benefit to patients if offered as a digital self‑assessment. It is also unclear if providing healthcare professionals (HCPs) with a choice between digital and in‑person assessments would add value.
 
 We also did not know which groups would benefit most from access to self‑assessments, or how to ensure disadvantaged groups were included appropriately.
 
@@ -39,11 +39,17 @@ Interviews with experts in commissioning, policy, strategy, technical, governanc
 
 ### Spoke to experts
 
-Regular consultations with internal technical and clinical subject matter experts (SMEs), explored clinical feasibility, safety, and what is likely to resonate with healthcare professionals, as well as considering technical possibilities and constraints. We also gathered insights from providers of health assessments, digital tools, and biometric tests.
+Regular consultations with internal technical and clinical subject matter experts (SMEs). Explored clinical feasibility, safety, and what is likely to resonate with healthcare professionals. As well as considering technical possibilities and constraints. We also gathered insights from providers of health assessments, digital tools, and biometric tests.
 
 ### Desk research
 
-Reviewing the NHS Health Check Online discovery and alpha reports, analysed NICE guidelines, NHS and DHSC policy documents (for example, Core20Plus5, NHS Long Term Plan, Digital Prevention Strategy), and studied public health literature, independent pilot studies, and past user research.
+We reviewed:
+- NHS health check online discovery and alpha reports
+- NICE guidelines
+- NHS and DHSC policy documents (for example, Core20Plus5, NHS Long Term Plan, Digital Prevention Strategy)
+- public health literature
+- independent pilot studies
+- past user research
 
 We used our research to design and refine a 3‑stage evaluation framework to assess the potential of digital self-assessments. This framework helps us evaluate:
 
@@ -71,7 +77,7 @@ Using this framework, we evaluated a longlist of opportunities and recommended f
 
 ### Stage 1: Matrix analysis
 
-We developed a Matrix to measure and better understand the details of assessments in relation to ten key categories.  This process established whether the assessment in question is something we could take forward for further consideration. The evaluation criteria are consistent for each category and an overall conclusion is drawn for each as high, medium, low or positive and negative.
+We developed a Matrix to measure and better understand the details of assessments in relation to ten key categories.  This process established whether the assessment in question is something we could take forward for further consideration. The evaluation criteria are consistent for each category and an overall conclusion is drawn for each as high, medium, low, or positive and negative.
 
 #### Ease of use
 
