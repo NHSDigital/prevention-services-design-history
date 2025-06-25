@@ -59,6 +59,14 @@ module.exports = function (eleventyConfig) {
 
 
   // Screening collections
+  eleventyConfig.addCollection("bowel-screening", (collection) => {
+    return collection.getFilteredByGlob("app/posts/bowel-screening/**/*.md")
+  })
+
+  eleventyConfig.addCollection("cohort-manager", (collection) => {
+    return collection.getFilteredByGlob("app/posts/cohort-manager/**/*.md")
+  })
+
   eleventyConfig.addCollection('explore-team', collection => {
     return collection.getFilteredByGlob('app/posts/explore-team/**/*.md')
   })
@@ -67,17 +75,13 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/manage-breast-screening/**/*.md')
   })
 
-  eleventyConfig.addCollection("bowel-screening", (collection) => {
-    return collection.getFilteredByGlob("app/posts/bowel-screening/**/*.md")
-  })
-
   eleventyConfig.addCollection("manage-your-screening", (collection) => {
     return collection.getFilteredByGlob("app/posts/manage-your-screening/**/*.md")
   })
 
-  // eleventyConfig.addCollection('hpv-self-sampling', collection => {
-  //   return collection.getFilteredByGlob('app/posts/hpv-self-sampling/**/*.md')
-  // })
+  eleventyConfig.addCollection('hpv-self-sampling', collection => {
+    return collection.getFilteredByGlob('app/posts/hpv-self-sampling/**/*.md')
+  })
 
   // Vaccination collections
   eleventyConfig.addCollection('book-a-vaccination', collection => {

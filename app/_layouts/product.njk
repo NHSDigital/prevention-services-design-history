@@ -2,9 +2,9 @@
 
 {% block content %}
   {{ content }}
-  <div class="govuk-grid-row">
-    {# Paginate posts if front matter includes the pagination key #}
-    {% if pagination %}
+  {# Paginate posts if front matter includes the pagination key #}
+  {% if pagination %}
+    <div class="govuk-grid-row">
       <section class="govuk-grid-column-two-thirds">
         <h2 class="govuk-heading-l govuk-!-font-size-27">
           {{ posts.title or app.posts.title or "Posts" }}
@@ -23,44 +23,52 @@
           items: pagination | itemsFromPagination
         }) if pagination.pages.length > 1 }}
       </section>
-      {% if aside or related %}
+    </div>
+    {% if aside or related %}
+      <div class="govuk-grid-row">
         <div class="govuk-grid-column-one-third">
           {% include "layouts/shared/related.njk" %}
         </div>
-      {% endif %}
-    {# List sections (pages with a parent that is the homepage) if homepage has no pagination key set #}
-    {% elif eleventyNavigation.key == options.homeKey %}
+      </div>
+    {% endif %}
+  {# List sections (pages with a parent that is the homepage) if homepage has no pagination key set #}
+  {% elif eleventyNavigation.key == options.homeKey %}
 
-      {% set sections = [
-        { title: "Screening", services: [
-          "Bowel screening",
-          "Explore team",
-          "HPV Self-Sampling",
-          "Manage breast screening",
-          "Manage your screening"
-        ] },
-        { title: "Vaccinations", services: [
-          "Book a vaccination",
-          "Manage vaccinations in schools",
-          "Manage your appointments",
-          "Record a vaccination",
-          "Select people for invitation"
-        ] },
-        { title: "Personalised prevention", services: [
-          "Lung health check",
-          "Personalised prevention platform",
-          "Smoking cessation"
-        ] }
-      ] %}
+    {% set sections = [
+      { title: "Screening", services: [
+        "Bowel screening",
+        "Cohort manager",
+        "Explore team",
+        "Manage breast screening",
+        "Manage your screening",
+        "HPV self-sampling"
+      ] },
+      { title: "Vaccinations", services: [
+        "Book a vaccination",
+        "Manage vaccinations in schools",
+        "Manage your appointments",
+        "Record a vaccination",
+        "Select people for invitation"
+      ] },
+      { title: "Personalised prevention", services: [
+        "Lung health check",
+        "Personalised prevention platform",
+        "Smoking cessation"
+      ] }
+    ] %}
 
-      {% for section in sections %}
+    {% for section in sections %}
+      <div class="govuk-grid-row">
         <div class="govuk-grid-column-two-thirds">
           <h2 class="govuk-heading-l">
             {{ section.title }}
           </h2>
         </div>
+      </div>
 
-        {% for service in section.services %}
+      {% for batch in section.services | batch(2) %}
+        <div class="govuk-grid-row">
+        {% for service in batch %}
           {% for item in collections.all | eleventyNavigation(options.homeKey) %}
             {% if (service == item.title)  %}
               <section class="govuk-grid-column-one-half govuk-!-margin-bottom-6">
@@ -72,8 +80,11 @@
             {% endif %}
           {% endfor %}
         {% endfor %}
+        </div>
       {% endfor %}
+    {% endfor %}
 
+    <div class="govuk-grid-row">
       <div class="govuk-grid-column-full">
         <hr class="govuk-section-break govuk-section-break--xl govuk-section-break--visible">
 
@@ -85,10 +96,8 @@
             <p class="govuk-body">{{ item.excerpt }}</p>
           {% endif %}
         {% endfor %}
-
-
       </div>
+    </div>
 
-    {% endif %}
-  </div>
+  {% endif %}
 {% endblock %}
