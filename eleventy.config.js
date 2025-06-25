@@ -105,6 +105,10 @@ module.exports = function (eleventyConfig) {
   })
 
   // Personalised prevention collections
+  eleventyConfig.addCollection('personalised-prevention-services', collection => {
+    return collection.getFilteredByGlob('app/posts/personalised-prevention-services/**/*.md')
+  })
+
   eleventyConfig.addCollection('digital-nhs-health-check', collection => {
     return collection.getFilteredByGlob('app/posts/digital-nhs-health-check/**/*.md')
   })
