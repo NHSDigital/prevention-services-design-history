@@ -121,6 +121,10 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/smoking-cessation/**/*.md')
   })
 
+  eleventyConfig.addCollection('lung-health-check', collection => {
+    return collection.getFilteredByGlob('app/posts/lung-health-check/**/*.md')
+  })
+
   eleventyConfig.addCollection('guide', collection => {
     return collection.getFilteredByGlob('app/guide/**/*.md')
   })
