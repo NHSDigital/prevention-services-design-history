@@ -1,6 +1,6 @@
 ---
   title: Defining family history breast screening 
-  description: How we're providing a way for participant ethnicity to be collected during a mammogram appointment.
+  description: An explanation of what family history is and how it affects breast screening mammogram appointments.
   date: 2025-06-27
   tags:
     - beta
