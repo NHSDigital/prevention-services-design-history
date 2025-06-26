@@ -26,7 +26,7 @@ The [Race Equality Foundation](https://raceequalityfoundation.org.uk/press-relea
 
 Across some areas of the NHS, ethnicity data is widely available. A [report from Nuffield Health](https://www.nuffieldtrust.org.uk/news-item/flawed-nhs-records-distort-our-view-of-ethnic-health-gaps-study-shows) published in 2021 on hospital, A&E and community services data found that only 13% of inpatients and 17% of outpatients did not have a known, stated ethnicity recorded. 
 
-But the reliability of that data is not always reliable: 
+But that data is not always reliable: 
 
 - People within some minority groups will often have different ethnicity codes assigned on different systems
 - There is a general overuse of 'other' categories (for example, 'Other Asian' rather than 'Bangladeshi')
@@ -124,7 +124,7 @@ Feedback has suggested that 'Arab' should not be grouped under 'Other'.
 
 While we want to reflect the reality of how people identify, we are also keen not to reinvent the wheel and to stick closely to the work done by the ONS. Ethnicity has been a question on the census since 1991 and it has gone through various iterations since then – for example, the Chinese ethnic group moved from 'Other' to 'Asian' in 2011.
 
-There are risks to the compatibility of data if each service collects data inconsistenlty. We plan to monitor any future changes to standard patterns and incorporate the latest iterations into our service. 
+There are risks to the compatibility of data if each service collects data inconsistently. We plan to monitor any future changes to standard patterns and incorporate the latest iterations into our service. 
 
 ## What we're doing next 
 
