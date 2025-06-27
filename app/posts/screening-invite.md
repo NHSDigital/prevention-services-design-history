@@ -1,10 +1,10 @@
 ---
 layout: collection
-title: Team invite
+title: Invite
 description: Delivering screening communications to participants in an appropriate, clinically safe way through the channel that works best for them.
 pagination:
-  data: collections.team-invite
+  data: collections.screening-invite
   reverse: true
   size: 50
-permalink: "team-invite/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
+permalink: "screening-invite/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
 ---

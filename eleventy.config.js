@@ -83,8 +83,8 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/hpv-self-sampling/**/*.md')
   })
 
-  eleventyConfig.addCollection('invite-team', collection => {
-    return collection.getFilteredByGlob('app/posts/invite-team/**/*.md')
+  eleventyConfig.addCollection('screening-invite', collection => {
+    return collection.getFilteredByGlob('app/posts/screening-invite/**/*.md')
   })
 
   // Vaccination collections
