@@ -17,7 +17,7 @@ Currently, there are no tools allowing people to access the details of their app
 
 ## Proposed changes to how people are invited to screening 
 
-Introducing digital-first communication means inviting people to breast screening appointments through the NHS App first and enabling other channels when the NHS app message can’t be delivered or is not read quickly enough. 
+Introducing digital-first communication means inviting people to breast screening appointments through the NHS App first and enabling other channels when the NHS App message can’t be delivered or is not read quickly enough. 
 
 This will enable people to access their appointment details online and on their phone. Sending digital messages also means people can use accessibility tools on their computer or phone.
 
