@@ -27,10 +27,10 @@ We’re using NHS Notify to send these messages through the NHS App, text messag
 
 1. NHS App message invitation is sent.  
 2. If an NHS App message is not opened within 24 hours, an SMS is sent.  
-3. If an SMS is not delivered within 72 hours, a letter is sent.  
+3. If an SMS is not delivered within 72 hours, a letter is sent. 
 
 We designed the app message and SMS to maximise readability and usability in each format. 
-
+Visit https://www.notifications.service.gov.uk/using-notify/message-status/sms for details on the statuses of messages sent by notify and to understand why messages may not be delivered.
 
 ## Pilot overview
 
