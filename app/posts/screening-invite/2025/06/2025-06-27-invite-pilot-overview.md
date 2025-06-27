@@ -30,7 +30,7 @@ We’re using NHS Notify to send these messages through the NHS App, text messag
 3. If an SMS is not delivered within 72 hours, a letter is sent. 
 
 We designed the app message and SMS to maximise readability and usability in each format. 
-Visit https://www.notifications.service.gov.uk/using-notify/message-status/sms for details on the statuses of messages sent by notify and to understand why messages may not be delivered.
+Visit [https://www.notifications.service.gov.uk/using-notify/message-status/sms] for descriptions of the statuses of messages sent by notify and why messages may not be delivered.
 
 ## Pilot overview
 
