@@ -51,13 +51,13 @@ This research was based on:
 - 11 site phone calls interviews 
 - SME validation 
 
-![]()Round 1 - Moderate risk breast screening blueprint (Prior Blueprint.png) 
+![](prior-blueprint.png "Round 1 - Moderate risk breast screening blueprint")
 
 ### Round 2 
 
 Conducted interviews with staff on-site at two additional Family history screening clinics.
 
-![]()Round 2 - Family history screening: Current state blueprint (FH blueprint.png) 
+![](fh-blueprint.png "Round 2 - Family history screening: Current state blueprint") 
 
 ## What did we learn? 
 
