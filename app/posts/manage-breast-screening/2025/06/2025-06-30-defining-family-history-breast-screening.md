@@ -9,7 +9,7 @@
 
 People with a first degree relative (such as a mother, sister or daughter) previously diagnosed with breast cancer, have a statistically higher chance of developing breast cancer themselves.
 
-If this family history is identified by a medical professional, the woman will be referred to Family History Breast Screening via their GP, where they will be offered an annual screening mammogram to help early identification of breast cancer. Currently, there is a reliance on women to identify themselves as having a family history via their GP, so there is a risk that some cases may be missed. 
+If this family history is identified by a medical professional, the woman will be referred to 'family history breast screening' via their GP, where they will be offered an annual screening mammogram to help early identification of breast cancer. Currently, there is a reliance on women to identify themselves as having a family history via their GP, so there is a risk that some cases may be missed. 
 
 More details on the definition of family history can be found on the [Cancer Research UK website](https://www.cancerresearchuk.org/about-cancer/breast-cancer/risks-causes/family-history-and-inherited-genes). 
 
@@ -55,7 +55,7 @@ This research was based on:
 
 ### Round 2 
 
-Conducted interviews with staff on-site at two additional Family history screening clinics.
+Conducted interviews with staff on-site at two additional family history screening clinics.
 
 ![](fh-blueprint.png "Round 2 - Family history screening: Current state blueprint") 
 
@@ -69,7 +69,7 @@ Participants can be identified as having a family history of breast cancer via t
 - Visit to a symptomatic breast clinic (for example, they had a breast cancer symptom investigated at a breast clinic)
 - Through a family member being diagnosed with breast cancer 
 
-Once the family history has been identified they are directed to their GP, who will arrange a referral to a Family history clinic or Genetics department, where a risk assessment will be performed. 
+Once the family history has been identified they are directed to their GP, who will arrange a referral to a family history clinic or Genetics department, where a risk assessment will be performed. 
 
 ### Risk assessment 
 
@@ -153,5 +153,5 @@ Here are the key pain points we have uncovered during our deep dive into Family 
 - **Dual invites** – When family history screening participants approach 50 years, they are automatically invited to the routine screening program. This causes confusion for participants and can mean they attend the wrong appointment or cancel their family history screening accidentally. There is currently no way to manage this overlap on current systems. 
 - **Inappropriate invitations** – Participants being invited to screening when they have a cancer diagnosis causing distress to themselves and family members. Some admins are manually checking this information for each participant prior to sending out invitations, as current systems do not cross-check this information. 
 - **Local systems** – Staff feel they at the mercy of the local radiology system, in that a system which was not designed for screening has been shoe-horned into the process and it shows. For example, on EPIC significant cancer symptoms cannot be flagged to image readers, screening letters are not automated, and EPIC does not support a second read queue. 
-- **No link between family history diagnosis and screening** – Family history diagnosis and screening have very little interaction once the referral for screening has taken place. If a participant has an update to their family history or if they are diagnosed with cancer, this information is not automatically shared but relies on the participant to visit their GP to ask for a referral to Family history for a re-evaluation. 
+- **No link between family history diagnosis and screening** – Family history diagnosis and screening have very little interaction once the referral for screening has taken place. If a participant has an update to their family history or if they are diagnosed with cancer, this information is not automatically shared but relies on the participant to visit their GP to ask for a referral to family history for a re-evaluation. 
 - **Manual breast density readings** – Some units are carrying out manual breast density assessments due to lack of functionality in their current mammogram machines (there are systems on the market which can automate this reading).
