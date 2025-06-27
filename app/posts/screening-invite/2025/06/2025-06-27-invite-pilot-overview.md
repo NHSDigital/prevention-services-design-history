@@ -21,7 +21,7 @@ Introducing digital-first communication means inviting people to breast screenin
 
 This will enable people to access their appointment details online and on their phone. Sending digital messages also means people can use accessibility tools on their computer or phone.
 
-We’re using NHS Notify cascade to send these messages through the NHS App, text messages and letters. 
+We’re using NHS Notify to send these messages through the NHS App, text messages and letters. 
 
 ![An image illustrating the fallback process for sending out breast screening invitations](fallback-process.png "Image of the fallback process")
 
