@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Lung health check
-description: Helping more of the right people access lung health checks.
+description: Helping more of the right people access lung health checks
 pagination:
   data: collections.lung-health-check
   reverse: true
