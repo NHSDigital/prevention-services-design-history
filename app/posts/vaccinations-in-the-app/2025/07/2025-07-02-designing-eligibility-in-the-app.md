@@ -25,7 +25,10 @@ One way we’re personalising the experience is by showing in the App:
 * any vaccination appointment we believe they've already booked
 * any vaccination we believe they’ve already had (and the date)
 
- 
+**Appointment booked**
+
+![Screenshot of a page titled 'RSV for older adults', playing back to the user that they have an appointment booked](already-booked.png) 
+
 But what if we’ve got these events, or the person's age, wrong? 
  
 To avoid shutting out people who should get the vaccine, we’re designing ways for them to challenge what they see and take action if something doesn’t look right. 
@@ -33,10 +36,6 @@ To avoid shutting out people who should get the vaccine, we’re designing ways 
 We’re testing designs where the personalised message still confidently conveys that the user does not need the vaccine, but allows them to flag concerns and proceed with getting the vaccination, if needed.
 
 Part of this involves a 'Help and Support' page to guide users who think something might be wrong. One place we link to this is from the 'Vaccination given' screen. The page will explain why, on occasion, vaccination information may not appear correctly and what steps they can take.
-
-**Appointment booked**
-
-![Screenshot of a page titled 'RSV for older adults', playing back to the user that they have an appointment booked](already-booked.png) 
 
 **Vaccination given**
 
