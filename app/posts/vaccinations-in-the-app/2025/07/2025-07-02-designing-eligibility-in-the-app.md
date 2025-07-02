@@ -44,9 +44,9 @@ We’re testing designs where the personalised message is still clear and confid
 
 Even when the data is right, it’s hard telling people they are not eligible. We currently say:
 
-“We do not believe you can have it. This is because you:
+>“We do not believe you can have it. This is because you:
 
-* are not aged 75 to 79”
+>* are not aged 75 to 79”
 
 This is not landing well for everyone. People who are proactive about their health often don’t feel that’s a good enough reason.
  
