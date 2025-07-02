@@ -100,6 +100,10 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob('app/posts/select-people-for-invitation/**/*.md')
   })
 
+  eleventyConfig.addCollection('vaccinations-in-the-app', collection => {
+    return collection.getFilteredByGlob('app/posts/vaccinations-in-the-app/**/*.md')
+  })
+
   // Personalised prevention collections
   eleventyConfig.addCollection('digital-nhs-health-check', collection => {
     return collection.getFilteredByGlob('app/posts/digital-nhs-health-check/**/*.md')
