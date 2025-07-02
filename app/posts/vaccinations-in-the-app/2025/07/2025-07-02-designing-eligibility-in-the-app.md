@@ -30,7 +30,7 @@ But what if we’ve got these events, or the person's age, wrong?
  
 To avoid shutting out people who should get the vaccine, we’re designing ways for them to challenge what they see and take action if something doesn’t look right. 
  
-We’re testing designs where the personalised message is still clear and confident, but we allow users to flag concerns and proceed to booking, if needed.
+We’re testing designs where the personalised message still confidently conveys that the user does not need the vaccine, but allows them to flag concerns and proceed to booking, if needed.
 
 **Appointment booked**
 
