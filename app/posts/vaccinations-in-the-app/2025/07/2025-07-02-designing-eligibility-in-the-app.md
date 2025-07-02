@@ -26,7 +26,7 @@ One way we’re personalising the experience is by showing in the App:
 * any vaccination we believe they’ve already had (and the date)
 
  
-But what if we’ve got these events, or their age, wrong? 
+But what if we’ve got these events, or the person's age, wrong? 
  
 To avoid shutting out people who should get the vaccine, we’re designing ways for them to challenge what they see and take action if something doesn’t look right. 
  
