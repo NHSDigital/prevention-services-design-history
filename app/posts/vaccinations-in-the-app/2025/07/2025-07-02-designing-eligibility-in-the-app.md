@@ -58,10 +58,10 @@ Another, with a weakened immune system, said they planned to check with their GP
  
 They have a point. Clinicians reminded us that the vaccine is available privately – so technically, anyone could choose to have it.
  
-Perhaps the 'Help and Support' page can help here too. If we had empathetic content on that page for people who are unsure why they're not eligible, might this reassure them?
+Perhaps the 'Help and Support' page can help here too. If we had empathetic content on that page for ineligible people who feel frustrated or unsure, might this reassure them?
 
 ![Screenshot of ineligibility screen](ineligible.png)
 
-One last point: you'll notice we've avoided using the word 'eligible'. It's a policy word that can be confusing — especially for users who are not fluent in English or with low digital literacy.
+One last point: you'll notice we've avoided using the word 'eligible'. It's a policy word that can be confusing — especially for users who are not fluent in English or with low literacy.
 
 
