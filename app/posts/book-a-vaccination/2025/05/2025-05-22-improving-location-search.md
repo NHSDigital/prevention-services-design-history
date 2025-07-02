@@ -23,11 +23,11 @@ We also observed users assuming there was only one site, and not scrolling down 
 
 We hypothesised that expanding the search functionality to allow users to search with partial postcodes or town names would make it easier for people to find appointments near their preferred location. 
 
-We reviewed the <a href="https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy/">find a pharmacy search on NHS.uk</a>, and based on this, proposed two potential design options.   
+We reviewed the [find a pharmacy search on the NHS website](https://www.nhs.uk/service-search/pharmacy/find-a-pharmacy/), and based on this, proposed two potential design options.   
 
  
 
-**Option 1 – Search and return results on next page** 
+### Option 1 – Search and return results on next page
 
 We designed a version that was similar to the service search function on NHS.uk.  This allowed the user to enter either: 
 
@@ -45,7 +45,7 @@ If the user enters a city or town name, the system returns a list of potential m
 
  
 
-**Option 2 – Enhanced autocomplete search** 
+### Option 2 – Enhanced autocomplete search*
 
 Another option we considered was to use an autocomplete component to immediately return results based on the user input.  This would still allow users to search using full or partial postcodes, and town names. 
 
@@ -77,7 +77,7 @@ We updated the site list page to reflect how sites are displayed on NHS.uk, and 
 
 Most participants preferred using a full postcode for accuracy, especially those living in larger cities like London. Two participants said they would prefer to enter a town name. 
 
-**Location selection** 
+### Location selection
 
 Participants said the list of possible locations appeared clear and that they would be happy to select from it. 
 
@@ -85,13 +85,13 @@ The ability to try another town, city or postcode was seen as a helpful fallback
 
 > Entering the town name is good, I like it, quite clever because if my dad is visiting a different town we can get a site there for his jab. 
 
-**Choosing a site**
+### Choosing a site
 
 Most users found the information clear and said provided all the details they needed.  Participants generally preferred choosing the nearest site or one they had visited before.  
 
 ## Future considerations
 
-We may consider adding the 'use your location' function from the 'find a' service on NHS.uk in future.  
+We may consider adding the 'use your location' function from the 'find a' service on the NHS website in future.  
 
 We would first need to explore:
 
