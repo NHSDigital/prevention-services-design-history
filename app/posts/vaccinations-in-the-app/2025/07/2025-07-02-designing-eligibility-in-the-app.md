@@ -12,6 +12,8 @@ We’re working on a new vaccination feature in the NHS App to help people of an
 Our aim is to make vaccination information more relevant and personal, based on what we know about them. We’re doing that using a new Eligibility API that brings together things like age and vaccine history.
  
 By tailoring the experience, we hope to make it easier for people to take action, reduce pressure on frontline services, and ultimately improve uptake.
+
+## First vaccine: RSV
  
 We’re starting with the RSV vaccine, and one of the key groups it's offered to is older adults within a specific age range. By using age and vaccine appointment data, we can give adults checking their eligibility a more tailored experience.
  
