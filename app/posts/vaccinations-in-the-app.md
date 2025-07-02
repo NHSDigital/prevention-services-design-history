@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Vaccinations in the app
-description: Enabling access to vaccinations and NBS via the NHS app
+description: Enabling access to vaccinations and booking via the NHS App
 area: Vaccinations
 pagination:
   data: collections.vaccinations-in-the-app
