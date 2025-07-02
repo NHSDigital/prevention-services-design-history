@@ -34,7 +34,7 @@ We’re testing designs where the personalised message is still clear and confid
 
 **Appointment booked**
 
-![Screenshot of a page titled 'RSV for older adults', playing back to the user that they have an appointment booked, with a help and support link](already-booked.png) 
+![Screenshot of a page titled 'RSV for older adults', playing back to the user that they have an appointment booked](already-booked.png) 
 
 **Vaccination given**
 
