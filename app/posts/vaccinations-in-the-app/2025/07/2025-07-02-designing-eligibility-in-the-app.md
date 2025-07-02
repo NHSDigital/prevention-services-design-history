@@ -52,7 +52,9 @@ Even when the data is right, it’s hard telling people they are not eligible. W
 
 This is not landing well for everyone. People who are proactive about their health often don’t feel that’s a good enough reason.
  
-One user, aged 80, asked: “Why does it stop at 79? That doesn’t seem fair.”
+One user, aged 80, asked: 
+
+>“Why does it stop at 79? That doesn’t seem fair.”
  
 Another, with a weakened immune system, said they planned to check with their GP in case they still qualified.
  
