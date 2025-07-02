@@ -32,7 +32,7 @@ To avoid shutting out people who should get the vaccine, we’re designing ways 
  
 We’re testing designs where the personalised message still confidently conveys that the user does not need the vaccine, but allows them to flag concerns and proceed with getting the vaccination, if needed.
 
-We're also developing a 'Help and Support' page to guide users who suspect something might be wrong. One place we link to this is from the 'vaccination given' screen. It will explain why vaccination information may not appear correctly and what steps they can take.
+Part of this involves a 'Help and Support' page to guide users who think something might be wrong. One place we link to this is from the 'Vaccination given' screen. The page will explain why, on occasion, vaccination information may not appear correctly and what steps they can take.
 
 **Appointment booked**
 
@@ -58,10 +58,10 @@ Another, with a weakened immune system, said they planned to check with their GP
  
 They have a point. Clinicians reminded us that the vaccine is available privately – so technically, anyone could choose to have it.
  
-Perhaps the 'Help and Support' page can help here too. If we had empathetic content on that page for people who are unsure why they're not being offered a vaccine, might this reassure them?
+Perhaps the 'Help and Support' page can help here too. If we had empathetic content on that page for people who are unsure why they're not eligible, might this reassure them?
 
 ![Screenshot of ineligibility screen](ineligible.png)
 
-One last point: you'll notice we've deliberately avoided using the word 'eligible'. It's a policy word that can be confusing — especially for users who are not fluent in English or with low digital literacy.
+One last point: you'll notice we've avoided using the word 'eligible'. It's a policy word that can be confusing — especially for users who are not fluent in English or with low digital literacy.
 
 
