@@ -18,7 +18,7 @@ We’re starting with the RSV vaccine, and one of the key groups it's offered to
 But it’s not straightforward. Here’s how we’re tackling two of the biggest content challenges.
 
 
-## 1. Designing for uncertainty
+## Designing for uncertainty
 
 One way we’re personalising the experience is by showing in the App:
 
@@ -40,7 +40,7 @@ We’re testing designs where the personalised message is still clear and confid
 
 ![Screenshot of vaccination given, with help and support link](already-vaccd.png) 
 
-## 2. Telling people they cannot have it
+## Telling people they cannot have it
 
 Even when the data is right, it’s hard telling people they are not eligible. We currently say:
 
@@ -56,10 +56,10 @@ Another, with a weakened immune system, said they planned to check with their GP
  
 They have a point. Clinicians reminded us that the vaccine is available privately – so technically, anyone could choose to have it.
  
-We’re wondering if removing specific mentions of ages: “It’s not currently available on the NHS for your age group” might be clearer and a more helpful starting point. We might also explore tone: can we make it more empathetic?
+We're developing a 'Help and Support' page to guide users who suspect something might be wrong. This will explain why vaccination information may not appear correctly and what steps they can take. It’s also a chance to experiment with tone — could empathetic content help reassure those who feel unfairly excluded?
 
 ![Screenshot of ineligibility screen](ineligible.png)
 
-We’ll be back with another Design History soon, once we’ve tested and refined these ideas.
+By the way, you'll notice we've deliberately avoided using the word 'eligible'. It's a policy word that can be confusing — especially for users who are not fluent in English or with low digital literacy.
 
 
