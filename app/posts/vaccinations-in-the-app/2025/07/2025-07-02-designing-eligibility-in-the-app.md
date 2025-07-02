@@ -34,11 +34,11 @@ We’re testing designs where the personalised message is still clear and confid
 
 **Appointment booked**
 
-![Screenshot of appointment booked, with help and support link](already-booked.png) 
+![Screenshot of a page titled 'RSV for older adults', playing back to the user that they have an appointment booked, with a help and support link](already-booked.png) 
 
 **Vaccination given**
 
-![Screenshot of vaccination given, with help and support link](already-vaccd.png) 
+![Screenshot of a page titled 'RSV for older adults', playing back to the user that they've already been vaccinated, with a help and support link](already-vaccd.png) 
 
 ## Telling people they cannot have it
 
