@@ -37,11 +37,13 @@ To avoid shutting out people who should get the vaccine, we’re designing ways 
  
 We’re testing designs where the personalised message still confidently conveys that the user does not need the vaccine, but allows them to flag concerns and proceed with getting the vaccination, if needed.
 
+Part of this involves a 'Help and Support' page to guide users who think something might be wrong. One place we link to this is from the 'Vaccination given' screen shown here:
+
 **Vaccination given**
 
 ![Screenshot of a page titled 'RSV for older adults', playing back to the user that they've already been vaccinated, with a help and support link](already-vaccd.png) 
 
-Part of this involves a 'Help and Support' page to guide users who think something might be wrong. One place we link to this is from the 'Vaccination given' screen shown here. The page will explain why, on occasion, vaccination information may not appear correctly and what steps they can take.
+The 'Help and Support' page will explain why, on occasion, vaccination information may not appear correctly and what steps they can take.
 
 ## Telling people they cannot have it
 
