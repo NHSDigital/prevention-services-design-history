@@ -8,31 +8,64 @@ These working definitions aim to give people working on personalised prevention 
 
 ## Prevention
 
-Any work or activity we do to stop someone getting ill with a named clinical condition, or someone living with a named condition worsening.
+Any work or activity we do to stop someone getting ill with a named clinical condition.
 
-## Clinical treatment versus lifestyle and behaviour change
+### Primary prevention
 
-### Clinical treatment
+Primary prevention aims to stop people from getting ill in the first place. This could involve:
+
+* preventing exposure to hazards, for example by introducing legislation to ban asbestos or mandating seatbelts
+* increasing resistance to disease or injury, for example through vaccinations
+* helping people change their unhealthy habits, for example by eating better or exercising more often
+
+The NHS can help people make healthy changes by providing things like:
+
+* support to quit smoking before they develop lung cancer
+* weight management programmes to prevent diabetes
+* exercise programmes to keep your heart healthy
+* nutrition advice to prevent high blood pressure
+
+### Secondary prevention
+
+Secondary prevention aims to stop people at the start of an illness from getting more ill by catching and treating problems early. Examples of secondary prevention in the NHS could be helping people:
+
+* get regular health checks that spot high cholesterol before you have a heart attack
+* get blood sugar tests that catch diabetes in its early stages
+* have mental health check-ins that identify anxiety before it becomes severe
+* get blood pressure monitoring that prevents strokes
+
+### Tertiary prevention
+
+Tertiary prevention aims to reduce the impact of an ongoing illness or injury. It involves helping people manage long-term, often complex, health problems and injuries so they can improve their quality of life and their life expectancy. Examples of tertiary prevention could be:
+
+* cardiac or stroke rehabilitation programmes
+* chronic disease management programmes for things like diabetes, arthritis or depression
+* support groups that help members share strategies for living well
+* vocational rehabilitation programmes to retrain workers for new jobs when they have recovered as much as possible
+
+## Clinical versus lifestyle
+
+### Clinical
 
 The examination and treatment of patients and ill people by a medical professional.
 
-Clinical treatment services are specifically provided by medical professionals.
+Clinical services are specifically provided by medical professionals.
 
-A clinical treatment service the Personalised Prevention Platform recommends might be a self‑referral to Talking Therapies.
+A clinical service the Personalised Prevention Platform recommends might be a self-referral to Talking Therapies.
 
-### Lifestyle and behaviour change
+### Lifestyle
 
 The way someone lives.
 
-A lifestyle and behaviour change service recommended to a user might be a service we think could help stop you getting ill, for example WeightWatchers or a yoga class.
+A lifestyle service the Personalised Prevention Platform recommends might be a non-medical service we think could help stop you getting ill, for example WeightWatchers or a yoga class.
 
-Lifestyle and behaviour change services are not required to be delivered by medical professionals.
+Lifestyle services do not need to be delivered by medical professionals.
 
 ## Assisted and unassisted services
 
 ### Assisted services
 
-Any service where there’s real-time human help, for example a taught Zumba class or a stop-smoking app with a coach.
+Any service where there’s real-time human help, for example a taught Zumba dance exercise class or a stop-smoking app with a coach.
 
 ### Unassisted services
 
