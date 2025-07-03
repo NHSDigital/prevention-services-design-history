@@ -10,27 +10,27 @@ tags:
   - service design
 ---
 
-Following from the workshop and design work we did around [workflows and approvals](/select-people-for-invitation/workflows/), we looked more closely at what user roles we would need in the service.
+Following on from the workshop and design work we did around [workflows and approvals](/select-people-for-invitation/workflows/), we looked more closely at what user roles we would need in the service.
 
 ## Research
 
-User research told us that safety and accuracy are paramount (ensuring the right people will be invited and will receive the correct invitation), and that the users needed the service to retain a 2 step approval process. 
+User research told us that safety and accuracy are paramount (ensuring the right people will be invited and will receive the correct invitation), and that the users needed the service to retain a 2-step approval process. 
 
 ## Flexible approach
 
-Whilst we have a good understanding of current ways of working, we don't know the exact shape and size of future teams of users.
+Whilst we have a good understanding of the current ways of working, we don't know the exact shape and size of future teams of users.
 
 Therefore, flexibility became a key design consideration. We listed a number of principles that would give us the flexibility to support the current users but also future users:
 
-- Users can belong to 1 or more teams
-- Users can have 1 or more roles per team
-- Iterations need to be approved before being executed (either dry or live run)
-- A user cannot request approval from themself (even if they have the "approve" role)
-- Output files cannot be released to NHS Notify until the summary report has been approved
+- users can belong to 1 or more teams
+- users can have 1 or more roles per team
+- iterations need to be approved before being executed (either dry or live run)
+- a user cannot request approval from themself (even if they have the "approve" role)
+- output files cannot be released to NHS Notify until the summary report has been approved
 
 ## Breakdown of tasks
 
-We broke down the tasks required in the end to end journey and based on what we'd learned in research, looked at where they could be grouped against a single role, and where a separation of roles would be required.
+We broke down the tasks required in the end-to-end journey and based on what we'd learned in research, looked at where they could be grouped against a single role, and where a separation of roles would be required.
 
 | Task    | No role | Read | Write | Approve | Release | Admin |
 | -------- | ------- | ------- | ------- | ------- | ------- | ------- |
@@ -57,8 +57,8 @@ In other words, approving that the invitation configuration looks correct is not
 
 ## How this design is flexible
 
-The design to allow users multiple roles provides a great degree of flexibility in team design e.g.
+The design to allow users multiple roles provides a great degree of flexibility in team design e.g.:
 
-- The approver could also be the releaser if required, but they don't have to be
-- A user could have different roles in different teams e.g. in team 1 they could be "approver" and "releaser" but in team 2 they might only have the "read" role
-- It will be easy to add new roles in the future to support new features or changes to the service.
+- the approver could also be the releaser if required, but they don't have to be
+- a user could have different roles in different teams e.g. in team 1 they could be "approver" and "releaser" but in team 2 they might only have the "read" role
+- it will be easy to add new roles in the future to support new features or changes to the service.
