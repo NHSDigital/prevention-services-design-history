@@ -57,8 +57,18 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
   eleventyConfig.addPassthroughCopy('./app/pdfs');
 
+  // General category for posts that cover all of digital prevention services
+  eleventyConfig.addCollection("digital-prevention-services", (collection) => {
+    return collection.getFilteredByGlob("app/posts/digital-prevention-services/**/*.md")
+  })
 
   // Screening collections
+
+  // General category for posts about screening
+  eleventyConfig.addCollection("screening", (collection) => {
+    return collection.getFilteredByGlob("app/posts/screening/**/*.md")
+  })
+
   eleventyConfig.addCollection("bowel-screening", (collection) => {
     return collection.getFilteredByGlob("app/posts/bowel-screening/**/*.md")
   })
@@ -88,6 +98,12 @@ module.exports = function (eleventyConfig) {
   })
 
   // Vaccination collections
+
+  // General category for posts about vaccination services
+  eleventyConfig.addCollection("vaccinations", (collection) => {
+    return collection.getFilteredByGlob("app/posts/vaccinations/**/*.md")
+  })
+
   eleventyConfig.addCollection('book-a-vaccination', collection => {
     return collection.getFilteredByGlob('app/posts/book-a-vaccination/**/*.md')
   })
@@ -113,6 +129,12 @@ module.exports = function (eleventyConfig) {
   })
 
   // Personalised prevention collections
+
+  // General category for posts about personalised prevention
+  eleventyConfig.addCollection("personalised-prevention", (collection) => {
+    return collection.getFilteredByGlob("app/posts/personalised-prevention/**/*.md")
+  })
+
   eleventyConfig.addCollection('digital-nhs-health-check', collection => {
     return collection.getFilteredByGlob('app/posts/digital-nhs-health-check/**/*.md')
   })
