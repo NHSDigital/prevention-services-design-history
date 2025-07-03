@@ -1,41 +1,45 @@
-$govuk-colours: (
-  "red": #d5281b,
-  "yellow": #ffeb3b,
-  "green": #007f3b,
-  "blue": #005eb8,
-  "dark-blue": #002f5c,
-  "purple": #330072,
-  "black": #212b32,
-  "dark-grey": #4c6272,
-  "mid-grey": #aeb7bd,
-  "light-grey": #f0f4f5,
-  "white": #ffffff,
-  // Unchanged
-  "light-blue": #5694ca,
-  "light-purple": #6f72af,
-  "bright-purple": #912b88,
-  "pink": #d53880,
-  "light-pink": #f499be,
-  "orange": #f47738,
-  "brown": #b58840,
-  "light-green": #85994b,
-  "turquoise": #28a197,
+// GOV.UK Frontend components
+$_font-family: "Frutiger W01", arial, sans-serif;;
+$_accent_colour: #005eb8;
+$_color_nhsuk-dark-pink: #7c2855;
+$_color_nhsuk-dark-blue: #002f5c;
+$_color_nhsuk-grey-5: #f0f4f5;
+$_color_nhsuk-purple: #330072;
+
+@use "pkg:govuk-frontend/dist/govuk" with (
+  $govuk-font-family: $_font-family,
+  $govuk-brand-colour: $_accent_colour,
+  $govuk-body-background-colour: $_color_nhsuk-grey-5,
+  $govuk-canvas-background-colour: $_color_nhsuk-grey-5,
+  $govuk-link-visited-colour: $_color_nhsuk-purple,
+  $govuk-link-hover-colour: $_color_nhsuk-dark-pink,
+  $govuk-link-active-colour: $_color_nhsuk-dark-blue,
+  $govuk-border-width: 4px,
+  $govuk-border-width-wide: 8px,
+  $govuk-colours: (
+    "red": #d5281b,
+    "yellow": #ffeb3b,
+    "green": #007f3b,
+    "blue": #005eb8,
+    "dark-blue": #002f5c,
+    "purple": #330072,
+    "black": #212b32,
+    "dark-grey": #4c6272,
+    "mid-grey": #aeb7bd,
+    "light-grey": #f0f4f5,
+    "white": #ffffff,
+    // Unchanged
+    "light-blue": #5694ca,
+    "light-purple": #6f72af,
+    "bright-purple": #912b88,
+    "pink": #d53880,
+    "light-pink": #f499be,
+    "orange": #f47738,
+    "brown": #b58840,
+    "light-green": #85994b,
+    "turquoise": #28a197
+  )
 );
-
-$color_nhsuk-dark-pink: #7c2855;
-$color_nhsuk-dark-blue: #002f5c;
-$color_nhsuk-grey-5: #f0f4f5;
-$color_nhsuk-purple: #330072;
-
-$govuk-body-background-colour: $color_nhsuk-grey-5;
-$govuk-canvas-background-colour: $color_nhsuk-grey-5;
-
-$govuk-link-visited-colour: $color_nhsuk-purple;
-$govuk-link-hover-colour: $color_nhsuk-dark-pink;
-$govuk-link-active-colour: $color_nhsuk-dark-blue;
-
-$govuk-border-width: 4px;
-$govuk-border-width-wide: 8px;
 
 @font-face {
   font-display: swap;
@@ -52,11 +56,4 @@ $govuk-border-width-wide: 8px;
   font-weight: 600;
   src: url("https://assets.nhs.uk/fonts/FrutigerLTW01-65Bold.eot?#iefix");
   src: url("https://assets.nhs.uk/fonts/FrutigerLTW01-65Bold.eot?#iefix") format("eot"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-65Bold.woff2") format("woff2"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-65Bold.woff") format("woff"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-65Bold.ttf") format("truetype"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-65Bold.svg#eae74276-dd78-47e4-9b27-dac81c3411ca") format("svg");
-}
-
-$govuk-font-family: Frutiger W01, arial, sans-serif;
-
-// Line height copied from NHS Frontend
-.govuk-body {
-  line-height: 1.47368;
 }

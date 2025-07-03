@@ -1,3 +1,4 @@
+@use "govuk-frontend/dist/govuk/base" as *;
 
 // Don't need bottom margin whilst there is no licence text
 .govuk-footer__meta-custom {
@@ -5,5 +6,53 @@
 
   & :last-child {
     margin-bottom: 0;
+  }
+}
+
+
+// Line height copied from NHS Frontend
+.govuk-body {
+  line-height: 1.47368;
+}
+
+.app-prose-scope {
+
+  // Simulate design used in NHS design system
+  figure {
+    @include govuk-responsive-margin(6, "bottom");
+    @include govuk-responsive-margin(6, "top");
+
+    background-color: govuk-colour("white");
+    border-bottom: 1px solid #d8dde0;
+  }
+
+  figcaption {
+    @include govuk-font-size(16);
+    color: $govuk-text-colour;
+    margin-top: 0;
+    padding: govuk-spacing(3);
+
+    * {
+      @include govuk-font-size(16);
+    }
+
+    :last-child {
+      margin-bottom: 0;
+    }
+  }
+
+  // Improve display of mission patch images inside figures
+  figure:has(img[src$="mission-patch.png"]),
+  figure:has(img[src$="borderless-diagram.png"]) {
+    background-color: transparent;
+    border: 0;
+
+    img {
+      outline: 0 none;
+    }
+  }
+
+  video {
+    max-width: 100%;
   }
 }
