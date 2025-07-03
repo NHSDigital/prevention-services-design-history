@@ -51,13 +51,13 @@ The examination and treatment of patients and ill people by a medical profession
 
 Clinical services are specifically provided by medical professionals.
 
-A clinical service the Personalised Prevention Platform recommends might be a self-referral to Talking&nbsp;Therapies.
+A clinical service recommended by personalised prevention might be a self-referral to talking&nbsp;therapies.
 
 ### Lifestyle
 
 The way someone lives.
 
-A lifestyle service the Personalised Prevention Platform recommends might be a non-medical service we think could help stop you getting ill, for example WeightWatchers or a yoga class.
+A lifestyle service recommended by personalised prevention might be a non-medical service we think could help stop you getting ill, for example WeightWatchers or a yoga class.
 
 Lifestyle services do not need to be delivered by medical professionals.
 
