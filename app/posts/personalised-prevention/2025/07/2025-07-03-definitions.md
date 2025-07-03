@@ -1,7 +1,7 @@
 ---
 title: "Personalised prevention – working definitions"
 description: "Working definitions of terms we use when we’re talking about personalised prevention"
-date: 2025-06-03
+date: 2025-07-03
 ---
 
 These working definitions aim to give people working on personalised prevention services a shared understanding of the language they’re using internally.
