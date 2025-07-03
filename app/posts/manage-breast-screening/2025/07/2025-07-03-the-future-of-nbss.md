@@ -8,7 +8,7 @@ This is a record of communication that was issued on 5 June 2025.
 
 ## The future of NBSS
 
-NBSS has been successfully used in breast screening offices (BSOs) for more than 20 years.
+National breast screening service (NBSS_ has been successfully used in breast screening offices (BSOs) for more than 20 years.
 
 As part of digital screening’s long-term plans, we’re building a new, modern, digital service for breast screening that will deliver new ways to manage the participant and patient pathways. This will deliver the end‑to‑end journey – encompassing appointments, managing mammograms, image readings, and the recording of results.
 
