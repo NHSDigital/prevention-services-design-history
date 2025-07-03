@@ -51,7 +51,7 @@ The examination and treatment of patients and ill people by a medical profession
 
 Clinical services are specifically provided by medical professionals.
 
-A clinical service the Personalised Prevention Platform recommends might be a self-referral to Talking Therapies.
+A clinical service the Personalised Prevention Platform recommends might be a self-referral to Talking&nbsp;Therapies.
 
 ### Lifestyle
 
@@ -78,17 +78,17 @@ Any service that can be used in a self-service way, for example by:
 
 ### NHS only
 
-Services presenting as “from the NHS”, for example Couch to 5k or Better Health services. These services might be funded centrally by organisations like NHSE or DHSC.
+Services presenting as “from the NHS”, for example Couch&nbsp;to&nbsp;5k or Better&nbsp;Health services. These services might be funded centrally by organisations like NHSE or DHSC.
 
 ### NHS-supported services
 
 Services with any funding from DHSC, NHSE or an organisation like a charity.
 
-A service that’s delivered in partnership with a charity like Mind or anything with an NHS logo on it, for example the Richmond Wellbeing Service.
+A service that’s delivered in partnership with a charity like Mind or anything with an NHS logo on it, for example the Richmond&nbsp;Wellbeing&nbsp;Service.
 
 ### Wider healthcare prevention services
 
 Anything else not funded by NHS bodies, such as services provided by:
 * councils, for example leisure centres, gyms or wellness hubs
 * the third sector, for example by a community group or voluntary organisation
-* private organisations, for example, Better Health recommends WeightWatchers and Joe Wicks
+* private organisations, for example, Better&nbsp;Health recommends WeightWatchers and Joe&nbsp;Wicks
