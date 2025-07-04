@@ -8,6 +8,7 @@ $_color_nhsuk-purple: #330072;
 
 @forward "pkg:govuk-frontend" with (
   $govuk-font-family: $_font-family,
+  $govuk-global-styles: true,
   $govuk-brand-colour: $_accent_colour,
   $govuk-body-background-colour: $_color_nhsuk-grey-5,
   $govuk-canvas-background-colour: $_color_nhsuk-grey-5,
