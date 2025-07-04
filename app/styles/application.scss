@@ -1,9 +1,8 @@
 ---
 eleventyExcludeFromCollections: true
 ---
-@forward "_govuk";
-@use "pkg:@x-govuk/govuk-eleventy-plugin";
-@use "../_components/all";
-@use "./overrides";
-@use "./typography";
+@forward "vendor";
+@forward "../_components/all";
+@forward "overrides";
+@forward "typography";
 

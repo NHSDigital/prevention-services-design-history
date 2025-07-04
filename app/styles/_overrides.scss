@@ -1,4 +1,4 @@
-@use "govuk-frontend/dist/govuk/base" as *;
+@use "vendor/govuk-frontend" as *;
 
 // Don't need bottom margin whilst there is no licence text
 .govuk-footer__meta-custom {
