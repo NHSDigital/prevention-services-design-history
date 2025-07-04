@@ -7,6 +7,7 @@ export default function(eleventyConfig) {
     stylesheets: [
       '/styles/application.css'
     ],
+    rebrand: false,
     themeColour: '#005eb8',
     icons: {
       mask: 'mask-icon.svg',
