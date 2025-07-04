@@ -1,4 +1,4 @@
-@import "govuk-frontend/dist/govuk/base";
+@use "vendor/govuk-frontend" as *;
 
 .app-footer--text {
   @include govuk-font($size: 16);

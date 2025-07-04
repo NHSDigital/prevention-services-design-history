@@ -1,3 +1,5 @@
+@use "../../styles/vendor/govuk-frontend" as *;
+
 .app-screenshots__contents,
 .app-screenshots__screenshot {
   margin-bottom: govuk-spacing(9) !important;
