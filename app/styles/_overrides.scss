@@ -1,5 +1,10 @@
 @use "vendor/govuk-frontend" as *;
 
+// Turn off thick blue border
+.govuk-footer {
+  border-top: 1px solid #aeb7bd;
+}
+
 // Don't need bottom margin whilst there is no licence text
 .govuk-footer__meta-custom {
   margin-bottom: 0;
@@ -8,7 +13,6 @@
     margin-bottom: 0;
   }
 }
-
 
 // Line height copied from NHS Frontend
 .govuk-body {
