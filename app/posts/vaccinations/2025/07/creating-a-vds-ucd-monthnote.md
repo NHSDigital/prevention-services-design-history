@@ -30,6 +30,10 @@ In planning the VDS UCD update, we identified several critical factors:
 
 Before finalising the current format of the update, we had two previous attempts that were unsuccessful. Recognising the need for improvement, we decided to learn from these past iterations. We began by gathering feedback from contributors and readers of our earlier updates to understand what worked and what didn't.
 
+![](monthnotespowerpoint.png) 
+
+![](monthnotespowerpoint2.png) 
+
 ### Challenges identified
 
 * Formatting issues: the PowerPoint format was cumbersome and difficult to complete. 
@@ -61,6 +65,10 @@ Here’s what we decided:
 -	Updates from our projects: key things UCD people in each team focused on learned this month, barriers they were facing and opportunities for other teams to help them. The updates are presented in a table where each team has their own row. 
 4.	Coordination: for the Design and User Research Leads in VDS are coordinating the update each month. We ask people to complete their sections during the last week of the month and then share the update from the previous month on the 1st. 
 5.	Feedback loop: we are explicitly asking for feedback to continuously improve the updates based on user input. 
+
+![](monthnoteslack.png)
+
+![](monthnoteslack2.png)
   
 ## Next steps
 
