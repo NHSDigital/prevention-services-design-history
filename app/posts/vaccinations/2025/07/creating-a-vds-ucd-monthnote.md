@@ -42,8 +42,8 @@ Before finalising the current format of the update, we had two previous attempts
 
 ### What worked well
 
-* *Enhanced visibility:* the update provided clear insights into the activities of different teams, fostering better understanding and collaboration.
-* *Improved communication:* it helped team members identify the right contacts for more information about specific areas of interest, facilitating smoother communication, knowledge sharing and collaboration.
+* **Enhanced visibility:** the update provided clear insights into the activities of different teams, fostering better understanding and collaboration.
+* **Improved communication:** it helped team members identify the right contacts for more information about specific areas of interest, facilitating smoother communication, knowledge sharing and collaboration.
 
 ## Best practices from other teams
 
@@ -51,7 +51,8 @@ We then reached out to UCD colleagues in other teams across Product and Platform
 * **Digital Primary Care:** they use a Word newsletter, which is sent via email to their directorate and other interested stakeholders. It is also shared in the Teams channels for their directorate and the UCD updates channel on Slack. Each month, a volunteer from the team coordinates the newsletter.
 * **NHS website:** they use a PowerPoint document, shared on the UCD updates channel on Slack. They have a dedicated user researcher who coordinates their updates.
 * **NHS App:** they use a Slack canvas sprint-note, shared on the NHS App Slack channel.
-* Feedback from the Digital Primary Care team highlighted that their approach worked well in terms of visibility of their work and articulating the value of their achievements. They also noticed increased engagement with UCD since starting their updates.
+
+Feedback from the Digital Primary Care team highlighted that their approach worked well in terms of visibility of their work and articulating the value of their achievements. They also noticed increased engagement with UCD since starting their updates.
 
 ## Our chosen approach
 
@@ -59,7 +60,7 @@ Based on our learnings from past attempts and insights from other teams, we form
 Here’s what we decided:
 
 1.	**Frequency:** we chose to share the updates monthly to ensure they are comprehensive yet manageable.
-2.	*Format:* we opted for a Slack canvas as it is easy to share on different Slack channels and tag people directly. Adding emojis can also make the format more engaging. We decided to keep all the updates in one canvas so that readers can scroll down to read updates from the previous months.
+2.	**Format:** we opted for a Slack canvas as it is easy to share on different Slack channels and tag people directly. Adding emojis can also make the format more engaging. We decided to keep all the updates in one canvas so that readers can scroll down to read updates from the previous months.
 3.	**Content and structure:** we are including:
 -	Updates from the UCD team: announcements relevant to or about UCD ways of working; UCD changes in the programme; reports, blogs or week-notes written by UCD people, and opportunities for people to get involved in UCD activities.
 -	Updates from our projects: key things UCD people in each team focused on learned this month, barriers they were facing and opportunities for other teams to help them. The updates are presented in a table where each team has their own row.
