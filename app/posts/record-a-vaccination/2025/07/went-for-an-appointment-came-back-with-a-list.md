@@ -1,5 +1,5 @@
 ---
-title: "Went for an appointment, came back with a list s"
+title: "Went for an appointment, came back with a list"
 date: 2025-07-11
 ---
 
