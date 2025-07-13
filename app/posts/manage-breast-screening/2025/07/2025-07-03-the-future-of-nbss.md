@@ -19,6 +19,7 @@ NBSS will continue to exist to support the transition to the new service. Once t
 We know that each BSO has a unique set up. This means each BSO will be guided and supported through this period, with a detailed, bespoke plan.
 
 We will start working with some BSOs to test our new service from the autumn.
+
 The new service will be built using modern technology, enable better integration of data and be designed to meet the needs of both participants and BSOs.
 
 ## Next steps
