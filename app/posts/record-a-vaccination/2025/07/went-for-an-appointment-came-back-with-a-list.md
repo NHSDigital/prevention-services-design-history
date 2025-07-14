@@ -1,5 +1,6 @@
 ---
-title: "Went for an appointment, came back with a list"
+title: "Went for an appointment
+...came back with a list"
 date: 2025-07-11
 ---
 
@@ -23,11 +24,8 @@ We decided this could become difficult to explain and put the burden too far on 
 
 ## Designs part 1
 
-![appointments home](https://github.com/NHSDigital/prevention-services-design-history/blob/johnrimmer2-patch-2/app/images/record-a-vaccination/2025/07/went-for-an-appointment-came-back-with-a-list/Lists_home.png"Appointments home")
+!Lists_home.png
 
-![Appointments home](https://assets.digitalocean.com/articles/alligator/boo.svg "Appointments home")
-
-! [Appointments home] (https://github.com/NHSDigital/prevention-services-design-history/blob/johnrimmer2-patch-2/app/images/record-a-vaccination/2025/07/went-for-an-appointment-came-back-with-a-list/Lists_home.png "Appointments home")
 
 ## Outcome
 
@@ -59,15 +57,3 @@ This is because there isn’t always a specified time for the appointment and cu
 
 ## Future
 In future we still wish to integrate automatically with booking systems, but for now we hope ‘Lists’ will give us an understanding of whether users benefit from this sort of feature in RAVS.
-
-
-Notification re-design:
-
-![new notification](notification1.png)
-
-The high level interruption card was also re-styled to be clearer and consistent with other messages.
-![new interruption](interruption1.png)
-
-
-
-
