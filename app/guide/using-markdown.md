@@ -43,7 +43,7 @@ This is a paragraph.
 
 ## Links
 
-To create links, you have to use a combination of square brackets and rounded brackets.
+To create links, you have to use a combination of square brackets and round brackets.
 
 The square brackets come first, and contain the link text. This must be immediately followed by rounded brackets which contain the URL.
 
