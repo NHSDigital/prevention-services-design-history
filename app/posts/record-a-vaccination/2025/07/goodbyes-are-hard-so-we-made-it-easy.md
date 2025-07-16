@@ -28,7 +28,16 @@ Both these elements are clearly displayed in the regional interface in terms of 
 
 Closed organisations have a separate section with a link at the bottom of the organisations list in the regional interface. This keeps a history of who has been closed and the UI tidy with the more common actions and important page elements sitting above.
 
+![Home](regional-interface-home1.png)
+
+![Organisation level](regional-interface-org-level.png)
+
+![Deactivate](regional-interface-deactivate.png)
+
+![Deactivated](regional-interface-deactivated-org.png)
+
+![Closed organisations](regional-interface-closed-orgs.png)
 
 
-## Next
+## Next steps
 We have demonstrated this new features and will be keeping in touch to monitor not just this feature but their overall use of the regional interface. The more they can do, the less RAVS needs to, which is good news for both parties.
