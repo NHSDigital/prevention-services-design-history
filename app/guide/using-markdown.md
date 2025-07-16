@@ -63,7 +63,9 @@ We previously wrote about [the pilot](/screening-invite/2025/06/invite-pilot-ove
 
 ## Lists
 
-You can add bullet lists by starting each item of the list with a dash (`-`) character followed by a space. Asterisks (`*`) also work.
+You can add bullet lists by starting each item of the list with a dash (`-`) character followed by a space. You can also use asterisks (`*`).
+
+There should be a blank line before and after each list.
 
 ```md
 We have 3 user types:
