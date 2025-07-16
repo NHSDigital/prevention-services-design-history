@@ -120,6 +120,11 @@ This is our brand:
 ![Blue rectangle containing 'NHS' as white slanted letters](nhs-logo.png "The NHS logo")
 ```
 
+Here is how images with captions are displayed:
+
+![Blue rectangle containing 'NHS' as white slanted letters](../../nhs-logo.png "The NHS logo")
+
+
 ## Tables
 
 Tables can be used if you have some simple data or statistics to include.
