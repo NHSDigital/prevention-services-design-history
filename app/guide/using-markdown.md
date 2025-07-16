@@ -75,6 +75,21 @@ We have 3 user types:
 - managers
 ```
 
+### Numbered lists
+
+If the order of items in your list is significant, use a numbered list.
+
+Each item in the list should start with a number, a full stop and then a space.
+
+```md
+This was our design process:
+
+1. desk research
+2. explore lots of different designs
+3. refine a couple of options
+4. usability testing
+```
+
 ## Quotations
 
 You can add quotations by starting each line of the quote using a greater than (`>`) character followed by a space.
