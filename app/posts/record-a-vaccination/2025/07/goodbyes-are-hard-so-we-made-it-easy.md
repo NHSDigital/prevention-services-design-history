@@ -4,11 +4,7 @@ description: "Allowing NHS regions deactivate organisations."
 date: 2025-07-15
 ---
 
-
-## Intro
-
 RAVS has a regional interface which has been successful in allowing the 7 NHS Regions control who they want to on board to RAVS and when. It gives them control for their own area and removes a level of admin otherwise taken up by the RAVS team, a win-win.
-
 
 ## Challenge
 However, the time has come to allow regions to also off board organisations. The who are no longer part fo the region’s vaccine campaigns for whatever reason: no longer vaccinating on the campaign, closed, changed ownership or other.
