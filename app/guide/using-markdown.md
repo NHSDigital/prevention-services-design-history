@@ -47,11 +47,17 @@ To create links, you have to use a combination of square brackets and rounded br
 
 The square brackets come first, and contain the link text. This must be immediately followed by rounded brackets which contain the URL.
 
-If you are linking to another post on this site, you should not include the full URL, and instead just the part after `nhs.uk` which starts with a forward slash (`/`) character.
-
 ```md
 For more information, see [vaccinations on the NHS website](https://www.nhs.uk/vaccinations/).
+```
 
+### Internal links
+
+If you are linking to another post on this design history site, you should not include the full URL, and instead just the part after `https://design-history.prevention-services.nhs.uk`.
+
+This should start with a forward slash (`/`) character:
+
+```md
 We previously wrote about [the pilot](/screening-invite/2025/06/invite-pilot-overview/).
 ```
 
