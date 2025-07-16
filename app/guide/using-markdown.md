@@ -15,7 +15,7 @@ You don’t have to do anything special for paragraphs, except for making sure t
 ```md
 This is a paragraph.
 
-This is a new paragraph.
+This is another paragraph.
 This sentence will appear next to the previous sentence as single line breaks are ignored.
 ```
 
@@ -34,11 +34,11 @@ This is an introductory paragraph.
 
 ## Heading
 
-This is some content.
+This is a paragraph.
 
 ### Sub-heading
 
-This is some more content.
+This is a paragraph.
 ```
 
 ## Links
@@ -86,7 +86,7 @@ As the NHS vaccination strategy says:
 
 To embed an image, use a similar combination of square and rounded brackets as with links, but starting first with a exclamation mark (`!`).
 
-The content within the square brackets is used for alternative text (alt text) if images are unavailable, for example by screen reading software.
+The content within the square brackets is used for alternative text (alt text) for use by screen reading software or if the the images fail to load.
 
 The alt text should not be a simple description of the image ("Screenshot of homepage") but instead contain the key information within the image that is being discussed in your post.
 
