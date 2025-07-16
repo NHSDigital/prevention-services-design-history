@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Using Markdown
 description: A guide to using Markdown within design history posts
 eleventyNavigation:
