@@ -10,7 +10,7 @@ tags:
   - reference data
 ---
 
-SPI works with other services to provide a wider end-to-end service. SPI is used to select which people should be contacted, but it connects with [NHS Notify](https://digital.nhs.uk/services/nhs-notify) to actually send messages to those people.
+Select People for Invitation (SPI) works with other services to provide a wider end-to-end service. SPI is used to select which people should be contacted, but it connects with [NHS Notify](https://digital.nhs.uk/services/nhs-notify) to actually send messages to those people.
 
 One of the powerful features of SPI is that as well as allowing users to select which people to contact based on various criteria, it also allows users to select which message to send and in what format. For example, we might wish to send under 16s a message addressed to "Parent or guardian", and over 16s a message addressed directly to the person themself. Or we might want to send a translated version of a message if we know the recipient has a different language preference. 
 

@@ -11,7 +11,7 @@ tags:
   - guidance
 ---
 
-SPI is built to be intuitive and easy to navigate.  
+Select People for Invitation (SPI) is built to be intuitive and easy to navigate.  
 
 We continually test how users interact with the tool to identify where additional support is needed.  
 

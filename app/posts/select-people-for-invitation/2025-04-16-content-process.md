@@ -16,7 +16,7 @@ Our goal is to empower all users – both current expert users, and potential ne
 
 ## Challenges
 
-Our current SPI users, the Operational team, are experts, so they are comfortable with the technical language used. They are also a small group of users to test with. The team consists of:
+Our current Select People for Invitation (SPI) users, the Operational team, are experts, so they are comfortable with the technical language used. They are also a small group of users to test with. The team consists of:
 
 - Delivery lead
 - Delivery support

@@ -10,7 +10,7 @@ tags:
 ---
 
 ## Our service
-'Selecting People for Invitations' is an internal service. This means that only NHS staff will use this service and not the public.
+'Select People for Invitation' is an internal service. This means that only NHS staff will use this service and not the public.
 
 Previously, the service was described by the team as ‘Invitation Processor'. The name didn’t clearly explain what the service actually does.
 
@@ -41,7 +41,7 @@ We got down to 11 stickies and did a vote to see which one we liked best:
 
 We made sure that the service name we selected made sense when explaining the service to somebody:
 
-> "Are you aware of the 'Select People for Invitations' service? It's a service run by the Select and Invite team Select People for Invitations, which allows users to send invitations to members of the public."
+> "Are you aware of the 'Select People for Invitation' service? It's a service run by the Select and Invite team, which allows users to send invitations to members of the public."
 
 ## Collecting user feedback
 We are currently holding research sessions to collect feedback for the service prototype from users. As part of this, we will collect feedback from users about the new name for the service.
