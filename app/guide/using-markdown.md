@@ -25,7 +25,7 @@ For headings, start the line with hash (`#`) characters, followed by a space.
 
 You should use 2 hash characters for a heading (h2), or 3 hash characters for a sub-heading (h3).
 
-Do not using a single hash character for the post title (h1) as this will be generated automatically.
+Do not include a post title (h1) as this will be generated automatically from the information at the top of the post.
 
 You do not need to create a heading before the introductory paragraph.
 
