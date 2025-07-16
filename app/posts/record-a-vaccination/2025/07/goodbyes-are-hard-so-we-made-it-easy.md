@@ -1,9 +1,8 @@
 ---
 title: "Goodbyes are hard. So we made it easy."
+description: "Allowing NHS regions deactivate organisations."
 date: 2025-07-15
 ---
-
-A peice on deactivating organisations in RAVS.
 
 
 ## Intro
