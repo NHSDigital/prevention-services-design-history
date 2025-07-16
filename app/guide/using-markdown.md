@@ -132,7 +132,7 @@ You can also optionally add a caption to an image, which will then appear undern
 
 The caption is in addition to alt text. Unlike the alt text, the caption cab be a short description of what the image is.
 
-The caption is added inside the rounded brackets, after the file name, within double quotes (`"`).
+The caption is added inside the round brackets, after the file name, within double quotes (`"`).
 
 ```md
 This is our brand:
