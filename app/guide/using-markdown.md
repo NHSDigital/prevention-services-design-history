@@ -45,7 +45,7 @@ This is a paragraph.
 
 To create links, you have to use a combination of square brackets and round brackets.
 
-The square brackets come first, and contain the link text. This must be immediately followed by rounded brackets which contain the URL.
+The square brackets come first, and contain the link text. This must be immediately followed by round brackets which contain the URL.
 
 ```md
 For more information, see [vaccinations on the NHS website](https://www.nhs.uk/vaccinations/).
