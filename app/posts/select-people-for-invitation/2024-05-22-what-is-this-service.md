@@ -8,7 +8,7 @@ tags:
   - background
 ---
 
-Select People for Invitations, is a service which allows users to send invitations to members of the public.
+Select People for Invitation (SPI), is a service which allows users to send invitations to members of the public.
 
 Initially the service supports sending invitations to book vaccination appointments, but it is designed in a way to be easily extended into other areas such as invitations to book screening appointments
 

@@ -15,7 +15,7 @@ tags:
 Research with users indicated that they often create new iterations based on previous iterations. This is because there are sometimes (though importantly not always) significant similarities between the cohorts and/or the filter, suppression and routing rules used in the iterations. We designed a method for copying iterations that allows either the entire iteration or selected elements to be copied into a new iteration. Users were generally happy with this idea, but we feel further testing and research is required. 
 
 ## Background
-Up until the introduction of SPI, users have created config files (in JSON format) manually, so starting with an old file as a template and copying/pasting snippets from previous files has been a natural way of working. Users expressed a preference to continue working by copying iterations, and it was seen to have benefits in terms of:
+Up until the introduction of Select People for Invitation (SPI), users have created config files (in JSON format) manually, so starting with an old file as a template and copying/pasting snippets from previous files has been a natural way of working. Users expressed a preference to continue working by copying iterations, and it was seen to have benefits in terms of:
 - efficiency, it is quicker to reuse previously generated rules than to start from scratch
 - safety, if a rule or set of cohorts has been previsouly checked and assured then it is safer to reuse that than to create a new rule from scratch
 
