@@ -1,11 +1,9 @@
 ---
 title: "Phew, we thought we’d lost you?!"
+description: Reactivating users after 90 days of inactivity 
 date: 2025-07-16
 ---
 
-Reactivating users after 90 days of inactivity 
-
-## Intro  
 
 In RAVS we let our organisations control who uses their service and what permissions they have. They do this via a manage users section in RAVS. 
 
