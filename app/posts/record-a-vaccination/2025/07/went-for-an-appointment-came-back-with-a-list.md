@@ -33,22 +33,14 @@ Finally, we re-named the section to better describe a list of patients, their NH
 
 We didn’t set out to do this - remember we thought we wanted appointments(!). But Lists keeps things simple & achieves the vast majority of Appointments benefits.
 
-![Lists home](Lists_home.png)
+![Lists Home](lists-home.png)
 
-![Lists choose site or team](Lists_choose site or team.png)
+![Choose site](lists-choose-site-or-team.png)
 
-![Lists choose date](Lists_choose date.png)
+![Choose date](lists-choose-date.png)
 
+![Add NNHS numbers](lists-add-nhs-numbers.png)
 
+![Loading](lists-loading.png)
 
-
-
-
-
-
-
-
-
-
-## Future
-In future we still wish to integrate automatically with booking systems, but for now we hope ‘Lists’ will give us an understanding of whether users benefit from this sort of feature in RAVS.
+![List view](lists-list-view.png)
