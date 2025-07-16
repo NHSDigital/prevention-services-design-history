@@ -84,10 +84,10 @@ Each item in the list should start with a number, a full stop and then a space.
 ```md
 This was our design process:
 
-1. desk research
-2. explore lots of different designs
-3. refine a couple of options
-4. usability testing
+1. Desk research
+2. Explore lots of different designs
+3. Refine a couple of options
+4. Usability testing
 ```
 
 ## Quotations
