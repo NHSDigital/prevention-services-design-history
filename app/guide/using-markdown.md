@@ -110,9 +110,9 @@ We redesigned the homepage to clearly list the different services within our por
 
 You can also optionally add a caption to an image, which will then appear underneath it on your post.
 
-Unlike the alt text, this should be a short description of what the image is.
+The caption is in addition to alt text. Unlike the alt text, the caption cab be a short description of what the image is.
 
-The caption can be added within the rounded brackets, after the file name, within double quotes (`"`).
+The caption is added inside the rounded brackets, after the file name, within double quotes (`"`).
 
 ```md
 This is our brand:
