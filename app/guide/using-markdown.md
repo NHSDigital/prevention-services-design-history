@@ -112,7 +112,7 @@ This is shown like this:
 
 ## Images
 
-To embed an image, use a similar combination of square and rounded brackets as with links, but starting first with a exclamation mark (`!`).
+To embed an image, use a similar combination of square and round brackets as with links, but starting first with a exclamation mark (`!`).
 
 The content within the square brackets is used for alternative text (alt text) for use by screen reading software or if the the images fail to load.
 
