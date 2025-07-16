@@ -96,7 +96,7 @@ To embed an image, use a similar combination of square and rounded brackets as w
 
 The content within the square brackets is used for alternative text (alt text) for use by screen reading software or if the the images fail to load.
 
-The alt text should not be a simple description of the image ("Screenshot of homepage") but instead contain the key information within the image that is being discussed in your post.
+The alt text should contain the key information within the image that is being discussed in your post. For example, if the image is a screenshot, the alt text could describe the visual layout of the page, or could contain the key content in the screenshot. It should not be generic text like "Screenshot of homepage".
 
 Within the rounded brackets you must include the exact name of the image file, which is case sensitive.
 
