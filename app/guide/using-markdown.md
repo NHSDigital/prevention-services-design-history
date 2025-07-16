@@ -102,8 +102,13 @@ As the NHS vaccination strategy says:
 > Vaccination services and activities should be holistic.
 >
 > Multidisciplinary teams could offer wider health advice and interventions.
-
 ```
+
+This is shown like this:
+
+> Vaccination services and activities should be holistic.
+>
+> Multidisciplinary teams could offer wider health advice and interventions.
 
 ## Images
 
