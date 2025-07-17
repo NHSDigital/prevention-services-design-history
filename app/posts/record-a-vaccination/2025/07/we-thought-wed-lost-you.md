@@ -41,7 +41,15 @@ Following the link will take them to a separate page to “Check and reactivate 
 
 Should any of the bulk users need to remain deactivated, then the lead admin can select them individually. 
 
-![organisation closed](org-closed.png)
+![manager users section](manage-users.png)
+
+
+![deactivated users](deactivate-users.png)
+
+
+![reactivate bulk](reactivate-bulk.png)
+
+
 
 ## Next steps  
 
