@@ -68,7 +68,7 @@ The diagram below shows two features added to the diagram, with the locations di
 
 ![Screenshot of breast features component with two features added: a mole in the right upper outer, and a wart in the left lower central](bf-3.png)
 
-# Mini GIF demo  
+## Mini GIF demo  
 
 ![Demo of two features being added to the diagram: a mole on right upper chest, and other scar on right lower outer](bf-demo.gif)
 
