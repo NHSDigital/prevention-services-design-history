@@ -3,8 +3,9 @@
   description: A tour of prior design work we can learn from
   date: 2025-04-15
   tags:
-    - beta
-    - breast screening
+    - alpha
+    - prototype
+    - image reading
 ---
 
 
