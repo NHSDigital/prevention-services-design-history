@@ -43,17 +43,18 @@ Finally, we re-named the section to better describe a list of patients, their NH
 We didn’t set out to do this - remember we thought we wanted appointments. But Lists keeps things simple and achieves the vast majority of what an appointment does.
 
 
-![Lists Home](lists-home.png)
+![Lists home](lists-home1.png)
 
-![Choose site](lists-choose-site-or-team.png)
+![choose site](lists-choose-site-or-team.png)
 
-![Choose date](lists-choose-date.png)
+![choose date](lists-choose-date.png)
 
-![Add NNHS numbers](lists-add-nhs-numbers.png)
+![add nhs numbers](lists-add-nhs-numbers.png)
 
 ![Loading](lists-loading.png)
 
 ![List view](lists-list-view.png)
+
 
 
 ## Next steps
