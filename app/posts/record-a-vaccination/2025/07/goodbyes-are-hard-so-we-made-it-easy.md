@@ -32,7 +32,7 @@ Closed organisations have a separate section with a link at the bottom of the or
 
 ![Deactivated](regional-interface-deactivated-org.png)
 
-![Closed organisations](regional-interface-closed-orgs.png)
+![Closed organisations](regional-interface-closed-orgs1.png)
 
 
 ## Next steps
