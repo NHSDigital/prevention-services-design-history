@@ -3,9 +3,9 @@ title: Designing a medical annotation tool for capturing breast features
 description: How we're designing a new medical annotation tool to enable users to capture features 
 date: 2025-07-17
 tags:
-  - alpha
+  - beta
   - prototype
-  - image reading
+  - screening
 ---
 
 We’re designing a way for radiographers to record breast features on a diagram, so that this information can later be used by radiologists during image-reading. Breast features include things like scars, moles and warts which can affect the appearances on the mammogram. 
