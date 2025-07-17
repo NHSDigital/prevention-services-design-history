@@ -29,7 +29,7 @@ NBSS uses a grid on a diagram to create annotations, which is a step towards str
 
 ## Starting with the wisdom of the team 
 
-We kicked off this work with a sketching workshop to access the wisdom, context and experience within this space.  
+We kicked off this work with a sketching workshop to access the team's wisdom, context and experience within this space.  
 
 We ended up with lots of interesting ideas and threads to explore, which formed a starting point of a prototype.  
 
@@ -59,7 +59,7 @@ This is what the user sees when no features have been added.
 
 When a location has been selected, the user will see a popover asking what the feature is. They can select mole, wart, breast reduction scar, other scar, or other feature. We are very likely to iterate this list as we try to prioritise the most common types of features, while also allowing enough flexibility for customisation.  
 
-![Screenshot of breast features componen with a popover open](bf-2.png)
+![Screenshot of breast features component with a popover open](bf-2.png)
 
 
 ## Features added, key shown 
@@ -70,7 +70,7 @@ The diagram below shows two features added to the diagram, with the locations di
 
 # Mini GIF demo  
 
-![Screenshot of breast features component](bf-demo.gif)
+![Demo of two features being added to the diagram: a mole on right upper chest, and other scar on right lower outer](bf-demo.gif)
 
 ## Designing with our subject matter expert 
 
