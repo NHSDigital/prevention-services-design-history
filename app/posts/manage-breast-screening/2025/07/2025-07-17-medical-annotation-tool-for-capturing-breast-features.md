@@ -21,7 +21,7 @@ Breast features are recorded on a paper form or within the NBSS software.
 
 Paper offers pros and cons: while drawing on paper offers an easy way for radiographers to record visual information, it also produces unstructured, offline data. It’s also difficult to amend errors.  
 
-NBSS uses a grid on a diagram to create annotations, which is a step towards structured data. However, users have told us about various issues with recording on the grid. Some areas of the grid where a mark needs to be recorded – such as immediately left or right or above for below the nipple – can’t be selected, so NBSS’s annotation tool doesn’t allow users a necessary level of accuracy.  
+NBSS uses a grid on a diagram to create annotations, which is a step towards structured data. However, users have told us about various issues with recording on the grid. Some areas of the grid where a mark needs to be recorded – such as immediately left or right or above or below the nipple – can’t be selected, so NBSS’s annotation tool doesn’t allow users a necessary level of accuracy.  
 
 ![Screenshot of NBSS's grid for capturing features at assessment](nbss.png)
 
