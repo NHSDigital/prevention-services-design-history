@@ -2,6 +2,9 @@
 title: Designing a medical annotation tool for capturing breast features  
 description: How we're designing a new medical annotation tool to enable users to capture features 
 date: 2025-07-17
+  tags:
+    - beta
+    - breast screening
 ---
 
 We’re designing a way for radiographers to record breast features on a diagram, so that this information can later be used by radiologists during image-reading. Breast features include things like scars, moles and warts which can affect the appearances on the mammogram. 
@@ -18,7 +21,6 @@ Breast features are recorded on a paper form or within the NBSS software.
 Paper offers pros and cons: while drawing on paper offers an easy way for radiographers to record visual information, it also produces unstructured, offline data. It’s also difficult to amend errors.  
 
 NBSS uses a grid on a diagram to create annotations, which is a step towards structured data. However, users have told us about various issues with recording on the grid. Some areas of the grid where a mark needs to be recorded – such as immediately left or right or above for below the nipple – can’t be selected, so NBSS’s annotation tool doesn’t allow users a necessary level of accuracy.  
-
 
 
 ## Starting with the wisdom of the team 
@@ -47,20 +49,20 @@ The prototype allows users to click on a diagram to add a mark. The mark shows u
 
 This is what the user sees when no features have been added.  
 
-![Screenshot of breast features component](bf-1.png)
+![Screenshot of breast features component with no features added](bf-1.png)
 
 ## Adding a feature 
 
 When a location has been selected, the user will see a popover asking what the feature is. They can select mole, wart, breast reduction scar, other scar, or other feature. We are very likely to iterate this list as we try to prioritise the most common types of features, while also allowing enough flexibility for customisation.  
 
-![Screenshot of breast features component](bf-2.png)
+![Screenshot of breast features componen with a popover open](bf-2.png)
 
 
 ## Features added, key shown 
 
 The diagram below shows two features added to the diagram, with the locations displayed next to them.  
 
-![Screenshot of breast features component](bf-3.png)
+![Screenshot of breast features component with two features added: a mole in the right upper outer, and a wart in the left lower central](bf-3.png)
 
 # Mini GIF demo  
 
