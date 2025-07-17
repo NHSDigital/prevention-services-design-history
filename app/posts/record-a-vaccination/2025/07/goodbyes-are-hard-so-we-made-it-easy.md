@@ -36,4 +36,4 @@ Closed organisations have a separate section with a link at the bottom of the or
 
 
 ## Next steps
-We have demonstrated this new features and will be keeping in touch to monitor not just this feature but their overall use of the regional interface. The more they can do, the less RAVS needs to, which is good news for both parties.
+We have shown this new feature to the users and will be keeping in touch to monitor not just this feature but their overall use of the regional interface. The more they can do, the less RAVS needs to, which is good news for both parties.
