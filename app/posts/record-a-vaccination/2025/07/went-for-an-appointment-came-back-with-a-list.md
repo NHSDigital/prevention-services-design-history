@@ -36,7 +36,7 @@ So far so simple, but we wanted to go further and simplified the design by:
 - removing a 'check' page in favour of in-page error messages for non-existent NHS numbers
 - showing everything in one list, rather than separate lists for Awaiting and Recorded
 - search only applying to one list for ease
-- moving ‘delete list’ to the bottom of the page help visual clutter
+- moving ‘delete list’ to the bottom of the page to help with visual clutter
 - iterating the content, with particular focus to the add NHS numbers page
   
 Finally, we re-named the section to better describe a list of patients, their NHS numbers, a date and a location
