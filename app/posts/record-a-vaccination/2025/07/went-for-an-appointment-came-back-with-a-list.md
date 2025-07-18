@@ -13,9 +13,9 @@ We thought about what was useful about appointments and how we could deliver the
 
 ## The benefits of appointments
 
-When we reflected on what we'd heard from users in terms of ’what’s so good about appointments?’, the mosts compelling reason was being able to see a list of everyone they had to see, how many they had left and who had been vaccinated.
+When we reflected on what we'd heard from users in terms of ’what’s so good about appointments?’, the most compelling reason was being able to see a list of everyone they had to see, how many they had left and who had been vaccinated.
 
-And we could do that, allow them to have structured lists of patients. Maternity clinics & Staff vaccinations (where the patients are already known and there isn’t always a specified time for the appointment) make up 40% of RAVS activity.
+And we could do that, allow them to have structured lists of patients. Maternity clinics and staff vaccinations (where the patients are already known and there isn’t always a specified time for the appointment) make up 40% of RAVS activity.
 
 Today RAVS works like so, a vaccinator looks up a patient, vaccinates them, and then looks up the next one and so on.
 
@@ -33,11 +33,12 @@ In the end we decided a template would be too fiddly and instead designed a jour
 ## How to make a List
 
 So far so simple, but we wanted to go further and simplified the design by:
-- Removing a 'check' page in favour of in-page error messages for non-existant NHS numbers
-- Showing everything in one list, rather than separate lists for Awaiting and Recorded
-- Applying search to one list at a time
-- Moving ‘delete list’ to the bottom of the page help visual clutter
-- Iterating the content, with particular focus to the add NHS numbers page
+- removing a 'check' page in favour of in-page error messages for non-existent NHS numbers
+- showing everything in one list, rather than separate lists for Awaiting and Recorded
+- search only applying to one list for ease
+- moving ‘delete list’ to the bottom of the page help visual clutter
+- iterating the content, with particular focus to the add NHS numbers page
+  
 Finally, we re-named the section to better describe a list of patients, their NHS numbers, a date and a location
 
 We didn’t set out to do this - remember we thought we wanted appointments. But Lists keeps things simple and achieves the vast majority of what an appointment does.
