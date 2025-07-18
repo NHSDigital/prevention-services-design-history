@@ -7,7 +7,7 @@ Whilst we initially piloted the service with a small number of pharmacies in the
 
 From Autumn/Winter 2025, all pharmacies will be able to use the service for recording flu and covid vaccinations, and so we needed a different approach.
 
-As pharmacies will have a choice of services to pick from, our first step was to design a product page which summarised the main features of the service and would give pharmacies the confidence to select it:.
+As pharmacies will have a choice of services to pick from, our first step was to design a product page which summarised the main features of the service and would give pharmacies the confidence to select it.
 
 We did some research with pharmacies to understand what they would look for when selecting a service.
 
@@ -32,13 +32,13 @@ We currently have information about the service in several different places, inc
 
 However, none of these pages get many views. This evidence was backed up by research with pharmacies, which found that many of them had not heard about the service or were unaware that they could use it.
 
-When searching for the service name online, there is currently a confusing mix of results from different sources with the same title, including the pages listed above and our own login page. This is potentially confusing for users who want learn about the service, and also makes it harder for our existing users who may just want to sign in as quickly as possible.
+When searching for the service name online, there is currently a confusing mix of results from different sources with the same title, including the pages listed above and our own login page. This is potentially confusing for users who want to learn about the service, and also makes it harder for our existing users who may just want to sign in as quickly as possible.
 
 ## Designing a product page
 
 ![Screenshot of a zoomed out view of a long page with multiple sections in different colours: blue, white and light grey](product-page.png)
 
-We decided to create a ‘product page’ to try and bring together all the relevant information about the service current dispersed across several websites.
+We decided to create a ‘product page’ to try and bring together all the relevant information about the service currently dispersed across several websites.
 
 Rather than being hosted separately, the product page will also be our ‘signed out’ page from which users can sign in to the service.
 
@@ -71,7 +71,7 @@ We then included the benefits we felt were most compelling. These were iterated 
 
 We then added a How it works section. This is presented as a numbered list of steps, as we know this format works well for making the process feel manageable.
 
-The 5th step only applies to pharmacies, as they are the only ones being paid per jab directly by BSA, but the other steps apply to all settings.
+The 5th step only applies to pharmacies, as they are the only ones being paid per jab directly by the NHS Business Services Authority, but the other steps apply to all settings.
 
 ### Stats and testimonial
 
@@ -83,7 +83,7 @@ To try and build confidence in our product, we included a section which contains
 
 We also included a quote from a user who has used RAVS in their pharmacies since the days of the pilot and has a positive experience of it.
 
-This section as a form of social proof.
+This section is a form of social proof.
 
 ### Reassurance about switching
 
