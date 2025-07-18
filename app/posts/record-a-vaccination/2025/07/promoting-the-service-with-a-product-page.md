@@ -19,7 +19,7 @@ Some of the common themes were:
 - how they would get paid for providing the service
 - trust and assurance in the system
 
-We also learned that they would be influenced by word of mouth, including recommendations from other pharmacies and from pharmacy IT support groups
+We also learned that they would be influenced by word of mouth, including recommendations from other pharmacies and from pharmacy IT support groups.
 
 ## Reviewing our existing product information
 
