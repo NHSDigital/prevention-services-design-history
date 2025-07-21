@@ -30,7 +30,7 @@ After the reasons have been given, the text ‘Special appointment’ is appende
 
 ## What users told us 
 
-This isn’t a frequently accessed feature within clinics – only around 2-3% of slots marked as special appointments. 
+This isn’t a frequently accessed feature within clinics – only around 2-3% of slots need to be marked as special appointments, with the majority of those for breast implants. 
 
 But it’s a critical one for users, especially clinic admin staff who need to review the upcoming special appointments and prepare accordingly, often days in advance. This could be anything from allocating extra time to organising for an interpreter to be present. 
 
@@ -64,13 +64,11 @@ This covers scenarios such as a participant calling a clinic in advance to share
 
 A lot of work has been done to remove clutter from the appointment page so users could focus on the most important information at the stage (being able to ID the participant). To keep things clean, we’ve grouped the option to make an appointment ‘special’ with a selection of other sporadically used options within an action button. 
 
-![A dropdown list of options available from appointments with 'Make this a special appointment' highlighted](sa-launch.png)
-
-This switches to ‘Change special appointment details’ once a reason has been added. 
+![A dropdown list of options available from appointments with 'Make this a special appointment' highlighted](sa-launch.png "The text switches to ‘Change special appointment details’ once a reason has been added.")
 
 Selecting this option takes the user to a list of special appointment reasons, with multiple selections permitted. 
 
-![A form with various reasons for a special appointment presented for users to seelct from](sa-categories.png)
+![A form with various reasons for a special appointment presented for users to select from](sa-categories.png)
 
 The options have been adapted from the NBSS list and aligned more closely with the [NHS reasonable adjustment flag](https://digital.nhs.uk/services/reasonable-adjustment-flag), to allow for easier synchronisation across other NHS services. 
 
