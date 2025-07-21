@@ -62,7 +62,7 @@ This covers scenarios such as a participant calling a clinic in advance to share
 
 ### Entering the workflow
 
-A lot of work has been done to remove clutter from the appointment page so users could focus on the most important information at the stage (being able to ID the participant). To keep things clean, we’ve grouped the option to make an appointment ‘special’ with a selection of other sporadically used options within an action button. 
+A lot of work has been done to remove clutter from the appointment page so users could focus on the most important information at the stage (being able to ID the participant). To keep things clean, we’ve grouped the option to make an appointment ‘special’ with a selection of other appointment related actions within an action button. 
 
 ![A dropdown list of options available from appointments with 'Make this a special appointment' highlighted](sa-launch.png "The text switches to ‘Change special appointment details’ once a reason has been added.")
 
