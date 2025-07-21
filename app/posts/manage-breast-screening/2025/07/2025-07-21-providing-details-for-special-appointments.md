@@ -16,15 +16,15 @@ These are known as ‘special’ appointments. We’ve been working on ways for 
 
 Breast screening clinics use the National Breast Screening System (NBSS) to manage mammogram appointment information. When you view a participant in NBSS, a ‘Special Appointment’ checkbox is provided alongside other information such as their name, date of birth and NHS number. 
 
-![???](???.png)
+![???](nbss-sa-checkbox.png)
 
 When this checkbox is ticked, a list of available ‘Reasons’ is presented to users, each with a distinct code.
 
-![???](???.png)
+![???](nbss-sa-codes.png)
 
 After the reasons have been given, the text ‘Special appointment’ is appended to the participant in the clinic appointment list. This provides a visual cue to those managing the clinic so they can prepare the required adjustments. 
 
-![???](???.png)
+![???](nbss-sa-tooltip.png)
 
 ## What users told us 
 
@@ -58,13 +58,13 @@ This covers scenarios such as a participant calling a clinic in advance to share
 
 A lot of work has been done to remove clutter from the appointment page so users could focus on the most important information at the stage (being able to ID the participant). To keep things clean, we’ve grouped the option to make an appointment ‘special’ with a selection of other sporadically used options within an action button. 
 
-![???](???.png)
+![???](sa-launch.png)
 
 This switches to ‘Change special appointment details’ once a reason has been added. 
 
 Selecting this option takes the user to a list of special appointment reasons, with multiple selections permitted. 
 
-![???](???.png)
+![???](sa-categories.png)
 
 The options have been adapted from the NBSS list and aligned more closely with the [NHS reasonable adjustment flag](https://digital.nhs.uk/services/reasonable-adjustment-flag), to allow for easier synchronisation across other NHS services. 
 
@@ -76,7 +76,7 @@ For example, a participant with breast implants may require a specialist radiogr
 
 Each checkbox triggers a free text box where users can ‘Describe support required’.
 
-![???](???.png)
+![???](sa-details.png)
 
 We have opted for this over more structured data methods due to the variability of what could be entered here. For example, we could provide a language selection option, but this brings added complications, and would likely require a text explanation regardless.  
 
@@ -96,13 +96,13 @@ The special appointment information is visible in various places in the service.
 
 We wanted to make sure this information was hard to miss, so have added it as a prominent [warning callout](https://service-manual.nhs.uk/design-system/components/warning-callout) before the participant’s identity details. 
 
-![???](???.png)
+![???](sa-callout.png)
 
 ### On the clinic list 
 
 Participants with a special appointment can also be easily identified within the clinic list by the yellow tag next to their appointment time. 
 
-![???](???.png)
+![???](sa-clinic-list.png)
 
 We will be building features to allow clinic staff to search and filter by special appointments across clinics and date ranges. This will help them when planning the adjustments needed in future.  
 
