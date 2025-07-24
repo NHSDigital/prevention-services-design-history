@@ -1,7 +1,10 @@
-module.exports = function (eleventyConfig) {
+import { govukEleventyPlugin } from '@x-govuk/govuk-eleventy-plugin'
+
+export default function(eleventyConfig) {
+
   // Options to customise the appearance of your design history
   // https://x-govuk.github.io/govuk-eleventy-plugin/options/
-  eleventyConfig.addPlugin(require('@x-govuk/govuk-eleventy-plugin'), {
+  eleventyConfig.addPlugin(govukEleventyPlugin, {
     stylesheets: [
       '/styles/application.css'
     ],
@@ -25,8 +28,13 @@ module.exports = function (eleventyConfig) {
       }
     },
     footer: {
+      logo: false,
       meta: {
         items: [
+          {
+            href: "/posts/feed.xml",
+            text: "Subscribe to feed"
+          },
           {
             href: "https://github.com/NHSDigital/prevention-services-design-history",
             text: "Github source"
@@ -48,6 +56,7 @@ module.exports = function (eleventyConfig) {
       },
       contentLicence: false
     },
+    feedUrl: 'posts/feed.xml',
     url:
       process.env.GITHUB_ACTIONS &&
       'https://design-history.prevention-services.nhs.uk/'
@@ -158,6 +167,13 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection('guide', collection => {
     return collection.getFilteredByGlob('app/guide/**/*.md')
   })
+
+
+  // A 'post' collection containing all posts across all services
+  eleventyConfig.addCollection("post", (collection) => {
+    return collection.getFilteredByGlob("app/posts/**/*.md")
+  })
+
 
   // Config
   return {

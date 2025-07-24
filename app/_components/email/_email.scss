@@ -1,3 +1,5 @@
+@use "pkg:govuk-frontend/dist/govuk" as *;
+
 .app-email {
   border: $govuk-border-width solid $govuk-border-colour;
   padding: govuk-spacing(4);
