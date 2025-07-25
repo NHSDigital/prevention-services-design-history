@@ -7,13 +7,13 @@
 
 .app-header__container {
   border-bottom: 1px solid rgba(govuk-colour("white"), 0.2);
-  margin-bottom: 0;
   padding-bottom: govuk-spacing(4);
   padding-top: govuk-spacing(4);
 }
 
 .govuk-header__logo {
   margin: 0;
+  flex-grow: 999;
 }
 
 .govuk-header__link--homepage {
@@ -36,7 +36,12 @@
   line-height: 40px !important;
 }
 
+.govuk-template--rebranded .govuk-header__container {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
 .app-site-search:defined {
   margin: 0;
   padding: 0;
+  flex-grow: 1;
 }
