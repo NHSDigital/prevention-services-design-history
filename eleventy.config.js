@@ -171,7 +171,7 @@ export default function(eleventyConfig) {
 
   // A 'post' collection containing all posts across all services
   eleventyConfig.addCollection("post", (collection) => {
-    return collection.getFilteredByGlob("app/posts/**/*.md")
+    return collection.getFilteredByGlob("app/posts/*/**/*.md")
   })
 
 
