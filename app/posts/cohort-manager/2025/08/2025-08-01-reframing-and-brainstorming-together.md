@@ -30,7 +30,7 @@ Next, we conducted a series of democratic voting sessions to prioritise our idea
 
 - We identified gaps in our discovery process.  
 
-- Collaborating with stakeholders ensured that we engaged in a cooperative manner rather than simply presenting our ideas.  
+- Collaborating with stakeholders ensured that we engaged collaboratively rather than simply presenting our ideas.  
 
 - Our key stakeholders facilitated communication with other important stakeholders, bringing us closer to a shared vision for our cohorting service. 
 
