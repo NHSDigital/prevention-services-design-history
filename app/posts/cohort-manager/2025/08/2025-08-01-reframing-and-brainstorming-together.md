@@ -34,5 +34,5 @@ Next, we conducted a series of democratic voting sessions to prioritise our idea
 
 - Our key stakeholders facilitated communication with other important stakeholders, bringing us closer to a shared vision for our cohorting service. 
 
-![Different themes we used to categorise the value each idea offered](value-themes.png)
-![An example of how we presented some of the ideas and value they offer for each problem statement we ideated on](top-ideas-for-each-problem-statement.png)
+![Themes we used to categorise our ideas ](value-themes.png "We used different themes to categorise the value each idea offered")
+![How we presented some of the ideas and value they offer](top-ideas-for-each-problem-statement.png "An example of how we presented some of the ideas and value they offer for each problem statement we ideated on.")
