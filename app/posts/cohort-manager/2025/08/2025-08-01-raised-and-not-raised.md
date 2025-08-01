@@ -62,8 +62,8 @@ To make the workflow clearer for the user, we've created separate tables for "ra
 
 From the home screen, the user can navigate to either:  
 
-- not raised exceptions, where they will only see exceptions that need to be raised with teams for resolution  
-- raised exceptions, where they can access and amend exceptions that have previously been raised (until they are removed from the interface following any new activity on that patient record)  
+- "not raised" exceptions, where they will only see exceptions that need to be raised with teams for resolution  
+- "raised" exceptions, where they can access and amend exceptions that have previously been raised (until they are removed from the interface following any new activity on that patient record)  
 
 Earlier versions of the interface included a "Total" screen, which included both raised and not raised exceptions together. However, from research with the National Service Desk team (our current user group), we learned that there weren’t any scenarios where they would need to see raised and not raised exceptions listed together. The separation helps the user to focus on the specific task at hand, whether that's picking up new exceptions or checking those already in progress. 
 
@@ -77,4 +77,4 @@ The feature was prioritised because it significantly improves user experience an
 
 ## Further information 
 
-If you'd like to learn more about Cohort Manager, [our earlier post](https://design-history.prevention-services.nhs.uk/cohort-manager/2025/06/cohort-manager-our-first-prototype/) introduced the user interface and explored its role in improving the quality of screening data. 
+If you'd like to learn more about Cohort Manager, [our earlier post](/cohort-manager/2025/06/cohort-manager-our-first-prototype/) introduced the user interface and explored its role in improving the quality of screening data. 
