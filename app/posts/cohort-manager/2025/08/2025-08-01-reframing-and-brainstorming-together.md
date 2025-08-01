@@ -21,18 +21,14 @@ Our Service Design team conducted an exercise to reframe pain points as "How mig
 Next, we conducted a series of democratic voting sessions to prioritise our ideas internally as a team. We then presented our prioritised ideas to the programme stakeholders over a series of playbacks. These sessions were extremely valuable, as the DES stakeholders are closest to the service and are subject matter experts. They enabled us to validate our ideas, stress-test existing concepts, and identify new ideas with an emphasis on co-creation. 
 
 ## Outcomes  
-
-- This exercise of reframing our challenges and co-creating ideas with the programme was beneficial in several ways: 
+This exercise of reframing our challenges and co-creating ideas with the programme was beneficial in several ways: 
 
 - The process provided us with a shared understanding of the key challenges we need to address, validating our main points and confirming that we were targeting the right problems.  
-
 - It created a space for open discussions, helping us build relationships with stakeholders and understand their hopes and concerns.  
-
 - We identified gaps in our discovery process.  
-
 - Collaborating with stakeholders ensured that we engaged collaboratively rather than simply presenting our ideas.  
-
 - Our key stakeholders facilitated communication with other important stakeholders, bringing us closer to a shared vision for our cohorting service. 
 
-![Themes we used to categorise our ideas ](value-themes.png "We used different themes to categorise the value each idea offered")
-![How we presented some of the ideas and value they offer](top-ideas-for-each-problem-statement.png "An example of how we presented some of the ideas and value they offer for each problem statement we ideated on.")
+![Themes we used to categorise our ideas](value-themes.png "We used different themes to categorise the value each idea offered." )
+
+![How we presented some of the ideas and value they offer](top-ideas-for-each-problem-statement.png "An example of how we presented some of the ideas and value they offer for each problem statement we ideated on." ) 
