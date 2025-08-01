@@ -10,7 +10,7 @@ tags:
 
 This post will look at Cohort Manager's labelling feature, and how it addresses challenges with current processes for tracking the status of data exceptions.
 
-![A simple table in the user interface with a row for each data exception. The final column of the table includes the status label for each exception. In the example, each exception is labelled as "Not raised". It’s a slim, rectangular label with a grey background.](status-labels-table-view.png "In the prototype, data exceptions appear in a simple table, with a row for each one. The final column of the table is for the exception status, and this includes a label of either 'raised' or 'not raised'.")
+![A simple table in the user interface with a row for each data exception. The final column of the table includes the status label for each exception. In the example, each exception is labelled as "not raised". It’s a slim, rectangular label with a grey background.](status-labels-table-view.png "In the prototype, data exceptions appear in a simple table, with a row for each one. The final column of the table is for the exception status, and this includes a label of either 'raised' or 'not raised'.")
 
 ## Background 
 
@@ -42,11 +42,11 @@ Along with the process creating more work for the user, it could also rely on th
 
 ## Why "raised" and "not raised"? 
 
-![The 2 exception status labels used in cohort manager’s user interface: "Not raised" has a grey background and "Raised" has a blue background and includes the date it was raised beneath.](status-labels-raised-and-not-raised.png) 
+![The 2 exception status labels used in cohort manager’s user interface: "not raised" has a grey background and "raised" has a blue background and includes the date it was raised beneath.](status-labels-raised-and-not-raised.png) 
 
 We chose these terms because they align with the natural language of the user's workflow and reflect their mental model: they're "raising" exceptions with the appropriate teams for resolution. The intention is that the language makes it easy for users to understand the action required of them. 
 
-While some users were familiar with terms like "Open" or "In progress" from other systems, "Raised" and "Not raised" tested positively across all groups, with users finding them clear and intuitive. 
+While some users were familiar with terms like "open" or "in progress" from other systems, "raised" and "not raised" tested positively across all groups, with users finding them clear and intuitive. 
 
 ## Considering a third status option 
 
@@ -65,7 +65,7 @@ From the home screen, the user can navigate to either:
 - "not raised" exceptions, where they will only see exceptions that need to be raised with teams for resolution  
 - "raised" exceptions, where they can access and amend exceptions that have previously been raised (until they are removed from the interface following any new activity on that patient record)  
 
-Earlier versions of the interface included a "Total" screen, which included both raised and not raised exceptions together. However, from research with the National Service Desk team (our current user group), we learned that there weren’t any scenarios where they would need to see raised and not raised exceptions listed together. The separation helps the user to focus on the specific task at hand, whether that's picking up new exceptions or checking those already in progress. 
+Earlier versions of the interface included a "total" screen, which included both raised and not raised exceptions together. However, from research with the National Service Desk team (our current user group), we learned that there weren’t any scenarios where they would need to see raised and not raised exceptions listed together. The separation helps the user to focus on the specific task at hand, whether that's picking up new exceptions or checking those already in progress. 
 
 ## Summary  
 
