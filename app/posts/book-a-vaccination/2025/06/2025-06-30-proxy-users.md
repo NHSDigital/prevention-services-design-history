@@ -14,6 +14,7 @@ We know that in future we could be asked to add more user groups and journeys to
 ## What we did  
 
 We thought about adapting the journey to allow users to book for other people, such as:  
+
 - children
 - elderly relatives
 - people they have caring responsibilities for  
@@ -24,15 +25,15 @@ We designed two potential options for enabling users to book for other people.
 
 We re-designed the content throughout the NBS journey, to make it more agnostic of who was booking the appointment.  
 
-**Do you want to book with an NHS number screen**  
+### Do you want to book with an NHS number screen
 
 ![screenshot showing a screen asking the user if they want to book with an NHS number](agnostic-nhs-no-radio.png)  
 
-**NHS number entry screen**  
+### NHS number entry screen
 
 ![screenshot showing a screen asking the user to enter an NHS number](agnostic-nhs-no.png)  
 
-**Date of birth screen**  
+### Date of birth screen
 
 ![screenshot showing a screen asking the user to enter a date of birth](agnostic-dob.png)  
 
@@ -40,13 +41,13 @@ We re-designed the content throughout the NBS journey, to make it more agnostic 
 
 Our second design option started with a page asking the user if they were booking for themselves or another person.  The journey would adapt based on their answer.  
 
-**Filter screen**  
+### Filter screen
 
 ![screenshot showing a screen asking the user if they want to book for themselves or another person](proxy-filter.png)  
 
 If the user chose to book for another person, the following screens would ask for the information using language that indicated they should enter another person’s details.  
 
-**NHS number screen**  
+### NHS number screen
 
 ![screenshot showing a screen asking the user if they know someone else’s NHS number](filter-nhs-no-radio.png)  
 
@@ -62,17 +63,17 @@ Based on the feedback from the first round of testing, we created a design which
 
 We did this by changing the order of the screens, so that the screen that asks who the appointment is for comes at the start of the journey.  
 
-**Name collection screen**  
+### Name collection screen
 
 ![screenshot showing a screen asking for the name of the person the appointment is for](name.png)  
 
 We then showed the name the user entered on the following screens, to make it clear who they were booking the appointment for.  
 
-**NHS number screen**  
+### NHS number screen
 
 ![screenshot showing a screen asking for the person’s NHS number](name-nhs-no.png)  
 
-**Appointment selection screen**  
+### Appointment selection screen
 
 ![screenshot showing a screen allowing appointment slot selection, displaying the name of the person the appointment is for](name-choose-slot.png)  
 
