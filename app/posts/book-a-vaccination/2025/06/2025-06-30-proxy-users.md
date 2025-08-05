@@ -1,25 +1,23 @@
 ---
 title: Enabling users to book for other people
-date: 2025-06-17
+date: 2025-06-30
 ---
 
 For the autumn/winter 2025 campaign, the team was asked to include flu vaccinations for 2 and 3 year olds. 
 
-the design of the National Booking Service (NBS) assumes that a citizen is booking an appointment for themselves.  It uses language that implies the user needs to enter their own details. 
+The design of the National Booking Service (NBS) assumes that a citizen is booking an appointment for themselves.  It uses language that implies the user needs to enter their own details. 
 
 ![screenshot showing a screen asking the user if they know their own NHS number](nhs-no-radio.png)  
 
-We know that in future we could be asked to add more user groups and journeys to NBS.  So as part of considering how we might adapt the journey for infant flu vaccinations, we thought about how we could make it easier to expand the service over a longer period. 
+We know that in future we could be asked to add more user groups and journeys to NBS. So as part of considering how we might adapt the journey for infant flu vaccinations, we thought about how we could make it easier to expand the service over a longer period. 
 
 ## What we did 
 
 We thought about adapting the journey to allow users to book for other people, such as: 
 
-children 
-
-elderly relatives 
-
-people they have caring responsibilities for 
+- children
+- elderly relatives
+- people they have caring responsibilities for 
 
 We designed two potential options for enabling users to book for other people. 
 
