@@ -44,19 +44,19 @@ To address this, we restructured the section into two distinct parts. The first 
 
 Some participants were confused or frustrated by the phrase “in the last week,” as their physical activity can vary greatly. We’re now re‑evaluating how we phrase these prompts to better reflect people's typical habits rather than capturing an unrepresentative snapshot.
 
-![Addition of new 'Everyday movement' screen into the journey](activities.png "Figure 3 - Addition of new 'Everyday movement' screen into the journey")
+![Addition of new 'Everyday movement' screen into the journey](activities.png "Figure 3 – Addition of new 'Everyday movement' screen into the journey")
 
 ## Behaviour change done right
 
 Our aim went beyond simply collecting data – we wanted to empower users to take meaningful action. By applying behavioural science principles such as goal setting, practical advice, and breaking tasks into small, achievable steps, we also reshaped how physical activity results were presented. Even though the additional questions didn’t feed directly into the algorithm, we were committed to ensuring users still received personalised, relevant guidance – just as they would in a face‑to‑face consultation.
 
-![Example of new component added to results page, breaking down goals into 'achievable steps'](start-small.png "Figure 4 - Example of new component added to results page, breaking down goals into 'achievable steps'")
+![Example of new component added to results page, breaking down goals into 'achievable steps'](start-small.png "Figure 4 – Example of new component added to results page, breaking down goals into 'achievable steps'")
 
 Participants responded especially well to supportive, realistic advice like “start small and build up,” alongside practical suggestions such as chair‑based exercises or the NHS Strength and Flexibility programme. These recommendations acknowledged and respected their everyday activity levels, rather than holding them to unrealistic standards.
 
 Behind the scenes, the content team developed a feedback matrix tailored to these supplementary questions. This allowed us to provide targeted, helpful feedback – even for criteria outside the algorithm – making the experience more inclusive, human, and action-oriented.
 
-![Example of a screen with tailored content specific to 'walking' one of the additional questions](physical-results.png "Figure 5 - Example of a screen with tailored content specific to 'walking' one of the additional questions")
+![Example of a screen with tailored content specific to 'walking' one of the additional questions](physical-results.png "Figure 5 – Example of a screen with tailored content specific to 'walking' one of the additional questions")
 
 ## What our users have to say
 
