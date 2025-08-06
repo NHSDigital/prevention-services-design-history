@@ -1,5 +1,5 @@
 ---
-title: Physical activity results – bridging the gap between an online and face-to-face service
+title: Physical activity results – bridging the gap between an online and face‑to‑face service
 description: Improving the physical activity assessment to be more inclusive by recognising ‘everyday movement’ alongside structured exercise.
 date: 2025-08-05
 ---
