@@ -1,6 +1,6 @@
 ---
-title: Physical activity results
-description: Bridging the gap between an online and face-to-face service 
+title: Physical activity results – bridging the gap between an online and face-to-face service
+description: Improving the physical activity assessment to be more inclusive by recognising ‘everyday movement’ alongside structured exercise.
 date: 2025-08-05
 ---
 
@@ -38,11 +38,11 @@ We’ve gone through several iterations, each shaped by real feedback from users
 
 In the early stages of the service, the physical activity questions lacked a clear structure or rationale. This led to confusion – particularly among users who, despite walking for hours each day, were still being labelled as ‘inactive’. It quickly became apparent that the GPPAQ definition of physical activity didn’t align with the lived experiences of many users. For a large number, walking was their primary form of movement, yet the system didn't acknowledge it in a meaningful way.
 
-To address this, we restructured the section into two distinct parts. The first focused on the questions that directly contribute to the user’s GPPAQ score. The second introduced a new concept: “Everyday Movement.” This section was designed to give users greater clarity about why we ask these additional questions and to paint a more holistic picture of their daily activity. It recognised forms of movement that, while not traditionally (by GPPAQ standards) classified as exercise, still mattered deeply to users – and it showed. The feedback was becoming more positive.
+To address this, we restructured the section into two distinct parts. The first focused on the questions that directly contribute to the user’s GPPAQ score. The second introduced a new concept: ‘Everyday movement’. This section was designed to give users greater clarity about why we ask these additional questions and to paint a more holistic picture of their daily activity. It recognised forms of movement that, while not traditionally (by GPPAQ standards) classified as exercise, still mattered deeply to users – and it showed. The feedback was becoming more positive.
 
 ## A shift in language and perspective
 
-Some participants were confused or frustrated by the phrase “in the last week,” as their physical activity can vary greatly. We’re now re‑evaluating how we phrase these prompts to better reflect people's typical habits rather than capturing an unrepresentative snapshot.
+Some participants were confused or frustrated by the phrase ‘in the last week’, as their physical activity can vary greatly. We’re now re‑evaluating how we phrase these prompts to better reflect people's typical habits rather than capturing an unrepresentative snapshot.
 
 ![Addition of new 'Everyday movement' screen into the journey](activities.png "Figure 3 – Addition of new 'Everyday movement' screen into the journey")
 
@@ -50,23 +50,26 @@ Some participants were confused or frustrated by the phrase “in the last week,
 
 Our aim went beyond simply collecting data – we wanted to empower users to take meaningful action. By applying behavioural science principles such as goal setting, practical advice, and breaking tasks into small, achievable steps, we also reshaped how physical activity results were presented. Even though the additional questions didn’t feed directly into the algorithm, we were committed to ensuring users still received personalised, relevant guidance – just as they would in a face‑to‑face consultation.
 
-![Example of new component added to results page, breaking down goals into 'achievable steps'](start-small.png "Figure 4 – Example of new component added to results page, breaking down goals into 'achievable steps'")
+![Example of new component added to results page, breaking down goals into ‘achievable steps’](start-small.png "Figure 4 – Example of new component added to results page, breaking down goals into 'achievable steps'")
 
-Participants responded especially well to supportive, realistic advice like “start small and build up,” alongside practical suggestions such as chair‑based exercises or the NHS Strength and Flexibility programme. These recommendations acknowledged and respected their everyday activity levels, rather than holding them to unrealistic standards.
+Participants responded especially well to supportive, realistic advice like ‘start small and build up’, alongside practical suggestions such as chair‑based exercises or the NHS Strength and Flexibility programme. These recommendations acknowledged and respected their everyday activity levels, rather than holding them to unrealistic standards.
 
 Behind the scenes, the content team developed a feedback matrix tailored to these supplementary questions. This allowed us to provide targeted, helpful feedback – even for criteria outside the algorithm – making the experience more inclusive, human, and action-oriented.
 
-![Example of a screen with tailored content specific to 'walking' one of the additional questions](physical-results.png "Figure 5 – Example of a screen with tailored content specific to 'walking' one of the additional questions")
+![Example of a screen with tailored content specific to 'walking' one of the additional questions](physical-results.png "Figure 5 – Example of a screen with tailored content specific to ‘walking‘ one of the additional questions")
 
 ## What our users have to say
 
 When testing the latest iterations of the GPPAQ questions and results sections, users spoke much more positively about the designs than in testing of early iterations. The concept of ‘everyday movement’ was more aligned to the realities of many users in our research than ‘exercise’, and we heard from users that this made the service feel more aligned to their needs and more inclusive overall. We also heard how content that was added to the results screens advising users what to do next, and available resources, was well received  by users – especially by those that were unable to participate in regular structured exercise:
 
-“I like this [physical activity results content], it’s telling me how I can improve, and I already do chair exercises at home… so there’s a lot of stuff I can do at home and build up to 30 minutes or so.” – Female, 47
+> I like this [physical activity results content], it’s telling me how I can improve, and I already do chair exercises at home… so there’s a lot of stuff I can do at home and build up to 30 minutes or so.
+– Female, 47
 
-“So I’m moderately active, and could do more… I like what it says here about the difference it can make to reduce the diseases, that’s nice.” – Male, 62
+> So I’m moderately active, and could do more… I like what it says here about the difference it can make to reduce the diseases, that’s nice.
+– Male, 62
 
-“Yeah see, it’s included what you can do if you have a disability so that’s good. It’s made it feel less generic and like it’s taking into account my situation so I like that” – Female, 51
+> Yeah see, it’s included what you can do if you have a disability so that’s good. It’s made it feel less generic and like it’s taking into account my situation so I like that.
+– Female, 51
 
 ## What's next?
 
