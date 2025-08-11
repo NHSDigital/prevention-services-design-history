@@ -1,5 +1,5 @@
 ---
-title: "Designing and testing a prototype for a digital lung cancer risk assessment"
+title: "Designing and testing a prototype"
 description:
   "We have been working on a digital version of the lung health check. To understand whether users would want to complete the questionnaire digitally and how we might deliver it."
 date: 2025-08-11
