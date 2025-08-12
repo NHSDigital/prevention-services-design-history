@@ -1,5 +1,5 @@
 ---
-  title: Data Product Design Principles
+  title: Data product design principles
   description: Ensuring data is usable and useful
   date: 2025-02-01
   tags:
