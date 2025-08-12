@@ -36,7 +36,12 @@ This evidence suggested we need some design principles to ‘keep us honest’ i
 
 The draft of design principles below was inspired by NHS design principles and adapted for data users in breast screening.
 
-![Data product design principles - version 1](data-product-design-principles.png)
+|     |     |     |
+| --- | --- | --- |
+| **Be relevant and useful** | **Keep it simple** | **Make it easy to access** |
+| understand what data I need to answer my question | Don’t overload me with options and possibilities in a tool I may be unfamiliar with; I am busy. Help me focus on what's relevant to my question | logins and permissions are a barrier to use; not every report/analysis is needed every week so it may have been months since I last needed to answer my question |
+| **Make it easy to understand** | **Don't make me work hard for data** | **Add value and insight** |
+| I may not be expert in understanding data or statistics. I should not need special training. Avoid jargon. | **data should work hard for me** | Highlight where I need to pay attention; help me find patterns; join data sets for me that help me answer a question |
 
 ## What’s next
 
