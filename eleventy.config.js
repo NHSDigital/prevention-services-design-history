@@ -73,7 +73,7 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob("app/posts/bowel-screening/**/*.md")
   })
 
-  eleventyConfig.addCollection('breast-screening-reporting-team', collection => {
+  eleventyConfig.addCollection('breast-screening-reporting', collection => {
     return collection.getFilteredByGlob('app/posts/breast-screening-reporting/*.md')
   })
 
