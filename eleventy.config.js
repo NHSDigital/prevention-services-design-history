@@ -57,6 +57,11 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
   eleventyConfig.addPassthroughCopy('./app/pdfs');
 
+  // Copy any images across
+  eleventyConfig.addPassthroughCopy('./app/**/*.png')
+  eleventyConfig.addPassthroughCopy('./app/**/*.jpg')
+
+
   // General category for posts that cover all of digital prevention services
   eleventyConfig.addCollection("digital-prevention-services", (collection) => {
     return collection.getFilteredByGlob("app/posts/digital-prevention-services/**/*.md")
@@ -117,7 +122,7 @@ module.exports = function (eleventyConfig) {
   })
 
   eleventyConfig.addCollection('record-a-vaccination', collection => {
-    return collection.getFilteredByGlob('app/posts/record-a-vaccination/**/*.md')
+    return collection.getFilteredByGlob('app/record-a-vaccination/**/*.md')
   })
 
   eleventyConfig.addCollection('select-people-for-invitation', collection => {
