@@ -74,7 +74,7 @@ module.exports = function (eleventyConfig) {
   })
 
   eleventyConfig.addCollection('breast-screening-reporting', collection => {
-    return collection.getFilteredByGlob('app/posts/breast-screening-reporting/*.md')
+    return collection.getFilteredByGlob('app/posts/breast-screening-reporting/**/*.md')
   })
 
   eleventyConfig.addCollection("cohort-manager", (collection) => {
