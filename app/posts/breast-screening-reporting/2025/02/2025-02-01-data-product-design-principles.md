@@ -47,7 +47,7 @@ I may not be expert in understanding data or statistics. I should not need speci
 5. Don’t make me do work for the data I need
 Data should work hard for me
 6. Add value and insight
-Highlight where I need to pay attention; help me find patterns; join data sets for me that help me answer a question](data-product-design-principle.png)
+Highlight where I need to pay attention; help me find patterns; join data sets for me that help me answer a question](data-product-design-principles.png)
 
 ## What’s next
 
