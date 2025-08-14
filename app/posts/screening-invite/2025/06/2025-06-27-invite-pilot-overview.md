@@ -78,4 +78,4 @@ This will be prioritised in further research.
 
 Overall, the outcomes were promising and – even more importantly – helped us see opportunities for further improvement. We’re now taking feedback on board and preparing for the next phase of the project, an early adopter roll-out. 
 
-If you have any feedback to share, please contact us by email at [magdalena.mips1@nhs.net](mailto:magdalena.mips1@nhs.net).
+If you have any feedback to share, please contact us by email at [magdalena.mips1@nhs.net](mailto:magdalena.mips1@nhs.net) or [jamie.doyle1@nhs.net](mailto:jamie.doyle1@nhs.net).
