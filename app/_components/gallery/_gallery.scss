@@ -22,7 +22,7 @@
   }
 }
 
-.app-gallery--mission-patches {
+.app-prose-scope .app-gallery--mission-patches {
 
   figure {
     // Remove styling that figures get by default
@@ -38,5 +38,6 @@
   figcaption {
     @include govuk-font(19);
     padding: 20px 0 0 0;
+    color: #4c6272;
   }
 }
