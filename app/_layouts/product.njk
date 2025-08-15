@@ -91,18 +91,32 @@
     {% endfor %}
 
     <div class="govuk-grid-row">
-      <div class="govuk-grid-column-full">
-        <hr class="govuk-section-break govuk-section-break--xl govuk-section-break--visible">
+      <div class="govuk-grid-column-two-thirds">
+        <h2 class="govuk-heading-l">
+          Reference
+        </h2>
+      </div>
+    </div>
 
-        {% for item in collections.all | eleventyNavigation(options.homeKey) %}
-          {% if ("Guide" == item.title)  %}
+    <div class="govuk-grid-row">
+
+      {% for item in collections.all | eleventyNavigation(options.homeKey) %}
+        {% if (item.title == "Guide")  %}
+          <section class="govuk-grid-column-one-half govuk-!-margin-bottom-6">
             <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
               <a href="{{ item.url | pretty }}">{{ item.title }}</a>
             </h3>
             <p class="govuk-body">{{ item.excerpt }}</p>
-          {% endif %}
-        {% endfor %}
-      </div>
+          </section>
+        {% endif %}
+      {% endfor %}
+      <section class="govuk-grid-column-one-half govuk-!-margin-bottom-6">
+        <h3 class="govuk-heading-m govuk-!-margin-bottom-1">
+          <a href="./mission-patches">Mission patches</a>
+        </h3>
+        <p class="govuk-body">Archive of patches created to celebrate milestones in the development of our different services.</p>
+      </section>
+
     </div>
 
   {% endif %}
