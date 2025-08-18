@@ -1,4 +1,4 @@
-@import "email/email";
-@import "gallery/gallery";
-@import "header/header";
-@import "screenshots/screenshots";
+@use "email/email";
+@use "header/header";
+@use "gallery/gallery";
+@use "screenshots/screenshots";
