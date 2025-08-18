@@ -1,0 +1,43 @@
+.app-gallery {
+  padding: 0;
+  list-style: none;
+}
+
+.app-gallery--layout-thumbnails {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
+  grid-gap: govuk-spacing(6);
+
+  figure {
+    @include govuk-responsive-margin(2, "bottom");
+
+    > a {
+      display: block;
+    }
+
+    > img {
+      object-fit: cover;
+      object-position: top;
+    }
+  }
+}
+
+.app-prose-scope .app-gallery--mission-patches {
+
+  figure {
+    // Remove styling that figures get by default
+    background-color: inherit;
+    border-bottom: none;
+    @include govuk-font(19);
+    padding: 20px 0 0 0;
+    img {
+      outline: none;
+    }
+  }
+
+  figcaption {
+    @include govuk-font(19);
+    padding: 20px 0 0 0;
+    color: #4c6272;
+  }
+}
