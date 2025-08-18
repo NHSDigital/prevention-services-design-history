@@ -21,6 +21,6 @@ You could include:
 
 Do not include personal details of participants or staff.
 
-You don’t need to document evert single decision. You will struggle with time to do this and people probably won’t be interested.
+You don’t need to document every single decision. You will struggle with time to do this and people probably won’t be interested.
 
-Don’t include anything that in could be detrimental to a person or the NHS.
+Don’t include anything that could be detrimental to a person or the NHS.

@@ -73,6 +73,10 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob("app/posts/bowel-screening/**/*.md")
   })
 
+  eleventyConfig.addCollection('breast-screening-reporting', collection => {
+    return collection.getFilteredByGlob('app/posts/breast-screening-reporting/**/*.md')
+  })
+
   eleventyConfig.addCollection("cohort-manager", (collection) => {
     return collection.getFilteredByGlob("app/posts/cohort-manager/**/*.md")
   })
@@ -135,8 +139,8 @@ module.exports = function (eleventyConfig) {
     return collection.getFilteredByGlob("app/posts/personalised-prevention/**/*.md")
   })
 
-  eleventyConfig.addCollection('digital-nhs-health-check', collection => {
-    return collection.getFilteredByGlob('app/posts/digital-nhs-health-check/**/*.md')
+  eleventyConfig.addCollection('nhs-health-check-online', collection => {
+    return collection.getFilteredByGlob('app/posts/nhs-health-check-online/**/*.md')
   })
 
   eleventyConfig.addCollection('personalised-prevention-platform', collection => {
