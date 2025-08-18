@@ -166,7 +166,8 @@ export default function(eleventyConfig) {
     htmlTemplateEngine: 'njk',
     markdownTemplateEngine: 'njk',
     dir: {
-      input: 'app'
+      input: 'app',
+      includes: '_components'
     }
   }
 }
