@@ -11,6 +11,8 @@ eleventyNavigation:
 
 {% from "gallery/macro.njk" import appGallery with context %}
 
+We use mission patches to celebrate the achievements and milestones of our work.
+
 ## Manage vaccinations in schools
 
 We chose a polar bear as the team’s mascot because:
