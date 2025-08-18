@@ -1,7 +1,13 @@
 ---
 title: "Promoting the service with a product page"
-date: 2025-07-17
+date: 2025-08-18
 ---
+
+We created [a product page](https://www.ravs.england.nhs.uk/) to promote the service to potential new users.
+
+The page went live on 7 August 2025.
+
+## Background
 
 Whilst we initially piloted the service with a small number of pharmacies in the East of England, those pharmacies were selected via a procurement process and onboarded by the NHS England regional leads using our [regional interface](/record-a-vaccination/2024/08/onboarding-organisations-without-spreadsheets/).
 
