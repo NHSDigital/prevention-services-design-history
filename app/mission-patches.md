@@ -39,8 +39,40 @@ That, and everyone on the team seems to love [The Bear](https://www.imdb.com/tit
   }]
 }) }}
 
-* * *
+## Record a vaccination
 
-## Print specifications
+We chose a hare as the team’s mascot because they are able to make big leaps forward.
 
-[Print specifications to be added]
+{{ appGallery({
+  classes: "app-gallery--mission-patches",
+  items: [
+  {
+    text: "RAVS pilot mission patch",
+    caption: "This mission patch celebrated the launch of the pilot in June 2024. The 4 hearts represent the locations of the organisations that took part."
+  },
+  {
+    text: "RAVS 1 million jabs mission patch",
+    caption: "This mission patch celebrated the 1 millionth vaccination recorded by the service in January 2025. The background text contains the vaccine product names."
+  }]
+}) }}
+
+## Vaccinations
+
+These mission patches celebrate work which spans multiple vaccination services and teams.
+
+{{ appGallery({
+  classes: "app-gallery--mission-patches",
+  items: [
+  {
+    text: "Autumn/Winter 2022 mission patch",
+    caption: "This mission patch celebrated the work of the digital services supporting the Autumn/Winter 2022 seasonal vaccinations."
+  },
+  {
+    text: "Autumn/Winter 2024 mission patch",
+    caption: "This mission patch celebrated the work of the digital services supporting the Autumn/Winter 2024 seasonal vaccinations."
+  },
+  {
+    text: "RSV mission patch",
+    caption: "This sparkly mission patch celebrated the launch of a brand new RSV vaccination, which was enabled by multiple teams including Select & Invite, Book a vaccination, Record a vaccination, and Capture & Flow."
+  }]
+}) }}
