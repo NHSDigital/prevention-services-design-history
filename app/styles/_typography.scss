@@ -1,5 +1,0 @@
-@use "pkg:govuk-frontend/dist/govuk" as *;
-
-.app-footer--text {
-  @include govuk-font($size: 16);
-}
