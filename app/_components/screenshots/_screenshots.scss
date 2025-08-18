@@ -1,11 +1,11 @@
-@use "pkg:govuk-frontend/dist/govuk" as *;
+@use "pkg:nhsuk-frontend/dist/nhsuk" as *;
 
 .app-screenshots__contents,
 .app-screenshots__screenshot {
-  margin-bottom: govuk-spacing(9) !important;
+  margin-bottom: nhsuk-spacing(9) !important;
 }
 
-@include govuk-media-query($media-type: print) {
+@include nhsuk-media-query($media-type: print) {
   // Separate screenshots from surrounding content
   .app-screenshots {
     page-break-before: always;

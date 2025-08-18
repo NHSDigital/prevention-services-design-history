@@ -1,4 +1,4 @@
-@use "pkg:govuk-frontend/dist/govuk" as *;
+@use "pkg:nhsuk-frontend/dist/nhsuk" as *;
 
 .app-gallery {
   padding: 0;
@@ -8,10 +8,10 @@
 .app-gallery--layout-thumbnails {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(16rem, 1fr));
-  grid-gap: govuk-spacing(6);
+  grid-gap: nhsuk-spacing(6);
 
   figure {
-    @include govuk-responsive-margin(2, "bottom");
+    @include nhsuk-responsive-margin(2, "bottom");
 
     > a {
       display: block;
@@ -30,7 +30,7 @@
     // Remove styling that figures get by default
     background-color: inherit;
     border-bottom: none;
-    @include govuk-font(19);
+    @include nhsuk-font(19);
     padding: 20px 0 0 0;
     img {
       outline: none;
@@ -38,7 +38,7 @@
   }
 
   figcaption {
-    @include govuk-font(19);
+    @include nhsuk-font(19);
     padding: 20px 0 0 0;
     color: #4c6272;
   }
