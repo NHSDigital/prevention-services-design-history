@@ -1,0 +1,13 @@
+{% extends "layouts/post.njk" %}
+
+{% from "_components/screenshots/macro.njk" import appScreenshots %}
+
+{% block content %}
+  {{ super() }}
+
+  {% for collection in screenshots %}
+    {{ appScreenshots(collection) }}
+  {% else %}
+    {{ appScreenshots(screenshots) if screenshots }}
+  {% endfor %}
+{% endblock %}

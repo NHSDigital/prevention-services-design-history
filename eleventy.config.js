@@ -45,6 +45,14 @@ export default function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
   eleventyConfig.addPassthroughCopy('./app/pdfs');
 
+  // Nunjucks filters
+  eleventyConfig.addFilter("push", (array, item) => {
+    const newArray = [...array]
+    newArray.push(item)
+
+    return newArray
+  });
+
   // General category for posts that cover all of digital prevention services
   eleventyConfig.addCollection("digital-prevention-services", (collection) => {
     return collection.getFilteredByGlob("app/posts/digital-prevention-services/**/*.md")
@@ -167,7 +175,8 @@ export default function(eleventyConfig) {
     markdownTemplateEngine: 'njk',
     dir: {
       input: 'app',
-      includes: '_components'
+      includes: '_components',
+      includes: '_layouts'
     }
   }
 }
