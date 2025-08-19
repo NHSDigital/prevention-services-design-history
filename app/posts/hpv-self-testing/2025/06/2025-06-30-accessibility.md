@@ -66,8 +66,6 @@ Lastly, we created an Accessibility Strategy document on Confluence, that descri
 - What we're delivering
 - Defining our target sub-groups
 
-![Confluence screenshot 1](confluence1.png)
-
 2. Key accessibility objectives for our project
 3. Responsibilities by discipline
 - UCD team
@@ -76,13 +74,7 @@ Lastly, we created an Accessibility Strategy document on Confluence, that descri
 - Development
 - Quality assurance (QA): Mobile requirements, web Requirements, automated testing, manual testing
 
-![Confluence screenshot 2](confluence2.png)
-![Confluence screenshot 3](confluence3.png)
-
 4. Success Metrics and KPIs (Key Performance Indicators)
-
-![Confluence screenshot 4](confluence4.png)
-
 5. Accessibility workshops
 6. Additional training and resources
 
