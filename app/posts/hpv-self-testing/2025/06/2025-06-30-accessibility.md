@@ -88,7 +88,11 @@ Lastly, we created an Accessibility Strategy document on Confluence, that descri
 
 
 
-This document was then reviewed by the wider team and now represents our committment and process to delivering an accessible service. We are committed to building and maintaining digital products that are accessible to everyone, regardless of ability. Accessibility is not a one-time task but an ongoing responsibility. Our long-term vision is to embed inclusive design and accessibility into every stage of our product lifecycle — from planning and design to development, testing, and beyond. We aim to not only meet recognised standards such as WCAG 2.2 but to exceed them where possible, by engaging with diverse users, improving continuously through feedback, and fostering a culture of accessibility across our teams.
+This document was then reviewed by the wider team and now represents our committment and process to delivering an accessible service. We are committed to building and maintaining digital products that are accessible to everyone, regardless of ability. 
+
+Accessibility is not a one-time task but an ongoing responsibility. Our long-term vision is to embed inclusive design and accessibility into every stage of our product lifecycle — from planning and design to development, testing, and beyond. 
+
+We aim to not only meet recognised standards such as WCAG 2.2 but to exceed them where possible, by engaging with diverse users, improving continuously through feedback, and fostering a culture of accessibility across our teams.
 
 
 
