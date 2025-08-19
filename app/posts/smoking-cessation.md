@@ -2,6 +2,8 @@
 layout: collection
 title: Smoking cessation
 description: Helping people to stop using nicotine
+tags:
+  - personalised-prevention-services
 pagination:
   data: collections.smoking-cessation
   reverse: true

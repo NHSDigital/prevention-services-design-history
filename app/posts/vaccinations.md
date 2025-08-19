@@ -2,7 +2,8 @@
 layout: collection
 title: Vaccinations
 description: Work that spans services in vaccinations
-area: Vaccinations
+tags:
+  - vaccination-services
 pagination:
   data: collections.vaccinations
   reverse: true

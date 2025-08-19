@@ -2,6 +2,8 @@
 layout: collection
 title: Digital prevention services
 description: Work across digital prevention services
+tags:
+  - personalised-prevention-services
 pagination:
   data: collections.digital-prevention-services
   reverse: true

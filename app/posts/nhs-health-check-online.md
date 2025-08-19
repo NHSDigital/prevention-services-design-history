@@ -2,6 +2,8 @@
 layout: collection
 title: NHS Health Check Online
 description: A online check‑up of overall health for people aged 40&nbsp;to&nbsp;74.
+tags:
+  - personalised-prevention-services
 pagination:
   data: collections.nhs-health-check-online
   reverse: true

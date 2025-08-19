@@ -2,6 +2,8 @@
 layout: collection
 title: Lung health check
 description: Helping more of the right people access lung health checks
+tags:
+  - personalised-prevention-services
 pagination:
   data: collections.lung-health-check
   reverse: true

@@ -2,7 +2,8 @@
 layout: collection
 title: Manage vaccinations in schools
 description: A service for managing and recording school-age vaccinations
-area: Vaccinations
+tags:
+  - vaccination-services
 pagination:
   data: collections.manage-vaccinations-in-schools
   reverse: true

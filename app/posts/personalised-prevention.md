@@ -2,7 +2,8 @@
 layout: collection
 title: Personalised prevention
 description: Work that spans services in personalised prevention
-area: Personalised prevention
+tags:
+  - personalised-prevention-services
 pagination:
   data: collections.personalised-prevention
   reverse: true

@@ -2,6 +2,8 @@
 layout: collection
 title: Personalised prevention platform
 description: Helping people at risk of, or living with, health conditions to find appropriate services
+tags:
+  - personalised-prevention-services
 pagination:
   data: collections.personalised-prevention-platform
   reverse: true

@@ -1,88 +1,23 @@
 ---
 homepage: true
 layout: product
-title: Digital prevention services design history
+title: Digital prevention services design history
 description: A record of design and research for NHS digital prevention services
+groups:
+  - title: Screening
+    items: collections.screening-services
+    columns: 3
+    secondary: true
+  - title: Vaccinations
+    items: collections.vaccination-services
+    columns: 3
+    secondary: true
+  - title: Personalised prevention
+    items: collections.personalised-prevention-services
+    columns: 3
+    secondary: true
+  - title: Reference
+    items: collections.reference
+    columns: 2
+    secondary: true
 ---
-</div>
-{% set sections = [
-  { title: "Screening", services: [
-    "Bowel screening",
-    "Breast screening reporting",
-    "Cohort manager",
-    "Explore team",
-    "Manage breast screening",
-    "Manage your screening",
-    "HPV self-sampling",
-    "Invite"
-  ] },
-  { title: "Vaccinations", services: [
-    "Vaccinations",
-    "Book a vaccination",
-    "Manage vaccinations in schools",
-    "Manage your appointments",
-    "Record a vaccination",
-    "Select people for invitation",
-    "Vaccinations in the App"
-  ] },
-  { title: "Personalised prevention", services: [
-    "Personalised prevention",
-    "Lung health check",
-    "NHS Health Check Online",
-    "Personalised prevention platform",
-    "Smoking cessation"
-  ] }
-] %}
-
-{% for section in sections %}
-  <div class="nhsuk-grid-row">
-    <div class="nhsuk-grid-column-two-thirds">
-      <h2 class="nhsuk-heading-l">
-        {{ section.title }}
-      </h2>
-    </div>
-  </div>
-  {% for batch in section.services | batch(2) %}
-    <div class="nhsuk-grid-row">
-    {% for service in batch %}
-      {% for item in collections.all | eleventyNavigation(options.homeKey) %}
-        {% if (service == item.title)  %}
-          <section class="nhsuk-grid-column-one-half nhsuk-u-margin-bottom-6">
-            <h3 class="nhsuk-heading-m nhsuk-u-margin-bottom-1">
-              <a class="nhsuk-link" href="{{ item.url | pretty }}">{{ item.title }}</a>
-            </h3>
-            <p class="nhsuk-body">{{ item.excerpt }}</p>
-          </section>
-        {% endif %}
-      {% endfor %}
-    {% endfor %}
-    </div>
-  {% endfor %}
-{% endfor %}
-
-<div class="nhsuk-grid-row">
-  <div class="nhsuk-grid-column-two-thirds">
-    <h2 class="nhsuk-heading-l">
-      Reference
-    </h2>
-  </div>
-</div>
-
-<div class="nhsuk-grid-row">
-
-  {% for item in collections.all | eleventyNavigation(options.homeKey) %}
-    {% if (item.title == "Guide")  %}
-      <section class="nhsuk-grid-column-one-half nhsuk-u-margin-bottom-6">
-        <h3 class="nhsuk-heading-m nhsuk-u-margin-bottom-1">
-          <a class="nhsuk-link" href="{{ item.url | pretty }}">{{ item.title }}</a>
-        </h3>
-        <p class="nhsuk-body">{{ item.excerpt }}</p>
-      </section>
-    {% endif %}
-  {% endfor %}
-  <section class="nhsuk-grid-column-one-half nhsuk-u-margin-bottom-6">
-    <h3 class="nhsuk-heading-m nhsuk-u-margin-bottom-1">
-      <a href="./mission-patches">Mission patches</a>
-    </h3>
-    <p class="nhsuk-body">Archive of patches created to celebrate milestones in the development of our different services.</p>
-  </section>

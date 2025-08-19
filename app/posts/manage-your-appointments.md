@@ -2,6 +2,8 @@
 layout: collection
 title: Manage your appointments
 description: A service for creating and managing availability and appointments for vaccination providers
+tags:
+  - vaccination-services
 pagination:
   data: collections.manage-your-appointments
   reverse: true
