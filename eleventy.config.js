@@ -12,9 +12,6 @@ export default function(eleventyConfig) {
       service: {
         text: "Digital prevention services design history",
         href: "/"
-      },
-      search: {
-        action: "/search/",
       }
     },
     footer: {
