@@ -1,26 +1,16 @@
-
-@forward "pkg:@x-govuk/nhsuk-eleventy-plugin";
+@use "pkg:nhsuk-frontend/dist/nhsuk" as *;
 
 @use "../_components";
 
+@forward "pkg:@x-govuk/nhsuk-eleventy-plugin";
+
+// App-specific prose styles
 .app-prose-scope {
-
-  // Improve display of mission patch images inside figures
-  figure:has(img[src$="mission-patch.png"]),
-  figure:has(img[src$="borderless-diagram.png"]) {
-    background-color: transparent;
-    border: 0;
-
-    img {
-      outline: 0 none;
-    }
+  .nhsuk-image {
+    width: 100%;
   }
 
-  video {
-    max-width: 100%;
+  .nhsuk-image__img {
+    padding: nhsuk-spacing(2);
   }
-}
-
-.app-code--block {
-  background-color: white;
 }
