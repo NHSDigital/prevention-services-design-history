@@ -5,30 +5,6 @@
 
 .app-prose-scope {
 
-  // Simulate design used in NHS design system
-  figure {
-    @include nhsuk-responsive-margin(6, "bottom");
-    @include nhsuk-responsive-margin(6, "top");
-
-    background-color: nhsuk-colour("white");
-    border-bottom: 1px solid #d8dde0;
-  }
-
-  figcaption {
-    @include nhsuk-typography-responsive(16);
-    color: $nhsuk-text-colour;
-    margin-top: 0;
-    padding: nhsuk-spacing(3);
-
-    * {
-      @include nhsuk-typography-responsive(16);
-    }
-
-    :last-child {
-      margin-bottom: 0;
-    }
-  }
-
   // Improve display of mission patch images inside figures
   figure:has(img[src$="mission-patch.png"]),
   figure:has(img[src$="borderless-diagram.png"]) {
