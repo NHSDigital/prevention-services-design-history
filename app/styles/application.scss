@@ -1,7 +1,7 @@
 
 @forward "pkg:@x-govuk/nhsuk-eleventy-plugin";
 
-@use "../_components/all";
+@use "../_components";
 
 .app-prose-scope {
 
