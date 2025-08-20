@@ -65,8 +65,6 @@ Break - 15 mins
 
 We have taken the feedback from our stakeholders, and our content designer worked on making updates to the designs. We have reviewed the updates with the Content design lead on Screening, our wider product team and got an additional sign-off via email from our stakeholders. These screens have now been passed onto implementation.
 
-![Screenshot of Mural board with updated content work](updatedcontent.png)
-
 
 
 
