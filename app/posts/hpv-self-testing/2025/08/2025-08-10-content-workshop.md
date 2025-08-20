@@ -10,7 +10,7 @@ tags:
 ---
 
 
-On 31st July 2025, our UCD team an **online** content workshop with our product and clinical senior stakeholders in Cervical Screening, the Comms and Engagement Team and colleagues from the Screening UCD team. 
+On 31st July 2025, our team ran an **online** content workshop with our product and clinical senior stakeholders in Cervical Screening, the Comms and Engagement Team and colleagues from the Screening UCD team. 
 
 The aim of the workshop was to conduct a clinical and product review of the content proposed for the digital invitations, ordering journey screens and order confirmation content. We also wanted to take our stakeholders through the proposed comms logic and flows for HPV self-testing, as we had a few concerns and recommendations based on our user testing or best practice patterns.
 
