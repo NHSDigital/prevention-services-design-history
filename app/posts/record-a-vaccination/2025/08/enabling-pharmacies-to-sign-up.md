@@ -1,5 +1,5 @@
 ---
-title: "Enabling pharmcies to sign up to the service"
+title: "Enabling pharmacies to sign up to the service"
 date: 2025-08-21
 ---
 
