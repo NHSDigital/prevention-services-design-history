@@ -19,13 +19,13 @@ Whilst this process is still being used for some NHS organisations, pharmacies a
 
 We designed the sign up flow to collect the minimum amount of information needed.
 
-The first screen asks for the name of the pharmacy. This uses an autocomplete, which searches the complete list of pharmacies using an API from the NHS’s [Organisation Data Service (ODS)](https://www.odsdatasearchandexport.nhs.uk). The list can be searched by name or by the ODS code of the pharmacy.
+The first screen asks for the name of the pharmacy. This uses an autocomplete, which searches the complete list of pharmacies using an API from the NHS’s [Organisation Data Service (ODS)](https://www.odsdatasearchandexport.nhs.uk). You can search the list by the name or ODS code of the pharmacy.
 
 Because many pharmacies share the exact same name, particularly those in a chain (for example, Boots), the autocomplete search results shows users the first line of the address and the postcode, to help  them select the right one.
 
 ![Screenshot showing a page titled ‘Sign up for your pharmacy’ and a search box labelled ‘Find your pharmacy’ followed by a green button labelled Continue](select-pharmacy.png)
 
-To try and avoid the wrong pharmacy being selected, the next screen shows the chosen pharmacy details, and asks users to ‘check this is your pharmacy’.
+To try and avoid the wrong pharmacy being selected, the next screen shows the chosen pharmacy's details, and asks users to ‘check this is your pharmacy’.
 
 ![Screenshot showing a page titled ‘Check this is your pharmacy’, followed by the name, type, ODS code and address of the pharmacy and then a green Continue button](check-pharmacy.png)
 
@@ -41,13 +41,13 @@ The last screen asks users to check their answers, and allows them to go back an
 
 ![Screenshot showing a page titled ‘Check your answers’ with rows showing the entered pharmacy name, user name and email, each of which has a ‘Change’ link beside them, followed by a green button labelled ‘Confirm’](sign-up-check-answers.png)
 
-After confirming their details, the user is shown a page asking them to check their email, and we will send them a welcome email with details about how to sign in. Depending on whether they already have an Okta account, they may also get a verification email from Okta.
+After confirming their details, the user is shown a page asking them to check their email, and telling them we will send them a welcome email with details about how to sign in. Depending on whether they already have an Okta account, they may also get a verification email from Okta.
 
 ![Screenshot of a page titled ‘Now check your email’ followed by the content ‘We’ve set up an account for you as a lead administrator for the the pharmacy. You will now get a welcome email which includes how to log in, how to add more users to your pharmacy and links to our training webinars and user guide. If you cannot find the email, check your spam or junk.’](now-check-your-email.png)
 
 ## Research
 
-We tested the sign up flow with 5 pharmacists, covering a wide geographical spread and and including users from single-site pharmacies as well as those those working for a chain with more than 100 pharmacies.
+We tested the sign up flow with 5 pharmacists, covering a wide geographical spread and and including users from single-site pharmacies as well as those working for a chain with more than 100 pharmacies.
 
 We found that the sign up process was easy to complete, and users liked being able to get access straight away, without having to wait or to phone or email someone.
 
