@@ -2,8 +2,7 @@
 layout: collection
 title: Bowel screening
 description: A record of bowel screening design work
-tags:
-  - screening-services
+area: screening
 pagination:
   data: collections.bowel-screening
   reverse: true

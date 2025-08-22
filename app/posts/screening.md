@@ -2,8 +2,8 @@
 layout: collection
 title: Screening
 description: Work that spans services in screening
-tags:
-  - screening-services
+area: screening
+promote: true
 pagination:
   data: collections.screening
   reverse: true

@@ -2,8 +2,7 @@
 layout: collection
 title: Vaccinations in the App
 description: Enabling access to vaccinations and booking via the NHS App
-tags:
-  - vaccination-services
+area: vaccinations
 pagination:
   data: collections.vaccinations-in-the-app
   reverse: true

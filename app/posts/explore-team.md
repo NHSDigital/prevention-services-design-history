@@ -2,8 +2,7 @@
 layout: collection
 title: Explore team
 description: A discovery team that understands problems and experiments with solutions
-tags:
-  - screening-services
+area: screening
 pagination:
   data: collections.explore-team
   reverse: true

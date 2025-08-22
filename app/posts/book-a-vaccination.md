@@ -2,8 +2,7 @@
 layout: collection
 title: Book a vaccination
 description: The citizen facing national booking service (NBS)
-tags:
-  - vaccination-services
+area: vaccinations
 pagination:
   data: collections.book-a-vaccination
   reverse: true

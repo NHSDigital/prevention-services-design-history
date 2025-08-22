@@ -2,8 +2,7 @@
 layout: collection
 title: Manage your screening
 description: An alpha exploring the provision of Screening related information through digital channels. Initially via a web service, eventually available through the NHS App
-tags:
-  - screening-services
+area: screening
 pagination:
   data: collections.manage-your-screening
   reverse: true

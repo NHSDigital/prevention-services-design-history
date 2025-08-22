@@ -2,8 +2,7 @@
 layout: collection
 title: Manage breast screening
 description: An alpha exploring the management of participants through breast screening
-tags:
-  - screening-services
+area: screening
 pagination:
   data: collections.manage-breast-screening
   reverse: true

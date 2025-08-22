@@ -2,8 +2,7 @@
 layout: collection
 title: HPV self-sampling
 description: A record of HPV self-sampling design and research work
-tags:
-  - screening-services
+area: screening
 pagination:
   data: collections.hpv-self-sampling
   reverse: true
