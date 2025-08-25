@@ -25,7 +25,7 @@ We also presented a warning message if the patient was not ready to have another
 
 Users recognised the ‘other’ option would be suitable if a vaccine was not included in the list (but in stock).
 
->"It’s foolproof”
+> It’s foolproof
 
 ![Choose vaccines screen](ohpiz0e0ouq5ngsxwou61ve8pbk5.png)
 
@@ -71,22 +71,10 @@ We learned the vaccine determines the method, and how the organisation plans to 
 
 ![Check and confirm screen](k9gpg2zln588s39etmd67hlv4xic.png)
 
-### Usability score and summary###
+### Usability score and summary
 
-> "It's logical and straightforward and reflects how things work now."
+> It's logical and straightforward and reflects how things work now.
 
 Overall, **users scored the record a vaccination journey 6.8 out of 7 (very confident)**, finding it intuitive and straightforward.
 
->"It's easy to follow. There are clear actions."
-
-
-
-
-
-
-
-
-
-
-
-
+> It's easy to follow. There are clear actions.
