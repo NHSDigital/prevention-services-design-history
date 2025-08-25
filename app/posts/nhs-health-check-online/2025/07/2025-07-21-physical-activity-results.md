@@ -12,7 +12,7 @@ The NHS Health Check is a service for adults aged 40 to 74, designed to assess t
 
 ## Why the move to digital?
 
-Designed to bring convenience and accessibility to preventive care, the digital NHS Health Check empowers users to take charge of their health from the comfort of their own homes – without compromising on quality or accuracy. 
+Designed to bring convenience and accessibility to preventive care, the digital NHS Health Check empowers users to take charge of their health from the comfort of their own homes – without compromising on quality or accuracy.
 
 However, as more services transition online, understanding the impact of this shift to digital is crucial. How does the online approach compare to the face‑to‑face check‑up? What challenges exist in ensuring service parity? And how can the NHS continue refining digital health tools to support better outcomes?
 
@@ -63,13 +63,13 @@ Behind the scenes, the content team developed a feedback matrix tailored to thes
 When testing the latest iterations of the GPPAQ questions and results sections, users spoke much more positively about the designs than in testing of early iterations. The concept of ‘everyday movement’ was more aligned to the realities of many users in our research than ‘exercise’, and we heard from users that this made the service feel more aligned to their needs and more inclusive overall. We also heard how content that was added to the results screens advising users what to do next, and available resources, was well received  by users – especially by those that were unable to participate in regular structured exercise:
 
 > I like this [physical activity results content], it’s telling me how I can improve, and I already do chair exercises at home… so there’s a lot of stuff I can do at home and build up to 30 minutes or so.
-– Female, 47
+> -- Female, 47
 
 > So I’m moderately active, and could do more… I like what it says here about the difference it can make to reduce the diseases, that’s nice.
-– Male, 62
+> -- Male, 62
 
 > Yeah see, it’s included what you can do if you have a disability so that’s good. It’s made it feel less generic and like it’s taking into account my situation so I like that.
-– Female, 51
+> -- Female, 51
 
 ## What's next?
 

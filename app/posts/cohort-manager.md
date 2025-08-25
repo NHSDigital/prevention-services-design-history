@@ -2,6 +2,7 @@
 layout: collection
 title: Cohort manager
 description: A service that helps ensure the right people are selected for invitation to screening
+area: screening
 pagination:
   data: collections.cohort-manager
   reverse: true

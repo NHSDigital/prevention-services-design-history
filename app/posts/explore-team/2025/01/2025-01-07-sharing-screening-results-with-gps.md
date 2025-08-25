@@ -10,13 +10,13 @@ We will describe and visualise the current and the future experience of sharing 
 
 ## Why we are doing this work
 
-Once patients are screened, screening results, outcomes or reports are sent to GPs using a variety of methods, using old technology and still relying on manual processes. 
+Once patients are screened, screening results, outcomes or reports are sent to GPs using a variety of methods, using old technology and still relying on manual processes.
 
 For patients this means that screening results:
 
 * take longer
 * lack context or explanation making patients feel anxious and unsupported
-* are issued in medical language that is difficult to understand 
+* are issued in medical language that is difficult to understand
 
 For GPs this means that screening results:
 
@@ -29,21 +29,22 @@ For NHS this means that screening is:
 * slower
 * more costly
 
-Looking at sharing screening results with GPs offers us an opportunity to intervene earlier, cheaper, faster and in a more empathetic patient-centric way. 
+Looking at sharing screening results with GPs offers us an opportunity to intervene earlier, cheaper, faster and in a more empathetic patient-centric way.
 
 ## Quantifying the problem
 
-A colleague involved in scoping this work has recently told us: 
-> “Just over 3 million women a year are invited to participate in Breast Screening. The results of these invitations are currently sent to GP practices as paper-based reports”. 
+A colleague involved in scoping this work has recently told us:
+
+> Just over 3 million women a year are invited to participate in Breast Screening. The results of these invitations are currently sent to GP practices as paper-based reports.
 
 Source: [Breast Screening Programme, England, 2022-23](https://digital.nhs.uk/data-and-information/publications/statistical/breast-screening-programme/england---2022-23/mainreport2223)
 
-We will look for more ways to quantify the problem and the potential solution but this is a powerful number. 
+We will look for more ways to quantify the problem and the potential solution but this is a powerful number.
 
 ## How we went about starting this work
 
 * received a well-described brief from our colleagues and the senior leadership team
-* considered this brief against several other briefs in our backlog 
+* considered this brief against several other briefs in our backlog
 * weighed up the briefs against Digital Screening priorities
 * validated our problem statement in internal conversations with our colleagues - including clinicians and technical architects
 
@@ -63,7 +64,7 @@ We adapted the ‘press release’ approach to our context:
 * we used the present tense
 
 
-We did this to be inclusive - our colleagues shouldn’t have to learn our methods to understand our intent. We still have a way to go to build trust internally and clear communication is one of the building blocks of trust. 
+We did this to be inclusive - our colleagues shouldn’t have to learn our methods to understand our intent. We still have a way to go to build trust internally and clear communication is one of the building blocks of trust.
 
 
 ### Kick off sessions
@@ -74,7 +75,7 @@ In about a week we ran a series of activities with our colleagues to write down:
 * how we will work
 * what we know and don’t know
 
-We then made sense of the input to derive an outcomes-based plan for when we’re back in January. 
+We then made sense of the input to derive an outcomes-based plan for when we’re back in January.
 
 ![A thumbnail view of the current plan for how we will approach discovery, but text is intentionally not readable.](share-screening-results-with-GPs-kickoff.png "Discovery plan zoomed out")
 
@@ -90,5 +91,5 @@ We then made sense of the input to derive an outcomes-based plan for when we’r
 ## What will happen as a result of this work?
 
 This work will help our colleagues in the invite and manage teams to understand the dependencies and context for sharing screening results with GPs (something they will tackle in 2025).
-This work will also help us understand what needs to be done for patients to get their results in a way that’s supportive and empathetic. 
+This work will also help us understand what needs to be done for patients to get their results in a way that’s supportive and empathetic.
 

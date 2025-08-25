@@ -1,0 +1,20 @@
+@use "pkg:nhsuk-frontend/dist/nhsuk" as *;
+
+.app-image--screenshot {
+  margin-top: 0;
+  margin-bottom: nhsuk-spacing(9);
+
+  .nhsuk-image__img {
+    padding: nhsuk-spacing(2);
+  }
+
+  .nhsuk-image__caption > * {
+    margin-bottom: nhsuk-spacing(3);
+
+    @include nhsuk-font(16);
+
+    &:last-child {
+      margin-bottom: 0;
+    }
+  }
+}

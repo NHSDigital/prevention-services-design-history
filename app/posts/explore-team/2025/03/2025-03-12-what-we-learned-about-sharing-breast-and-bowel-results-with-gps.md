@@ -151,11 +151,14 @@ For simplicity we are focusing on normal results because:
 
 ## Some quotes from the last 2 weeks that highlight the need for a solution
 
-> “Wow at last!!! You wouldn’t believe how long it takes us to enter the breast screening results at the minute. It is painfully slow!” (GP admin)
+> Wow at last!!! You wouldn’t believe how long it takes us to enter the breast screening results at the minute. It is painfully slow!
+> -- GP admin
 
-> “It’s really reassuring that something is happening in the background, this is really good. We’re the first front to primary care and we’re the ones getting the barrage all the time about this” (breast screening coordinator)
+> It’s really reassuring that something is happening in the background, this is really good. We’re the first front to primary care and we’re the ones getting the barrage all the time about this
+> -- Breast screening coordinator
 
-> “Our average monthly postage costs range £80-90k per month excluding VAT. A potential move to electronic invites/GP reports, has been projected to leave to £500k in savings.” (assistant operations manager)
+> Our average monthly postage costs range £80-90k per month excluding VAT. A potential move to electronic invites/GP reports, has been projected to leave to £500k in savings.
+> -- Assistant operations manager
 
 ## There are risks and costs of ‘doing nothing’
 
@@ -195,7 +198,7 @@ There is still some work for us to do before we can scope the route to delivery:
 
 * results printing in BSOs: what happens in those BSOs that print in-house and those that use ‘other’ types of outsourcing?
 * what are the intended and unintended consequences of a solution (eg for printing service providers) - we are collaborating with the transition team on this
-* what are the timeline, cost, complexity of each option - we are collaborating with the transition team and the [manage team](/manage-breast-screening/) on a single survey to BSOs 
+* what are the timeline, cost, complexity of each option - we are collaborating with the transition team and the [manage team](/manage-breast-screening/) on a single survey to BSOs
 * who and how will take this work forward, if, as we are learning, there is a benefit to delivering it?
 
 ## Next steps

@@ -2,6 +2,7 @@
 layout: collection
 title: Smoking cessation
 description: Helping people to stop using nicotine
+area: personalised-prevention
 pagination:
   data: collections.smoking-cessation
   reverse: true

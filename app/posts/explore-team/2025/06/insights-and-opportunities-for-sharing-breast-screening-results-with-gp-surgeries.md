@@ -3,7 +3,7 @@ title: Insights and opportunities for sharing breast screening results with GP s
 description: What we learned from speaking to breast screening offices and GP surgeries
 date: 2025-06-10
 author: Veronika Jermolina, Selina Mahar
-tags: 
+tags:
   - breast screening
   - GP results
   - NBSS
@@ -43,15 +43,15 @@ Some BSOs, tired of waiting for a national solution, are creating their own. For
 
 ## GP surgeries battle with paper piling up on desks
 
-Eligible participants are invited for screening every 3 years. The complex participant selection rules mean that, in some regions, all eligible participants at a GP surgery will be invited at the same time.  
+Eligible participants are invited for screening every 3 years. The complex participant selection rules mean that, in some regions, all eligible participants at a GP surgery will be invited at the same time.
 
-When the results are posted to GP surgeries, admin staff receive an influx of paperwork that needs processing. We heard that this is unlike bowel cancer screening results, where eligible participants are screened on a rolling basis. This means the results come in ‘dribs and drabs’ and are easier to handle. 
+When the results are posted to GP surgeries, admin staff receive an influx of paperwork that needs processing. We heard that this is unlike bowel cancer screening results, where eligible participants are screened on a rolling basis. This means the results come in ‘dribs and drabs’ and are easier to handle.
 
 ![GP system demo](MESH-demo-4.png "A GP staff member shared their screen with us to show how they receive breast screening results. SystmOne is the GP system on the left, and on the right is a test-data PDF screening result.")
 
 One practice showed us how pathology test results can be automatically filed after having rules applied to them. They said:
 
-> "Bowel and cervical results come through already coded, so there is no burden or responsibility on staff to pick the right code - it just needs filing."
+> Bowel and cervical results come through already coded, so there is no burden or responsibility on staff to pick the right code - it just needs filing.
 
 But for breast screening results each letter or PDF result must be individually added to the patient's record and coded with the correct SNOMED code. Adding a SNOMED code means the result is searchable within a patient's record.
 
@@ -59,11 +59,11 @@ Despite their best efforts, GP surgeries simply cannot keep up with the paper an
 
 We heard:
 
-> "every single service is reporting to us, whether needed or not"
+> every single service is reporting to us, whether needed or not
 
 and:
 
-> "As much as everybody is aware of the importance of this, unfortunately what we found is that having dedicated people in practices to sit and manually put that information onto the system, it sometimes gets delayed due to staff absences, other priorities in the practice. Some practices just simply cannot keep up with it."
+> As much as everybody is aware of the importance of this, unfortunately what we found is that having dedicated people in practices to sit and manually put that information onto the system, it sometimes gets delayed due to staff absences, other priorities in the practice. Some practices just simply cannot keep up with it.
 
 One BSO told us that they surveyed GP practices and found that many:
 
@@ -75,13 +75,13 @@ One BSO told us that they surveyed GP practices and found that many:
 
 We heard that there's no national guidance on which SNOMED codes to use for breast screening results. So those GP practices that do attempt to diligently record results create their own coding standards.
 
-> "I think it's the assumption that all practices know what codes should be being used and when they should be being used. But it's not like that."
+> I think it's the assumption that all practices know what codes should be being used and when they should be being used. But it's not like that.
 
 This local coding is often applied inconsistently, potentially leading to years of inaccurate coding in some practices.
 
 ## What this means for screening participants
 
-Inaccurate data creates a risk of people being invited to screening when they're not due. For example, one BSO invited everyone who appeared to have missed their breast screening appointment based on their GP patient records. 
+Inaccurate data creates a risk of people being invited to screening when they're not due. For example, one BSO invited everyone who appeared to have missed their breast screening appointment based on their GP patient records.
 
 But they had been screened the year before, their GP record wasn't up to date. The BSO then received a huge number of calls from participants trying to book unnecessary appointments.
 
@@ -95,11 +95,11 @@ The inconsistent coding of participant results means that data on screening upta
 
 Even where GP surgeries are working hard to code participant results, there's a delay in the data because of the backlogs that staff are working with.
 
-> "We've got a very big practice that's got 20,000 patients, they had just over 1,000 patients to be screened who were eligible in their last round, which was November... They've not yet got through all of that coding just because it's hundreds and hundreds of manual entries to get them in. So our data... isn't up to date. I can't rely on it yet because that data lag is there."
+> We've got a very big practice that's got 20,000 patients, they had just over 1,000 patients to be screened who were eligible in their last round, which was November... They've not yet got through all of that coding just because it's hundreds and hundreds of manual entries to get them in. So our data... isn't up to date. I can't rely on it yet because that data lag is there.
 
 This makes it much harder for BSOs and GP surgeries to design local interventions to target areas or segments of the population who don't attend screening. Unlike other screening services, such as bowel screening, GPs won't always know if a patient has attended their screening appointment.
 
-> "So if Mrs Jones came and is really reluctant to have [their] breast screening, there's no conversation happening [with a clinician] because it's not on the system"
+> So if Mrs Jones came and is really reluctant to have [their] breast screening, there's no conversation happening [with a clinician] because it's not on the system
 
 ## There are clear opportunities for improvement
 
@@ -130,7 +130,7 @@ Participant results and GP results need to come from the same source of data (cu
 
 There might be more dependencies we need to be aware of. For example, we heard that BSO communications are entangled with the wider trust communications.
 
-Because the reality on the ground is complex and varied, we suggest working with one or a small number of BSOs to design a solution that works for them. Following the [NHS service standard](https://service-manual.nhs.uk/standards-and-technology/service-standard), the team can use agile ways of working to iteratively design and build a solution. 
+Because the reality on the ground is complex and varied, we suggest working with one or a small number of BSOs to design a solution that works for them. Following the [NHS service standard](https://service-manual.nhs.uk/standards-and-technology/service-standard), the team can use agile ways of working to iteratively design and build a solution.
 
 
 ![Focus on MVP](MVP.png "A chart showing the number of users on one axis, and time on another. The minimum viable product (MVP) starts early on with a small number of users. As time goes on the number of users increases as we learn more and become more confident in our solution. Concept credit: Richard Pope")
@@ -155,4 +155,4 @@ If you're one of these people - thank you.
 
 We will need input from our users to build a viable solution.
 
-If you want to have a say in this work, email us via [england.digitalscreening@nhs.net](mailto:england.digitalscreening@nhs.net) 
+If you want to have a say in this work, email us via [england.digitalscreening@nhs.net](mailto:england.digitalscreening@nhs.net)

@@ -1,0 +1,21 @@
+@use "pkg:nhsuk-frontend/dist/nhsuk" as *;
+
+.app-email {
+  border: $nhsuk-border-width solid $nhsuk-border-colour;
+  padding: nhsuk-spacing(4);
+  margin-bottom: nhsuk-spacing(8);
+  max-width: 40rem;
+
+  h1, h2, h3, h4 {
+    @include nhsuk-font-size($size: 26);
+    @include nhsuk-typography-weight-bold;
+    margin-bottom: nhsuk-spacing(4);
+  }
+}
+
+.app-email__subject {
+  padding-bottom: nhsuk-spacing(4);
+  margin-top: 0;
+  margin-bottom: nhsuk-spacing(4);
+  border-bottom: 1px solid $nhsuk-border-colour;
+}
