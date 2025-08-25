@@ -12,7 +12,7 @@ groups:
   - title: Manage vaccinations in schools
     description: The team chose a polar bear as their mascot because they’re big on protecting their cubs. Living in a hostile environment, they can also be highly adaptive and conserve energy. That, and everyone on the team seems to love [The Bear](https://www.imdb.com/title/tt14452776/).
     columns: 3
-    secondary: true
+    type: "secondary"
     items:
       - description: To celebrate completion of the pilot, our first mission patch features Mavis protecting her 2 cubs. The northern lights reflect the colours of the teams involved with the service’s development, while the 3 stars represent the 3 SAIS teams we piloted with.
         date: 2024-04-04
@@ -32,7 +32,7 @@ groups:
   - title: Record a vaccination
     description: The team chose a hare as their mascot because they’re able to make big leaps forward.
     columns: 3
-    secondary: true
+    type: "secondary"
     items:
       - description: This mission patch celebrated the launch of the pilot in June 2024. The 4 hearts represent the locations of the organisations that took part.
         image:
@@ -45,7 +45,7 @@ groups:
   - title: Vaccinations
     description: These mission patches celebrate work that spanned multiple vaccination teams.
     columns: 3
-    secondary: true
+    type: "secondary"
     items:
       - description: This mission patch celebrated the work of the digital services supporting the Autumn/Winter 2022 seasonal vaccinations.
         image:
