@@ -4,7 +4,7 @@ description: Highlighting findings from design activities and research conducted
 date: 2025-05-30
 tags:
   - cervical screening
-  - hpv self sampling
+  - hpv self testing
   - research
 ---
 
@@ -25,7 +25,7 @@ tags:
 
 - 1 Qualtrics surveys sent out to NHS App panel 
 
-     - Aim: To understand user needs surrounding HPV self-sampling and how personalisation within the NHS App, could be used 
+     - Aim: To understand user needs surrounding HPV self-testing and how personalisation within the NHS App, could be used 
      - 240 participant responses  
 
 - 1 Qualtrics survey sent out to Lived Experience panel and Citizens Panel 
@@ -97,9 +97,9 @@ With this round of research, we focused solely on invitation content, to better 
 
 #### Research aims
 
-- To better understand user needs for an invitation to take part in HPV self-sampling  
+- To better understand user needs for an invitation to take part in HPV self-testing  
 
-- To engage with a more diverse participant pool, including non-responders to cervical screening and understand preferences on being invited to take part in HPV self-sampling.  
+- To engage with a more diverse participant pool, including non-responders to cervical screening and understand preferences on being invited to take part in HPV self-testing.  
 
 #### Hypotheses
 
@@ -109,7 +109,7 @@ Based on this our hypotheses for this round of research were:
 
 - Including specific information on cervical screening overdue status will mean users are more likely to continue with the journey as they will feel a greater sense of trust that the NHS knows their medical history, and the invitation is for them.  
 
-- Adding specific content on how the self-sampling kit works and that it does not involve reaching the cervix will mean greater uptake as users will feel reassured this is something they are able to do themselves.  
+- Adding specific content on how the self-testing kit works and that it does not involve reaching the cervix will mean greater uptake as users will feel reassured this is something they are able to do themselves.  
 
 
 ### Design findings and decisions
@@ -130,7 +130,7 @@ Based on this our hypotheses for this round of research were:
 
 8. Having information in an easily readable format that can be skimmed for key information is particularly useful for users with dyslexia. 
 
-9. There was still confusion around how the self-sample works. Clearly outlining how HPV self-sampling works and that there is not a need to touch the cervix may help those who are worried.  
+9. There was still confusion around how the self-sample works. Clearly outlining how HPV self-testing works and that there is not a need to touch the cervix may help those who are worried.  
 
 10. For some, there were questions on how to tell if the invitation they were receiving was trustworthy and truly from the NHS. There was also mention of feeling the invite did not seem personal enough and would then cause doubt in whether this was truly for them. 
 

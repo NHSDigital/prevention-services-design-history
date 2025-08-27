@@ -4,13 +4,13 @@ description: Highlighting findings from the card sorting research study
 date: 2025-06-23
 tags:
   - cervical screening
-  - hpv self sampling
+  - hpv self testing
   - research
 ---
 
 > The UKNSC is consulting on introducing self sampling for cervical screening. Find out more: [UK NSC consults on offering HPV self-sampling option to under-screened people in cervical screening programme – UK National Screening Committee.](https://nationalscreening.blog.gov.uk/2024/12/04/uk-nsc-consults-on-offering-hpv-self-sampling-option-to-under-screened-people-in-cervical-screening-programme/)
 
-**In parallel to this consultation we are running a discovery and alpha phase, to prepare for potential implementation in future. This post summarises what the design and research team worked on between November 2024 to May 2025.**
+**In parallel to this consultation we are running a discovery and alpha phase, to prepare for potential implementation in future.**
 
 
 ## Table of contents
@@ -25,7 +25,7 @@ tags:
  
 ### Research aims
 
-1. To better understand which pieces of content users, find useful and not so useful when accessing an HPV self-sampling service.  
+1. To better understand which pieces of content users, find useful and not so useful when accessing an HPV self-testing service.  
 
 2. To identify which pieces of content work best for invitations, start page, support pages and information to accompany the kit. 
 
@@ -35,21 +35,21 @@ As this is a new service, participants will want a lot of information up front a
 
 ### Methodology
 
-Using card sorting method, participants were first asked without prompts what information they would find useful if they were to take part in an HPV self-sampling service.  
+Using card sorting method, participants were first asked without prompts what information they would find useful if they were to take part in an HPV self-testing service.  
 
 Once they had told us this, participants were then asked to sort through the given prompts and place them in one or more of the provided locations:
 
 1. Invitation message
 2. Service start page (landing page)
 3. Health support page on NHS.UK website
-4. Self-sampling kit
+4. Self-testing kit
 5. "I do not need this information"
 
 The prompts the participants were given can be split as:
  
 - Clinical information about HPV  
 - How HPV testing and its relation to cervical screening  
-- Self-sampling accuracy   
+- Self-testing accuracy   
 - Eligibility for the service
 - HPV vaccine   
 - How to use the kit  
@@ -69,17 +69,17 @@ The prompts the participants were given can be split as:
 
 #### 2. Start page
 
-- 4 of 6 participants would like to know information about what HPV is, what self-sampling is, what support is available and how to cease communication with the service. 
-- 5 of 6 participants would like information about who shouldn’t take a self-sampling test, with 3/5 mentioning they would specifically like to know if pregnant people are eligible. 
+- 4 of 6 participants would like to know information about what HPV is, what self-testing is, what support is available and how to cease communication with the service. 
+- 5 of 6 participants would like information about who shouldn’t take a self-testing test, with 3/5 mentioning they would specifically like to know if pregnant people are eligible. 
 - All participants wanted to know about the ordering sample taking process. In particular, the full journey from invite to results, how long it will take to receive a kit once an order is made, what comes inside the kit, how to return a sample and information about which address a kit can be sent to. 
 
 #### 3. NHS Support page – this is where participants wanted the most information
 
 - All participants want to know information that we classified as "About HPV" – symptoms, how common it is, how it is spread, a full definition and how it can be treated and any support that patients might need.  
-- 5 of 6 participants found it helpful to have information about what cervical screening is and how it links to HPV self-sampling links to cervical screening.   
-- 4 of 6 participants found it useful to know about the accuracy of self-sampling and if there is the possibility of a false negative.  
+- 5 of 6 participants found it helpful to have information about what cervical screening is and how it links to HPV self-testing links to cervical screening.   
+- 4 of 6 participants found it useful to know about the accuracy of self-testing and if there is the possibility of a false negative.  
 - 5 of 6 participants found it useful to have information on who shouldn’t self-sample and if it is safe for pregnant people.  
-- 5 of 6 participants were interested in how the HPV vaccination affects self-sampling.  
+- 5 of 6 participants were interested in how the HPV vaccination affects self-testing.  
 - 4 of 6 participants found the support page to be somewhere they would want to know how to use the kit, with the alternative being within the kit itself.   
 - All participants mentioned they would find information on results useful here. This includes information on when results will be received and what to do in the event of a HPV positive or HPV negative result. 
 - For participants who identified as non-binary, they would like to know more on when a full cervical screen would be needed as this causes dysphoria so its particularly important to know that ahead of taking part.
@@ -88,13 +88,13 @@ The prompts the participants were given can be split as:
 #### 4. In the kit
 
 - Most participants did not put many cards/ prompts in this area as they felt only essential information regarding the sample taking process should be placed within the kit. Anything else they should be able to find on a support page. 
-- 4 of 6 participants would find it useful to have information on accuracy of self-sampling and the possibility of a false negative.   
+- 4 of 6 participants would find it useful to have information on accuracy of self-testing and the possibility of a false negative.   
 - All participants would find an infographic useful as well as a numbered list on how to use the kit. This provides visual but also written understanding of the process. 
 
 
 #### 5. Information participants didn’t think they’d need
 
-- Information about whether HPV Self-Sampling is accurate: "if it is not, then this method should not be approved by the NHS"
+- Information about whether HPV self-testing is accurate: "if it is not, then this method should not be approved by the NHS"
 
 - Information about whether the kit is painful or difficult to use: "this is something that is relative and different for each person"
 
@@ -117,7 +117,7 @@ This does not mean we will have the exact same content in each place but does hi
 - Understanding the risks of not testing   
 - Making sure to use human papillomavirus rather than HPV  
 - Clearly outlining any risk categories (circumstances that make it more important to test)   
-- Understanding the wider impact - the success of HPV self-sampling, why this method has been chosen and how its helping people long term 
+- Understanding the wider impact - the success of HPV self-testing, why this method has been chosen and how its helping people long term 
 
 
 ### What's next

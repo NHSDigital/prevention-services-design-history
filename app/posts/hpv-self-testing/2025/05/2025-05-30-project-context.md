@@ -1,10 +1,10 @@
 ---
-title: Context setting for the HPV self-sampling project
-description: Setting the context for the discovery and alpha phases of the HPV self-sampling service
+title: Context setting for the HPV self-testing project
+description: Setting the context for the discovery and alpha phases of the HPV self-testing service
 date: 2025-05-30
 tags:
   - cervical screening
-  - hpv self sampling
+  - hpv self testing
   - research
 ---
 
@@ -25,13 +25,13 @@ Cervical screening is where a clinician collects a sample of **cervical cells**,
 - If HPV is **found**, the cervical sample will be tested for abnormal cells.  
 <br>
 
-### How does HPV self-sampling fit within the Cervical Screening Programme
+### How does HPV self-testing fit within the Cervical Screening Programme
 
-A pilot study, titled YouScreen, demonstrated that for GPs, being able to offer self-sampling to under-screened women when they attend for other appointments is a pragmatic way to deliver cervical screening to those at risk. 
+A pilot study, titled YouScreen, demonstrated that for GPs, being able to offer self-testing to under-screened women when they attend for other appointments is a pragmatic way to deliver cervical screening to those at risk. 
 
 [Link to study report](https://www.kcl.ac.uk/news/self-sampling-hpv-kits-could-screen-an-extra-million-people-for-cervical-cancer)
 
-The UKNSC is currently considering self-sampling kits as an option for those who do not engage in the Cervical Screening Programme. 
+The UKNSC is currently considering self-testing kits as an option for those who do not engage in the Cervical Screening Programme. 
 
 Planning is already underway to ensure that, if the UKNSC makes a recommendation and it is approved by government and funded, the NHS will be ready to implement it as part of its plan to eliminate cervical cancer by 2040. 
 
@@ -40,7 +40,7 @@ Planning is already underway to ensure that, if the UKNSC makes a recommendation
 
 As part of our planning, we have been looking at how the service could be designed, should it be approved by the Government.   
 
-We are building a service in alpha phase that will allow NHS App users to order an HPV self-sampling kit to an address of their choosing.  
+We are building a service in alpha phase that will allow NHS App users to order an HPV self-testing kit to an address of their choosing.  
 
 ### Timelines
 
