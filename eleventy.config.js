@@ -79,7 +79,7 @@ export default function(eleventyConfig) {
     "explore-team",
     "manage-breast-screening",
     "manage-your-screening",
-    "hpv-self-sampling",
+    "hpv-self-testing",
     "screening-invite",
     // Vaccination service collections
     "vaccinations",
