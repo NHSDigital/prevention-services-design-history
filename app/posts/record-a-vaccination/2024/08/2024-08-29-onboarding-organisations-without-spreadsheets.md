@@ -6,7 +6,7 @@ Giving organisations access to point of care systems like Record a vaccination i
 
 Previously, this process was manual and time-consuming, involving spreadsheets that led to errors or confusion.
 
-> “During the last campaign, we onboarded 3,000 sites within a month, and spent another month fixing issues.” 
+> During the last campaign, we onboarded 3,000 sites within a month, and spent another month fixing issues.
 
 To improve on this, we designed and built an interface for the regional commissioning teams to allow them to directly invite new organisations to the service.
 
@@ -32,7 +32,7 @@ Once the organisation is selected, the user is asked for the name and email addr
 
 Before confirming, there's a final page where users can check the details are right.
 
-The page also contains a preview email that's sent to the invited user to help the regional users: 
+The page also contains a preview email that's sent to the invited user to help the regional users:
 
 - understand the process of what happens next
 - avoid repeating the details in a personal email to that user
@@ -74,7 +74,7 @@ We tweaked the autocomplete to exclude closed organisations and ordered the resu
 
 Feedback from users has been positive, with one saying:
 
-> The status column, which allows us to track which users have logged in is useful for monitoring. I plan to send reminders to those who haven’t logged in yet. I also found the email sent to users to be comprehensive and easy to understand. I especially liked that it included the links to training webinars, which I initially thought I would need to send out myself. 
+> The status column, which allows us to track which users have logged in is useful for monitoring. I plan to send reminders to those who haven’t logged in yet. I also found the email sent to users to be comprehensive and easy to understand. I especially liked that it included the links to training webinars, which I initially thought I would need to send out myself.
 
 ## Future considerations
 

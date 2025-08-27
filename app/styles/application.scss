@@ -1,93 +1,16 @@
-// GOV.UK Frontend components
-$_font-family: Frutiger W01, arial, sans-serif;
-$_accent_colour: #005eb8;
-$_dark-pink: #7c2855;
-$_dark-blue: #002f5c;
-$_grey-5: #f0f4f5;
-$_purple: #330072;
+@use "pkg:nhsuk-frontend/dist/nhsuk" as *;
 
-@use "pkg:govuk-frontend/dist/govuk" as * with (
-  $govuk-font-family: $_font-family,
-  $govuk-brand-colour: $_accent_colour,
-  $govuk-link-colour: $_accent_colour,
-  $govuk-link-visited-colour: $_purple,
-  $govuk-link-hover-colour: $_dark-pink,
-  $govuk-link-active-colour: $_dark-blue
-);
+@use "../_components";
 
-// Use GOV.UK Eleventy Plugin
-@use "pkg:@x-govuk/govuk-eleventy-plugin";
+@forward "pkg:@x-govuk/nhsuk-eleventy-plugin";
 
-@use "./overrides";
-@use "../_components/all";
-@use "./typography";
-
-@font-face {
-  font-display: swap;
-  font-family: "Frutiger W01";
-  font-style: normal;
-  font-weight: 400;
-  src: url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.eot?#iefix");
-  src: url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.eot?#iefix") format("eot"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.woff2") format("woff2"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.woff") format("woff"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.ttf") format("truetype"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-55Roman.svg#7def0e34-f28d-434f-b2ec-472bde847115") format("svg");
-}
-
-@font-face {
-  font-display: swap;
-  font-family: "Frutiger W01";
-  font-style: normal;
-  font-weight: 600;
-  src: url("https://assets.nhs.uk/fonts/FrutigerLTW01-65Bold.eot?#iefix");
-  src: url("https://assets.nhs.uk/fonts/FrutigerLTW01-65Bold.eot?#iefix") format("eot"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-65Bold.woff2") format("woff2"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-65Bold.woff") format("woff"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-65Bold.ttf") format("truetype"), url("https://assets.nhs.uk/fonts/FrutigerLTW01-65Bold.svg#eae74276-dd78-47e4-9b27-dac81c3411ca") format("svg");
-}
-
-
-// Line height copied from NHS Frontend
-.govuk-body {
-  line-height: 1.47368;
-}
-
+// App-specific prose styles
 .app-prose-scope {
-
-  // Simulate design used in NHS design system
-  figure {
-    @include govuk-responsive-margin(6, "bottom");
-    @include govuk-responsive-margin(6, "top");
-
-    background-color: govuk-colour("white");
-    border-bottom: 1px solid #d8dde0;
+  .nhsuk-image {
+    width: 100%;
   }
 
-  figcaption {
-    @include govuk-typography-responsive(16);
-    color: $govuk-text-colour;
-    margin-top: 0;
-    padding: govuk-spacing(3);
-
-    * {
-      @include govuk-typography-responsive(16);
-    }
-
-    :last-child {
-      margin-bottom: 0;
-    }
+  .nhsuk-image__img {
+    padding: nhsuk-spacing(2);
   }
-
-  // Improve display of mission patch images inside figures
-  figure:has(img[src$="mission-patch.png"]),
-  figure:has(img[src$="borderless-diagram.png"]) {
-    background-color: transparent;
-    border: 0;
-
-    img {
-      outline: 0 none;
-    }
-  }
-
-  video {
-    max-width: 100%;
-  }
-}
-
-.x-govuk-code--block {
-  background-color: white;
 }
