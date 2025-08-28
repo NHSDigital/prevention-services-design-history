@@ -1,5 +1,7 @@
 import { nhsukEleventyPlugin } from '@x-govuk/nhsuk-eleventy-plugin'
 
+const serviceName = 'Digital prevention services design history'
+
 export default function(eleventyConfig) {
 
   eleventyConfig.addPlugin(nhsukEleventyPlugin, {
@@ -7,14 +9,16 @@ export default function(eleventyConfig) {
       '/styles/application.css'
     ],
     templates: {
-      feed: true,
+      feed: {
+        title: serviceName
+      },
       tags: true,
       searchIndex: true
     },
     header: {
       service: {
-        text: "Digital prevention services design history",
-        href: "/"
+        text: serviceName,
+        href: '/'
       }
     },
     footer: {
