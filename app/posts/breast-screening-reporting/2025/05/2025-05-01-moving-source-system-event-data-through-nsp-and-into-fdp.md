@@ -1,7 +1,6 @@
 ---
 title: Moving source-system event data through NSP and into FDP
-description: >
-  Dashboards need data pipelines to feed them. This is a story of two data engineering experiments to move screening event data from source systems, through the National Screening Platform, and into the Federated Data Platform as a data warehouse.
+description: Two data engineering experiments to move screening data from source systems into the Federated Data Platform.
 date: 2025-05-01
 ---
 
