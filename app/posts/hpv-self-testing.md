@@ -2,6 +2,7 @@
 layout: collection
 title: HPV self-testing
 description: A record of HPV self-testing design and research work
+area: screening
 pagination:
   data: collections.hpv-self-testing
   reverse: true
