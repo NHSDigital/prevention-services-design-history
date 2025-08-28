@@ -1,6 +1,6 @@
 @use "pkg:nhsuk-frontend/dist/nhsuk" as *;
 
-@use "../_components";
+@forward "../_components";
 
 @forward "pkg:@x-govuk/nhsuk-eleventy-plugin";
 
