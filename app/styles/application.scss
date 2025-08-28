@@ -1,8 +1,8 @@
 @use "pkg:nhsuk-frontend/dist/nhsuk" as *;
 
-@forward "../_components";
-
 @forward "pkg:@x-govuk/nhsuk-eleventy-plugin";
+
+@forward "../_components";
 
 // App-specific prose styles
 .app-prose-scope {
