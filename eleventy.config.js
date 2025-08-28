@@ -126,7 +126,7 @@ export default function(eleventyConfig) {
     dir: {
       input: 'app',
       includes: '_components',
-      includes: '_layouts'
+      layouts: '_layouts'
     }
   }
 }
