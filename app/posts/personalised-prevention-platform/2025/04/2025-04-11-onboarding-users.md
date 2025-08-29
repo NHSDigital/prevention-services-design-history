@@ -32,8 +32,6 @@ Our main areas of interest in this round were:
 - do users retain focus on their health goal during an onboarding journey?
 
 To help us explore these topics, we built a mock journey that represented just the initial stages a potential journey:
-{.nhsuk-heading-m} <--- wow!
-
 
 - entry points
 - starting to interact with a PPP
