@@ -110,6 +110,20 @@ This is shown like this:
 >
 > Multidisciplinary teams could offer wider health advice and interventions.
 
+### Quotations with attribution
+
+You can attribute a quote to its author by adding two hyphens (`--`) before the attribution you want to add.
+
+```md
+> No society can legitimately call itself civilised if a sick person is denied aid because of lack of means.
+> -- Nye Bevan, 1952
+```
+
+This is shown like this:
+
+> No society can legitimately call itself civilised if a sick person is denied aid because of lack of means.
+> -- Nye Bevan, 1952
+
 ## Images
 
 To embed an image, use a similar combination of square and round brackets as with links, but starting first with a exclamation mark (`!`).
@@ -163,3 +177,7 @@ These are the questions we included in the survey:
 | Phone number               | Text    | Optional |
 | Consent for future contact | Boolean | Required |
 ```
+
+---
+
+See [NHS.UK Eleventy markdown guide](https://x-govuk.github.io/nhsuk-eleventy-plugin/example/markdown/) for the full list of options.
