@@ -177,3 +177,7 @@ These are the questions we included in the survey:
 | Phone number               | Text    | Optional |
 | Consent for future contact | Boolean | Required |
 ```
+
+---
+
+See [NHS.UK Eleventy markdown guide](https://x-govuk.github.io/nhsuk-eleventy-plugin/example/markdown/) for the full list of options.
