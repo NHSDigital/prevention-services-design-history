@@ -9,15 +9,15 @@ tags:
 
 The personalised prevention platform (PPP) team has moved into an alpha phase.
 
-<figure class="nhsuk-u-margin-0 nhsuk-u-margin-bottom-4">
-    <blockquote class="app-blockquote" cite="https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works">
-      <p>Alpha is where you try out different solutions to the problems you learnt about during discovery.</p>
-      <p>Spend alpha building prototypes and testing different ideas. And do not be afraid to challenge the way things are done at the moment: alpha is a chance to explore new approaches.</p>
-      <p>You do not have to prototype the user’s entire wider journey.</p>
-      <p>You might not even want to prototype all of the transaction or element you’re working on: often it makes sense just to focus on the areas you think will be most challenging. This lets you do the minimum you need to test your riskiest assumptions.</p>
-    </blockquote>
-    <figcaption>From the <a href="https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works">GOV.UK Service Manual</a></figcaption>
-</figure>
+> Alpha is where you try out different solutions to the problems you learnt about during discovery.
+>
+> Spend alpha building prototypes and testing different ideas. And do not be afraid to challenge the way things are done at the moment: alpha is a chance to explore new approaches.
+>
+> You do not have to prototype the user’s entire wider journey.
+>
+> You might not even want to prototype all of the transaction or element you’re working on: often it makes sense just to focus on the areas you think will be most challenging. This lets you do the minimum you need to test your riskiest assumptions.
+>
+> -- From the [GOV.UK Service Manual](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works)
 
 Amongst other things we’re building html prototypes to explore and test our hypotheses, and have just completed our first round, concerned with ‘onboarding’.
 
