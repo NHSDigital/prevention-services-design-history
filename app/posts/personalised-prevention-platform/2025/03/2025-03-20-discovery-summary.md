@@ -19,11 +19,13 @@ Can we help people to proactively manage their health, rather than relying on a 
 
 ## Our problem statement
 
-<blockquote class="govuk-inset-text govuk-!-margin-left-0">
-  <p>Many people are at risk of developing - or already have - one or more health conditions.</p>
-  <p>People often don’t know where or how to access the services that could best help them manage or improve their health. Healthcare professionals can also struggle to find services to recommend.</p>
-  <p>We also often don’t know how well services are meeting people’s needs. That means if people do find and use a service, we don’t have a way to help them stay motivated to keep using that service, or to help them find alternatives if the service doesn't work.</p>
-</blockquote>
+> [!NOTE]
+> Many people are at risk of developing - or already have - one or more health conditions.
+>
+> People often don’t know where or how to access the services that could best help them manage or improve their health. Healthcare professionals can also struggle to find services to recommend.
+>
+> We also often don’t know how well services are meeting people’s needs. That means if people do find and use a service, we don’t have a way to help them stay motivated to keep using that service, or to help them find alternatives if the service doesn't work.
+
 
 Our current problem statement has evolved over the course of discovery as we learned more about the problem we were trying to understand. It may change as we learn more in the alpha.
 
@@ -113,7 +115,13 @@ To this end we explored:
 -	potential sources of structured information about users and services, and applicable standards
 -	broad concepts of how a platform might recommend the most appropriate preventative services to users
 
-![A thumbnail view of our mapping document used to explore the problem space.](prevention-platform-discovery.png "We mapped the problem space using broad stages of the user journey that could be experienced by people deciding (or being prompted) to act, choosing, then using a preventative service.")
+{% from "nhsuk/components/images/macro.njk" import image as nhsukImage %}
+{{ nhsukImage({
+  classes: "app-media--full-width",
+  src: "prevention-platform-discovery.png",
+  alt: "A thumbnail view of our mapping document used to explore the problem space.",
+  caption: "We mapped the problem space using broad stages of the user journey that could be experienced by people deciding (or being prompted) to act, choosing, then using a preventative service."
+}) }}
 
 [Download a PDF of the discovery map (103kb)](prevention-platform-discovery.pdf)
 
