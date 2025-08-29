@@ -63,7 +63,7 @@ Updated GOV.UK leaflet link: Link text was changed to better reflect the destina
 
 Following the changes, we were able to get sign off from our service owner and clinical safety stakeholders. We ensured the newly designed invitation met both user and business needs and posed no clinical risk to the pilot participants.
 
-## Collaboration with NHS Notify and developers:
+## Collaboration with NHS Notify and developers
 
 In the background, we worked with technical colleagues from our multi-disciplinary team and the NHS Notify team to ensure the correct formatting and structure of the message templates. We reviewed data sources, defined the static and dynamic parts of the content, and agreed how to code each of them, so that there would be no doubt when automated processes run. 
 
@@ -95,4 +95,4 @@ On the day of the pilot appointments, we visited the BSOs to interview the pilot
 ## Interaction and content design beyond the pilot
 We are currently in the process of iterating our designs from this feedback. We are exploring whether first-time attenders and people who have been to breast screening before have different information needs. We have also been looking at what information to give people before an appointment to help them feel prepared. We'll share more about this work soon.
 
-If you have any feedback to share, please contact us by email at [magdalena.mips1@nhs.net](mailto:magdalena.mips1@nhs.net).
+If you have any feedback to share, please contact us by email at [magdalena.mips1@nhs.net](mailto:magdalena.mips1@nhs.net) or [jamie.doyle1@nhs.net](mailto:jamie.doyle1@nhs.net).
