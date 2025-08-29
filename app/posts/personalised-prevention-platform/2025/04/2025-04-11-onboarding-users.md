@@ -9,8 +9,8 @@ tags:
 
 The personalised prevention platform (PPP) team has moved into an alpha phase.
 
-<figure>
-    <blockquote class="govuk-inset-text govuk-!-margin-left-0 govuk-!-padding-left-6" cite="https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works">
+<figure class="nhsuk-u-margin-0 nhsuk-u-margin-bottom-4">
+    <blockquote class="app-blockquote" cite="https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works">
       <p>Alpha is where you try out different solutions to the problems you learnt about during discovery.</p>
       <p>Spend alpha building prototypes and testing different ideas. And do not be afraid to challenge the way things are done at the moment: alpha is a chance to explore new approaches.</p>
       <p>You do not have to prototype the user’s entire wider journey.</p>
@@ -42,9 +42,11 @@ We also made the following assumptions:
 - our scenario starts from an NHS.UK calculator
 - users are already somehow digitally registered ‘with the NHS’
 
-<figure class="govuk-!-margin-top-7">
-  <img src="prototype-flow.png" alt="Diagram depicting the prototype user journey using sequential screen grabs from left to right." style="width: 92vw; max-width: 960px;">
-  <figcaption>The prototype journey from left to right, from calculator result to a ‘finding services’ loading screen.</figcaption>
+<figure class="nhsuk-image" style="width: 92vw; max-width: 960px; ">
+  <img class="nhsuk-image__img" src="prototype-flow.png" alt="Diagram depicting the prototype user journey using sequential screen grabs from left to right.">
+  <figcaption class="nhsuk-image__caption">
+    The prototype journey from left to right, from calculator result to a ‘finding services’ loading screen.
+  </figcaption>
 </figure>
 
 We ran 6 sessions with people who live in deprived areas of England (within the top 20 areas on the Index of Multiple Deprivation), and have more than one of the following health risk factors:
