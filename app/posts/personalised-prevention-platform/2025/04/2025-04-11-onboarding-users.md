@@ -32,6 +32,8 @@ Our main areas of interest in this round were:
 - do users retain focus on their health goal during an onboarding journey?
 
 To help us explore these topics, we built a mock journey that represented just the initial stages a potential journey:
+{.nhsuk-heading-m} <--- wow!
+
 
 - entry points
 - starting to interact with a PPP
@@ -42,12 +44,13 @@ We also made the following assumptions:
 - our scenario starts from an NHS.UK calculator
 - users are already somehow digitally registered ‘with the NHS’
 
-<figure class="nhsuk-image" style="width: 92vw; max-width: 960px; ">
-  <img class="nhsuk-image__img" src="prototype-flow.png" alt="Diagram depicting the prototype user journey using sequential screen grabs from left to right.">
-  <figcaption class="nhsuk-image__caption">
-    The prototype journey from left to right, from calculator result to a ‘finding services’ loading screen.
-  </figcaption>
-</figure>
+{% from "nhsuk/components/images/macro.njk" import image as nhsukImage %}
+{{ nhsukImage({
+  classes: "app-media--full-width",
+  src: "prototype-flow.png",
+  alt: "Diagram depicting the prototype user journey using sequential screen grabs from left to right.",
+  caption: "The prototype journey from left to right, from calculator result to a ‘finding services’ loading screen."
+}) }}
 
 We ran 6 sessions with people who live in deprived areas of England (within the top 20 areas on the Index of Multiple Deprivation), and have more than one of the following health risk factors:
 
