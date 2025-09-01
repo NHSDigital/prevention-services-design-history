@@ -29,8 +29,8 @@ We’re using NHS Notify to send these messages through the NHS App, text messag
 2. If an NHS App message is not opened within 24 hours, an SMS is sent.  
 3. If an SMS is not delivered within 72 hours, a letter is sent. 
 
-We designed the app message and SMS to maximise readability and usability in each format. 
-Visit [https://www.notifications.service.gov.uk/using-notify/message-status/sms] for descriptions of the statuses of messages sent by notify and why messages may not be delivered.
+We designed the app message and SMS to maximise readability and usability in each format.  
+Visit [this GOV.UK Notify page](https://www.notifications.service.gov.uk/using-notify/message-status/sms) for descriptions of the statuses of messages sent by Notify and why messages may not be delivered.
 
 ## Pilot overview
 
@@ -78,5 +78,4 @@ This will be prioritised in further research.
 
 Overall, the outcomes were promising and – even more importantly – helped us see opportunities for further improvement. We’re now taking feedback on board and preparing for the next phase of the project, an early adopter roll-out. 
 
-
-If you have any feedback to share, please contact us by email at magdalena.mips1@nhs.net. 
+If you have any feedback to share, please contact us by email at [magdalena.mips1@nhs.net](mailto:magdalena.mips1@nhs.net) or [jamie.doyle1@nhs.net](mailto:jamie.doyle1@nhs.net).

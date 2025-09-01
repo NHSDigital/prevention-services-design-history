@@ -2,7 +2,7 @@
 layout: collection
 title: Record a vaccination
 description: A service for recording vaccinations
-area: Vaccinations
+area: vaccinations
 pagination:
   data: collections.record-a-vaccination
   reverse: true

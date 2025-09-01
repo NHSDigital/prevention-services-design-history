@@ -17,8 +17,7 @@ You’ll need to:
 * create a Markdown file in `app/posts/`, for example `app/posts/your-service-name.md`. Copy an existing example and update any references to match your service.
 * create a folder for your service in `app/images/`, for example `app/images/your-service-name/`.
 * create a folder for your service in `app/posts/`, for example `app/posts/your-service-name/`.
-* inside your service’s post folder, ceate a json file `your-service-name.json`, for exampole `app/posts/your-service-name/your-service-name.json`. Copy an existing example for what to put in it.
-* update `eleventy.config.js` to create a new 'collection' for your service (copy one of the existing examples).
-* update `app/_layouts/_product.njk` to list your new service in the sections variable.
+* inside your service’s post folder, ceate a json file `your-service-name.json`, for example `app/posts/your-service-name/your-service-name.json`. Copy an existing example for what to put in it.
+* update `eleventy.config.js` to add the name of the service, for example `"your-service-name"`, within the list of services under the `// Service collections` line.
 * **note:** you will need to [add a post](/guide/how-to-publish/) before the service can be found in the navigation.
 * open a pull request with your changes.

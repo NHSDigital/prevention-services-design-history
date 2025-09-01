@@ -19,9 +19,9 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
-    "@x-govuk/govuk-eleventy-plugin": "^6.7.2",
+    "@x-govuk/nhsuk-eleventy-plugin": "^1.0.0",
     "http-server": "^14.1.1",
-    "rimraf": "^5.0.5",
+    "rimraf": "^6.0.0",
     "sass": "^1.85.0"
   },
   "devDependencies": {
@@ -31,5 +31,6 @@
   "private": true,
   "engines": {
     "node": "22.x"
-  }
+  },
+  "type": "module"
 }

@@ -51,11 +51,11 @@ In general, the users were able to understand and use the designs.
 
 They gave us some more context on whether they’d feel able to give feedback whilst running a vaccination clinic. This ranged from:
 
-> “I think it’s a good idea to get feedback in the moment”
+> I think it’s a good idea to get feedback in the moment
 
 to
 
-> “If there was a queue of people it might be tricky”
+> If there was a queue of people it might be tricky
 
 One user suggested it was too soon to give feedback after recording just 1 vaccination, and that they’d rather wait until they had recorded a few.
 
