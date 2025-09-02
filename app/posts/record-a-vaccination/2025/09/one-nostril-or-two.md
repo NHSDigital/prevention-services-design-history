@@ -22,7 +22,7 @@ However, for the nasal spray there was an additional requirement to capture whet
 
 But as this vaccine is given to  children, it is possible that after the first spray they are upset and  it is inappropriate to give the second spray.
 
-The vaccine manufacturer advises that if only a single spray is given, there is no need to repeat the immunisation as each half dose contains enough viral particles to induce an immune response.  However, UKHSA want the dose amount recorded so they can monitor the effectiveness of half doses
+The vaccine manufacturer advises that if only a single spray is given, there is no need to repeat the immunisation as each half dose contains enough viral particles to induce an immune response.  However, this should be recorded and will be monitored by the [UK Health Security Agency (UKHSA)](https://www.gov.uk/government/organisations/uk-health-security-agency).
 
 To record this, we designed a new question. The wording focuses on whether a full or half dose was given, rather than the specific dose amounts in millilitres.
 
