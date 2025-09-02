@@ -18,7 +18,7 @@ We also needed to ensure the page was accessible and avoided overwhelming users 
 The first version of the cholesterol results page was based on the NHS Heart Age Tool and NHS guidance on high cholesterol. It included:
 
 - a card showing the user’s total cholesterol score, a colour-coded risk category and a brief explanation
-- expandable sections providing more detail about the cholesterol types: HDL (good cholesterol), LDL (bad cholesterol) and the total cholesterol:HDL ratio
+- expandable sections providing more detail about the cholesterol types: HDL (good cholesterol), LDL (bad cholesterol) and the total cholesterol: HDL ratio
 - advice on improving cholesterol levels, such as healthy eating and exercise
 - a care card for users with high or very high cholesterol, encouraging them to contact their GP and discuss family history
 
