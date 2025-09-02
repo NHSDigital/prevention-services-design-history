@@ -1,5 +1,5 @@
 ---
-title: "One nostril, or two? "
+title: "One nostril or two? "
 date: 2025-09-02
 description: Changes we’ve made to support the nasal flu vaccine for 2 to 3 year olds
 image:
