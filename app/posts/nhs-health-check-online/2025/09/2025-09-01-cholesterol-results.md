@@ -1,6 +1,5 @@
 ---
-title: Cholesterol Results Page
-description: Cholesterol Results Page
+title: Cholesterol results page
 date: 2025-09-01
 ---
 
