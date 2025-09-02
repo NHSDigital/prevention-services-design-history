@@ -20,7 +20,7 @@ Previously we always asked the question ‘Where was the injection given?’ as 
 
 However, for the nasal spray there was an additional requirement to capture whether a full dose was given or not.  The nasal spray applicator is designed to be used in both nostrils, with a 0.1ml spray given in each nostril for a total 0.2ml dose.
 
-But as this vaccine is given to  children, it is possible that after the first spray they are upset and  it is inappropriate to give the second spray.
+But there are circumstances where a full dose is not given, for example if the child is too upset after the first spray.
 
 The vaccine manufacturer advises that if only a single spray is given, there is no need to repeat the immunisation as each half dose contains enough viral particles to induce an immune response.  However, this should be recorded and will be monitored by the [UK Health Security Agency (UKHSA)](https://www.gov.uk/government/organisations/uk-health-security-agency).
 
