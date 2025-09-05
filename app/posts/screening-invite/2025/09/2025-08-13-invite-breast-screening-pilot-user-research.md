@@ -65,12 +65,9 @@ Even when participants received a message in a channel they don’t normally use
 3) **Messages can be effective even when people’s perception or memory of them is inaccurate**
 Many of the participants in this sample did not accurately recall the type of invitation they received. Some claimed they received an email, when we didn’t send any.
 
-    This is because:
-*	it can be difficult to keep track of which healthcare message is for which appointment
-*	it can be hard to distinguish between different types of notification on your phone
-*	people were sent SMS reminders, which can be confused with the original invitation.
+    This is because it can be hard to keep track of which healthcare message is for which appointment, or distinguish between different types of notification on your phone. Also people were sent SMS reminders, which can be confused with the original invitation​.
 
-  Despite this, the key point is that most people still saw their message and attended their appointment, and many were ultimately     indifferent on what type of message they received. If people are indifferent, this could make it easier to change the type of digital channel we use to send messages.
+    Despite this, the key point is that most people still saw their message and attended their appointment, and many were ultimately     indifferent on what type of message they received. If people are indifferent, this could make it easier to change the type of digital channel we use to send messages.
 
 4) **Most of the sample didn’t follow a link to further guidance as they didn’t need to**
 Each message had a link (or a QR code for the letter) to a gov.uk publication page. Most people in this sample didn’t follow the link because they had gone through the process before and the key information was quickly available in the message.
