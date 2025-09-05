@@ -20,7 +20,9 @@ To record these clinicians' names, users must select a name from a drop-down lis
 
 ## What's changing
 
-As part of [wider changes to the recording journey]( https://design-history.prevention-services.nhs.uk/record-a-vaccination/2025/03/asking-fewer-better-questions/), we no longer need to record the name of the clinician who assessed the patient or who asked for their consent. But we do still need to record the name of the vaccinator, the person who administers the vaccine. 
+As part of [wider changes to the recording journey]( https://design-history.prevention-services.nhs.uk/record-a-vaccination/2025/03/asking-fewer-better-questions/), we no longer need to record the names of the clinicians who assessed the patient or asked for their consent. 
+
+But we do still need to record the name of the vaccinator, the person who administers the vaccine. 
 
 We initially thought we would populate our list of "vaccinators" in the new journey with the names of users who are "registered clinicians". This was based on the assumption that all vaccinators these days are registered clinicians. But we've learned this is not always the case. 
 
@@ -31,7 +33,7 @@ We considered 2 options:
 1. Remove the "registered clinician" role completely. In this scenario, all users of RAVS could potentially be selected as "vaccinators" in the new recording journey.
 2. Replace the role of "registered clinician" role with  "vaccinator".  In this scenario, we'd differentiate between users who are vaccinators and users who do not vaccinate but still record in RAVS 
 
-We decided to go for the second option because we think there will be a benefit for users in the recording journey. By differentiating between vaccinators and non-vaccinators, we'll be able to present a shorter list of names at the point where users have to select the vaccinator's name. 
+We decided to go for the second option because we think there will be a benefit for users in the recording journey. By differentiating between vaccinators and non-vaccinators, we should be able to present a shorter list of names at the point where users have to select the vaccinator's name. 
 
 ## What next
 Once this change is live, we'll need to check over a period of few months what proportion of our users are vaccinators versus non-vaccinators. If it turns out nearly everyone is a vaccinator, we may decide we don't need this vaccinator role after all.
