@@ -39,9 +39,9 @@ This was to ensure any issues we encountered were more to do with the change in 
 ## What this user research is missing
 
 ### Significant quantitative data 
-We can report that it was mainly SMS messages that participants saw, while just under a third of the sample read their NHS App messages and a few people received letters. You can see how each type of message was sent in sequence in [our earlier post on this](https://screening-de-breast-scr-rui5fn.herokuapp.com/screening-invite/2025/06/invite-pilot-overview/#proposed-changes-to-how-people-are-invited-to-screening)
+We can report that it was mainly SMS messages that participants saw, while just under a third of the sample read their NHS App messages and a few people received letters. You can see how each type of message was sent in sequence in [our earlier post on this.](https://screening-de-breast-scr-rui5fn.herokuapp.com/screening-invite/2025/06/invite-pilot-overview/#proposed-changes-to-how-people-are-invited-to-screening)
 
-However, the sample size of 150 isn’t large or varied enough to give us high levels of confidence for whether these numbers in the pilot would be the same if we rolled out for the whole breast screening population of around 6 million people. This research tells us why certain things might happen, not how often they might happen.
+However, the sample size of 150 isn’t large or varied enough to give us high levels of confidence for whether these numbers in the pilot would be the same if we rolled out for the whole breast screening population of around 6 million people. This research tells us *why* certain things might happen, not how often they might happen.
 
 ### An understanding of how this would impact underserved groups
 The sample for this pilot deliberately chose people with the least barriers to accessing their screening appointment. A high priority for any future research would be to learn how digital first messaging would impact underserved groups who might struggle to access it the most, such as people with lower levels of digital capability or access. 
@@ -70,7 +70,7 @@ Many of the participants in this sample did not accurately recall the type of in
 *	it can be hard to distinguish between different types of notification on your phone
 *	people were sent SMS reminders, which can be confused with the original invitation.
 
-    Despite this, the key point is that most people still saw their message and attended their appointment, and many were ultimately indifferent on what type of message they received. If people are indifferent, this could make it easier to change the type of digital channel we use to send messages.
+  Despite this, the key point is that most people still saw their message and attended their appointment, and many were ultimately     indifferent on what type of message they received. If people are indifferent, this could make it easier to change the type of digital channel we use to send messages.
 
 4) **Most of the sample didn’t follow a link to further guidance as they didn’t need to**
 Each message had a link (or a QR code for the letter) to a gov.uk publication page. Most people in this sample didn’t follow the link because they had gone through the process before and the key information was quickly available in the message.
@@ -80,13 +80,13 @@ Each message had a link (or a QR code for the letter) to a gov.uk publication pa
 We’ve found out that:
 
 1)	**The change to digital messages can impact the people who use their letter as a reminder**
-*	Two people said they forgot about their appointment because they didn’t have a letter. 
-*	One of them said they need letters because they have memory loss issues. Letters can act as good reminders e.g. putting it on the fridge.
-*	Messages on a phone can be harder to remember in comparison to physical copies, plus we have previously seen there can be issues relocating an NHS App message in our pre-pilot user research.
+ Two people said they forgot about their appointment because they didn’t have a letter, with one of them saying they need letters because they have memory loss issues.
+
+    Letters can have the advantage of being easily visible as you put them on fridges or other places at home. For some, messages on a phone can be harder to remember in comparison and we have previously seen there can be issues relocating an NHS App message in our pre-pilot user research.
 
 
 2)	**Letters do not need to act as reminders to people with strong calendar habits**
-    Most of this sample added their appointment to either a physical or digital calendar. This suggests there could be a health inequality issue to consider here. 
+Most of this sample added their appointment to either a physical or digital calendar. This suggests there could be a health inequality issue to consider here. 
 
     Our fallback system could work for those who are able to set up reminders themselves, but not for people who are less able to do this due to things like learning difficulties or digital capability and would benefit from a letter instead of an SMS. 
 
