@@ -12,7 +12,7 @@ In the second post, we looked at [content and interaction design iterations](htt
 
 ## What we wanted to find out in the pilot
 
-At a high level we were keen to understand why someone might read a message in one channel rather than another, and whether receiving messages through different channels impacts attendance and overall experience.
+We wanted to understand why someone might read a message in one channel rather than another. We also wanted to know how receiving messages through different channels affects attendance and overall experience.
 
 Some of the details we wanted to learn included:
 *	would not sending a map have an impact?
