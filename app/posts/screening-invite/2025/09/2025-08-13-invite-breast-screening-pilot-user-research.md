@@ -41,7 +41,7 @@ This was to ensure any issues we encountered were more to do with the change in 
 ### Significant quantitative data 
 Most users saw the SMS messages. Just under a third of the sample read their NHS App messages and a few people received letters. You can see [how each type of message was sent in sequence in our earlier post on this](https://screening-de-breast-scr-rui5fn.herokuapp.com/screening-invite/2025/06/invite-pilot-overview/#proposed-changes-to-how-people-are-invited-to-screening).
 
-However, the sample size of 150 isn’t large or varied enough to give us high levels of confidence for whether these numbers in the pilot would be the same if we rolled out for the whole breast screening population of around 6 million people. This research tells us *why* certain things might happen, not how often they might happen.
+However, the sample size of 150 isn’t large or varied enough to give us high levels of confidence for whether these numbers in the pilot would be the same if we rolled out for the whole breast screening population of around 6 million people. This research tells us why certain things might happen, not how often they might happen.
 
 ### An understanding of how this would impact underserved groups
 The sample for this pilot deliberately chose people with the least barriers to accessing their screening appointment. A high priority for any future research would be to learn how digital first messaging would impact underserved groups who might struggle to access it the most, such as people with lower levels of digital capability or access. 
