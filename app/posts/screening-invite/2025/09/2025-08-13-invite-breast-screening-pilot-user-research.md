@@ -53,7 +53,7 @@ Key findings were:
 1) **People noticed their messages because our fallback system found the places they tend to check** 
 This was clear as we asked participants if they received their invitation in a channel they usually check – the majority said yes.
 
-    This is of course the purpose of the fallback system, to try digital messages first and use other channels when digital messages aren’t accessed.
+This is of course the purpose of the fallback system, to try digital messages first and use other channels when digital messages aren’t accessed.
 
     In this sample, concerns around not having read receipts for SMS messages were mitigated by participants being experienced in receiving SMS messages for healthcare communications.
 
