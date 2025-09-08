@@ -71,7 +71,7 @@ Many of the participants in this sample did not accurately recall the type of in
 
 This is because it can be hard to keep track of which healthcare message is for which appointment, or distinguish between different types of notification on your phone. Also people were sent SMS reminders, which can be confused with the original invitation​.
 
-Despite this, most people still saw their message and attended their appointment. Many people didn’t mind what type of message they received. This suggest we can be flexible about the channel we use to send messages.
+Despite this, most people still saw their message and attended their appointment. Many people didn’t mind what type of message they received. This suggests we can be flexible about the channel we use to send messages.
 
 4) **Most of the sample didn’t follow a link to further guidance as they didn’t need to**
 Each message had a link (or a QR code for the letter) to a gov.uk publication page. Most people in this sample didn’t follow the link because they had gone through the process before and the key information was quickly available in the message.
