@@ -89,7 +89,7 @@ Letters have the advantage of being easily visible. Users put them on fridges or
 2)	**Letters do not need to act as reminders to people with strong calendar habits**
 Most of this sample added their appointment to either a physical or digital calendar. This suggests there could be a health inequality issue to consider here. 
 
-Our fallback system could work for those who are able to set up reminders themselves, but not for people who are less able would benefit from letters instead of SMS.
+Our fallback to SMS works for those who are able to set up reminders themselves. But for people who are less able to set up reminders, letters work better than SMS.
 
 We cannot see the size of this potential issue due to a small sample size and it only containing people without 'special appointment' requirements.
 
