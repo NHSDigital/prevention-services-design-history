@@ -102,7 +102,7 @@ Knowing the area or local landmarks can mean a map isn't necessary for finding t
 
 In Dorset the screening took place in Beales Department Store – a known location to almost the entire sample. The invitation and text reminder told people Beales was the location and most people reported they didn't need a map since they already knew where Beales was.
 
-It's also worth noting that in cases where the address was provided, it would have only said '64-68, Dolphin Centre’ in the first line, showing it could be worth investigating whether sharing only addresses is always the best way to direct people.
+When we shared addresses, people only saw '64-68, Dolphin Centre' in the first line. This suggests we should research whether addresses alone are the best way to give directions.
 
 However, maps are often needed to navigate large hospital sites for example, from the car park or main entrance to the exact screening area. In South West London some people phoned to ask for directions to the exact building where the screening would take place. In this case, an address was shared for the hospital, but it still wasn't clear to all which part of the hospital to go to.
 
