@@ -111,7 +111,7 @@ The breast screening offices in the pilot received very few calls that were rela
 Following the pilot, the invite team has been:
 *	refining the content and design of invitations, based on the pilot feedback
 *	exploring ways to help people reach their appointments without relying on a map
-*	preparing to scale by automating manual BSO processes
+*	preparing to scale by automating manual Breast screening office processes
 *	partnering with early adopters to run a private beta
 
 If you have any feedback to share, please contact us by email at [fred.constable1@nhs.net](mailto:fred.constable1@nhs.net).
