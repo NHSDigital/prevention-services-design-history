@@ -1,10 +1,13 @@
 ---
-title: Researching the impact of piloting digital-first invitations in breast screening
-description: Content and interaction design work for the 2024 breast screening invitations Pilot.
+title: Testing digital breast screening invites
+description: User research findings from Team Invite’s digital-first breast screening invitations pilot December 2024 – February 2025 
 date: 2025-09-04
 ---
-Team Invite is working on inviting people to breast screening appointments using a digital-first communication strategy.  
-In our first post, we gave an [overview of the pilot work](https://design-history.prevention-services.nhs.uk/screening-invite/2025/06/invite-pilot-overview/). In the second post, we looked at [content and interaction design iterations](https://design-history.prevention-services.nhs.uk/screening-invite/2025/08/invite-breast-screening-pilot-design-iterations/). In this one we summarise what we found out during the pilot phase about user experience and operational impact. 
+Team Invite is working on inviting people to breast screening appointments via the NHS App, a text message or a letter if both digital channels are unsuccessful.
+
+In our first post, we gave an [overview of the pilot work](https://design-history.prevention-services.nhs.uk/screening-invite/2025/06/invite-pilot-overview/). 
+
+In the second post, we looked at [content and interaction design iterations](https://design-history.prevention-services.nhs.uk/screening-invite/2025/08/invite-breast-screening-pilot-design-iterations/). In this one we summarise what we found out during the pilot phase about user experience and operational impact. 
 
 
 ## What we wanted to find out in the pilot
@@ -35,12 +38,12 @@ We sent messages to 150 people across 3 breast screening offices. We chose speci
 *	be knowledgeable of the screening process
 *	have the fewest barriers to attending their appointment
 
-This was to ensure any issues we encountered were more to do with the change in invitation process, rather than issues with other aspects of the wider screening process. The number was set at 150 as it was seen as an easier number to track.
+This was so any issues we encountered were easy to attribute to the change in invitation channel. The number was set at 150 as it was seen as an easy number of participants to track.
 
 ## What this user research is missing
 
 ### Significant quantitative data 
-Most users saw the SMS messages. Just under a third of the sample read their NHS App messages and a few people received letters. You can see [how each type of message was sent in sequence in our earlier post on this](https://screening-de-breast-scr-rui5fn.herokuapp.com/screening-invite/2025/06/invite-pilot-overview/#proposed-changes-to-how-people-are-invited-to-screening).
+Most users saw the SMS messages. Just under a third of the sample read their NHS App messages and a few people received letters. You can see [how each type of message was sent in sequence in our earlier post on this](https://design-history.prevention-services.nhs.uk/screening-invite/2025/06/invite-pilot-overview/#:~:text=We’re%20using%20NHS%20Notify%20to%20send%20these%20messages%20through%20the%20NHS%20App%2C%20text%20messages%20and%20letters.).
 
 However, the sample size of 150 isn’t large or varied enough to give us high levels of confidence for whether these numbers in the pilot would be the same if we rolled out for the whole breast screening population of around 6 million people. This research tells us why certain things might happen, not how often they might happen.
 
@@ -68,12 +71,12 @@ Many of the participants in this sample did not accurately recall the type of in
 
 This is because it can be hard to keep track of which healthcare message is for which appointment, or distinguish between different types of notification on your phone. Also people were sent SMS reminders, which can be confused with the original invitation​.
 
-    Despite this, most people still saw their message and attended their appointment. Many people didn’t mind what type of message they received. This suggest we can be flexible about the channel we use to send messages.
+Despite this, most people still saw their message and attended their appointment. Many people didn’t mind what type of message they received. This suggest we can be flexible about the channel we use to send messages.
 
 4) **Most of the sample didn’t follow a link to further guidance as they didn’t need to**
 Each message had a link (or a QR code for the letter) to a gov.uk publication page. Most people in this sample didn’t follow the link because they had gone through the process before and the key information was quickly available in the message.
 
-## Attending appointments and remembering where they are
+## Attending appointments and finding them
 
 We’ve found out that:
 
