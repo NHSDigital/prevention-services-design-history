@@ -52,7 +52,7 @@ The sample for this pilot deliberately chose people with the least barriers to a
 
 ## Noticing and reading messages
 
-Key findings were: 
+We found: 
 
 1) **People noticed their messages because our fallback system found the places they tend to check** 
 This was clear as we asked participants if they received their invitation in a channel they usually check – the majority said yes.
