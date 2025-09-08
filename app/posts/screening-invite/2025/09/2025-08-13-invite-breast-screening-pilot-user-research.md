@@ -106,7 +106,7 @@ When we shared addresses, people only saw '64-68, Dolphin Centre' in the first l
 
 However, maps are often needed to navigate large hospital sites for example, from the car park or main entrance to the exact screening area. In South West London some people phoned to ask for directions to the exact building where the screening would take place. In this case, an address was shared for the hospital, but it still wasn't clear to all which part of the hospital to go to.
 
-## The potential impact on breast screening offices
+## The potential affect on breast screening offices
 
 The breast screening offices in the pilot received very few calls that were related to issues with digital messages. This could be because this pilot only involved a small number of people who had been to appointments before, so the affect on breast screening offices will need to be monitored if we invite groups who might need more support.
 
