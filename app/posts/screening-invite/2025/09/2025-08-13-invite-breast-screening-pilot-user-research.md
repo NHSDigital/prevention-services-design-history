@@ -55,7 +55,7 @@ This was clear as we asked participants if they received their invitation in a c
 
 This is of course the purpose of the fallback system, to try digital messages first and use other channels when digital messages aren’t accessed.
 
-    In this sample, concerns around not having read receipts for SMS messages were mitigated by participants being experienced in receiving SMS messages for healthcare communications.
+In this sample, concerns around not having read receipts for SMS messages were mitigated by participants being experienced in receiving SMS messages for healthcare communications.
 
 2) **Messages can be noticed even when sent via a new channel**
 Even when participants received a message in a channel they don’t normally use, most of them still noticed it and attended their appointment.
