@@ -18,7 +18,7 @@ Some of the details we wanted to learn included:
 *	would not sending a map have an affect?
 *	would participants go back to their invite on their phone?
 *	would participants see the guidance link in the digital message?
-*	how might breast screening offices be impacted?
+*	how might breast screening offices be affected?
 
 ## The user research methods we used
 
