@@ -69,7 +69,7 @@ This is something to keep in mind as we roll out and potentially hear more conce
 3) **Messages still work even when people can't remember them accurately**
 Many of the participants in this sample did not accurately recall the type of invitation they received. Some claimed they received an email, when we didn’t send any.
 
-This is because it can be hard to keep track of which healthcare message is for which appointment, or distinguish between different types of notification on your phone. Also people were sent SMS reminders, which can be confused with the original invitation​.
+People get lots of health messages on their phones. It's hard to remember which message is for which appointment. We also sent SMS reminders, which people sometimes confused with the original invitation.
 
 Despite this, most people still saw their message and attended their appointment. Many people didn’t mind what type of message they received. This suggests we can be flexible about the channel we use to send messages.
 
