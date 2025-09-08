@@ -48,7 +48,7 @@ Most users saw the SMS messages. Just under a third of the sample read their NHS
 However, 150 people isn't a large enough sample. We can't be confident these results would be the same for all 6 million people who get breast screening invites.
 
 ### An understanding of how this would affect underserved groups
-The sample for this pilot deliberately chose people with the least barriers to accessing their screening appointment. A high priority for future research is to learn how digital first messaging would impact underserved groups who might struggle to access it the most, such as people with lower levels of digital capability or access. 
+The sample for this pilot deliberately chose people with the least barriers to accessing their screening appointment. Our next priority is researching how digital messages affect people who find them hardest to access. This includes people with limited digital skills or no access to smartphones.
 
 ## Noticing and reading messages
 
