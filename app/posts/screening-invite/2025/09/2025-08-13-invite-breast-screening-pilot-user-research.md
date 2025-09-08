@@ -15,7 +15,7 @@ In the second post, we looked at [content and interaction design iterations](htt
 We wanted to understand why someone might read a message in one channel rather than another. We also wanted to know how receiving messages through different channels affects attendance and overall experience.
 
 Some of the details we wanted to learn included:
-*	would not sending a map have an impact?
+*	would not sending a map have an affect?
 *	would participants go back to their invite on their phone?
 *	would participants see the guidance link in the digital message?
 *	how might breast screening offices be impacted?
