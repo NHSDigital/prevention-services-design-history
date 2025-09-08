@@ -3,13 +3,14 @@ title: Researching the impact of piloting digital-first invitations in breast sc
 description: Content and interaction design work for the 2024 breast screening invitations Pilot.
 date: 2025-09-04
 ---
-Team Invite is working on inviting people to breast screening appointments using a digital-first communication strategy.  
+Team Invite is working on inviting people to breast screening appointments via the NHS App, a text message or a letter if both digital channels are unsuccessful.
+
 In our first post, [we gave a high-level overview of the pilot work](https://design-history.prevention-services.nhs.uk/screening-invite/2025/06/invite-pilot-overview/). In the second one, [we deep dived into content and interaction design iterations](https://design-history.prevention-services.nhs.uk/screening-invite/2025/08/invite-breast-screening-pilot-design-iterations/). In this one we have summarised what we found out during the pilot phase about user experience and operational impact. 
 
 
 ## What we wanted to find out in the pilot
 
-At a high level we were keen to understand why messages in different channels might be read and whether they impact attendance and overall experience.
+At a high level we were keen to understand why someone might read a message in one channel rather than another, and whether receiving messages through different channels impacts attendance and overall experience.
 
 Some of the details we wanted to learn included:
 *	would not sending a map have an impact?
@@ -21,11 +22,12 @@ Some of the details we wanted to learn included:
 
 It’s hard to catch that moment when someone receives a message. You can’t observe someone indefinitely and we didn’t have the data agreements in place to call people.
 
-Instead, we started with some content and usability testing of the NHS App invitation to try and get some sense of how they’d respond to it.
+Instead, we started with some content and usability testing of the NHS App invitation to see how people responded to it.
 
-Then for the pilot itself we did at least have the data that told us who received which message and when.
-
-Using this and then some significant help from the breast screening offices themselves, we managed to intercept the participants that we sent messages to, either at the end of their appointment or on the phone if they called. Breast screening offices also called anyone who didn’t attend their appointment.
+During the pilot we:
+* tracked who got which message and when
+* asked screening staff helped us speak to people – either after their appointments or when they called in
+* asked screening staff to call people who didn't attend.
 
 ## Pilot participants
 
@@ -62,12 +64,12 @@ Even when participants received a message in a channel they don’t normally use
 
     This is something to keep in mind as we roll out and potentially hear more concerns from people who are used to receiving letters. While people’s attitude may be one of concern, their behaviour can still mean they access messages and attend appointments.
 
-3) **Messages can be effective even when people’s perception or memory of them is inaccurate**
+3) **Messages still work even when people can't remember them accurately**
 Many of the participants in this sample did not accurately recall the type of invitation they received. Some claimed they received an email, when we didn’t send any.
 
     This is because it can be hard to keep track of which healthcare message is for which appointment, or distinguish between different types of notification on your phone. Also people were sent SMS reminders, which can be confused with the original invitation​.
 
-    Despite this, the key point is that most people still saw their message and attended their appointment, and many were ultimately     indifferent on what type of message they received. If people are indifferent, this could make it easier to change the type of digital channel we use to send messages.
+    Despite this, most people still saw their message and attended their appointment. Many people didn’t mind what type of message they received. This suggest we can be flexible about the channel we use to send messages.
 
 4) **Most of the sample didn’t follow a link to further guidance as they didn’t need to**
 Each message had a link (or a QR code for the letter) to a gov.uk publication page. Most people in this sample didn’t follow the link because they had gone through the process before and the key information was quickly available in the message.
@@ -98,7 +100,7 @@ Knowing the area or local landmarks can mean a map isn't needed for finding the 
 
 In Dorset the screening took place in Beales Department Store – a known location to almost the entire sample. The invitation and text reminder told people Beales was the location and most people reported they didn't need a map since they already knew where Beales was.
 
-It's also worth noting that if just the address was shared, it would have only said '64-68, Dolphin Centre’ in the first line, showing it could be worth investigating whether sharing only addresses is always the best way to direct people.
+It's also worth noting that in cases where the address was provided, it would have only said '64-68, Dolphin Centre’ in the first line, showing it could be worth investigating whether sharing only addresses is always the best way to direct people.
 
 However, maps are often needed to navigate large hospital sites for example, from the car park or main entrance to the exact screening area. In South West London some people phoned to ask for directions to the exact building where the screening would take place. In this case, an address was shared for the hospital, but it still wasn't clear to all which part of the hospital to go to.
 
