@@ -19,7 +19,7 @@ Some of the details we wanted to learn included:
 
 ## The user research methods we used
 
-It’s hard to catch that moment when someone receives a message. You can’t observe someone indefinitely and we didn’t have the data agreements in place to call people.
+We didn't have a way to observe people receiving messages, or call them directly about receiving their invites.
 
 Instead, we started with some content and usability testing of the NHS App invitation to try and get some sense of how they’d respond to it.
 
