@@ -79,7 +79,7 @@ We’ve found out that:
 1)	**The change to digital messages can impact the people who use their letter as a reminder**
  Two people said they forgot about their appointment because they didn’t have a letter, with one of them saying they need letters because they have memory loss issues.
 
-    Letters can have the advantage of being easily visible as you put them on fridges or other places at home. For some, messages on a phone can be harder to remember in comparison and we have previously seen there can be issues relocating an NHS App message in our pre-pilot user research.
+Letters have the advantage of being easily visible. Users put them on fridges or other places at home. Messages on a phone can be harder to remember. In previous research we saw people have issues relocating  NHS App messages.
 
 
 2)	**Letters do not need to act as reminders to people with strong calendar habits**
