@@ -61,7 +61,7 @@ This is of course the purpose of the fallback system, to try digital messages fi
 
 In this sample, concerns around not having read receipts for SMS messages were mitigated by participants being experienced in receiving SMS messages for healthcare communications.
 
-2) **Messages can be noticed even when sent via a new channel**
+2) **Messages can be noticed even when sent using a digital channel**
 Even when participants received a message in a channel they don’t normally use, most of them still noticed it and attended their appointment.
 
 This is something to keep in mind as we roll out and potentially hear more concerns from people who are used to receiving letters. While people’s attitude may be one of concern, their behaviour can still mean they access messages and attend appointments.
