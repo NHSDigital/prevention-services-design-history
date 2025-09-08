@@ -108,7 +108,7 @@ However, maps are often needed to navigate large hospital sites for example, fro
 
 ## The potential impact on breast screening offices
 
-The breast screening offices in the pilot received very few calls that were related to issues with digital messages. This could be because this pilot only involved a small number of people who had been to appointments before, so the impact on breast screening offices will need to be monitored if we invite groups who might need more support.
+The breast screening offices in the pilot received very few calls that were related to issues with digital messages. This could be because this pilot only involved a small number of people who had been to appointments before, so the affect on breast screening offices will need to be monitored if we invite groups who might need more support.
 
 ## Next steps
 
