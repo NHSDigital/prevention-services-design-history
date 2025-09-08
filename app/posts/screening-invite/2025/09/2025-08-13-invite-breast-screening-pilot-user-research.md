@@ -94,7 +94,7 @@ A participant had to reschedule their appointment due to not receiving their let
 
 ## Getting to appointments without being sent a map
 
-Knowing the area or local landmarks can mean a map isn't needed for finding the main hospital or screening location.
+Knowing the area or local landmarks can mean a map isn't necessary for finding the main hospital or screening location.
 
 In Dorset the screening took place in Beales Department Store – a known location to almost the entire sample. The invitation and text reminder told people Beales was the location and most people reported they didn't need a map since they already knew where Beales was.
 
