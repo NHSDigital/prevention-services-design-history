@@ -89,7 +89,7 @@ Our fallback system could work for those who are able to set up reminders themse
 
 We cannot see the size of this potential issue due to a small sample size and it only containing people without 'special appointment' requirements.
 
-3)	**Late letters due to postal issues can also cause appointment problems**
+3)	**Late letters due to postal issues cause appointment problems**
 A participant had to reschedule their appointment due to not receiving their letter in time, despite the letter being sent 3 weeks in advance (over the Christmas period).
 
 ## Getting to appointments without being sent a map
