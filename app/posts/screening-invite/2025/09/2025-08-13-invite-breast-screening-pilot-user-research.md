@@ -4,7 +4,7 @@ description: Content and interaction design work for the 2024 breast screening i
 date: 2025-09-04
 ---
 Team Invite is working on inviting people to breast screening appointments using a digital-first communication strategy.  
-In our first post, [we gave a high-level overview of the pilot work](https://design-history.prevention-services.nhs.uk/screening-invite/2025/06/invite-pilot-overview/). In the second one, [we deep dived into content and interaction design iterations](https://design-history.prevention-services.nhs.uk/screening-invite/2025/08/invite-breast-screening-pilot-design-iterations/). In this one we have summarised what we found out during the pilot phase about user experience and operational impact. 
+In our first post, we gave an [overview of the pilot work](https://design-history.prevention-services.nhs.uk/screening-invite/2025/06/invite-pilot-overview/). In the second post, we looked at [content and interaction design iterations](https://design-history.prevention-services.nhs.uk/screening-invite/2025/08/invite-breast-screening-pilot-design-iterations/). In this one we summarise what we found out during the pilot phase about user experience and operational impact. 
 
 
 ## What we wanted to find out in the pilot
