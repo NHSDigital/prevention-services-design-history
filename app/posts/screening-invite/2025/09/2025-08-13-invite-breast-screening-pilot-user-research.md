@@ -60,7 +60,7 @@ This was clear as we asked participants if they received their invitation in a c
 2) **Messages can be noticed even when sent via a new channel**
 Even when participants received a message in a channel they don’t normally use, most of them still noticed it and attended their appointment.
 
-    This is something to keep in mind as we roll out and potentially hear more concerns from people who are used to receiving letters. While people’s attitude may be one of concern, their behaviour can still mean they access messages and attend appointments.
+This is something to keep in mind as we roll out and potentially hear more concerns from people who are used to receiving letters. While people’s attitude may be one of concern, their behaviour can still mean they access messages and attend appointments.
 
 3) **Messages can be effective even when people’s perception or memory of them is inaccurate**
 Many of the participants in this sample did not accurately recall the type of invitation they received. Some claimed they received an email, when we didn’t send any.
