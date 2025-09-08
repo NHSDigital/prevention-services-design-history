@@ -40,12 +40,12 @@ This was to ensure any issues we encountered were more to do with the change in 
 ## What this user research is missing
 
 ### Significant quantitative data 
-We can report that it was mainly SMS messages that participants saw, while just under a third of the sample read their NHS App messages and a few people received letters. You can see how each type of message was sent in sequence in [our earlier post on this.](https://screening-de-breast-scr-rui5fn.herokuapp.com/screening-invite/2025/06/invite-pilot-overview/#proposed-changes-to-how-people-are-invited-to-screening)
+Most users saw the SMS messages. Just under a third of the sample read their NHS App messages and a few people received letters. You can see [how each type of message was sent in sequence in our earlier post on this](https://screening-de-breast-scr-rui5fn.herokuapp.com/screening-invite/2025/06/invite-pilot-overview/#proposed-changes-to-how-people-are-invited-to-screening).
 
-However, the sample size of 150 isn’t large or varied enough to give us high levels of confidence for whether these numbers in the pilot would be the same if we rolled out for the whole breast screening population of around 6 million people. This research tells us *why* certain things might happen, not how often they might happen.
+However, the sample size of 150 isn’t large or varied enough to give us high levels of confidence for whether these numbers in the pilot would be the same if we rolled out for the whole breast screening population of around 6 million people. This research tells us why certain things might happen, not how often they might happen.
 
 ### An understanding of how this would impact underserved groups
-The sample for this pilot deliberately chose people with the least barriers to accessing their screening appointment. A high priority for any future research would be to learn how digital first messaging would impact underserved groups who might struggle to access it the most, such as people with lower levels of digital capability or access. 
+The sample for this pilot deliberately chose people with the least barriers to accessing their screening appointment. A high priority for future research is to learn how digital first messaging would impact underserved groups who might struggle to access it the most, such as people with lower levels of digital capability or access. 
 
 ## Noticing and reading messages
 
@@ -54,9 +54,9 @@ Key findings were:
 1) **People noticed their messages because our fallback system found the places they tend to check** 
 This was clear as we asked participants if they received their invitation in a channel they usually check – the majority said yes.
 
-    This is of course the purpose of the fallback system, to try digital messages first and use other channels when digital messages aren’t accessed.
+This is of course the purpose of the fallback system, to try digital messages first and use other channels when digital messages aren’t accessed.
 
-    In this sample, concerns around not having read receipts for SMS messages were mitigated by participants being experienced in receiving SMS messages for healthcare communications.
+In this sample, concerns around not having read receipts for SMS messages were mitigated by participants being experienced in receiving SMS messages for healthcare communications.
 
 2) **Messages can be noticed even when sent via a new channel**
 Even when participants received a message in a channel they don’t normally use, most of them still noticed it and attended their appointment.
