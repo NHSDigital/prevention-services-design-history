@@ -45,7 +45,7 @@ This was so any issues we encountered were easy to attribute to the change in in
 ### Significant quantitative data 
 Most users saw the SMS messages. Just under a third of the sample read their NHS App messages and a few people received letters. You can see [how each type of message was sent in sequence in our earlier post on this](https://design-history.prevention-services.nhs.uk/screening-invite/2025/06/invite-pilot-overview/#:~:text=We’re%20using%20NHS%20Notify%20to%20send%20these%20messages%20through%20the%20NHS%20App%2C%20text%20messages%20and%20letters.).
 
-However, the sample size of 150 isn’t large or varied enough to give us high levels of confidence for whether these numbers in the pilot would be the same if we rolled out for the whole breast screening population of around 6 million people. This research tells us why certain things might happen, not how often they might happen.
+However, 150 people isn't a large enough sample. We can't be confident these results would be the same for all 6 million people who get breast screening invites.
 
 ### An understanding of how this would impact underserved groups
 The sample for this pilot deliberately chose people with the least barriers to accessing their screening appointment. A high priority for future research is to learn how digital first messaging would impact underserved groups who might struggle to access it the most, such as people with lower levels of digital capability or access. 
