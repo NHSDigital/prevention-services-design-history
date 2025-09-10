@@ -17,6 +17,7 @@ This is because in the current journey, we record the name of the clinician who 
 
 To record these clinicians' names, users must select a name from a drop-down list. The list is populated with the names of users who have been added to RAVS as registered clinicians. 
 
+![Screenshot of the current "Add user" screen](add-user-current-screen.png)
 
 ## What's changing
 
@@ -34,6 +35,8 @@ We considered 2 options:
 2. Replace the role of "registered clinician" role with "vaccinator".  In this scenario, we'd differentiate between users who are vaccinators and users who do not vaccinate but still record in RAVS. 
 
 We decided to go for the second option because we think there will be a benefit for users in the recording journey. By differentiating between vaccinators and non-vaccinators, we should be able to present a shorter list of names at the point where users have to select the vaccinator's name. 
+
+![Screenshot of the new "Add user" screen](add-user-new-screen.png)
 
 ## What next
 Once this change is live, we'll need to check over a period of few months what proportion of our users are vaccinators versus non-vaccinators. If it turns out nearly everyone is a vaccinator, we may decide we don't need this vaccinator role after all.
