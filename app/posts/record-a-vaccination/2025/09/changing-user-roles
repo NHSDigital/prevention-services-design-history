@@ -31,7 +31,7 @@ Vaccinators are usually registered clinicians (such as registered nurses or regi
 We considered 2 options:
 
 1. Remove the "registered clinician" role completely. In this scenario, all users of RAVS could potentially be selected as "vaccinators" in the new recording journey.
-2. Replace the role of "registered clinician" role with  "vaccinator".  In this scenario, we'd differentiate between users who are vaccinators and users who do not vaccinate but still record in RAVS 
+2. Replace the role of "registered clinician" role with "vaccinator".  In this scenario, we'd differentiate between users who are vaccinators and users who do not vaccinate but still record in RAVS. 
 
 We decided to go for the second option because we think there will be a benefit for users in the recording journey. By differentiating between vaccinators and non-vaccinators, we should be able to present a shorter list of names at the point where users have to select the vaccinator's name. 
 
