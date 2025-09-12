@@ -4,10 +4,11 @@ title: Mission patches
 description: Archive of patches created to celebrate milestones in the development of our different services
 tags:
   - reference
-eleventyNavigation:
-  key: "{{ title }}"
-  excerpt: "{{ description }}"
-  parent: Home
+eleventyComputed:
+  eleventyNavigation:
+    key: "{{ title }}"
+    excerpt: "{{ description }}"
+    parent: Home
 groups:
   - title: Manage vaccinations in schools
     description: The team chose a polar bear as their mascot because they’re big on protecting their cubs. Living in a hostile environment, they can also be highly adaptive and conserve energy. That, and everyone on the team seems to love [The Bear](https://www.imdb.com/title/tt14452776/).
