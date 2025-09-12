@@ -3,7 +3,7 @@ title: "One nostril or two? "
 date: 2025-09-02
 description: Changes we’ve made to support the nasal flu vaccine for 2 to 3 year olds
 image:
-  src: vaccine-type-flow-diagram.png
+  src: /record-a-vaccination/2025/09/one-nostril-or-two/vaccine-type-flow-diagram.png
   opengraphImage: true
   alt: Flow diagram showing a fork whether the top fork is labelled 'Injection' and leads to a screen with the question 'Where did you give the injection?' and the bottom fork is labelled 'Nasal spray' and leads to a screen with the question 'Did you give a full dose of the vaccine?'. Arrows from both screens then recombine at the label 'Check and confirm'
 ---
