@@ -1,5 +1,5 @@
 ---
-title: "Enabling pharmacies to sign up to the service"
+title: Enabling pharmacies to sign up to the service
 date: 2025-08-21
 ---
 
@@ -21,7 +21,7 @@ We designed the sign up flow to collect the minimum amount of information needed
 
 The first screen asks for the name of the pharmacy. This uses an autocomplete, which searches the complete list of pharmacies using an API from the NHS’s [Organisation Data Service (ODS)](https://www.odsdatasearchandexport.nhs.uk). You can search the list by the name or ODS code of the pharmacy.
 
-Because many pharmacies share the exact same name, particularly those in a chain (for example, Boots), the autocomplete search results shows users the first line of the address and the postcode, to help  them select the right one.
+Because many pharmacies share the exact same name, particularly those in a chain (for example, Boots), the autocomplete search results shows users the first line of the address and the postcode, to help them select the right one.
 
 ![Screenshot showing a page titled ‘Sign up for your pharmacy’ and a search box labelled ‘Find your pharmacy’ followed by a green button labelled Continue](select-pharmacy.png)
 

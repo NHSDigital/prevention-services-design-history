@@ -1,5 +1,5 @@
 ---
-title: "Discovery summary"
+title: Discovery summary
 description: A summary post detailing our discovery into personalised prevention
 date: 2025-03-20
 tags:
@@ -26,9 +26,7 @@ Can we help people to proactively manage their health, rather than relying on a 
 >
 > We also often don’t know how well services are meeting people’s needs. That means if people do find and use a service, we don’t have a way to help them stay motivated to keep using that service, or to help them find alternatives if the service doesn't work.
 
-
 Our current problem statement has evolved over the course of discovery as we learned more about the problem we were trying to understand. It may change as we learn more in the alpha.
-
 
 ## Hypotheses
 
@@ -38,7 +36,6 @@ We had 4 overarching hypotheses we wanted to explore during the discovery:
 2. There is a serviceable cohort of people who will proactively manage their health to reduce their need for future treatment.
 3. The proposed service can complement other NHS services and handle the relevant data flows to keep them in the loop regarding the patient's overall healthcare.
 4. We will be able to reach people early enough before health issues become problematic.
-
 
 ## What we explored
 
@@ -67,7 +64,6 @@ We wanted to find out if we could:
 
 We wanted to understand whether this sort of capability could fit alongside the ways in which frontline medical practitioners already signpost patients to health and lifestyle services.
 
-
 ## Who we spoke to and why
 
 ### Primary users
@@ -77,6 +73,7 @@ This type of service could have a very large scope so we started by focusing on 
 We spoke to 24 people living in deprived areas in the UK, including Liverpool, Oldham, Rochdale, Bradford, Birmingham and Manchester. We targeted people who were most likely to suffer from deprivation by finding people in lower socioeconomic groups.
 
 We talked to people with these risk factors:
+
 - being overweight
 - being inactive
 - smoking
@@ -95,25 +92,28 @@ We also spoke to 5 GPs and GP practice staff in South West England to understand
 ### User research
 
 We explored the user’s:
--	life situation and the factors that would enable or prevent them taking action to improve their health
--	existing knowledge of and engagement with health and lifestyle services
+
+- life situation and the factors that would enable or prevent them taking action to improve their health
+- existing knowledge of and engagement with health and lifestyle services
 
 We also used a series of design probes to begin to understand ways in which we could:
--	activate a user to do something about their health
--	understand enough about the user to recommend appropriate services to them
--	find out what matters most to users when choosing a service
--	check in with the user to understand how they got on with a service and recommend alternatives if necessary
+
+- activate a user to do something about their health
+- understand enough about the user to recommend appropriate services to them
+- find out what matters most to users when choosing a service
+- check in with the user to understand how they got on with a service and recommend alternatives if necessary
 
 ### Service design
 
 Alongside the user research, we wanted to understand the complexity of the service landscape in which a prevention platform might sit, and find out which approaches we could take to best support users.
 
 To this end we explored:
--	starting points and motivations for preventative user journeys within and without the NHS
--	the broad range of services that would potentially need to be collated to create personalised recommendations – their creation, provision, and how discoverable they may be
--	how the NHS currently “does prevention recommendation” through the lens of social prescribing
--	potential sources of structured information about users and services, and applicable standards
--	broad concepts of how a platform might recommend the most appropriate preventative services to users
+
+- starting points and motivations for preventative user journeys within and without the NHS
+- the broad range of services that would potentially need to be collated to create personalised recommendations – their creation, provision, and how discoverable they may be
+- how the NHS currently “does prevention recommendation” through the lens of social prescribing
+- potential sources of structured information about users and services, and applicable standards
+- broad concepts of how a platform might recommend the most appropriate preventative services to users
 
 {% from "nhsuk/components/images/macro.njk" import image as nhsukImage %}
 {{ nhsukImage({
@@ -165,10 +165,11 @@ The technical hurdles we’ll need to overcome to give these sorts of recommenda
 ### We have a good idea of the types of criteria that matter to users when choosing services
 
 Cost was a key factor, along with whether the service was:
--	online or face-to-face
--	a group or individual activity
--	local or national
--	happening at a convenient time - one of the key barriers users cited in being able to take better care of their health was the lack of time they had around work and family or caring commitments
+
+- online or face-to-face
+- a group or individual activity
+- local or national
+- happening at a convenient time - one of the key barriers users cited in being able to take better care of their health was the lack of time they had around work and family or caring commitments
 
 ### Moving from the platform to a service could be challenging
 
@@ -189,5 +190,3 @@ More than being open to providing feedback, users welcomed and expected it. The 
 There will be times when a user has a condition that is too advanced or needs that are too complex or challenging. We spoke to a couple of people that were in that situation. For these people, it is important that the platform can identify that and escalate them to a practitioner who is better able to support them.
 
 If there are people using the platform who keep struggling to make change, we need to provide a way for them to find more involved support.
-
-

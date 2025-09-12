@@ -1,11 +1,11 @@
 ---
-  title: Understanding image reading
-  description: How image reading currently works in breast screening
-  date: 2025-04-08
-  tags:
-    - alpha
-    - prototype
-    - image reading
+title: Understanding image reading
+description: How image reading currently works in breast screening
+date: 2025-04-08
+tags:
+  - alpha
+  - prototype
+  - image reading
 ---
 
 ## What is image reading
@@ -14,7 +14,7 @@ Image reading (or film reading) is when trained staff check mammograms from brea
 
 It's often called ‘film reading’ because traditionally the process was done with actual x-ray films. Although mammograms are now digital, the term 'film reading' remains in common use.
 
-![An image reading workstation in a breas screening unit. The photo shows a desk with three monitors in portrait orientation. The left monitor shows NBSS. The right two monitors are the PACs workstation and can show mammograms.](image-reading-workstation.jpg "An image reading workstation showing NBSS on the left monitor, and PACs showing related mammograms on the right monitors.")
+![An image reading workstation in a breas screening unit. The photo shows a desk with three monitors in portrait orientation. The left monitor shows NBSS. The right two monitors are the PACs workstation and can show mammograms.](image-reading-workstation.jpg 'An image reading workstation showing NBSS on the left monitor, and PACs showing related mammograms on the right monitors.')
 
 ## How image reading works
 
@@ -39,8 +39,8 @@ If both agree abnormalities are present, then the participant will be asked back
 
 2 additional outcomes can occur:
 
-* **Technical recall**: If image quality issues prevent proper interpretation, the participant is asked back for new mammograms
-* **Clinical recall**: If the participant reported significant symptoms during screening, they may be recalled for assessment regardless of the mammogram findings
+- **Technical recall**: If image quality issues prevent proper interpretation, the participant is asked back for new mammograms
+- **Clinical recall**: If the participant reported significant symptoms during screening, they may be recalled for assessment regardless of the mammogram findings
 
 Readings get recorded in National Breast Screening System (NBSS) where some minimal other data can be captured. Readers may also record other clinical data on paper or in clinic or department logs.
 
@@ -67,18 +67,17 @@ The process includes a fair amount of cross-checking with the paper forms – ve
 
 The current approach presents several challenges:
 
-* Time-consuming manual processes that could be automated
-* Risk of human error in cross-checking and form handling
-* Rigid clinic-based organisation that may not always be the most efficient workflow, or limits exploring other workflows
-* Limited capture of detailed reading information that could be valuable for quality assurance
+- Time-consuming manual processes that could be automated
+- Risk of human error in cross-checking and form handling
+- Rigid clinic-based organisation that may not always be the most efficient workflow, or limits exploring other workflows
+- Limited capture of detailed reading information that could be valuable for quality assurance
 
 ## What a digital solution could offer
 
 A modern digital approach to image reading could:
 
-* Streamline the workflow by eliminating paper handling
-* Allow for more flexible reading workflows beyond the traditional clinic-based approach
-* Capture more detailed information about findings
-* Improve audit trails and quality assurance
-* Support training and continued professional development through better feedback
-
+- Streamline the workflow by eliminating paper handling
+- Allow for more flexible reading workflows beyond the traditional clinic-based approach
+- Capture more detailed information about findings
+- Improve audit trails and quality assurance
+- Support training and continued professional development through better feedback

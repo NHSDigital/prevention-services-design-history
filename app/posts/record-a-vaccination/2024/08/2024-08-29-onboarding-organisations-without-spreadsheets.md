@@ -1,7 +1,8 @@
 ---
-title: "Onboarding organisations without spreadsheets"
+title: Onboarding organisations without spreadsheets
 date: 2024-08-29
 ---
+
 Giving organisations access to point of care systems like Record a vaccination is the responsibility of regional commissioning teams.
 
 Previously, this process was manual and time-consuming, involving spreadsheets that led to errors or confusion.

@@ -14,7 +14,7 @@ Following on from the workshop and design work we did around [workflows and appr
 
 ## Research
 
-User research told us that safety and accuracy are paramount (ensuring the right people will be invited and will receive the correct invitation), and that the users needed the service to retain a 2-step approval process. 
+User research told us that safety and accuracy are paramount (ensuring the right people will be invited and will receive the correct invitation), and that the users needed the service to retain a 2-step approval process.
 
 ## Flexible approach
 
@@ -32,28 +32,28 @@ Therefore, flexibility became a key design consideration. We listed a number of 
 
 We broke down the tasks required in the end-to-end journey and based on what we'd learned in research, looked at where they could be grouped against a single role, and where a separation of roles would be required.
 
-| Task    | No role | Read | Write | Approve | Release | Admin |
-| -------- | ------- | ------- | ------- | ------- | ------- | ------- |
-| Contact SPI team | yes | yes | yes | yes | yes | yes |
-| View how to guide | yes | yes | yes | yes | yes | yes |
-| View release notes | yes | yes | yes | yes | yes | yes |
-| Access SPI | no | yes | yes | yes | yes | yes |
-| Open a campaign and view details | no | yes | yes | yes | yes | no |
-| Create or edit a campaign | no | no | yes | no | no | no |
-| Request approval for an iteration | no | no | yes | no | no | no |
-| Approve an iteration | no | no | no | yes | no | no |
-| Send an iteration for dry run | no | no | yes | no | no | no |
-| Send an iteration for live run | no | no | yes | no | no | no | 
-| View summary report | no | yes | yes | yes | yes | no |
-| Approve or reject a summary report | no | no | no | yes | no | no |
-| Release output files to NHS Notify | no | no | no | no | yes | no |
-| Manage users within a team (future use case) | no | no | no | no | no | yes |
+| Task                                         | No role | Read | Write | Approve | Release | Admin |
+| -------------------------------------------- | ------- | ---- | ----- | ------- | ------- | ----- |
+| Contact SPI team                             | yes     | yes  | yes   | yes     | yes     | yes   |
+| View how to guide                            | yes     | yes  | yes   | yes     | yes     | yes   |
+| View release notes                           | yes     | yes  | yes   | yes     | yes     | yes   |
+| Access SPI                                   | no      | yes  | yes   | yes     | yes     | yes   |
+| Open a campaign and view details             | no      | yes  | yes   | yes     | yes     | no    |
+| Create or edit a campaign                    | no      | no   | yes   | no      | no      | no    |
+| Request approval for an iteration            | no      | no   | yes   | no      | no      | no    |
+| Approve an iteration                         | no      | no   | no    | yes     | no      | no    |
+| Send an iteration for dry run                | no      | no   | yes   | no      | no      | no    |
+| Send an iteration for live run               | no      | no   | yes   | no      | no      | no    |
+| View summary report                          | no      | yes  | yes   | yes     | yes     | no    |
+| Approve or reject a summary report           | no      | no   | no    | yes     | no      | no    |
+| Release output files to NHS Notify           | no      | no   | no    | no      | yes     | no    |
+| Manage users within a team (future use case) | no      | no   | no    | no      | no      | yes   |
 
 ## An example of how we thought about separation of roles
 
 We should not group "approving" and "releasing output files" into 1 role because the person approving the summary report might not also be the person who gives the go ahead to release the files to NHS Notify. There are often other operational considerations e.g. NHS Notify capacity, time we want invites to begin, capacity in downstream systems etc.
 
-In other words, approving that the invitation configuration looks correct is not the same as saying we're ready for invitations to start flowing. 
+In other words, approving that the invitation configuration looks correct is not the same as saying we're ready for invitations to start flowing.
 
 ## How this design is flexible
 

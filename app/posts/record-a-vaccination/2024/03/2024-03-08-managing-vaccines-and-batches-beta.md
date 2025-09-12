@@ -1,8 +1,7 @@
 ---
-title: "Managing vaccines and batches (beta)"
+title: Managing vaccines and batches (beta)
 date: 2024-03-08
 ---
-## Managing vaccines and batches
 
 We're close to releasing our minimal viable service into beta with hospital hubs.
 
@@ -10,7 +9,7 @@ To understand if the 'manage vaccines and batches' user journey continues to mee
 
 Users like system administrators can set up or add vaccines and batches their organisation gives during this journey. This allows vaccinators to view and select the preset vaccines and batches during vaccination recording.
 
-The journey is a simplified iteration of our earlier [managing vaccine designs] (https://record-a-vaccination-design-history.designhistory.app/managing-vaccines-beta).
+The journey is a simplified iteration of our earlier [managing vaccine designs](https://record-a-vaccination-design-history.designhistory.app/managing-vaccines-beta).
 
 ## Managing vaccines
 
@@ -53,9 +52,10 @@ From here, users can save and end the journey or add batches if they have receiv
 
 ![Checking and confirming vaccines](4pj1sl57uzx98nw55jbqv2x7r0fi.png)
 
-##Managing batches
+## Managing batches
 
 ### Pattern recognition
+
 We adopted the managing vaccines shopping cart pattern for this journey. Users' interactions showed that they had quickly learned how to add batches to their sites despite the challenges they faced when adding vaccines.
 
 ### Users add batches to sites
@@ -84,10 +84,8 @@ We allowed users to add, edit, or change the status of a batch at the product le
 
 ![Vaccine product home screen](jfirex9d5ohlz6q9odhgcqtdvlfe.png)
 
-### Usability score and summary###
+## Usability score and summary
 
 Overall, **users scored the managing vaccine and batches journey 6.5 out of 7 (very confident)**, finding it straightforward to add vaccines and batches.
 
->"It’s intuitive and simple."
-
-
+> It’s intuitive and simple.

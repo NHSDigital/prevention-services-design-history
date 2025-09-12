@@ -35,7 +35,7 @@ Existing SAIS e-consent tools treat each consent response independently. SAIS te
 
 This is even more risky when one parent gives consent but another refuses. SAIS teams cannot vaccinate a child if someone with parental responsibility has refused (unless the child is Gillick competent and consents for themselves). But because they have received a ‘yes’ response from one parent, this consent response will appear in the list of children to vaccinate, with no direct link to the refusal.
 
-To ensure the child doesn’t appear in the list, the SAIS team must identify that there are two responses for that child and deactivate the ‘yes’ response, so the only remaining response is a  refusal. This is a significant source of manual work and stress for SAIS teams.
+To ensure the child doesn’t appear in the list, the SAIS team must identify that there are two responses for that child and deactivate the ‘yes’ response, so the only remaining response is a refusal. This is a significant source of manual work and stress for SAIS teams.
 
 ## Child-centred records in MAVIS
 

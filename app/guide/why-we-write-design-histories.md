@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Why we write design histories
-description: Writing up design and research work helps our teams to share and remember.
+description: Writing up design and research work helps our teams to share and remember
 eleventyNavigation:
   parent: Guide
 ---
@@ -12,11 +12,11 @@ Design histories help us remember.
 
 They can:
 
-* show us how a service has changed over time
-* summarise the outcomes from past user research
-* remind why decisions were taken
-* give context to new team members
-* share design patterns with wider teams in the NHS and government
+- show us how a service has changed over time
+- summarise the outcomes from past user research
+- remind why decisions were taken
+- give context to new team members
+- share design patterns with wider teams in the NHS and government
 
 ## Designing in the open
 

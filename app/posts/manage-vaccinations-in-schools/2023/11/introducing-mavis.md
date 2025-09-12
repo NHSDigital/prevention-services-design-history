@@ -15,4 +15,4 @@ Reader, we’d like to introduce you to Mavis.
 
 We’ll report back on how the new name tests in future research sessions.
 
-![Screenshot of the service’s start page.](start-page.png "The MAVIS start page")
+![Screenshot of the service’s start page.](start-page.png 'The MAVIS start page')

@@ -1,6 +1,6 @@
 ---
 title: A brief description of the service
-description: A short explanation of what the service is for.
+description: A short explanation of what the service is for
 date: 2024-05-22
 tags:
   - service

@@ -1,5 +1,5 @@
 ---
-title: "Changes to user roles"
+title: Changes to user roles
 date: 2025-09-10
 ---
 
@@ -11,17 +11,17 @@ This entry explains why we're making this change and how it affects the recordin
 
 ## Previous design
 
-Currently when a new user is added to RAVS, we ask if they are  a "registered clinician". This term was intended to cover all clinical staff registered with a professional body, such as the General Medical Council, the Nursing and Midwifery Council (NMC) or the General Pharmaceutical Council (GPhC).
+Currently when a new user is added to RAVS, we ask if they are a "registered clinician". This term was intended to cover all clinical staff registered with a professional body, such as the General Medical Council, the Nursing and Midwifery Council (NMC) or the General Pharmaceutical Council (GPhC).
 
 This is because in the current journey, we record the name of the clinician who assessed the patient and of the clinician who asked the patient for consent. This could be the same clinician or 2 separate clinicians depending on the set up at the site delivering vaccinations.
 
 To record these clinicians' names, users must select a name from a drop-down list. The list is populated with the names of users who have been added to RAVS as registered clinicians.
 
-![Screenshot of the current "Add user" screen showing question saying ‘Are they a registered clinician?’](add-user-current-screen.png "Previous screen for adding users")
+![Screenshot of the current "Add user" screen showing question saying ‘Are they a registered clinician?’](add-user-current-screen.png 'Previous screen for adding users')
 
 ## What's changing
 
-As part of [wider changes to the recording journey]( https://design-history.prevention-services.nhs.uk/record-a-vaccination/2025/03/asking-fewer-better-questions/), we no longer need to record the names of the clinicians who assessed the patient or asked for their consent.
+As part of [wider changes to the recording journey](https://design-history.prevention-services.nhs.uk/record-a-vaccination/2025/03/asking-fewer-better-questions/), we no longer need to record the names of the clinicians who assessed the patient or asked for their consent.
 
 But we do still need to record the name of the vaccinator, the person who administers the vaccine.
 
@@ -32,11 +32,12 @@ Vaccinators are usually registered clinicians (such as registered nurses or regi
 We considered 2 options:
 
 1. Remove the "registered clinician" role completely. In this scenario, all users of RAVS could potentially be selected as "vaccinators" in the new recording journey.
-2. Replace the role of "registered clinician" role with "vaccinator".  In this scenario, we'd differentiate between users who are vaccinators and users who do not vaccinate but still record in RAVS.
+2. Replace the role of "registered clinician" role with "vaccinator". In this scenario, we'd differentiate between users who are vaccinators and users who do not vaccinate but still record in RAVS.
 
 We decided to go for the second option because we think there will be a benefit for users in the recording journey. By differentiating between vaccinators and non-vaccinators, we should be able to present a shorter list of names at the point where users have to select the vaccinator's name.
 
-![Screenshot of the new "Add user" screen showing question ‘Are they a vaccinator?’](add-user-new-screen.png "Updated screen for adding users")
+![Screenshot of the new "Add user" screen showing question ‘Are they a vaccinator?’](add-user-new-screen.png 'Updated screen for adding users')
 
 ## What next
+
 Once this change is live, we'll need to check over a period of few months what proportion of our users are vaccinators versus non-vaccinators. If it turns out nearly everyone is a vaccinator, we may decide we don't need this vaccinator role after all.

@@ -1,17 +1,16 @@
 ---
-title: "Smoking cessation pilot"
-description:
-  "Summary of work done to support the launch of a smoking cessation support service."
+title: Smoking cessation pilot
+description: Summary of work done to support the launch of a smoking cessation support service
 date: 2025-03-20
 ---
 
 To achieve the government goal of a smoke-free Britain by 2030, populations with increasing dependence needed access to smoking treatment services which meet their needs.
 
 Currently, people who want to stop smoking tobacco can use:
+
 - in-person NHSE services via routes like their pharmacy or GP
 - digital apps provided by private sector suppliers
 - work out a plan on their own
-
 
 ## The current situation
 
@@ -41,10 +40,12 @@ To create a digital tobacco treatment service (DTTS) that helps people quit smok
 
 The service launch was to be split into two phases:
 
-### Phase 1:
+### Phase 1
+
 Providing NHS Staff with access to digital support services via two external service providers, to help us understand the efficacy of incentive-based models (models where providers are paid based on milestones reached by service users) and begin to evaluate the benefits of digital pathways.
 
-### Phase 2:
+### Phase 2
+
 Providing NHS Staff with access to a dedicated Tobacco Dependency Hub (similar to the existing Weight Management Service) to continue evaluating the benefits of digital pathways, impact on targeted groups and desirability of a digital pathway (will introduce the third service provider).
 
 Our planned research activity would allow us to:
@@ -58,6 +59,7 @@ Our planned research activity would allow us to:
 Our research and design activities focused on leveraging existing data and conducting interviews with stakeholders to ensure we have a strong foundational knowledge of the existing service, before conducting primary research.
 
 Our understanding of the digital tobacco treatment service (DTTS) was informed by conversations with:
+
 - DTTS team – collaborating with the DTTS team to understand the service proposition and map the end-to-end user journey
 - Service providers – to understand the service from the perspective of those providing it, visualising each step a user goes through when using the service
 - National Voices – drawing on insights from adjacent research, which focused on user experience when attempting to stop smoking with one of our service providers
@@ -66,13 +68,9 @@ For both phases, we created user journeys and service maps which highlight the s
 
 ![The user journey maps phases 1 and 2. There is a link provided to see the maps in a more navigable format.](user-journeys.png)
 
-[See the user journey map in Mural (needs an HSCIC account)](https://app.mural.co/t/nhsdigital8118/m/nhsdigital8118/1738339722878/729c1da461b58b6d192ffc44cb060c547424ed0f).
+[See the user journey map in Mural (needs an HSCIC account)](https://app.mural.co/t/nhsdigital8118/m/nhsdigital8118/1738339722878/729c1da461b58b6d192ffc44cb060c547424ed0f)
 
-<p class="govuk-body">
-  <a href="/pdfs/smoking-cessation/2025/03/smoking-cessation-pilot/tobacco-journey-map.pdf" class="govuk-link">
-    Download user journey map as a PDF (960KB)
-  </a>
-</p>
+[Download user journey map as a PDF (960KB)](/pdfs/smoking-cessation/2025/03/smoking-cessation-pilot/tobacco-journey-map.pdf)
 
 After the first and second phase, there will be further iteration to the service to make sure we meet the desired outcomes for smoking cessation.
 
@@ -81,6 +79,7 @@ After the first and second phase, there will be further iteration to the service
 We mapped the core elements of phase 1 and 2 against what a service for members of the public would need.
 
 The core elements we focused on were:
+
 - who this service will ultimately serve
 - how this would look and feel for users
 - who the service providers could be
@@ -89,51 +88,48 @@ The core elements we focused on were:
 
 By having this articulated, we can let the research and insights guide us to how we should adapt the current service to meet this vision going forward.
 
-### Current vision:
+### Current vision
 
 ![This image shows six scales which relate to core elements of the current service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the future service vision to understand the differences between the two.](current-service-vision.png)
 
-<p class="govuk-body">
-  <a href="/pdfs/smoking-cessation/2025/03/smoking-cessation-pilot/current-vision.pdf" class="govuk-link">
-    Download the current vision as a PDF (325KB)
-  </a>
-</p>
+[Download the current vision as a PDF (325KB)](/pdfs/smoking-cessation/2025/03/smoking-cessation-pilot/current-vision.pdf)
 
-### Future vision:
+### Future vision
 
 ![This image shows six scales which relate to core elements of the future service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the current service vision to understand the differences between the two.](future-service-vision.png)
 
-<p class="govuk-body">
-  <a href="/pdfs/smoking-cessation/2025/03/smoking-cessation-pilot/future-vision.pdf" class="govuk-link">
-    Download the current future as a PDF (347KB)
-  </a>
-</p>
+[Download the current future as a PDF (347KB)](/pdfs/smoking-cessation/2025/03/smoking-cessation-pilot/future-vision.pdf)
 
 ## What is the future work?
 
 Once phase 1 launches, the next steps will focus on gathering deeper insights and refining the service based on user needs.
 
 Quantitative research:
+
 - distribute surveys to users of the digital tobacco treatment service and Tobacco Dependency Advisors (TDAs) to assess service usage and satisfaction
 - analyse service usage data to identify patterns and trends
 
 Qualitative research
+
 - conduct in-depth interviews to explore user experiences in detail
 - carry out observational research (e.g. contextual inquiry) in clinical settings
 
 Design and development
+
 - translate research insights into an evidence-led approach
 - shape the future service with user needs at its core
 
 We prepared the following research materials, so that when phase 1 begins, user research can take place as soon as possible.
 
 User surveys:
+
 - with NHS staff using the service (key insights into their experience)
 - with Tobacco Dependency Advisors (TDAs) who contribute to providing the service (their perspective and effectiveness of service)
 - where exemplar survey questions exist in the NHSE UCD Centre of Expertise, these have been re-used
 - these surveys will also act as a recruitment tool for qualitative research with both NHS staff and TDAs (additional recruitment methods will be available if needed)
 
 Discussion guides and consent forms:
+
 - discussion guides for in-depth interviews (to be amended as new insights emerge)
 - informed consent forms
 
@@ -142,6 +138,7 @@ Discussion guides and consent forms:
 The user survey was designed to gather insights from NHS staff who use the service, helping us understand their experiences, challenges, and the impact of the digital service on their quitting journey.
 
 The questions cover:
+
 - demographics and segmentation (age, gender, location, work pattern)
 - smoking behaviour (frequency, history, triggers)
 - motivation to quit (health conditions, attitudes)
@@ -159,6 +156,7 @@ The questions cover:
 The TDA survey focused on the perspectives of those providing the service, capturing their views on the service’s effectiveness and usability. It also explored how the digital service compares to other cessation support methods and their experiences at different stages of the process:
 
 The survey asks TDAs about:
+
 - demographic information (age, location, experience)
 - overall assessment of the digital tobacco treatment service (usability, effectiveness, comparison with other services)
 - assessment of the journey through the service:

@@ -80,11 +80,11 @@ The vaccination records included:
 
 According to the records, the 3 children had collectively received 67 vaccinations to date.
 
-| Source    | Present & accurate | Incomplete or with errors | Missing         | Total |
-| --------- | ------------------ | ------------------------- | --------------- |-------|
-| Red book  | 62 (93%)           | 0 (0%)                    | 5 (7%)          | 67    |
-| GP record | 53 (79%)           | 5 (7%)                    | 9 (13%)         | 67    |
-| CHIS      | 57 (85%)           | 5 (7%)                    | 5 (7%)          | 67    |
+| Source    | Present & accurate | Incomplete or with errors | Missing | Total |
+| --------- | ------------------ | ------------------------- | ------- | ----- |
+| Red book  | 62 (93%)           | 0 (0%)                    | 5 (7%)  | 67    |
+| GP record | 53 (79%)           | 5 (7%)                    | 9 (13%) | 67    |
+| CHIS      | 57 (85%)           | 5 (7%)                    | 5 (7%)  | 67    |
 
 ### Missing records
 

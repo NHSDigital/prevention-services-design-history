@@ -1,8 +1,7 @@
 ---
-  title: Defining appointment status labels
-  description: Reviewing how to classify appointments so users can see and understand the status of each one.
-  date: 2025-02-03
-
+title: Defining appointment status labels
+description: Reviewing how to classify appointments so users can see and understand the status of each one.
+date: 2025-02-03
 ---
 
 ## Why status labels are needed
@@ -144,7 +143,7 @@ To prevent visual styles from swaying user feedback on the words used for each s
 
 The following options have been identified from the [colours that can be applied to tags](https://service-manual.nhs.uk/design-system/components/tag#additional-colours) from NHS design system which have been added to the prototype.
 
-![A mockup of screening appointments showing coloured status labels. The 'Invited' label is white, the 'Confirmed' label is light blue, and the 'Checked in' label is blue. 'Screened' is green, 'Partially screened' is orange, and there are three red labels, 'Attended not screened', 'Did not attend' and 'Cancelled'.](sem-status-label-colours.png "All selected tags displayed as coloured labels")
+![A mockup of screening appointments showing coloured status labels. The 'Invited' label is white, the 'Confirmed' label is light blue, and the 'Checked in' label is blue. 'Screened' is green, 'Partially screened' is orange, and there are three red labels, 'Attended not screened', 'Did not attend' and 'Cancelled'.](sem-status-label-colours.png 'All selected tags displayed as coloured labels')
 
 We are proposing an ‘active’ blue for the checked in status as it stands out among the other statuses. In a live clinic environment, these are the most important participants for staff to be aware of.
 

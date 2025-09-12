@@ -1,33 +1,33 @@
 ---
-  title: First alpha prototype
-  description: Testing some early designs for managing clinics and interacting with participants
-  date: 2024-12-20
-  screenshots:
-    items:
-      - text: "Clinics today"
-        src: clinics_today.png
-      - text: "Upcoming clinics"
-        src: clinics_upcoming.png
-      - text: "Clinic list"
-        src: clinic_list.png
-      - text: "Clinics checked in"
-        src: clinics_checked-in.png
-      - text: "Participant view"
-        src: clinics_participants.png
-      - text: "Participant questionnare - current symptoms"
-        src: clinics_participants_questionnaire_current-symptoms.png
-      - text: "Participant questionnare - health status"
-        src: clinics_participants_questionnaire_health-status.png
-      - text: "Participant questionnare - medical history"
-        src: clinics_participants_questionnaire_medical-history.png
-      - text: "Participant questionnare - summary"
-        src: clinics_participants_questionnaire_summary.png
-      - text: "Participant with questionnaire completed"
-        src: clinics_participants_questionnaire_completed.png
-  tags:
-    - alpha
-    - prototype
-    - initial screening
+title: First alpha prototype
+description: Testing some early designs for managing clinics and interacting with participants
+date: 2024-12-20
+screenshots:
+  items:
+    - text: "Clinics today"
+      src: clinics_today.png
+    - text: "Upcoming clinics"
+      src: clinics_upcoming.png
+    - text: "Clinic list"
+      src: clinic_list.png
+    - text: "Clinics checked in"
+      src: clinics_checked-in.png
+    - text: "Participant view"
+      src: clinics_participants.png
+    - text: "Participant questionnare - current symptoms"
+      src: clinics_participants_questionnaire_current-symptoms.png
+    - text: "Participant questionnare - health status"
+      src: clinics_participants_questionnaire_health-status.png
+    - text: "Participant questionnare - medical history"
+      src: clinics_participants_questionnaire_medical-history.png
+    - text: "Participant questionnare - summary"
+      src: clinics_participants_questionnaire_summary.png
+    - text: "Participant with questionnaire completed"
+      src: clinics_participants_questionnaire_completed.png
+tags:
+  - alpha
+  - prototype
+  - initial screening
 ---
 
 ## Where to begin

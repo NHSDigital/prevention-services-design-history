@@ -1,7 +1,6 @@
 ---
-title: "Went for an appointment
-...came back with a list"
-description: "Creating patient lists in RAVS"
+title: Went for an appointment... came back with a list
+description: Creating patient lists in RAVS
 date: 2025-07-11
 ---
 
@@ -19,7 +18,6 @@ And we could do that, allow them to have structured lists of patients. Maternity
 
 Today RAVS works like so, a vaccinator looks up a patient, vaccinates them, and then looks up the next one and so on.
 
-
 ## So how's it different?
 
 Lists would be different - the vaccinator is choosing the patient from a much smaller list of known users they’ve input themselves, and RAVS is ready to provide the details.
@@ -33,31 +31,29 @@ In the end we decided a template would be too fiddly and instead designed a jour
 ## How to make a List
 
 So far so simple, but we wanted to go further and simplified the design by:
+
 - removing a 'check' page in favour of in-page error messages for non-existent NHS numbers
 - showing everything in one list, rather than separate lists for Awaiting and Recorded
 - search only applying to one list for ease
 - moving ‘delete list’ to the bottom of the page to help with visual clutter
 - iterating the content, with particular focus to the add NHS numbers page
-  
+
 Finally, we re-named the section to better describe a list of patients, their NHS numbers, a date and a location
 
 We didn’t set out to do this - remember we thought we wanted appointments. But Lists keeps things simple and achieves the vast majority of what an appointment does.
 
-
 ![Lists home](lists-home-cropped.png)
 
-![choose site](select-site-cropped.png)
+![Choose site](select-site-cropped.png)
 
-![choose date](select-date-cropped.png)
+![Choose date](select-date-cropped.png)
 
-![add nhs numbers](add-numbers-cropped.png)
+![Add nhs numbers](add-numbers-cropped.png)
 
 ![Loading](loading-cropped.png)
 
 ![List view](lists-list-view.png)
 
-
-
 ## Next steps
 
-We plan to develop and launch this to see if it provides any value, and then iterate it.  We'll also separately continue to explore automatic integration with booking systems such as Manage your appointments.
+We plan to develop and launch this to see if it provides any value, and then iterate it. We'll also separately continue to explore automatic integration with booking systems such as Manage your appointments.

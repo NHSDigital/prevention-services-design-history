@@ -1,11 +1,10 @@
 ---
-title: "Designing and testing a prototype"
-description:
-  "We have been working on a digital version of the lung health check. To understand whether users would want to complete the questionnaire digitally and how we might deliver it."
+title: Designing and testing a prototype
+description: We have been working on a digital version of the lung health check. To understand whether users would want to complete the questionnaire digitally and how we might deliver it.
 date: 2025-08-11
 ---
 
-We have been working on a digital version of the lung health check. This is a questionnaire that assesses someone’s risk of getting lung cancer in the next 5 years. The lung cancer programme would like to introduce a digital service alongside the current phone service. We wanted to understand whether users would want to complete the questionnaire digitally and how we might deliver it. 
+We have been working on a digital version of the lung health check. This is a questionnaire that assesses someone’s risk of getting lung cancer in the next 5 years. The lung cancer programme would like to introduce a digital service alongside the current phone service. We wanted to understand whether users would want to complete the questionnaire digitally and how we might deliver it.
 
 In 6 weeks our team:
 
@@ -16,7 +15,7 @@ In 6 weeks our team:
 
 ## What is a lung health check?
 
-The [lung cancer screening programme](https://www.nhs.uk/tests-and-treatments/lung-cancer-screening/) is delivered in certain regions in England, it will be rolled out nationally by 2029. Currently, eligible participants are invited to complete a questionnaire over the phone. This is called the ‘lung health check’. Someone is eligible for a health check if they are: 
+The [lung cancer screening programme](https://www.nhs.uk/tests-and-treatments/lung-cancer-screening/) is delivered in certain regions in England, it will be rolled out nationally by 2029. Currently, eligible participants are invited to complete a questionnaire over the phone. This is called the ‘lung health check’. Someone is eligible for a health check if they are:
 
 - aged between 55 and 74
 - registered with a GP
@@ -44,7 +43,7 @@ A digital service wouldn’t be able to collect detailed contextual information 
 
 Each supplier kindly provided us with the scripts their call handlers use. These scripts include the questions in the lung health check along with guidance on what clarifications they can offer participants. They also included answers to frequently asked questions. These scripts provided an invaluable starting point for the guidance we used in our designs for the digital service.
 
-## Learning from other services 
+## Learning from other services
 
 We reused patterns and designs from teams within Digital Prevention Services Portfolio (DPSP). This was a key reason we were able to get up and running so quickly. Some questions within the lung health check are standard in healthcare settings. For example, asking for someone’s height, weight, sex and gender.
 
@@ -62,13 +61,13 @@ Using the NHSE citizen panel we were able to schedule 16 research sessions withi
 
 We then showed participants a few screens in Figma to test the clarity of our designs, to understand if they provided the right guidance to help participants confidently answer the questions.
 
-## Iterating our designs 
+## Iterating our designs
 
 One of the first questions in the journey asks users ‘Have you ever smoked?’. We initially designed a question with a yes or no answer. This was based on the risk calculator and phone service scripts.
 
 Hint text explained that someone should ‘select ‘yes’ if you have smoked at least 100 cigarettes, or another form or tobacco, in your lifetime.’ The threshold of 100 cigarettes is what the programme currently uses to determine if someone should be considered a smoker or former smoker. If someone has smoked fewer than 100 cigarettes, they would not be considered eligible for the screening programme.
 
-![Design for the ‘Have you ever smoked?’ question with hint text underneath. Participants can answer yes or no using radio buttons.](Have-you-ever-smokedV1.png "Our first design for the ‘Have you ever smoked?’ question.")
+![Design for the ‘Have you ever smoked?’ question with hint text underneath. Participants can answer yes or no using radio buttons.](Have-you-ever-smokedV1.png 'Our first design for the ‘Have you ever smoked?’ question.')
 
 Feedback on this design was mixed but there were some key insights. One user initially thought that the hint text read ‘100 cigarettes a day’, and another said they weren’t sure they would be able to answer this question. We thought having the binary yes or no option was causing confusion. So, we redesigned the question and used the language that participants used during the sessions.
 

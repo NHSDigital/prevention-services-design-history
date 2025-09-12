@@ -1,5 +1,5 @@
 ---
-title: How we're designing the user interface content 
+title: How we're designing the user interface content
 description: Our approach to content design and testing
 date: 2025-04-16
 tags:
@@ -8,9 +8,9 @@ tags:
   - user research
 ---
 
-## Background 
+## Background
 
-Before this service was built, campaigns were created with configuration files (JSON format) and largely used technical language. Initially, much of this terminology was copied into the user interface but we simplified the language as we built the service and continue to iterate. 
+Before this service was built, campaigns were created with configuration files (JSON format) and largely used technical language. Initially, much of this terminology was copied into the user interface but we simplified the language as we built the service and continue to iterate.
 
 Our goal is to empower all users – both current expert users, and potential new non-expert users. This aligns to our metric of making SPI easier to understand and simplifying the experience.
 
@@ -25,7 +25,7 @@ Our current Select People for Invitation (SPI) users, the Operational team, are 
 
 During user research sessions, our expert users confirmed our hypothesis that a lot of the language would not make sense to any new users coming on board.
 
-From the outset, we've been working on making the content clearer for novice users and we’re continually updating the content to align with new features, technical updates, and insights from user research sessions. 
+From the outset, we've been working on making the content clearer for novice users and we’re continually updating the content to align with new features, technical updates, and insights from user research sessions.
 
 ## How we track content changes
 
@@ -38,7 +38,7 @@ We've continued using the Mural board as our main content document. At each stag
 
 To keep everything accurate, we take screenshots from the live SPI environment and highlight any new or changed content in red. We then cross-check these against what's live in SPI, so we always have a single, up-to-date source of truth.
 
-[![zoomed out view of a Mural board with screen shots](SPI-content-mural.png)](SPI-content-mural.png)
+[![Zoomed out view of a Mural board with screen shots](SPI-content-mural.png)](SPI-content-mural.png)
 
 ## Mural board and content process
 
@@ -72,7 +72,7 @@ In addition to user research sessions, we also invite users to share their conte
 
 [![Example of user feedback on content and terminology](SPI-content-asynchronous.png)](SPI-content-asynchronous.png)
 
-We collate the answers anonymously, which helps users feel more comfortable giving honest feedback. Example: 
+We collate the answers anonymously, which helps users feel more comfortable giving honest feedback. Example:
 
 [![Example of user feedback collated in a Mural board](SPI-content-collate-results.png)](SPI-content-collate-results.png)
 
@@ -96,7 +96,7 @@ We originally used the term 'duplicating iterations', but users told us that 'co
 
 While our expert users understand the term 'iteration', they pointed out it's more of a developer word, not one they use internally. Instead, they talk about 'creating another file', 'events', or refer to specific activities like 'Monday comms'. They felt that 'iteration' isn't the clearest choice, especially for new users. We're now exploring alternative terms that better reflect their language and workflows.
 
-## Inline support content 
+## Inline support content
 
 Alongside updating specific terminology, we've also added inline support content in SPI to help users as they work. This support appears directly next to the task, so users don't need to leave SPI to get help or look something up.
 
@@ -104,7 +104,7 @@ For example, we've added guidance to explain:
 
 - what a filter rule is
 - how to choose a clear, helpful name for a rule
-- how to write a useful description 
+- how to write a useful description
 
 This helps users understand what they're doing and why it matters, especially when setting up rules that others might need to read or reuse later:
 
@@ -120,13 +120,13 @@ This kind of support is especially useful when the field requires something spec
 
 [![Example of a screen showing inline help](SPI-content-inline-example2.png)](SPI-content-inline-example2.png)
 
-In addition to the inline support, we've developed detailed guidance documentation to help novice users self-serve. This allows users to access step-by-step instructions and clear explanations whenever they need extra help, without needing to ask for assistance. 
+In addition to the inline support, we've developed detailed guidance documentation to help novice users self-serve. This allows users to access step-by-step instructions and clear explanations whenever they need extra help, without needing to ask for assistance.
 
-You can [read more about how we're approaching guidance here](/select-people-for-invitation/user-guidance/). 
+You can [read more about how we're approaching guidance here](/select-people-for-invitation/user-guidance/).
 
 ## Button consistency
 
-We recently reviewed the buttons in SPI to ensure they are consistent and align with NHS and GDS standards, including accessibility. 
+We recently reviewed the buttons in SPI to ensure they are consistent and align with NHS and GDS standards, including accessibility.
 
 We looked at the entire user journey, making content updates such as:
 
@@ -135,10 +135,10 @@ We looked at the entire user journey, making content updates such as:
 - making button content clearer and more instructional
 - adding extra confirmation steps for critical actions, such as 'Are you sure you want to delete?'
 
-This was done alongside a design review, which included updates like rounded corners and optimising button placement. 
+This was done alongside a design review, which included updates like rounded corners and optimising button placement.
 
 ## Future content
 
-As we begin research with local regions, who will be novice users, we'll need to simplify the content even further. 
+As we begin research with local regions, who will be novice users, we'll need to simplify the content even further.
 
-This is part of the wider strategy to create 'a more joined-up prevention and vaccination offer'. We've planned user research sessions with ICBs, PCNs, and GPs, as well as workshops, to help shape and refine the future content in SPI. 
+This is part of the wider strategy to create 'a more joined-up prevention and vaccination offer'. We've planned user research sessions with ICBs, PCNs, and GPs, as well as workshops, to help shape and refine the future content in SPI.

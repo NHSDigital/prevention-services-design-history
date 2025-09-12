@@ -1,6 +1,6 @@
 ---
 title: Bowel screening end of year update
-description: A high level recap of what has been going on in the bowel screening space for the past month.
+description: A high level recap of what has been going on in the bowel screening space for the past month
 date: 2024-12-12
 tags:
   - bowel screening

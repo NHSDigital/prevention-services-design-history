@@ -9,7 +9,7 @@ SAIS teams initially upload records for their eligible cohort into Mavis. These 
 
 Where records are uploaded without NHS numbers, Mavis performs an exact match NHS number lookup in PDS. When an NHS number can’t be found in PDS, this is flagged to the SAIS team to look up on the spine.
 
-We believe that implementing more complex query logic can improve Mavis’s PDS match rate and  reduce this manual work - this work is currently at the top of our backlog.
+We believe that implementing more complex query logic can improve Mavis’s PDS match rate and reduce this manual work - this work is currently at the top of our backlog.
 
 ## Consent responses
 

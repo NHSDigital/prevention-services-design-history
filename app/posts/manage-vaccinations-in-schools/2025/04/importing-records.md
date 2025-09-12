@@ -53,7 +53,7 @@ We specify the CSV format for these imports. and provide a template in the user 
 ## Values used across different record types
 
 | Value                 | Child records | Class lists  | Vaccination records                           |
-|-----------------------|---------------|--------------|-----------------------------------------------|
+| --------------------- | ------------- | ------------ | --------------------------------------------- |
 | First name            | **Required**  | **Required** | **Required**                                  |
 | Last name             | **Required**  | **Required** | **Required**                                  |
 | Date of birth         | **Required**  | **Required** | **Required**                                  |

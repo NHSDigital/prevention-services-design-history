@@ -21,13 +21,13 @@ Answering ‘Yes’ to this question will show the parent 2 follow up questions.
 
 1. Does your child take oral steroids for their asthma?
 
-    Hint text: ‘This does not include medicine taken through an inhaler’.
+   Hint text: ‘This does not include medicine taken through an inhaler’.
 
-    Give details hint text: ‘Include the steroid name, dose and end date of the course’.
+   Give details hint text: ‘Include the steroid name, dose and end date of the course’.
 
 2. Has your child ever been admitted to intensive care because of their asthma?
 
-    Hint text: ‘This does not include visits to A&E or stays in hospital wards outside the intensive care unit’.
+   Hint text: ‘This does not include visits to A&E or stays in hospital wards outside the intensive care unit’.
 
 > ### Does your child have a disease or treatment that severely affects their immune system?
 
@@ -43,7 +43,7 @@ This question is used to check for any contraindications for the nasal spray.
 
 Later in the consent journey a parent can choose to give consent for the injected vaccine if a nurse decides it should be given as an alternative.
 
-This question is used  to ensure that if the injected vaccine is given, it is administered safely.
+This question is used to ensure that if the injected vaccine is given, it is administered safely.
 
 > ### Has your child ever been admitted to intensive care due to a severe allergic reaction (anaphylaxis) to egg?
 

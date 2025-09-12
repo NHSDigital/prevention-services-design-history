@@ -13,7 +13,7 @@ As of Friday 2nd May 2025, across all SAIS teams using Mavis, there were around 
 
 Our most recently onboarded SAIS provider experienced 10% of records having no NHS number after uploading and automatic matching in Mavis. Our first SAIS provider also had 10% of records without NHS numbers after uploading to Mavis. They have since reduced this to less than 1% through manual matching of records.
 
-![A diagram showing the flow of patient records into Mavis.](./nhs-number-flow-borderless-diagram.png "**Figure 1:** A diagram showing the flow of patient records into Mavis.")
+![A diagram showing the flow of patient records into Mavis.](./nhs-number-flow-borderless-diagram.png '**Figure 1:** A diagram showing the flow of patient records into Mavis.')
 
 ### Sources of records
 
@@ -24,7 +24,7 @@ As a result, patient records in Mavis have five potential sources:
 - **SAIS team patient records:** where a SAIS team uses an electronic patient record system, these records can be extracted and uploaded into Mavis.
   - They **are likely to include NHS numbers**, but may contain records from previous vaccination programmes with no NHS number.
 
-- **CHIS patient records:** a local CHIS team may share records of eligible children in their area with a SAIS team in advance of a vaccination programme. 
+- **CHIS patient records:** a local CHIS team may share records of eligible children in their area with a SAIS team in advance of a vaccination programme.
   - They **are very likely to include NHS numbers**, but may include records for children in the local area who do not have an NHS number.
 
 - **Local Authority school census records:** SAIS teams can receive lists of children, their demographics, parental contact details and their current school from Local Authorities, either directly or through the local CHIS provider. These are used to help ensure children’s schools and contact details are as up to date as possible.
@@ -58,15 +58,15 @@ Patients who have no NHS number in Mavis may do so for a number of reasons:
 
 We are planning to make the following technical changes to Mavis to improve the number of records that have NHS numbers associated with them:
 
-  - **Extend existing exact matching approach:** we will change how Mavis finds NHS numbers in PDS. If an exact match using four attributes (given name, surname, date of birth and postcode) fails to return a result, Mavis will attempt different combinations of three attributes from the four.
+- **Extend existing exact matching approach:** we will change how Mavis finds NHS numbers in PDS. If an exact match using four attributes (given name, surname, date of birth and postcode) fails to return a result, Mavis will attempt different combinations of three attributes from the four.
 
-  - **Cross-check demographics for NHS numbers provided by other sources:** where Mavis receives NHS numbers from uploads, we will check these in PDS against the demographic data we have and enable the SAIS teams to resolve any existing mismatches. Performing this check will help ensure the integrity of the records within Mavis.
+- **Cross-check demographics for NHS numbers provided by other sources:** where Mavis receives NHS numbers from uploads, we will check these in PDS against the demographic data we have and enable the SAIS teams to resolve any existing mismatches. Performing this check will help ensure the integrity of the records within Mavis.
 
-  - **Parental consent forms:** we will update the parental consent flow to attempt to match the child details in the consent response to an NHS number while the parent is completing the response. If no match can be found, we will ask the parent to provide an NHS number, if they have it, or encourage the parent to check the details they’ve provided. The design of this interaction will be prototyped and evaluated with parents/carers before it is implemented to ensure it does not negatively impact user experience. We will draw on existing approaches in other NHS systems to benefit from existing best practices.
+- **Parental consent forms:** we will update the parental consent flow to attempt to match the child details in the consent response to an NHS number while the parent is completing the response. If no match can be found, we will ask the parent to provide an NHS number, if they have it, or encourage the parent to check the details they’ve provided. The design of this interaction will be prototyped and evaluated with parents/carers before it is implemented to ensure it does not negatively impact user experience. We will draw on existing approaches in other NHS systems to benefit from existing best practices.
 
-  - **Implement an interactive patient-matching approach:** we could add an additional method for matching a patient against PDS that does not rely on getting an exact match but instead attempts matches using different combinations of demographic data, returning a list of matches for SAIS staff to choose from.
+- **Implement an interactive patient-matching approach:** we could add an additional method for matching a patient against PDS that does not rely on getting an exact match but instead attempts matches using different combinations of demographic data, returning a list of matches for SAIS staff to choose from.
 
-  - **Flow vaccination events for patients with newly added NHS numbers:** For vaccination events previously recorded, when an NHS number is added to a record, the vaccination events need to be included in the Mavis reports based on the timestamp of when the NHS number was added to the record, rather than when the vaccination was given.
+- **Flow vaccination events for patients with newly added NHS numbers:** For vaccination events previously recorded, when an NHS number is added to a record, the vaccination events need to be included in the Mavis reports based on the timestamp of when the NHS number was added to the record, rather than when the vaccination was given.
 
 As well as these technical changes, we will also adopt the percentage of patient records without NHS numbers as a **key performance indicator** to monitor on an ongoing basis.
 

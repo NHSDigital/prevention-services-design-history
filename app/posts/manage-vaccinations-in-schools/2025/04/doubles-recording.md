@@ -64,7 +64,7 @@ We had also received feedback from users about the design of session pages, in p
 Previously, this page displayed different cards depending on the status of the session. Each card linked to a list of children that could be navigated between via secondary navigation:
 
 | Session status | Overview card title     | List navigation labels                                          |
-|----------------|-------------------------|-----------------------------------------------------------------|
+| -------------- | ----------------------- | --------------------------------------------------------------- |
 | Unscheduled    | Schedule sessions       | —                                                               |
 | Scheduled      | Check consent responses | No response<br>Consent given<br>Consent refused<br>Conflicts    |
 |                | Triage health questions | Triage needed<br>Triage completed<br>No triage needed           |
@@ -77,7 +77,7 @@ We changed the design so that secondary navigation appeared across all session p
 Each session page showing a list of children would provide a set of contextual filters (alongside common and advanced filter options such as child’s year group, date of birth):
 
 | Navigation label    | Filter label        | Filter options                                                                                                                                                                                                 |
-|---------------------|---------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ------------------- | ------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Consent             | Consent status      | Any<br>Request failed<br>No response<br>Conflicting consent<br>Consent given<br>Consent refused<br>Refusal confirmed                                                                                           |
 | Triage              | Triage status       | Any<br>Needs triage<br>Delay vaccination<br>Do not vaccinate<br>Safe to vaccinate                                                                                                                              |
 | Register            | Registration status | Any<br>Not registered yet<br>Attending session<br>Absent from session<br>Completed session                                                                                                                     |
@@ -94,7 +94,7 @@ For the ‘Register’ and ‘Record vaccinations’, an additional ‘Action re
 
 For sessions with multiple programmes, the status (and any action required) could be shown for each programme.
 
-![Patient card showing registration status and action required for multiple programmes.](patient-card.png "Patient card in a session registration context.")
+![Patient card showing registration status and action required for multiple programmes.](patient-card.png 'Patient card in a session registration context.')
 
 ### Session overview page
 
@@ -112,7 +112,7 @@ Each section followed a similar design by showing an overall status, detailed de
 
 To counter the length of the page, we moved demographic information about a child to a fixed sidebar.
 
-![Patient session page for a child who has been triaged and vaccinated.](patient-session-all-sections.png "Patient session record showing consent, triage and multiple vaccination outcomes. All programmes for this session have also been completed.")
+![Patient session page for a child who has been triaged and vaccinated.](patient-session-all-sections.png 'Patient session record showing consent, triage and multiple vaccination outcomes. All programmes for this session have also been completed.')
 
 ## Recording multiple vaccinations
 

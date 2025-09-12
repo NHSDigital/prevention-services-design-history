@@ -44,6 +44,7 @@ Regular consultations with internal technical and clinical subject matter expert
 ### Desk research
 
 We reviewed:
+
 - NHS health check online discovery and alpha reports
 - NICE guidelines
 - NHS and DHSC policy documents (for example, Core20Plus5, NHS Long Term Plan, Digital Prevention Strategy)
@@ -77,7 +78,7 @@ Using this framework, we evaluated a longlist of opportunities and recommended f
 
 ### Stage 1: Matrix analysis
 
-We developed a Matrix to measure and better understand the details of assessments in relation to ten key categories.  This process established whether the assessment in question is something we could take forward for further consideration. The evaluation criteria are consistent for each category and an overall conclusion is drawn for each as high, medium, low, or positive and negative.
+We developed a Matrix to measure and better understand the details of assessments in relation to ten key categories. This process established whether the assessment in question is something we could take forward for further consideration. The evaluation criteria are consistent for each category and an overall conclusion is drawn for each as high, medium, low, or positive and negative.
 
 #### Ease of use
 
@@ -165,14 +166,13 @@ Stage 2 examined if each health assessment:
 
 For each of these questions, the health assessment needs to meet at least one of a selection of criteria to qualify for the next stage. More details of these criteria can be found on the [Mural board](https://app.mural.co/t/nhsdigital8118/m/nhsdigital8118/1741255574984/dd08373f33f49bdf1915efeab171af94b4ec2071?sender=u8ca06001054231a776328187).
 
-
 ### Stage 3: Feasibility analysis
 
 Stage 3 examined how feasible it would be to offer a digital version of an assessment. All health assessments follow a similar high‑level process – Data submission, Data storage and evaluation, and onward action.
 
 In this stage we map the data points that would be required to fulfil the end‑to‑end assessment. These data points are then categorised into the following:
 
-![Service map diagram for Stage 3: evaluating health conditions using existing methods. Shows data flow from patient sources (wearables, NHS App, patient records) through evaluation processes to three outcomes: clinical next steps, non-clinical next steps, or no action. Green indicators show currently possible data capture methods, red shows gaps.](stage-03-diagram.png "Digital prevention service ecosystem map showing how patient data moves through NHS systems to determine next steps for condition management.")
+![Service map diagram for Stage 3: evaluating health conditions using existing methods. Shows data flow from patient sources (wearables, NHS App, patient records) through evaluation processes to three outcomes: clinical next steps, non-clinical next steps, or no action. Green indicators show currently possible data capture methods, red shows gaps.](stage-03-diagram.png 'Digital prevention service ecosystem map showing how patient data moves through NHS systems to determine next steps for condition management.')
 
 - Red – Not currently possible to capture, measure or evaluate
 - Green – Currently possible to capture, measure or evaluate
@@ -196,7 +196,7 @@ We engaged with SMEs throughout the discovery, helping us to make an informed ev
 
 ### What’s next
 
-We concluded, there are several use cases identified as strong potential as a digital self‑assessment.  We recommended 5 high‑potential assessments with potential to advance to a design and development phase. These were:
+We concluded, there are several use cases identified as strong potential as a digital self‑assessment. We recommended 5 high‑potential assessments with potential to advance to a design and development phase. These were:
 
 - NICE recommended annual BMI and waist checks for people with long term conditions
 - Digital weight management programme pre‑assessment
@@ -215,4 +215,3 @@ Once the priority health assessments are chosen, next steps include:
 - continuing research with end users and healthcare professionals
 
 Our [evaluation framework](https://app.mural.co/t/nhsdigital8118/m/nhsdigital8118/1748336228396/c6cd1e4416fe47ef96015eb2ee86a79a8db5a1a0) can be reused to guide future work in this space, supporting decisions about desirability, feasibility, and strategic fit for digital health services.
-

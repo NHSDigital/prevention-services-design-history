@@ -2,83 +2,74 @@
 title: "Sprint seven: setting up the service"
 date: 2023-07-03
 ---
-### Setting up a point-of-care service
 
-Following our initial sprints investigating how staff manage appointments, vaccine stock and system users — we wanted to explore how new users might navigate the end-to-end journey of handling these tasks.  
+## Setting up a point-of-care service
 
-For example:  
+Following our initial sprints investigating how staff manage appointments, vaccine stock and system users — we wanted to explore how new users might navigate the end-to-end journey of handling these tasks.
 
-- The first time a user sets up an organisation, what tasks can they expect to complete and in what order?  
-- What level of support might a new user expect from the system during the setup process?  
+For example:
 
-### Wizard: set up assistant  
+- The first time a user sets up an organisation, what tasks can they expect to complete and in what order?
+- What level of support might a new user expect from the system during the setup process?
 
-We explored how valuable users find a wizard when setting up their organisation and sites for the first time. Wizards allow users to input information in a specific order, with the next steps based on previous inputs. They work well for processes that are performed occasionally.   
+## Wizard: set up assistant
 
-### Managing vaccine stock, users and appointments  
+We explored how valuable users find a wizard when setting up their organisation and sites for the first time. Wizards allow users to input information in a specific order, with the next steps based on previous inputs. They work well for processes that are performed occasionally.
 
-Although we tested managing vaccine stock, users and appointments in our previous sprints, we were keen to understand if we needed to refine our designs and what tasks users expected to complete when setting up for the first time (or later).  
+## Managing vaccine stock, users and appointments
 
-**User is prompted by a set-up assistant**  
+Although we tested managing vaccine stock, users and appointments in our previous sprints, we were keen to understand if we needed to refine our designs and what tasks users expected to complete when setting up for the first time (or later).
 
-![Set up assistant welcome screen](psqv6n14l322b863fiaekr8i9ig8.png)
+![Set up assistant welcome screen](psqv6n14l322b863fiaekr8i9ig8.png 'User is prompted by a set-up assistant')
 
-**User selects their organisation**  
+![Set up assistant add organisation screen](srypp7a20yzajbs3y38s0i8piuyt.png 'User selects their organisation')
 
-![Set up assistant add organisation screen](srypp7a20yzajbs3y38s0i8piuyt.png)
+![Set up assistant add multiple sites](dba7ucwqtytwv6s5t4v3rk9bsjbp.png 'User selects or uploads multiple sites')
 
-**User selects or uploads multiple sites**  
+## What we found:
 
-![Set up assistant add multiple sites](dba7ucwqtytwv6s5t4v3rk9bsjbp.png)
+### Using the set-up assistant
 
-### What we found: 
+Overall, users found the process of using the set-up assistant straightforward, easy to use, and in a logical order. They also valued the ability to skip steps that were not required.
 
-#### Using the set-up assistant 
+### Setting up their organisation and sites
 
-Overall, users found the process of using the set-up assistant straightforward, easy to use, and in a logical order. They also valued the ability to skip steps that were not required.  
+Users expect:
 
-#### Setting up their organisation and sites 
+- a progressive search when adding their organisation name or sites to the set-up assistant, so as they type, one or more potential matches are found.
+- moreover, they expect to search for an organisation or site’s ODS (Organisation Data Service) code.
+- to import multiple sites from a CSV upload template to save time manually keying in data.
+- the ability to add site types to report where patients have been vaccinated, for example, pop-up clinics.
 
-Users expect: 
+### Adding vaccines and batches
 
-- a progressive search when adding their organisation name or sites to the set-up assistant, so as they type, one or more potential matches are found.  
-- moreover, they expect to search for an organisation or site’s ODS (Organisation Data Service) code. 
-- to import multiple sites from a CSV upload template to save time manually keying in data. 
-- the ability to add site types to report where patients have been vaccinated, for example, pop-up clinics. 
+Users want the ability to:
 
-#### Adding vaccines and batches 
+- control vaccines and set minimum stock thresholds at the site level (not organisation)
+- add batches during setup or later. Some users add batches in advance, while others do so when they are delivered.
+- scan batches when they have been delivered to avoid keying in information.
 
-Users want the ability to: 
+### Adding users and setting permissions
 
-- control vaccines and set minimum stock thresholds at the site level (not organisation) 
-- add batches during setup or later. Some users add batches in advance, while others do so when they are delivered. 
-- scan batches when they have been delivered to avoid keying in information. 
+Users expect to:
 
-#### Adding users and setting permissions 
+- add and view users by their registered health care professional role, for example, a nurse or doctor.
+- check the user data they have uploaded is correct.
+- activate a user account on a set date.
+- see basic information about the permissions each role can or can’t do.
 
-Users expect to: 
+### Adding appointments
 
-- add and view users by their registered health care professional role, for example, a nurse or doctor. 
-- check the user data they have uploaded is correct. 
-- activate a user account on a set date. 
-- see basic information about the permissions each role can or can’t do. 
+Users want to:
 
-#### Adding appointments 
+- upload appointments through a CSV template, and;
+- import appointments across multiple sites and/or dates in a single upload
+- skip this stage if they do not have any booked appointments to import.
 
-Users want to: 
+### General findings
 
-- upload appointments through a CSV template, and; 
-- import appointments across multiple sites and/or dates in a single upload 
-- skip this stage if they do not have any booked appointments to import. 
+Users expect:
 
-#### General findings 
-
-Users expect: 
-
-- system feedback to appear at the top of the page so it isn't missed 
-- support through onboarding or training with uploading multiple users or appointments, and access to CSV templates before set-up. 
-- flexibility to skip certain set-up tasks and return to them later. 
-
- 
-
- 
+- system feedback to appear at the top of the page so it isn't missed
+- support through onboarding or training with uploading multiple users or appointments, and access to CSV templates before set-up.
+- flexibility to skip certain set-up tasks and return to them later.

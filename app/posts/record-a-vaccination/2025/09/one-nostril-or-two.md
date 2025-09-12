@@ -1,5 +1,5 @@
 ---
-title: "One nostril or two? "
+title: One nostril or two?
 date: 2025-09-02
 description: Changes we’ve made to support the nasal flu vaccine for 2 to 3 year olds
 image:
@@ -18,11 +18,11 @@ Previously we always asked the question ‘Where was the injection given?’ as 
 
 ![Screenshot with a red cross through it showing the question 'Where did you give the injection?' with the answers 'Left arm', 'Right arm' or 'Somewhere else'](injection-site.png)
 
-However, for the nasal spray there was an additional requirement to capture whether a full dose was given or not.  The nasal spray applicator is designed to be used in both nostrils, with a 0.1ml spray given in each nostril for a total 0.2ml dose.
+However, for the nasal spray there was an additional requirement to capture whether a full dose was given or not. The nasal spray applicator is designed to be used in both nostrils, with a 0.1ml spray given in each nostril for a total 0.2ml dose.
 
 But there are circumstances where a full dose is not given, for example if the child is too upset after the first spray.
 
-The vaccine manufacturer advises that if only a single spray is given, there is no need to repeat the immunisation as each half dose contains enough viral particles to induce an immune response.  However, this should be recorded and will be monitored by the [UK Health Security Agency (UKHSA)](https://www.gov.uk/government/organisations/uk-health-security-agency).
+The vaccine manufacturer advises that if only a single spray is given, there is no need to repeat the immunisation as each half dose contains enough viral particles to induce an immune response. However, this should be recorded and will be monitored by the [UK Health Security Agency (UKHSA)](https://www.gov.uk/government/organisations/uk-health-security-agency).
 
 To record this, we designed a new question. The wording focuses on whether a full or half dose was given, rather than the specific dose amounts in millilitres.
 

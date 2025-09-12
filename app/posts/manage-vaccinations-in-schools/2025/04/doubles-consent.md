@@ -153,9 +153,9 @@ In the end we decided to:
 - Clearly state the relevant timeframe (i.e. the last 5 years)
 - Provide examples in hint text of when these vaccinations may have been given previously
 
-![Question asking ‘Has your child had a meningitis (MenACWY) vaccination in the last 5 years?’](health-question-recent-menacwy-vaccination.png "Question asked for the MenACWY vaccination.")
+![Question asking ‘Has your child had a meningitis (MenACWY) vaccination in the last 5 years?’](health-question-recent-menacwy-vaccination.png 'Question asked for the MenACWY vaccination.')
 
-![Question asking ‘Has your child had a tetanus, diphtheria and polio vaccination in the last 5 years?’](health-question-recent-td-ipv-vaccination.png "Question asked for the Td/IPV vaccination.")
+![Question asking ‘Has your child had a tetanus, diphtheria and polio vaccination in the last 5 years?’](health-question-recent-td-ipv-vaccination.png 'Question asked for the Td/IPV vaccination.')
 
 ## Changes to the consent journey since the pilot
 

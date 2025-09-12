@@ -1,5 +1,5 @@
 ---
-title: "Recording vaccinations (beta)"
+title: Recording vaccinations (beta)
 date: 2024-03-08
 ---
 

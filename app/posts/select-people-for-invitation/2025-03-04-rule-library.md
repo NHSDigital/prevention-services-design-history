@@ -10,23 +10,28 @@ tags:
   - rules
 ---
 
-## Exec summary
+## Executive summary
+
 Overall the rule library was considered to add significant value, but we plan to revisit it in the future as we believe there are some improvements that we can make - in particular to do with rules involving ages and dates.
 
 ## What are rules?
+
 As shown in the diagram on the [brief description of this service](/select-people-for-invitation/what-is-this-service/), the way Select People for Invitation (SPI) works is by removing people from an initial dataset (the cohorts of eligible people), so that the people remaining are the ones we want to contact at that particular time.
 
 The way we remove people from an invitation group is by applying "rules" such as:
+
 - don't invite people who are resident in a care home (because they have alternative vaccination arrangements)
 - don't invite people outside of certain ICBs (because we're inviting where there is good appointment capacity)
 - don't invite people who are too old or too young (usually people outside of the elgible age range shouldn't be in our base cohorts in the first place, but sometimes PDS records are corrected inbetween the cohorts being generated and the invitations being sent, so someone might have initially appeared eligible, but in fact they aren't)
 
 Rules are also used to define which message content and communication channels should be used, e.g.
+
 - send people under 16 version 1
 - send people over 16 version 2
 - send people with a braille preference the braille letter
 
 ## How do users add rules without the library
+
 We initially designed the service with a highly flexible interface for constructing rules. This was so that for the MVP it was possible to construct any type of rule that was required. Feedback confirmed what we suspected, which is that although the flexibility is useful (and was the right thing to do for MVP), it is also relatively complicated.
 
 ![UI for building a rule](addrule1.jpg)
@@ -36,7 +41,9 @@ As can be seen in the image below the lists of options available for configuring
 ![UI for building a rule, showing long list of attributes](addrule2.png)
 
 ## How can users add rules using the library
+
 The idea of the library was that it could potentially have 3 benefits:
+
 1. a quick way to add frequently used rules
 2. confidence that rules are constructed correctly and will work as expected
 3. a way to learn about how rules are constructed, and the ability to copy a library rule as the basis to create a custom rule​
