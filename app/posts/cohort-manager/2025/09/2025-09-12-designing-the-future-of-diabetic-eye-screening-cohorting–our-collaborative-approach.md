@@ -21,6 +21,7 @@ To ensure the journey was viable, we engaged technical teams, product leads, and
 In parallel, we created a system-agnostic flow, ensuring the design could stand independently of existing systems and wasn’t simply retrofitted to current products. 
 
 ## Workshop: Playback and Feedback   
+
 We shared our progress in a workshop focused on the potential future journey for DES, highlighting three core areas for transformative change: 
 
 - Improving the quality and completeness of cohort data 
