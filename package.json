@@ -21,9 +21,6 @@
     "@x-govuk/nhsuk-eleventy-plugin": "^1.0.0",
     "http-server": "^14.1.1"
   },
-  "devDependencies": {
-    "webshot-node": "^0.18.2"
-  },
   "private": true,
   "engines": {
     "node": "22.x"
