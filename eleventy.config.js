@@ -1,14 +1,12 @@
 import fs from 'node:fs/promises'
+
 import { nhsukEleventyPlugin } from '@x-govuk/nhsuk-eleventy-plugin'
 
 const serviceName = 'Digital prevention services design history'
 
-export default function(eleventyConfig) {
-
+export default function (eleventyConfig) {
   eleventyConfig.addPlugin(nhsukEleventyPlugin, {
-    stylesheets: [
-      '/styles/application.css'
-    ],
+    stylesheets: ['/styles/application.css'],
     templates: {
       feed: {
         title: serviceName
@@ -26,19 +24,19 @@ export default function(eleventyConfig) {
       meta: {
         items: [
           {
-            text: "Sitemap",
-            href: "/sitemap"
+            text: 'Sitemap',
+            href: '/sitemap'
           },
           {
-            text: "Subscribe to feed",
-            href: "/feed.xml"
+            text: 'Subscribe to feed',
+            href: '/feed.xml'
           },
           {
-            text: "Tags",
-            href: "/tags"
+            text: 'Tags',
+            href: '/tags'
           }
         ],
-        text: "All data and personal information shown in prototypes are fictional and for demonstration purposes only."
+        text: 'All data and personal information shown in prototypes are fictional and for demonstration purposes only.'
       }
     },
     url:
@@ -48,72 +46,73 @@ export default function(eleventyConfig) {
 
   // Passthrough
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
-  eleventyConfig.addPassthroughCopy('./app/pdfs');
+  eleventyConfig.addPassthroughCopy('./app/pdfs')
 
   // Nunjucks filters
-  eleventyConfig.addFilter("push", (array, item) => {
+  eleventyConfig.addFilter('push', (array, item) => {
     const newArray = [...array]
     newArray.push(item)
 
     return newArray
-  });
+  })
 
   // Service area collections
-  for (const area of ["screening", "vaccinations", "personalised-prevention"]) {
+  for (const area of ['screening', 'vaccinations', 'personalised-prevention']) {
     eleventyConfig.addCollection(`${area}-area`, (collection) => {
-      return collection.getAll()
-        .filter(({data}) => data?.area === area)
+      return collection
+        .getAll()
+        .filter(({ data }) => data?.area === area)
         .sort((a, b) => {
           // Promoted collection in an area should be shown first
-          if (a.data.promote) return -1;
-          if (b.data.promote) return 1;
+          if (a.data.promote) return -1
+          if (b.data.promote) return 1
 
-          return a.data.title.localeCompare(b.data.title);
-        });
+          return a.data.title.localeCompare(b.data.title)
+        })
     })
   }
 
   // Service collections
   for (const service of [
-    "digital-prevention-services",
+    'digital-prevention-services',
     // Screening service collections
-    "screening",
-    "bowel-screening",
-    "breast-screening-reporting",
-    "cohort-manager",
-    "explore-team",
-    "manage-breast-screening",
-    "manage-your-screening",
-    "hpv-self-testing",
-    "screening-invite",
+    'screening',
+    'bowel-screening',
+    'breast-screening-reporting',
+    'cohort-manager',
+    'explore-team',
+    'manage-breast-screening',
+    'manage-your-screening',
+    'hpv-self-testing',
+    'screening-invite',
     // Vaccination service collections
-    "vaccinations",
-    "book-a-vaccination",
-    "manage-vaccinations-in-schools",
-    "manage-your-appointments",
-    "record-a-vaccination",
-    "select-people-for-invitation",
-    "vaccinations-in-the-app",
+    'vaccinations',
+    'book-a-vaccination',
+    'manage-vaccinations-in-schools',
+    'manage-your-appointments',
+    'record-a-vaccination',
+    'select-people-for-invitation',
+    'vaccinations-in-the-app',
     // Personalised prevention service collections
-    "personalised-prevention",
-    "lung-health-check",
-    "nhs-health-check-online",
-    "personalised-prevention-platform",
-    "smoking-cessation",
-    "talking-therapies",
+    'personalised-prevention',
+    'lung-health-check',
+    'nhs-health-check-online',
+    'personalised-prevention-platform',
+    'smoking-cessation',
+    'talking-therapies'
   ]) {
-    eleventyConfig.addCollection(service, collection => {
+    eleventyConfig.addCollection(service, (collection) => {
       return collection.getFilteredByGlob(`app/posts/${service}/**/*.md`)
     })
   }
 
   // Guide collection
-  eleventyConfig.addCollection("guide", collection => {
+  eleventyConfig.addCollection('guide', (collection) => {
     return collection.getFilteredByGlob(`app/guide/**/*.md`)
   })
 
   // Posts collection (all posts across all services)
-  eleventyConfig.addCollection("post", (collection) => {
+  eleventyConfig.addCollection('post', (collection) => {
     return collection
       .getAllSorted()
       .filter((item) => item.data?.layout === 'post')
@@ -124,10 +123,10 @@ export default function(eleventyConfig) {
     if (runMode === 'build') {
       await fs.rm(directories.output, {
         force: true,
-        recursive: true,
-      });
+        recursive: true
+      })
     }
-  });
+  })
 
   // Config
   return {
