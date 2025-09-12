@@ -1,3 +1,4 @@
+import fs from 'node:fs/promises'
 import { nhsukEleventyPlugin } from '@x-govuk/nhsuk-eleventy-plugin'
 
 const serviceName = 'Digital prevention services design history'
@@ -117,6 +118,16 @@ export default function(eleventyConfig) {
       .getAllSorted()
       .filter((item) => item.data?.layout === 'post')
   })
+
+  // Reset contents of output directory before each build
+  eleventyConfig.on('eleventy.before', async ({ directories, runMode }) => {
+    if (runMode === 'build') {
+      await fs.rm(directories.output, {
+        force: true,
+        recursive: true,
+      });
+    }
+  });
 
   // Config
   return {
