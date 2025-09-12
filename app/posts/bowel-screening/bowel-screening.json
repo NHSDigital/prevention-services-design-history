@@ -1,6 +1,5 @@
 {
-    "eleventyNavigation": {
-      "parent": "Bowel screening"
-    }
+  "eleventyNavigation": {
+    "parent": "Bowel screening"
   }
-  
+}
