@@ -1,6 +1,6 @@
 ---
 title: Introduction to team Manage Your Screening (MAYS)
-description: The purpose of the team and future vision of the Manage Your Screening service.
+description: The purpose of the team and future vision of the Manage Your Screening service
 date: 2025-03-25
 ---
 

@@ -1,30 +1,30 @@
 ---
-  title: Prototype updates after round one
-  description: Building out more of the journey and expanding mammography sections
-  date: 2025-01-15
-  screenshots:
-    items:
-      - text: "Clinic list"
-        src: clinics_list.png
-        caption: Clinic list now shows 'special appointments'
-      - text: "Clinic appointment"
-        src: clinics_event.png
-        caption: Appointment view now shows screening history and adds a pre-screening question
-      - text: "Medical information"
-        src: clinics_events__medical-information.png
-      - text: "Medical information complete"
-        src: clinics_events__medical-information_complete.png
-      - text: "Imaging / mammography"
-        src: clinics_events__imaging.png
-      - text: "Screening complete"
-        src: clinics_events_screening_complete.png
-        caption: Once screening is complete, medical information and images are added as tabs to the appointment
-      - text: "Clinics attended not screened reason"
-        src: clinics_attended-not-screened-reason.png
-  tags:
-    - alpha
-    - prototype
-    - initial screening
+title: Prototype updates after round one
+description: Building out more of the journey and expanding mammography sections
+date: 2025-01-15
+screenshots:
+  items:
+    - text: "Clinic list"
+      src: clinics_list.png
+      caption: Clinic list now shows 'special appointments'
+    - text: "Clinic appointment"
+      src: clinics_event.png
+      caption: Appointment view now shows screening history and adds a pre-screening question
+    - text: "Medical information"
+      src: clinics_events__medical-information.png
+    - text: "Medical information complete"
+      src: clinics_events__medical-information_complete.png
+    - text: "Imaging / mammography"
+      src: clinics_events__imaging.png
+    - text: "Screening complete"
+      src: clinics_events_screening_complete.png
+      caption: Once screening is complete, medical information and images are added as tabs to the appointment
+    - text: "Clinics attended not screened reason"
+      src: clinics_attended-not-screened-reason.png
+tags:
+  - alpha
+  - prototype
+  - initial screening
 ---
 
 ## Expanding our prototype
@@ -50,7 +50,7 @@ Similarly, if a pre-appointment questionnaire was sent to the woman – if she a
 
 We want to explore how we can show all the questions that need to be asked, but in a way that quick to complete for the common case. Only where the answer is ‘yes’ for a question should we prompt further. As a first attempt, we’ve tried a summary list where each item starts off incomplete – but with a single button that can answer all remaining items in one go. This attempts to optimise for fewest clicks where no further information is needed.
 
-![A gif video of the medical information page. The page starts with a summary list with 10 rows including breast implants, implanted medical devices, pregnancy, and all are shown as 'incomplete'. There is a button at the bottom labelled 'Answer all incomplete as No / None' that when pressed changes the answers to all the rows to 'No' or 'None' ](manage-mark-incomplete-as-none.gif "Testing a single button as a way to mass-answer questions")
+![A gif video of the medical information page. The page starts with a summary list with 10 rows including breast implants, implanted medical devices, pregnancy, and all are shown as 'incomplete'. There is a button at the bottom labelled 'Answer all incomplete as No / None' that when pressed changes the answers to all the rows to 'No' or 'None' ](manage-mark-incomplete-as-none.gif 'Testing a single button as a way to mass-answer questions')
 
 ## Changing how mammogram information is captured
 
@@ -60,4 +60,4 @@ We’d like to explore extracting this information from the metadata so that the
 
 For this prototype, we’ve started by simulating images loading one by one, each with some placeholder information.
 
-![A screenshot of a page showing mammogram images. 4 mammograms are shown - for each there is a summary list stating the side (left or right), the view, whether it's a repeat, and any comment, together with change links. ](clinics_events__imaging.png "Mammograms shown with key information")
+![A screenshot of a page showing mammogram images. 4 mammograms are shown - for each there is a summary list stating the side (left or right), the view, whether it's a repeat, and any comment, together with change links. ](clinics_events__imaging.png 'Mammograms shown with key information')

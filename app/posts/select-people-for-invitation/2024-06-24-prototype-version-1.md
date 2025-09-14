@@ -37,6 +37,7 @@ tags:
 ---
 
 ## What did we prototype?
+
 In our first prototype we didn't design the complete user journey, but significant parts of:
 
 - how the parameters required for the initial set up of an invitation campaign could be gathered
@@ -44,6 +45,7 @@ In our first prototype we didn't design the complete user journey, but significa
 - how filter and suppresion rules could be added to prevent certain people from being invited
 
 ## What did we learn?
+
 This allowed us to test and learn about some important concepts:
 
 - Do users find summary / checking screens useful? **yes**

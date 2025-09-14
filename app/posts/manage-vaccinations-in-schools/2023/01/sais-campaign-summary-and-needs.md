@@ -91,7 +91,7 @@ As a SAIS programme co-ordinator:
 As a school administrator:
 
 - I need to send out invitations on a SAIS team’s behalf so that I can protect the personal information of parents.
-- I need to understand what contact information I can legally share with SAIS teams, so that  I can support the vaccination programme in the most efficient way for me
+- I need to understand what contact information I can legally share with SAIS teams, so that I can support the vaccination programme in the most efficient way for me
 
 ### Consent or refuse
 

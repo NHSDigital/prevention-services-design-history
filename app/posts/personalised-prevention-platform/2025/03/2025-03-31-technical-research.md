@@ -1,5 +1,5 @@
 ---
-title: "Technology research summary"
+title: Technology research summary
 description: A summary of technology within NHSE that could support personalised prevention work
 date: 2025-03-31
 tags:
@@ -18,7 +18,8 @@ Our current problem statement has evolved over the course of discovery as we lea
 
 This analysis aims to give a simplified view of the NHS services, platforms and data that could be available to technical solutions in the personalised prevention space.
 
-We explored 4 overarching hypotheses in the Personalised Prevention Platform Discovery  However, for the purposes of technology research, we focused on these 2 hypotheses:
+We explored 4 overarching hypotheses in the Personalised Prevention Platform Discovery However, for the purposes of technology research, we focused on these 2 hypotheses:
+
 1. There is a serviceable cohort of people who will proactively manage their health to reduce their need for future treatment.
 2. We will be able to reach people early enough before health issues become problematic.
 
@@ -31,11 +32,13 @@ In the context of this early‑stage technology research, personalised preventio
 ## What we explored
 
 We wanted to understand what NHS England:
+
 - technology we can use to create, manage and enable the cohorting of people with shared characteristics and risk factors
 - data sets and collections we can use to create cohorts of people
 - technology we can use to communicate with cohorts of people
 
 Our research included several NHS internal technology platforms and data sets. The main ones reviewed throughout this research are:
+
 1. NHS Patient Demographics Service (PDS)
 2. NHS Cohorting as a Service (CaaS)
 3. NHS GP Extraction Service (GPES)
@@ -52,6 +55,7 @@ We can use the NHS Cohorting as a Service (CaaS) platform to create and manage c
 ### NHS England data sets and collections we can use to create cohorts of people
 
 CaaS currently has access to several data services, sets and collections that can allow the creation of patient cohorts:
+
 - Personal Demographics Service (PDS)
 - General Practice Extraction Service (GPES)
 - Hospital Episodes Statistics (HES)
@@ -74,7 +78,7 @@ There is a healthy level of maturity in the technology that allows us to define 
 
 The key considerations are:
 
-1.  NHS CaaS and NHS Notify are live, and already supporting the rollout of prevention campaigns (for example Immunisations).
+1. NHS CaaS and NHS Notify are live, and already supporting the rollout of prevention campaigns (for example Immunisations).
 2. NHS data sets and collections are ready and available through CaaS, but subject to NHS Information Governance, Legal and Clinical engagement and approval.
 
 ## What we are doing next
@@ -82,6 +86,7 @@ The key considerations are:
 If we want to create people cohorts with shared characteristics and risk factors, the next steps are well defined given the high level of maturity of CaaS and its pre‑existing integrations to other national platforms (for example NHS Notify).
 
 To create new citizen or patient cohorts for prevention campaigns, we need to:
+
 1. Refine the scope of the proposed cohorts and the data requirements.
 2. Formally engage all relevant NHS platforms teams (including CaaS).
 3. Secure and make funding available for all the required activities.
@@ -95,10 +100,10 @@ To create new citizen or patient cohorts for prevention campaigns, we need to:
 Subject to NHS Information Governance and Clinical approval, the technologies and data researched can help us create cohorts of people with shared characteristics and risk factors.
 
 One of many examples for this could be creating and communicating with a cohort of people who lack knowledge and are under‑represented in accessing mental health services and resources. The cohort could be created based on one or more of these attributes:
+
 - age
 - location
 - an underlying health condition
-
 
 ## Further information
 

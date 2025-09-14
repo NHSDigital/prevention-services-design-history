@@ -1,6 +1,6 @@
 ---
 title: Physical activity results – bridging the gap between an online and face‑to‑face service
-description: Improving the physical activity assessment to be more inclusive by recognising ‘everyday movement’ alongside structured exercise.
+description: Improving the physical activity assessment to be more inclusive by recognising ‘everyday movement’ alongside structured exercise
 date: 2025-08-05
 ---
 
@@ -26,9 +26,9 @@ In face‑to‑face health checks, healthcare professionals can review and discu
 
 Our early user research in private beta highlighted some challenges with initial designs for physical activity results. Some users felt the GPPAQ didn’t capture non‑structured or informal activity, such as gardening or housekeeping, and therefore didn’t allow them to provide an accurate set of responses. They were therefore demotivated or insulted by being labelled ‘inactive’ in results, despite their perceptions of being at least somewhat active. We also observed that some individuals with a physical health condition or limited mobility didn’t perceive the GPPAQ questionnaire, and therefore results, to accurately reflect their reality – users wanted a service that acknowledged their health conditions and physical limitations and included useful information and advice that was aligned to their individual needs.
 
-![Example of question included as part of GPPAQ calculation](Exercise.png  "Figure 1 – Example of question included as part of GPPAQ calculation")
+![Example of question included as part of GPPAQ calculation](Exercise.png 'Figure 1 – Example of question included as part of GPPAQ calculation')
 
-![Example of question not included as part of GPPAQ calculation](Walking.png "Figure 2 – Example of question not included as part of GPPAQ calculation")
+![Example of question not included as part of GPPAQ calculation](Walking.png 'Figure 2 – Example of question not included as part of GPPAQ calculation')
 
 ## What have we done to address the challenge?
 
@@ -56,11 +56,11 @@ Participants responded especially well to supportive, realistic advice like ‘s
 
 Behind the scenes, the content team developed a feedback matrix tailored to these supplementary questions. This allowed us to provide targeted, helpful feedback – even for criteria outside the algorithm – making the experience more inclusive, human, and action-oriented.
 
-![Example of a screen with tailored content specific to 'walking' one of the additional questions](physical-results.png "Figure 5 – Example of a screen with tailored content specific to ‘walking‘ one of the additional questions")
+![Example of a screen with tailored content specific to 'walking' one of the additional questions](physical-results.png 'Figure 5 – Example of a screen with tailored content specific to ‘walking‘ one of the additional questions')
 
 ## What our users have to say
 
-When testing the latest iterations of the GPPAQ questions and results sections, users spoke much more positively about the designs than in testing of early iterations. The concept of ‘everyday movement’ was more aligned to the realities of many users in our research than ‘exercise’, and we heard from users that this made the service feel more aligned to their needs and more inclusive overall. We also heard how content that was added to the results screens advising users what to do next, and available resources, was well received  by users – especially by those that were unable to participate in regular structured exercise:
+When testing the latest iterations of the GPPAQ questions and results sections, users spoke much more positively about the designs than in testing of early iterations. The concept of ‘everyday movement’ was more aligned to the realities of many users in our research than ‘exercise’, and we heard from users that this made the service feel more aligned to their needs and more inclusive overall. We also heard how content that was added to the results screens advising users what to do next, and available resources, was well received by users – especially by those that were unable to participate in regular structured exercise:
 
 > I like this [physical activity results content], it’s telling me how I can improve, and I already do chair exercises at home… so there’s a lot of stuff I can do at home and build up to 30 minutes or so.
 > -- Female, 47

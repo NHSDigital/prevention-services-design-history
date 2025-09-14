@@ -1,15 +1,15 @@
 ---
-  title: Data product design principles
-  description: Ensuring data is usable and useful
-  date: 2025-02-01
-  tags:
-    - data
-    - reporting
-    - user needs
+title: Data product design principles
+description: Ensuring data is usable and useful
+date: 2025-02-01
+tags:
+  - data
+  - reporting
+  - user needs
 ---
 
-
-**Note: this work was completed by Team Analyse. It will be carried forward by Breast Screening Reporting.**
+> [!NOTE]
+> This work was completed by Team Analyse. It will be carried forward by Breast Screening Reporting.
 
 There can be a perception that data is somehow independent of its users and if they just see some numbers that’s enough. Our research into data needs showed us that not all users can use what they are given, and therefore that rolling out a product or platform is not the same as adoption among users.
 
@@ -36,18 +36,18 @@ This evidence suggested we need some design principles to ‘keep us honest’ i
 
 The draft of design principles below was inspired by NHS design principles and adapted for data users in breast screening.
 
-![1. Be relevant and useful
-Understand what data I need to answer my question
+1. Be relevant and useful
+   Understand what data I need to answer my question
 2. Keep it simple
-Don’t overload me with options and possibilities in a tool I may be unfamiliar with; I am busy. Help me focus on what’s relevant to my question
+   Don’t overload me with options and possibilities in a tool I may be unfamiliar with; I am busy. Help me focus on what’s relevant to my question
 3. Make it easy to access
-Logins and permissions can be a barrier in busy environments. I may only need data infrequently logins can expire.
-4.  Make it easy to understand
-I may not be expert in understanding data or statistics. I should not need special training. Avoid jargon.
+   Logins and permissions can be a barrier in busy environments. I may only need data infrequently logins can expire.
+4. Make it easy to understand
+   I may not be expert in understanding data or statistics. I should not need special training. Avoid jargon.
 5. Don’t make me do work for the data I need
-Data should work hard for me
+   Data should work hard for me
 6. Add value and insight
-Highlight where I need to pay attention; help me find patterns; join data sets for me that help me answer a question](data-product-design-principles.png)
+   Highlight where I need to pay attention; help me find patterns; join data sets for me that help me answer a question](data-product-design-principles.png)
 
 ## What’s next
 

@@ -53,7 +53,7 @@ Later iterations focused on addressing ongoing user confusion and incorporating 
 - a blue care card was introduced for "high risk" to avoid panic, as high risk can result from multiple factors
 - guidance was personalised for each result to make it more actionable
 
-##  What we learned
+## What we learned
 
 The research reinforced the importance of presenting cholesterol results in a way that is:
 
@@ -68,7 +68,7 @@ Users also need:
 
 ![Later iterations sought to simplify the explanation of cholesterol levels and replace language like 'normal' with 'healthy'](healthy-results.png "Later iterations sought to simplify the explanation of cholesterol levels and replace language like 'normal' with 'healthy'")
 
-##  Next steps
+## Next steps
 
 These findings will inform the next iteration of the cholesterol results screen. The team will:
 

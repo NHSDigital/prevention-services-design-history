@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to publish a design history entry
-description: A guide for our teams on how to publish to this site.
+description: A guide for our teams on how to publish to this site
 eleventyNavigation:
   parent: Guide
 ---

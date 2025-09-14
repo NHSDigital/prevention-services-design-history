@@ -47,14 +47,14 @@ We considered using a single set of questions covering all vaccines (for example
 
 We updated the design to only pre-select the 2 checkboxes which ask about the child while leaving the others unchecked.
 
-| Question | Programmes | Can be pre-checked |
-| - | - | - |
-| Child is feeling well | All | Yes |
-| Child is not pregnant | HPV, Td/IPV | Yes |
-| Child is not taking any medication<br>which would prevent vaccination | MenACWY, Td/IPV | No |
-| Child has no allergies which<br>would prevent vaccination | All | No |
-| Child has not already had the vaccination | All | No |
-| Child knows what the vaccination<br>is for, and is happy to have it | All | No |
+| Question                                                              | Programmes      | Can be pre-checked |
+| --------------------------------------------------------------------- | --------------- | ------------------ |
+| Child is feeling well                                                 | All             | Yes                |
+| Child is not pregnant                                                 | HPV, Td/IPV     | Yes                |
+| Child is not taking any medication<br>which would prevent vaccination | MenACWY, Td/IPV | No                 |
+| Child has no allergies which<br>would prevent vaccination             | All             | No                 |
+| Child has not already had the vaccination                             | All             | No                 |
+| Child knows what the vaccination<br>is for, and is happy to have it   | All             | No                 |
 
 ## Asking if a child is pregnant
 

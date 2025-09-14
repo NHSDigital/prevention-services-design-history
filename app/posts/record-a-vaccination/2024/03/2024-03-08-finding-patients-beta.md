@@ -1,7 +1,8 @@
 ---
-title: "Finding patients (beta)"
+title: Finding patients (beta)
 date: 2024-03-08
 ---
+
 ## Testing the find a patient journey
 
 We're close to releasing our minimal viable service into beta with hospital hubs.
@@ -20,7 +21,7 @@ For beta, users will have restricted access when searching for a patient using P
 
 Following testing, users highlighted having to correctly spell the patient's name and postcode as problematic.
 
-We recognise healthcare workers need a more flexible and advanced search. This will be available to users once we introduce the [NHS Care Identity Service 2] (https://digital.nhs.uk/services/care-identity-service/applications-and-services/cis2-authentication). Our earlier ['find a patient' designs] (https://record-a-vaccination-design-history.designhistory.app/searching-for-patients-beta) reflect how this will work.
+We recognise healthcare workers need a more flexible and advanced search. This will be available to users once we introduce the [NHS Care Identity Service 2](https://digital.nhs.uk/services/care-identity-service/applications-and-services/cis2-authentication). Our earlier ['find a patient' designs](/record-a-vaccination/2023/10/searching-for-patients-beta) reflect how this will work.
 
 Some users did not recognise the term PDS. Instead, they used words like ‘demographics’ or ‘searching the spine’ for patient demographic information and understood that all fields needed to be entered to get a result. We will iterate the content to make it accessible for everyone and reflect their language.
 
@@ -44,7 +45,6 @@ Most users expect to create a new patient record if they cannot find a patient f
 
 ![Create a new patient screen](ckdi8fth1jt7micsa6tp2tmop5rp.png)
 
-### Usability score and summary###
+## Usability score and summary
 
 Overall, **users scored the find a patient journey 6.5 out of 7 (very confident)**, finding it intuitive and straightforward.
-

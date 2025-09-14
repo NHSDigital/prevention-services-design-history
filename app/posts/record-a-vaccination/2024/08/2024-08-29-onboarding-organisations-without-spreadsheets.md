@@ -1,7 +1,8 @@
 ---
-title: "Onboarding organisations without spreadsheets"
+title: Onboarding organisations without spreadsheets
 date: 2024-08-29
 ---
+
 Giving organisations access to point of care systems like Record a vaccination is the responsibility of regional commissioning teams.
 
 Previously, this process was manual and time-consuming, involving spreadsheets that led to errors or confusion.
@@ -43,7 +44,7 @@ The page also contains a preview email that's sent to the invited user to help t
 
 Once a lead user is added to an organisation, they can invite other lead users. This means:
 
-- organisations can [manage their own users](/designing-an-initial-user-permissions-model)
+- organisations can [manage their own users](/record-a-vaccination/2024/07/designing-an-initial-user-permissions-model)
 - regions do not need to invite lots of users for every organisation
 
 ## Viewing the onboarding status

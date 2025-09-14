@@ -1,11 +1,11 @@
 ---
-  title: Refining the screening journey
-  description: Expanding the medical information sections and improving information display
-  date: 2025-03-27
-  tags:
-    - alpha
-    - prototype
-    - initial screening
+title: Refining the screening journey
+description: Expanding the medical information sections and improving information display
+date: 2025-03-27
+tags:
+  - alpha
+  - prototype
+  - initial screening
 ---
 
 Our previous iterations didn’t focus much on medical information – they had an initial idea for being able to bulk answer questions in one go, but this wasn’t too clear to participants.
@@ -27,7 +27,6 @@ Our previous version had UI to let you answer multiple medical questions at once
 The language of this is tricky though – are mammographers clear that answering ‘no’ to the guard question is also answering ‘no’ or ‘none’ to each medical information section? The alternative would be to leave these sections as unanswered – however the user may well have been asked this verbally – would we not want to record this?
 
 ![A guard page asking whether the mammographer needs to add any medical information.](guard-page.png)
-
 
 If users say they have medical information to record they get a page to provide it.
 

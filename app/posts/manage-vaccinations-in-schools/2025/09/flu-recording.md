@@ -152,11 +152,11 @@ HCAs can use a similar procedure to administer the injected vaccine using the na
 
 Finally, a SAIS team may decide to use the Patient Specific Direction (PSD) protocol to allow non-registered practitioners to administer nasal sprays. This requires a prescriber to assess children ahead of a session and give each child an instruction to vaccinate.
 
-| | Patient Group Direction (PGD) | Patient Specific Direction (PSD) | National protocol |
-| - | - | - | - |
-| Vaccine | Nasal spray | Nasal spray | Injected vaccine |
-| Vaccinator records supplier | Yes | No | Yes |
-| Prescriber adds instruction | No | Yes | No |
+|                             | Patient Group Direction (PGD) | Patient Specific Direction (PSD) | National protocol |
+| --------------------------- | ----------------------------- | -------------------------------- | ----------------- |
+| Vaccine                     | Nasal spray                   | Nasal spray                      | Injected vaccine  |
+| Vaccinator records supplier | Yes                           | No                               | Yes               |
+| Prescriber adds instruction | No                            | Yes                              | No                |
 
 For children who have consent for the nasal spray and do not need triage, a prescriber can add instructions in bulk. For children who need triage, a nurse with responsibility for prescribing can triage a child and, if they decide they are safe to vaccinate, add a PSD instruction.
 

@@ -1,6 +1,6 @@
 ---
-title: "Onboarding users"
-description: "Exploring how people might be introduced to the service using prototypes"
+title: Onboarding users
+description: Exploring how people might be introduced to the service using prototypes
 date: 2025-04-11
 tags:
 - alpha
@@ -234,5 +234,3 @@ Probably the biggest challenge thrown up by the research sessions is the need to
 ---
 
 At this point we may well leave onboarding where it is in favour of a different part of the potential service journey. We’ve tested ideas, gotten insights, and made our notes for taking things further or doing things differently.
-
-

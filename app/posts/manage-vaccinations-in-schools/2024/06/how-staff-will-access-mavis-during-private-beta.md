@@ -26,4 +26,4 @@ Mavis will rely on [National role-based access control](https://digital.nhs.uk/d
 It’s common for staff devices to have limited or no connectivity during point-of-care recording. In order to continue using Mavis when that happens, staff will need to:
 
 - log into Mavis on the day of the session, while they still have connectivity
-- prepare for offline usage (see previous design work around [offline access](https://childhood-vaccinations.designhistory.app/protecting-offline-data)).
+- prepare for offline usage (see previous design work around [offline access](/manage-vaccinations-in-schools/2023/05/protecting-offline-data)).

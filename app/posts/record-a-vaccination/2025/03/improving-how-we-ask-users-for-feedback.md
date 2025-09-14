@@ -9,7 +9,7 @@ We’ve been exploring how to improve the way that we ask users for feedback, wi
 
 Since fully launching the service in September 2024 we have had a banner underneath the header which states that this is a new service in ‘beta’, and which invites users to give us feedback to help improve it.
 
-![Screenshot showing a white banner directly beneath a blue header which has a 'Beta' label and the text 'This is a new service - your feedback (opens in a new tab) will help improve it.'](feedback-banner.png "Existing feedback banner")
+![Screenshot showing a white banner directly beneath a blue header which has a 'Beta' label and the text 'This is a new service - your feedback (opens in a new tab) will help improve it.'](feedback-banner.png 'Existing feedback banner')
 
 The link opens a page in a separate tab, which is hosted via Qualtrics, and includes a short survey with 2 questions and the option for users to leave their email address.
 
@@ -83,7 +83,7 @@ We’ve also tweaked the wording, and have added a checkbox to allow users to in
 
 We still need to decide:
 
-* how to store the data technically
-* what extra data, such as organisation type or vaccine type, to save alongside the anonymous ratings to enable additional analysis
-* after how many vaccinations we show the prompt, for example 5 then 100, 500, 1000
-* whether this metric could become a key performance indicator (KPI) for the service
+- how to store the data technically
+- what extra data, such as organisation type or vaccine type, to save alongside the anonymous ratings to enable additional analysis
+- after how many vaccinations we show the prompt, for example 5 then 100, 500, 1000
+- whether this metric could become a key performance indicator (KPI) for the service

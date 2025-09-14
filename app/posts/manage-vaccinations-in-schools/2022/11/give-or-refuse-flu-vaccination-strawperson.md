@@ -95,7 +95,7 @@ We ask for:
 
 ### Preferred name
 
-A child  may go by a middle name or abbreviated name, or something else. We expect there is a need for this information to help nurses build a rapport with each child during the vaccination event.
+A child may go by a middle name or abbreviated name, or something else. We expect there is a need for this information to help nurses build a rapport with each child during the vaccination event.
 
 ### Sex and gender
 

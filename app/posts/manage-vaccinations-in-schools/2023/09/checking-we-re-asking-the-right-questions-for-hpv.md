@@ -7,9 +7,9 @@ To make sure we’re asking the right questions when requesting consent for vacc
 
 This shows:
 
-* what we ask
-* why we ask it
-* what we do with the answers we get
+- what we ask
+- why we ask it
+- what we do with the answers we get
 
 ## Questions in the digital service
 

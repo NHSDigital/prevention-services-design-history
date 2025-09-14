@@ -1,7 +1,8 @@
 ---
-title: "Designing an initial user permissions model"
+title: Designing an initial user permissions model
 date: 2024-07-22
 ---
+
 In our initial pilot, all users were able to do all actions. There was also no functionality to add users to the service - this required a support request.
 
 We know from previous research however that there is a variety of different roles that users have within their organisations.
@@ -10,7 +11,7 @@ We wanted to design a permissions model that would restrict users to only the ac
 
 ## Previous designs
 
-Previously we designed and tested [a prototype with 6 role checkboxes](/managing-users-roles-and-permissions-beta). 
+Previously we designed and tested [a prototype with 6 role checkboxes](/record-a-vaccination/2023/08/managing-users-roles-and-permissions-beta).
 
 This was then iterated into a version where there were 9 permission checkboxes instead.
 
@@ -22,11 +23,11 @@ This was further iterated into a version with more granular options using nested
 
 We decided to consider what the simplest options for permissions would be, based on the current features of the service.
 
-This led us to a version with 3 permission levels: 
+This led us to a version with 3 permission levels:
 
-* recorder
-* administrator
-* lead administrator
+- recorder
+- administrator
+- lead administrator
 
 We used hint text to explain what features each level were able to do.
 
@@ -34,7 +35,7 @@ A separate question was added asking if the user was a registered clinician or n
 
 ![](unvzm49wimsqzyueqw17wzzlua3c.png)
 
-On the Manage users index page, each user is listed and their permission level is shown. 
+On the Manage users index page, each user is listed and their permission level is shown.
 
 ![](u44rpyyt90kuuehy0zznjmzfuwdv.png)
 
@@ -46,9 +47,9 @@ An error would be shown if a user tries to change the permission level of a lead
 
 We also considered a version with three checkboxes for the 3 main features:
 
-* record vaccinations
-* manage vaccines
-* manage users
+- record vaccinations
+- manage vaccines
+- manage users
 
 However, whilst this was more flexible, it had the disadvantage of being harder to summarise on the page listing users. It would also mean that any upcoming features would likely require additional checkboxes, whereas with the permission level radios, those features could be included within one of the existing levels.
 

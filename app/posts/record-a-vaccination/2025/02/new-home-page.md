@@ -1,11 +1,11 @@
 ---
-title: "Adding a home page showing vaccination totals"
+title: Adding a home page showing vaccination totals
 date: 2025-02-21
 ---
 
 Previously in the alpha we explored the concept of [adding a dashboard](/record-a-vaccination/2023/09/reporting-and-monitoring-beta/) to let users see key information about their vaccination programme.
 
-Since then, we've learnt through research that 1 common user need is to be able to keep a log of the number of vaccinations given each day. 
+Since then, we've learnt through research that 1 common user need is to be able to keep a log of the number of vaccinations given each day.
 
 Sometimes this is done through a paper tally sheet. Alternatively users have used the 'Report' function to download a spreadsheet of all the vaccinations given in particular time range, and then used the number of rows to get a count.
 
@@ -19,10 +19,10 @@ We designed a new 'Home' page which all users see when signing in.
 
 The home page contains:
 
-* total vaccinations given today (so far)
-* total vaccinations given in the past 7 days
-* total vaccinations given in the current calendar month
-* a breakdown of the vaccinations given in the past 7 days by vaccine type
+- total vaccinations given today (so far)
+- total vaccinations given in the past 7 days
+- total vaccinations given in the current calendar month
+- a breakdown of the vaccinations given in the past 7 days by vaccine type
 
 Our initial designs showed a rolling total of the past 28 days, but we changed this to the current calendar month after learning that some users report data in this way.
 

@@ -1,10 +1,10 @@
 ---
-  title: Image reading - first prototype
-  date: 2025-05-06
-  tags:
-    - alpha
-    - prototype
-    - image reading
+title: Image reading - first prototype
+date: 2025-05-06
+tags:
+  - alpha
+  - prototype
+  - image reading
 ---
 
 Building on the [previous design explorations](/manage-breast-screening/2025/04/existing-image-reading-design-concepts/) of breast image reading, our initial image reading prototype focuses on three key user needs for image readers: choosing which cases to read, giving opinions on cases and efficiently navigating between them. We’ve deferred looking at communicating concepts such as 'first read' or 'second read' for future iterations.

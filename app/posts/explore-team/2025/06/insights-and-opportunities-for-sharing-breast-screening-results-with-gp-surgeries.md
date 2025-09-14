@@ -37,7 +37,7 @@ Most of the 3 million annual breast screening results are sent to participants a
 
 We heard that dealing with breast screening results relies on 'triple checking', 'eyeballing', and 'auditing'. This is stressful and exhausting for BSO staff who are battling with this manual process to avoid human error.
 
-![Paper trays at a BSO](letter-drop-front-desk.jpeg "A paper tray in a BSO asking participants to leave their invitation letters")
+![Paper trays at a BSO](letter-drop-front-desk.jpeg 'A paper tray in a BSO asking participants to leave their invitation letters')
 
 Some BSOs, tired of waiting for a national solution, are creating their own. For example, at University Hospitals Sussex NHS Foundation Trust the [breast screening services developed a digital system](https://www.uhsussex.nhs.uk/news/innovative-digital-system-helps-improve-access-to-breast-screening-in-sussex/) to share results with GP surgeries using Crystal reports.
 
@@ -47,7 +47,7 @@ Eligible participants are invited for screening every 3 years. The complex parti
 
 When the results are posted to GP surgeries, admin staff receive an influx of paperwork that needs processing. We heard that this is unlike bowel cancer screening results, where eligible participants are screened on a rolling basis. This means the results come in ‘dribs and drabs’ and are easier to handle.
 
-![GP system demo](MESH-demo-4.png "A GP staff member shared their screen with us to show how they receive breast screening results. SystmOne is the GP system on the left, and on the right is a test-data PDF screening result.")
+![GP system demo](MESH-demo-4.png 'A GP staff member shared their screen with us to show how they receive breast screening results. SystmOne is the GP system on the left, and on the right is a test-data PDF screening result.')
 
 One practice showed us how pathology test results can be automatically filed after having rules applied to them. They said:
 
@@ -116,7 +116,7 @@ Having more accurate data would mean the right people would be invited. We would
 
 Through targeted interventions we could reduce inequalities and increase screening attendance.
 
-![Main benefit is better patient data](our-focus-on-better-data.png "A diagram showing the anticipated benefits of improving the accuracy of screening data")
+![Main benefit is better patient data](our-focus-on-better-data.png 'A diagram showing the anticipated benefits of improving the accuracy of screening data')
 
 Improving our data would also mean improving patient care. Providing primary care networks with accurate and up to date data would enable them to better support participants with a cancer diagnosis.
 
@@ -132,8 +132,7 @@ There might be more dependencies we need to be aware of. For example, we heard t
 
 Because the reality on the ground is complex and varied, we suggest working with one or a small number of BSOs to design a solution that works for them. Following the [NHS service standard](https://service-manual.nhs.uk/standards-and-technology/service-standard), the team can use agile ways of working to iteratively design and build a solution.
 
-
-![Focus on MVP](MVP.png "A chart showing the number of users on one axis, and time on another. The minimum viable product (MVP) starts early on with a small number of users. As time goes on the number of users increases as we learn more and become more confident in our solution. Concept credit: Richard Pope")
+![Focus on MVP](MVP.png 'A chart showing the number of users on one axis, and time on another. The minimum viable product (MVP) starts early on with a small number of users. As time goes on the number of users increases as we learn more and become more confident in our solution. Concept credit: Richard Pope')
 
 ## Change is going to take time
 

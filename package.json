@@ -1,32 +1,39 @@
 {
-  "name": "prevension-services-design-history",
-  "version": "2.0.0",
-  "description": "A template for a place for documenting NHS.UK service designs",
+  "name": "prevention-services-design-history",
+  "version": "1.0.0",
+  "description": "A record of design and research for NHS digital prevention services",
   "homepage": "https://github.com/NHSDigital/prevention-services-design-history",
   "keywords": [
     "design-history",
-    "government",
-    "govuk"
+    "healthcare",
+    "nhsuk"
   ],
   "license": "MIT",
   "scripts": {
-    "prebuild": "rimraf _site",
     "build": "eleventy",
+    "lint:prettier": "prettier . --check",
+    "lint:prettier:fix": "prettier . --write",
+    "lint:js": "eslint '**/*.js'",
+    "lint:js:fix": "eslint '**/*.js' --fix",
+    "lint:scss": "stylelint '**/*.scss'",
+    "lint:scss:fix": "stylelint '**/*.scss' --fix",
+    "lint": "npm run lint:prettier && npm run lint:js && npm run lint:scss",
+    "lint:fix": "npm run lint:prettier:fix && npm run lint:js:fix && npm run lint:scss:fix",
+    "prestart": "npm run build",
     "start": "eleventy --serve --quiet",
     "preserve": "npm run build",
-    "serve": "http-server ./_site",
-    "test": "standard"
+    "serve": "http-server ./_site"
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
     "@x-govuk/nhsuk-eleventy-plugin": "^1.0.0",
-    "http-server": "^14.1.1",
-    "rimraf": "^6.0.0",
-    "sass": "^1.92.0"
+    "http-server": "^14.1.1"
   },
   "devDependencies": {
-    "standard": "^17.1.2",
-    "webshot-node": "^0.18.2"
+    "@x-govuk/eslint-config": "^0.0.1",
+    "prettier": "^3.6.2",
+    "stylelint": "^16.24.0",
+    "stylelint-config-gds": "^2.0.0"
   },
   "private": true,
   "engines": {

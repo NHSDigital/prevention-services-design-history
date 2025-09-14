@@ -41,10 +41,10 @@ We will have a backup option available if any schools completely refuse, in whic
 1. C&W’s nominal rolls will have already been updated throughout flu season with information from both school lists and parent consent responses to have up to date information about which child goes to which school and their parent’s contact info. However, response rates for the flu campaign in secondary schools are low, so contact information will still be missing for many.
 2. In November, according to the newly agreed process, each lead nurse will request new school lists for all year 8, 9, 10s and 11s from their secondary schools in the new template, with email and mobile contact information for up to 2 parents for each child.
 3. Mavis release one will go live already set up with a HPV programme for 2024/25. There will be four cohorts linked to the programme:
-    - 2021/22 year 8s (current year 11s)
-    - 2022/23 year 8s (current year 10s)
-    - 2023/24 year 8s (current year 9s)
-    - 2024/25 year 8s (current year 8s)
+   - 2021/22 year 8s (current year 11s)
+   - 2022/23 year 8s (current year 10s)
+   - 2023/24 year 8s (current year 9s)
+   - 2024/25 year 8s (current year 8s)
 
 ### When Mavis is live (Mon 2nd December)
 

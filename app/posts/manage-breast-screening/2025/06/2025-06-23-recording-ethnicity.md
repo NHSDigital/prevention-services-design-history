@@ -1,11 +1,11 @@
 ---
-  title: Recording ethnicity
-  description: How we're providing a way for participant ethnicity to be collected during a mammogram appointment.
-  date: 2025-06-23
-  tags:
-    - beta
-    - prototype
-    - breast screening
+title: Recording ethnicity
+description: How we're providing a way for participant ethnicity to be collected during a mammogram appointment
+date: 2025-06-23
+tags:
+  - beta
+  - prototype
+  - breast screening
 ---
 
 We're providing a way for the ethnicity of each participant to be collected during a mammogram appointment if we don't already know it. This allows breast screening units (BSUs) to meet data collection requirements set by the NHS.

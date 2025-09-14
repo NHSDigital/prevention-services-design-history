@@ -1,9 +1,9 @@
 ---
-title: "Designing a maternity journey"
+title: Designing a maternity journey
 date: 2024-07-18
 ---
-As part of the service's expanding scope to help deliver a wider number of vaccines, we 
-assessed how RAVS could support maternity vaccines. 
+
+As part of the service's expanding scope to help deliver a wider number of vaccines, we assessed how RAVS could support maternity vaccines.
 
 As with all vaccines, there are specific data points that all point of care systems have to record, like the patient’s name, and the vaccine product and batch that has been administered to them.
 
@@ -25,4 +25,3 @@ We incorporated the following changes:
 We engaged with the clinical safety and clinical strategy team throughout and tested our designs with maternity users. This helped us to better understand maternity users’ daily processes and to ensure maternity vaccinations were safely and efficiently recorded in RAVS.
 
 User feedback was mainly positive, owing largely to the limited changes. However, we’ll continue to assess user's needs for future iterations.
-

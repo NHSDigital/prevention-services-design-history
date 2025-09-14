@@ -23,7 +23,7 @@ Breast screening clinics use the National Breast Screening System (NBSS) to mana
 
 When this checkbox is ticked, a list of available ‘Reasons’ is presented to users, each with a distinct code.
 
-![Feature within NBSS where special appointment reasons are moved from an available list to a selected list](nbss-sa-codes.png "Taken from a training guide for NBSS explaining an updated code list.")
+![Feature within NBSS where special appointment reasons are moved from an available list to a selected list](nbss-sa-codes.png 'Taken from a training guide for NBSS explaining an updated code list.')
 
 After the reasons have been given, the text ‘Special appointment’ is appended to the participant in the clinic appointment list. This will typically result in a double-length appointment, with a visual indicator for those managing the clinic so they can prepare the required adjustments.
 
@@ -65,7 +65,7 @@ This covers scenarios such as a participant calling a clinic in advance to share
 
 A lot of work has been done to remove clutter from the appointment page so users could focus on the most important information at the stage (being able to ID the participant). To keep things clean, we’ve grouped the option to make an appointment ‘special’ with a selection of other appointment related actions within an action button.
 
-![A dropdown list of options available from appointments with 'Make this a special appointment' highlighted](sa-launch.png "The text switches to ‘Change special appointment details’ once a reason has been added.")
+![A dropdown list of options available from appointments with 'Make this a special appointment' highlighted](sa-launch.png 'The text switches to ‘Change special appointment details’ once a reason has been added.')
 
 Selecting this option takes the user to a list of special appointment reasons, with multiple selections permitted.
 
@@ -89,7 +89,7 @@ We have opted for this over more structured data methods due to the variability 
 
 During our research, we’ve determined a potential need to mark some reasons as temporary. This could be a broken limb that affects a participant’s mobility, or a medical condition that’s affecting their vision.
 
-These may be a consideration for any immediate follow-up appointments but will be irrelevant when they’re next invited for screening in 3 years' time.  To accommodate this, we could make temporary reasons expire after a certain period of time or only associate them with a screening episode or event.
+These may be a consideration for any immediate follow-up appointments but will be irrelevant when they’re next invited for screening in 3 years' time. To accommodate this, we could make temporary reasons expire after a certain period of time or only associate them with a screening episode or event.
 
 While we explore the pros and cons of each solution, it’s likely for the first iteration of this feature we will allow special appointment reasons to be quickly edited or deleted so users can easily remove anything that’s no longer relevant.
 

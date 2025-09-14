@@ -1,5 +1,5 @@
 ---
-title: "Promoting the service with a product page"
+title: Promoting the service with a product page
 date: 2025-08-18
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Alpha Prototype
 date: 2025-03-26
-description: Tests participants ability to log in, see their eligible screening services and when their next screening is due.
+description: Tests participants ability to log in, see their eligible screening services and when their next screening is due
 ---
 
 ## Initial scope

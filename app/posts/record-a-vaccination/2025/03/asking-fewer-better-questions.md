@@ -1,5 +1,5 @@
 ---
-title: "Asking fewer, better questions "
+title: Asking fewer, better questions
 date: 2025-03-25
 ---
 
@@ -9,18 +9,17 @@ The reason we prioritised this work is that users have told us that parts of the
 
 And within our design team, we'd also been critiquing our current journey and discussing what could be improved. We wanted to:
 
-* move to a 1 thing per page approach and make our questions more conversational, following the [NHS Digital service manual guidance on how to write good questions](https://service-manual.nhs.uk/content/how-to-write-good-questions-for-forms)
-* align our designs more closely with the [NHS design system](https://service-manual.nhs.uk/design-system), using tried and tested components and patterns
-
+- move to a 1 thing per page approach and make our questions more conversational, following the [NHS Digital service manual guidance on how to write good questions](https://service-manual.nhs.uk/content/how-to-write-good-questions-for-forms)
+- align our designs more closely with the [NHS design system](https://service-manual.nhs.uk/design-system), using tried and tested components and patterns
 
 ## What we did
 
 This has been a big piece of work and it's not finished yet. It has involved:
 
-* desk research
-* prototyping
-* multiple rounds of user research
-* lots of lively discussion within the UCD team and with our wider product team
+- desk research
+- prototyping
+- multiple rounds of user research
+- lots of lively discussion within the UCD team and with our wider product team
 
 There will be other posts about different aspects of the work. But this one is about how we set about asking fewer and better questions in the record journey.
 
@@ -32,8 +31,8 @@ We started with desk research looking at the key requirements for capturing vacc
 
 We wanted to understand:
 
-* what is the minimum vaccination data that has to be captured when you record a vaccination, as mandated by NHS England
-* what other data do we currently capture and how important is this to our users
+- what is the minimum vaccination data that has to be captured when you record a vaccination, as mandated by NHS England
+- what other data do we currently capture and how important is this to our users
 
 ## How people answer the questions in our current journey
 
@@ -41,8 +40,8 @@ We were lucky to have a data analyst join our team while we were doing this work
 
 It helped us:
 
-* understand what proportion of users might be affected if we dropped certain questions
-* decide how to present certain questions based on the answers users most often give
+- understand what proportion of users might be affected if we dropped certain questions
+- decide how to present certain questions based on the answers users most often give
 
 ## Prototyping the new journey
 
@@ -55,14 +54,15 @@ This forced us to move to concrete designs and think hard about the words.
 In parallel, we decided to document our design decisions in a slide deck. We were making so many decisions in conversations between the 3 designers working on the journey that we thought we should put some of this in writing so we could present our thinking back to the wider team.
 
 ### Agreement on dropping some questions
+
 We came up with a list of things we (designers) suggested dropping from the record journey and shared our plan with our wider team.
 
 Some things were uncontroversial. There was consensus that we don't need to:
 
-* ask for both the date of vaccination and the date the patient was assessed for a vaccination (since these would happen on the same date)
-* ask twice which vaccine product was being given
-* capture different clinical roles – we currently have 3 separate questions asking the user to confirm the name of the clinician who assessed the patient, who obtained consent and who gave the vaccination
-* explicitly ask if the patient had been given the vaccine, since other questions (such as where did you give the injection) already confirm this
+- ask for both the date of vaccination and the date the patient was assessed for a vaccination (since these would happen on the same date)
+- ask twice which vaccine product was being given
+- capture different clinical roles – we currently have 3 separate questions asking the user to confirm the name of the clinician who assessed the patient, who obtained consent and who gave the vaccination
+- explicitly ask if the patient had been given the vaccine, since other questions (such as where did you give the injection) already confirm this
 
 ### Reformatting questions
 
@@ -72,7 +72,7 @@ We ended up simplifying several questions so they could be answered in fewer ste
 
 1. In the current journey we ask users to select the date of vaccination using a fiddly date picker. We know from data that 80% of the time users select today's date. So in the new streamlined journey we've made it easier for the majority of users to answer this question by asking "Is the vaccination today?" and offering "Today" as the top radio answer.
 
-Only the 20%  who do not select today have to go on to enter a date. We've also changed our design for date entry to the more accessible NHS date input component.
+Only the 20% who do not select today have to go on to enter a date. We've also changed our design for date entry to the more accessible NHS date input component.
 
 ![Screenshots showing before and after for the vaccination date question](vaccination-date-before-after.png)
 
@@ -83,7 +83,6 @@ We know from data that 98% of the time users select that the patient themselves 
 ![Screenshots showing before and after for the consent question](consent-before-and-after.png)
 
 In the new journey, we simplified the question to "Who is giving consent?", presenting the name of the patient as the top answer – making it quicker to answer for the 98%.
-
 
 ### Some proposals caused concern
 
@@ -113,7 +112,7 @@ Even if it was not something they often needed, users told us they wanted this o
 
 ### Vaccinations not given
 
-We heard lots of different things about vaccinations not given. For some settings it was not considered important or useful to record a vaccination not given. But in others, it was considered really important as it could help identify problems with vaccination uptake or  determine follow-up actions such as inviting patients to attend again.
+We heard lots of different things about vaccinations not given. For some settings it was not considered important or useful to record a vaccination not given. But in others, it was considered really important as it could help identify problems with vaccination uptake or determine follow-up actions such as inviting patients to attend again.
 
 ## Where we are now
 
@@ -131,7 +130,6 @@ We are planning how and when we'll roll out the new record journey to users.
 
 We are developing further features of the streamlined journey, including:
 
-* a separate  journey to allow users to record several vaccinations for 1 patient
-* a repeat journey to allow users to record consecutive vaccinations of the same type, for example if a site was running a clinic doing just flu vaccinations
-* an edit and delete journey to allow users to change or delete a vaccination record
-
+- a separate journey to allow users to record several vaccinations for 1 patient
+- a repeat journey to allow users to record consecutive vaccinations of the same type, for example if a site was running a clinic doing just flu vaccinations
+- an edit and delete journey to allow users to change or delete a vaccination record
