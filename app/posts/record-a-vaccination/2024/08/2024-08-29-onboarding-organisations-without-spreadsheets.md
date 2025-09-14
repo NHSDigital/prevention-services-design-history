@@ -44,7 +44,7 @@ The page also contains a preview email that's sent to the invited user to help t
 
 Once a lead user is added to an organisation, they can invite other lead users. This means:
 
-- organisations can [manage their own users](/designing-an-initial-user-permissions-model)
+- organisations can [manage their own users](/record-a-vaccination/2024/07/designing-an-initial-user-permissions-model)
 - regions do not need to invite lots of users for every organisation
 
 ## Viewing the onboarding status

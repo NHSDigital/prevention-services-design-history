@@ -11,7 +11,7 @@ We wanted to design a permissions model that would restrict users to only the ac
 
 ## Previous designs
 
-Previously we designed and tested [a prototype with 6 role checkboxes](/managing-users-roles-and-permissions-beta).
+Previously we designed and tested [a prototype with 6 role checkboxes](/record-a-vaccination/2023/08/managing-users-roles-and-permissions-beta).
 
 This was then iterated into a version where there were 9 permission checkboxes instead.
 
