@@ -5,7 +5,7 @@ date: 2023-07-17
 
 ## Iterating the editing vaccination records workflow
 
-Following [alpha sprint three: editing vaccination records](https://record-a-vaccination-design-history.designhistory.app/sprint-three-editing-vaccination-records), we revisited the editing workflow to make the process of editing, viewing and approving records simple and efficient for users based on their permissions.
+Following [alpha sprint three: editing vaccination records](/record-a-vaccination/2023/05/sprint-three-editing-vaccination-records), we revisited the editing workflow to make the process of editing, viewing and approving records simple and efficient for users based on their permissions.
 
 Through prototyping, we considered:
 

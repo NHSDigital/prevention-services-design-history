@@ -5,7 +5,7 @@ date: 2023-11-30
 
 ## Our approach to supporting users
 
-Building on our [initial research into support content](https://record-a-vaccination-service-design-history.designhistory.app/editing-records-support-and-help-content-beta) — we explored how and when users might need to escalate issues to a human (or helpdesk). This formed part of our overall support approach:
+Building on our [initial research into support content](/record-a-vaccination/2023/10/editing-records-support-and-help-content-beta) — we explored how and when users might need to escalate issues to a human (or helpdesk). This formed part of our overall support approach:
 
 1. **Proactive support**: provide users with contextual and timely inline content to coach them through a process or introduce them to a new feature.
 2. **Self-serve support**: direct users to the in-built help section to answer any common concerns or frequently asked questions they may have.
@@ -32,7 +32,7 @@ Users also expected to navigate to the help section by clicking the hyperlink in
 
 ### Help section
 
-As outlined in [editing records support and help content (beta)](https://record-a-vaccination-service-design-history.designhistory.app/editing-records-support-and-help-content-beta), we used an existing NHS service pattern to create the help section — accompanied by error screen content to support our users.
+As outlined in [editing records support and help content (beta)](/record-a-vaccination/2023/10/editing-records-support-and-help-content-beta), we used an existing NHS service pattern to create the help section — accompanied by error screen content to support our users.
 
 During testing, users identified the escalation process if they could not resolve the issue independently and an alternative way to record vaccination data offline.
 

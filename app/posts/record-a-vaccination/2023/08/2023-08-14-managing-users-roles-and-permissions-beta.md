@@ -5,7 +5,7 @@ date: 2023-08-14
 
 ## Providing the right people with access to the right actions and tasks
 
-Following [sprint one: managing users](https://record-a-vaccination-design-history.designhistory.app/sprint-six-managing-users), we continued to explore a simple and secure approach to access management, looking at ways to allow healthcare settings to assign permissions to users based on their roles.
+Following [sprint one: managing users](/record-a-vaccination/2023/06/sprint-six-managing-users), we continued to explore a simple and secure approach to access management, looking at ways to allow healthcare settings to assign permissions to users based on their roles.
 
 During research throughout alpha and beta, we engaged with different users at varying organisational levels and roles, gathered and analysed their needs, and grouped them into roles based on their common responsibilities. Duties range from recording data and editing records to approving records and reporting.
 

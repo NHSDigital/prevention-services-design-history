@@ -7,8 +7,8 @@ date: 2023-09-04
 
 During this sprint, we continued building on what we learned about managing vaccines following our previous sprints in alpha:
 
-- [Sprint one: managing vaccines](https://record-a-vaccination-design-history.designhistory.app/sprint-one-managing-vaccines)
-- [Sprint five: managing vaccines](https://record-a-vaccination-design-history.designhistory.app/sprint-five-managing-vaccines)
+- [Sprint one: managing vaccines](/record-a-vaccination/2023/04/sprint-one-managing-vaccines)
+- [Sprint five: managing vaccines](/record-a-vaccination/2023/06/sprint-five-managing-vaccines)
 
 We focused on how users might add vaccines and batches when setting up a service – completing two rounds of testing and iterating our designs in between.
 
@@ -24,7 +24,7 @@ Users are presented with a vaccine list prompting them to add a vaccine to a sit
 
 During initial testing, users found the dropdown option to select a site confusing and would expect to either:
 
-- add vaccines to their sites (as part of [setting up a service journey](https://record-a-vaccination-design-history.designhistory.app/managing-settings-beta))
+- add vaccines to their sites (as part of [setting up a service journey](/record-a-vaccination/2023/08/managing-settings-beta))
 - add vaccines to all sites
 
 As a result, we iterated our designs to allow users to add vaccines to their sites.

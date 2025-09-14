@@ -22,7 +22,7 @@ To protect patient privacy, we designed a step-by-step search process to encoura
 
 To support users in following this process, we developed search tips to help them find patients quickly, effectively, and safely. The tips pointed to a comprehensive help section if they needed more information.
 
-Learn more about our [support and help content design approach](https://record-a-vaccination-design-history.designhistory.app/editing-records-support-and-help-content-beta).
+Learn more about our [support and help content design approach](/record-a-vaccination/2023/10/editing-records-support-and-help-content-beta).
 
 ## The PDS journey
 

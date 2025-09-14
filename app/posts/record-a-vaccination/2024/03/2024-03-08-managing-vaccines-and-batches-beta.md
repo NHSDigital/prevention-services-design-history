@@ -9,7 +9,7 @@ To understand if the 'manage vaccines and batches' user journey continues to mee
 
 Users like system administrators can set up or add vaccines and batches their organisation gives during this journey. This allows vaccinators to view and select the preset vaccines and batches during vaccination recording.
 
-The journey is a simplified iteration of our earlier [managing vaccine designs](https://record-a-vaccination-design-history.designhistory.app/managing-vaccines-beta).
+The journey is a simplified iteration of our earlier [managing vaccine designs](/record-a-vaccination/2023/09/managing-vaccines-beta).
 
 ## Managing vaccines
 

@@ -5,7 +5,7 @@ date: 2023-05-22
 
 ## Searching for patients and finding information about them and their booking
 
-After testing our prototypes in [sprint two: finding a patient and recording a vaccination](https://record-a-vaccination-design-history.designhistory.app/finding-patients-and-recording-vaccinations), we discovered how users expect to:
+After testing our prototypes in [sprint two: finding a patient and recording a vaccination](/record-a-vaccination/2023/04/finding-patients-and-recording-vaccinations), we discovered how users expect to:
 
 - search for patients with or without a booking
 - find additional information in an appointment list, the patient’s record, and vaccination history

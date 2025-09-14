@@ -7,7 +7,7 @@ date: 2023-05-15
 
 Our discovery revealed a lack of integration between point-of-care (POC) and other booking or calendar systems. And difficulty finding patients through search.
 
-Therefore, we identified a strong need for users to import or upload appointments from other systems into their POC system, when testing our prototypes in [sprint one: managing clinics](https://record-a-vaccination-design-history.designhistory.app/sprint-one-managing-clinics).
+Therefore, we identified a strong need for users to import or upload appointments from other systems into their POC system, when testing our prototypes in [sprint one: managing clinics](/record-a-vaccination/2023/04/sprint-one-managing-clinics).
 
 ## How users currently manage appointments
 

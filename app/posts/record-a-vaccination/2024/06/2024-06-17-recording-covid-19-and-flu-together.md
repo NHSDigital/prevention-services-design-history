@@ -37,7 +37,7 @@ We duplicated the fields which might be different for each vaccine on the follow
 
 ### 2. Different vaccinators record and administer each vaccine
 
-This journey resembles how [users record vaccinations in the live service](https://record-a-vaccination-design-history.designhistory.app/recording-vaccinations-beta).
+This journey resembles how [users record vaccinations in the live service](/record-a-vaccination/2024/03/recording-vaccinations-beta).
 
 - Vaccinator 1 completes the journey for Vaccine 1.
 - Vaccinator 2 repeats the journey by reselecting the patient record and recording a vaccination for Vaccine 2.

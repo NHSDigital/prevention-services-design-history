@@ -5,7 +5,7 @@ date: 2023-06-05
 
 ## Designing a new service to manage vaccines
 
-After testing our prototypes in [sprint one: managing vaccines](https://record-a-vaccination-design-history.designhistory.app/sprint-one-managing-vaccines), we learnt users typically:
+After testing our prototypes in [sprint one: managing vaccines](/record-a-vaccination/2023/04/sprint-one-managing-vaccines/), we learnt users typically:
 
 - Order stock from one person or team that handles orders for their organisation
 - Monitor stock levels typically through a spreadsheet or makeshift system
@@ -89,7 +89,7 @@ To help users track stock levels, so they have enough stock to cover booked appo
 
 ### Vaccine and batch management list
 
-Using the appointment list pattern, we evolved in [sprint four: finding a patient and recording a vaccination](https://record-a-vaccination-service-design-history.designhistory.app/sprint-4-finding-patients-recording-vaccinations), we created a vaccine and batch management list for users to view.
+Using the appointment list pattern, we evolved in [sprint four: finding a patient and recording a vaccination](/record-a-vaccination/2023/05/sprint-4-finding-patients-recording-vaccinations), we created a vaccine and batch management list for users to view.
 
 Using this list, users can remove inactive vaccines and deactivate batches, while vaccinators can only see when batches are finished.
 
