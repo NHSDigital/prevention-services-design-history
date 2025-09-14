@@ -40,7 +40,7 @@ We produced a high-level artefact of the DES as-is and desired to-be end-to-end 
 
 ![The high level end-to-end desired journey for diabetic eye screening](end-to-end-journey.png)
 
-[Download the image as a PDF (102 KB)](/pdfs/cohort-manager/2025/06/start-with-what-we-know/diabetic-eye-desired-end-to-end-journey.pdf)
+[Download the image as a PDF (102 KB)](diabetic-eye-desired-end-to-end-journey.pdf)
 
 We started with bringing together various teams and professions to engage with the artefact so all teams could have a shared understanding of DES and our to-be desired state. Moreover, getting more teams and professions involved meant more perspectives and ideas to examine a possible vision for DES.
 

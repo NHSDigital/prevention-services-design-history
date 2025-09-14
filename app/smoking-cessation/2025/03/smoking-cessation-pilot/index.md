@@ -70,7 +70,7 @@ For both phases, we created user journeys and service maps which highlight the s
 
 [See the user journey map in Mural (needs an HSCIC account)](https://app.mural.co/t/nhsdigital8118/m/nhsdigital8118/1738339722878/729c1da461b58b6d192ffc44cb060c547424ed0f)
 
-[Download user journey map as a PDF (960KB)](/pdfs/smoking-cessation/2025/03/smoking-cessation-pilot/tobacco-journey-map.pdf)
+[Download user journey map as a PDF (960KB)](tobacco-journey-map.pdf)
 
 After the first and second phase, there will be further iteration to the service to make sure we meet the desired outcomes for smoking cessation.
 
@@ -92,13 +92,13 @@ By having this articulated, we can let the research and insights guide us to how
 
 ![This image shows six scales which relate to core elements of the current service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the future service vision to understand the differences between the two.](current-service-vision.png)
 
-[Download the current vision as a PDF (325KB)](/pdfs/smoking-cessation/2025/03/smoking-cessation-pilot/current-vision.pdf)
+[Download the current vision as a PDF (325KB)](current-vision.pdf)
 
 ### Future vision
 
 ![This image shows six scales which relate to core elements of the future service vision. There are points to depict where along the scales they currently sit, along with a small descriptor. The aim is for this image to be compared with the current service vision to understand the differences between the two.](future-service-vision.png)
 
-[Download the current future as a PDF (347KB)](/pdfs/smoking-cessation/2025/03/smoking-cessation-pilot/future-vision.pdf)
+[Download the current future as a PDF (347KB)](future-vision.pdf)
 
 ## What is the future work?
 

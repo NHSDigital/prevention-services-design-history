@@ -44,15 +44,12 @@ export default function (eleventyConfig) {
       'https://design-history.prevention-services.nhs.uk/'
   })
 
-  // Passthrough
-  eleventyConfig.addPassthroughCopy({ './app/images': '.' })
-  eleventyConfig.addPassthroughCopy('./app/pdfs')
-
-  // Copy any images across
+  // Images and PDFs
   eleventyConfig.addPassthroughCopy('./app/**/*.gif')
   eleventyConfig.addPassthroughCopy('./app/**/*.jpg')
   eleventyConfig.addPassthroughCopy('./app/**/*.jpeg')
   eleventyConfig.addPassthroughCopy('./app/**/*.png')
+  eleventyConfig.addPassthroughCopy('./app/**/*.pdf')
 
 
   // Nunjucks filters
