@@ -48,6 +48,13 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({ './app/images': '.' })
   eleventyConfig.addPassthroughCopy('./app/pdfs')
 
+  // Copy any images across
+  eleventyConfig.addPassthroughCopy('./app/**/*.gif')
+  eleventyConfig.addPassthroughCopy('./app/**/*.jpg')
+  eleventyConfig.addPassthroughCopy('./app/**/*.jpeg')
+  eleventyConfig.addPassthroughCopy('./app/**/*.png')
+
+
   // Nunjucks filters
   eleventyConfig.addFilter('push', (array, item) => {
     const newArray = [...array]
@@ -102,7 +109,7 @@ export default function (eleventyConfig) {
     'talking-therapies'
   ]) {
     eleventyConfig.addCollection(service, (collection) => {
-      return collection.getFilteredByGlob(`app/posts/${service}/**/*.md`)
+      return collection.getFilteredByGlob(`app/${service}/**/*.md`)
     })
   }
 
