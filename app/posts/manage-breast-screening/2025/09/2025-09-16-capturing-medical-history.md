@@ -12,9 +12,9 @@ We've been working with radiologists and radiographers to understand exactly wha
 
 ## A background for breasts
 
-One of the most crucial tasks for mammographers to complete during an appointment is to find out if the participant has had any previous medical issues affecting their breasts. This can influence how the appointment proceeds, and inform radiologists about things they may need to consider when reviewing x-ray images.
+During a screening appointment mammographers need to find out if the participant has had any previous medical issues affecting their breasts. This can influence how the appointment proceeds, and inform radiologists about things they may need to consider when reviewing x-ray images.
 
-We need to know about any previous diagnosis of breast cancer, benign lumps, cosmetic breast implants, a pacemaker, and various other things that may have happened to one or both breasts.
+It's valuable to collect any previous diagnosis of breast cancer, benign lumps, cosmetic breast implants, a pacemaker, and various other things that may have happened to one or both breasts.
 
 ### Don't we already have this information?
 
@@ -24,9 +24,7 @@ In future we'd like to sync the service with existing health data sources, or po
 
 ## How medical information is currently recorded
 
-Radiographers have told us that at some point between the identity check and x-rays being taken, they will ask participants a broad question such as "Have you had any issues or surgery in your breast or chest area?"
-
-The exact way they phrase this question varies widely from clinic to clinic.
+Radiographers have told us that at some point between the identity check and x-rays being taken, they will ask participants "Have you had any issues or surgery in your breast or chest area?" - the exact way they phrase this question varies widely from clinic to clinic.
 
 The response is recorded on a paper form. They could make a tick, write down a year, or put a 'Y' on one or both sides, and add comments in the space provided. If there is nothing to record, they will typically strike through the section to indicate that the question has been covered.
 
@@ -77,7 +75,7 @@ In the diagram:
 * The '+' icon represents new data not currently collected
 * 'BR' indicates a defined business requirement (included in NHS guidelines)
 * Stars are things radiologists indicated as being useful for their assessment
-* BCa is shorthand for breast cancer.
+* BCa is shorthand for breast cancer
 
 ### Mapping requirements to reality 
 
@@ -93,7 +91,7 @@ When it was necessary, the topics recorded in our sample clinic were:
 * medical devices (1%)
 * symptoms (1%)
 
-While it appears this may not be the most frequently used part of our service, the information gathered here is crucial for the overall effectiveness of the breast screening programme.
+This may not be the most frequently used part of our service, but the information gathered here is crucial for the overall effectiveness of the breast screening programme.
 
 ## Creating an appropriate path
 
@@ -126,7 +124,7 @@ Some of the feedback included:
 
 > "Asking about the type of implant is mandated in the guidelines, but I would argue the guidelines probably need to change as that's not helpful information."
 
->"I don't need to be told which side a medical device implant is, I can see it."
+> "I don't need to be told which side a medical device implant is, I can see it."
 
 > "I want to know if something has been taken out. When it was done is not relevant."
 
@@ -134,12 +132,12 @@ Some of the feedback included:
 
 Through discussions we've been able to refine what's actually needed for each issue. 
 
-* **Breast cancer** - which breasts, diagnosis year, surgery, treatment, hospital location
+* **Breast cancer** - which breasts, diagnosis year, surgery, treatment, treatment location
 * **Implanted medical devices** - device type, if it has been removed
 * **Breast implants or augmentation** - which breasts, implant type, if they have been removed, consent to continue
 * **Mastectomy or lumpectomy** - which breasts, surgery type, reason (such as risk reduction)
 * **Cysts** - yes or no
-* **Benign lumps** - which breasts, diagnosis year, surgery, hospital location
+* **Benign lumps** - which breasts, diagnosis year, surgery, treatment location
 * **Other procedure** - what type, which breasts
 
 There are alternative ways to group these (for example, breast implant removal could be captured under other procedures or breast implants) which we will continue to explore through user testing.
@@ -154,13 +152,13 @@ The side-by-side form pattern on the following prototype images is not typical i
 
 ![Radio options for a lumpectomy or mastectomy that the participant may have had](breast-cancer-flow-2.png 'Options to select the same or different procedures on each breast. When they have had procedures, we need to know if there is any breast tissue remaining that needs to be scanned.')
 
-![Checkboxes for surgery that people may have following a breast cancer diagnosis](breast-cancer-flow-3.png 'We also need to know about other surgery that might affect the appearance of mammogram images. Participants may have had more than one of these on each side, so the form uses checkboxes rather than radio buttons.')
+![Checkboxes for surgery that people may have following a breast cancer diagnosis](breast-cancer-flow-3.png 'We need to know about other surgery that might affect the appearance of mammogram images. Participants may have had more than one of these on each side, so the form uses checkboxes rather than radio buttons.')
 
 ![Checkboxes for the treatments that can affect each breast, with a separate list for systemic treatments that affect the whole body](breast-cancer-flow-4.png 'Some treatments are breast specific, while others affect the whole body so are recorded with a single option.')
 
 ![Radio button options for selecting location information, which trigger a way to add details](breast-cancer-flow-5.png 'We can provide an autocomplete tool for treatment at an NHS unit, but also need to cater for more complex location information.')
 
-![Final part of the form with a freeform box and various save options](breast-cancer-flow-6.png 'Each medical info form has a way to add additional details. Some will capture all the details at once, while some will allow users to add another (for example, if there were multiple instances of breast cancer).')
+![Final part of the form with a freeform box and various save options](breast-cancer-flow-6.png 'Each medical info form has a way to add additional notes that are not covered in the fields above. Some will capture all the information at once, while others will allow users to add another (for example, if there were multiple instances of breast cancer).')
 
 ### Different user needs for dates
 
@@ -168,7 +166,7 @@ There was a general consensus between user groups about what was important in ea
 
 Radiologists made it clear that dates were only necessary for accessing breast cancer and benign lumps so pathology reports containing the full diagnosis and treatment information. In all other instances, it was not needed. As long as they know that a thing had occurred at some point in the past, that was enough to base their assessment on.
 
-However, radiographers felt there was a valid need to collect this information. It may not be necessary during this screening episode, but the next time a radiographer is reviewing the information with the participant at a mammogram appointment being able to refer to a year is very useful.
+However, radiographers felt there was a valid need to collect this information. It may not be necessary during this screening episode, but the next time a radiographer is reviewing the information with the participant at a mammogram appointment, being able to refer to a year is very useful.
 
 We are continuing to test this with users, but the current approach is likely to be an optional 'Year' field on each form. This does bring potential complications (Do we want the treatment date, or the diagnosis date? Is a year too vague, or would a month be useful too? Do participants take a disproportionate amount of time to answer questions about dates?) but this can be adapted as we gather more feedback.
 
@@ -182,7 +180,7 @@ While we were refining the categories, our prototype used the summary list compo
 
 ![A list of medical information categories, each with an option to add details](med-history-card-draft.png)
 
-This pattern takes up a large portion of the page and the repetitive nature of the links made it difficult for users to quickly scan and make the appropriate selection. The list of links also makes it appear that there are a lot of actions for the user to take, even if the intention is for them to ignore anything irrelevant.
+This pattern takes up a large portion of the page and the repetitive nature of the links made it difficult for users to quickly scan and make the appropriate selection. The list of links also made it appear that there are a lot of actions for the user to take, even if the intention is for them to ignore anything irrelevant.
 
 ### The latest design
 
@@ -196,7 +194,7 @@ Once data has been collected, we need to show this to the user, and give them th
 
 ![Displaying information captured about breast implants and other procedures within a summary table](med-history-info-recorded.png)
 
-This does create a hefty table in the interface, but with medical history being recorded quite infrequently it's unlikely to disrupt the user workflow. It's possible to add multiple issues, which are presented one after the other and when the medical history card is collapsed, we will display a summary counter so users will still be able to see that something has been recorded.
+This does create a hefty table in the interface, but with medical history being recorded quite infrequently it's unlikely to disrupt the user workflow. It's possible to add multiple issues, which are presented one after the other. When the medical history card is collapsed, we will display a summary counter so users will still be able to see that something has been recorded.
 
 This is a pattern we're using for information collected during this appointment. We'll need to do further work to determine how this could be displayed in a future appointment, or when data has been pulled into the system via another source.
 
