@@ -44,9 +44,13 @@ export default function (eleventyConfig) {
       'https://design-history.prevention-services.nhs.uk/'
   })
 
-  // Passthrough
-  eleventyConfig.addPassthroughCopy({ './app/images': '.' })
-  eleventyConfig.addPassthroughCopy('./app/pdfs')
+  // Images and PDFs
+  eleventyConfig.addPassthroughCopy('./app/**/*.gif')
+  eleventyConfig.addPassthroughCopy('./app/**/*.jpg')
+  eleventyConfig.addPassthroughCopy('./app/**/*.jpeg')
+  eleventyConfig.addPassthroughCopy('./app/**/*.png')
+  eleventyConfig.addPassthroughCopy('./app/**/*.pdf')
+
 
   // Nunjucks filters
   eleventyConfig.addFilter('push', (array, item) => {
@@ -102,7 +106,7 @@ export default function (eleventyConfig) {
     'talking-therapies'
   ]) {
     eleventyConfig.addCollection(service, (collection) => {
-      return collection.getFilteredByGlob(`app/posts/${service}/**/*.md`)
+      return collection.getFilteredByGlob(`app/${service}/**/*.md`)
     })
   }
 
