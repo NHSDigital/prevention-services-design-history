@@ -30,11 +30,17 @@ The exact way they phrase this question varys widely from clinic to clinic.
 
 The response is recorded on a paper form. They could make a tick, write down a year, or put a 'Y' on one or both sides, and add comments in the space provided. If there is nothing to record, they will typically strike through the section to indicate that the question has been covered.
 
+![Cropped photo of medical history section on NBSS form](med-history-form.png)
+
 ### Examples of completed forms
 
-These are real forms that contain no identifiable participant inforamtion.
+These are real forms containing no identifiable participant inforamtion.
+
+![Cropped photos of radiographer medical history notes on NBSS form](med-history-form-examples.png)
 
 This information is transcribed into NBSS once the appointment has been completed.
+
+![Cropped photos of radiographer medical history notes on NBSS form](nbss-med-history.png)
 
 This can capture many potential scenarios but leaves a lot of unanswered questions, such as where to record:
 
@@ -63,7 +69,10 @@ The users we're considering are:
 * Other services that may want to interact with the information
 
 Initial discussions with these groups and NHS stakeholders gave us an idea about what was essential or nice to have.
-In this diagram:
+
+![Notes from a digital whiteboard organising and annotating different types of medical information](med-history-requirements.png)
+
+In the diagram:
 
 * The '+' icon represents new data not currently collected
 * 'BR' indicates a defined business requirement (included in NHS guidelines)
@@ -137,14 +146,23 @@ There are alternative ways to group these (for example, breast implant removal c
 
 Each issue has been turned into a short data collection form which can be accessed from a medical information dashboard.
 
-- Spend some time walking through the journey of collecting breast cancer.
-- Talk about how it’s not just about having had it, but the treatments
-and that the treatments vary by breast - so we need to allow for complex cases
-- the side by side layout is unusual - but it makes sense in this scenario
+### An example journey for collecting breast cancer infroamtion
 
+The side-by-side form pattern on the following prototype images is not typical in the NHS design system. We've used it as it matches the way radiographers work, adding information about a participant as they are stood facing them.
 
+![Options to select whether cancer was in the right or left breast, with a backup option if they don't know](breast-cancer-flow-1.png 'Participants will usually know if cancer had been found in one or both breasts, but not always.')
 
-### Different needs for dates
+![Radio options for a lumpectomy or mastectomy that the participant may have had](breast-cancer-flow-2.png 'Options to select the same or different procedures on each breast. When they have had procedures, we need to know if there is any breast tissue remaining that needs to be scanned.')
+
+![Checkboxes for surgery that people may have following a breast cancer diagnosis](breast-cancer-flow-3.png 'We also need to know about other surgery that might affect the appearance of mammogram images. Participants may have had more than one of these on each side, so the form uses checkboxes rather than radio buttons.')
+
+![Checkboxes for the treatments that can affect each breast, with a separate list for systemic treatments that affect the whole body](breast-cancer-flow-4.png 'Some treatments are breast specific, while others affect the whole body so are recorded with a single option.')
+
+![Radio button optiosn for selecting location information, which trigger a way to add details](breast-cancer-flow-5.png 'We can provide an autocomplete tool for treatment at an NHS unit, but also need to cater for more complex location information.')
+
+![Final part of the form with a freeform box and various save options](breast-cancer-flow-6.png 'Each medical info form has a way to add additional details. Some will capture all the details at once, while some will allow users to add another (for example, if there were multiple instances of breast cancer).')
+
+### Different user needs for dates
 
 There was a general consensus between user groups about what was important in each area, with one exception; dates.
 
@@ -161,23 +179,24 @@ We've looked at ways to make it easy as possible for users to begin the relevant
 ### The initial design
 
 While we were refining the categories, our prototype used the summary list component from the GOV.UK system.
+
+![A list of medical information categories, each with an option to add details](med-history-card-draft.png)
+
 As well as taking up a large portion of the page, the repetitive nature of this pattern made it difficult for users to quickly scan and make the appropriate selection. The list of links also makes it appear that there is a lot of actions for the user to take, even if the intention is for them to ignore anything irrelevant.
 
 ### The latest design
 
 We've devised a more space-efficient pattern using a row of buttons to launch each data-capture journey.
 
+![A medical information summary card with clickable buttons showing each type of data to capture](med-history-card-prototype.png)
+
 ### Displaying information
 
 Once data has been collected, we need to show this to the user, and give them the opportunity to edit each item.
 
-<add screenshot with medical info added>
+![Displaying information captured about breast implants and other procedures within a summary table](med-history-info-recorded.png)
 
-This does create a hefty table in the interface, but with medical history being recorded quite infrequently it's unlikely to disrupt the user workflow. It's possible to add multiple issues, which are presented one after the other. We're anticipating this being done in very few instances.
-
-When the medical history card is collapsed, users will still be able to see that something has been recorded.
-
-<add collapsed card screenshot with medical info added>
+This does create a hefty table in the interface, but with medical history being recorded quite infrequently it's unlikely to disrupt the user workflow. It's possible to add multiple issues, which are presented one after the other and when the medical history card is collapsed, we will display a summary counter so users will still be able to see that something has been recorded.
 
 This is a pattern we're using for information collected during this appointment. We'll need to do further work to determine how this could be displayed in a future appointment, or when data has been pulled into the system via another source.
 
