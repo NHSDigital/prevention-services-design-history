@@ -114,19 +114,19 @@ They also told us that because this information is coming from participants, it 
 
 Some of the feedback included:
 
-> "If you're asking the participant to tell you about their breast cancer, you want to keep it really simple because they don't know the complexities of it."
+> If you're asking the participant to tell you about their breast cancer, you want to keep it really simple because they don't know the complexities of it.
 
-> "The year and place that they had treatment is really, really helpful because that means we can track down further information."
+> The year and place that they had treatment is really, really helpful because that means we can track down further information.
  
-> "They know they have a scar, but unbelievably they'll often forget the side of the breast. Sometimes they tell you it's the left and it's the right."
+> They know they have a scar, but unbelievably they'll often forget the side of the breast. Sometimes they tell you it's the left and it's the right.
 
-> "All I want to know is if they've had a history of cysts. It doesn't really matter how many or where, because often if you've got one cyst, you've got 45."
+> All I want to know is if they've had a history of cysts. It doesn't really matter how many or where, because often if you've got one cyst, you've got 45.
 
-> "Asking about the type of implant is mandated in the guidelines, but I would argue the guidelines probably need to change as that's not helpful information."
+> Asking about the type of implant is mandated in the guidelines, but I would argue the guidelines probably need to change as that's not helpful information.
 
-> "I don't need to be told which side a medical device implant is, I can see it."
+> I don't need to be told which side a medical device implant is, I can see it.
 
-> "I want to know if something has been taken out. When it was done is not relevant."
+> I want to know if something has been taken out. When it was done is not relevant.
 
 ## Honing in on requirements
 
