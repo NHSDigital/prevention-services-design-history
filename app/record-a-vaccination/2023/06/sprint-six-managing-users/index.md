@@ -1,5 +1,5 @@
 ---
-title: "Sprint six: managing users "
+title: "Sprint six: managing users"
 date: 2023-06-19
 ---
 
