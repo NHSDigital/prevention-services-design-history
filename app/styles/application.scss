@@ -2,6 +2,7 @@
 
 @forward "pkg:@x-govuk/nhsuk-eleventy-plugin";
 
+// stylelint-disable-next-line scss/load-no-partial-leading-underscore
 @forward "../_components";
 
 // App-specific prose styles

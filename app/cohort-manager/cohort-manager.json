@@ -1,0 +1,6 @@
+{
+  "layout": "post",
+  "eleventyNavigation": {
+    "parent": "Cohort manager"
+  }
+}
