@@ -156,7 +156,7 @@ This is our brand:
 
 Here is how images with captions are displayed:
 
-![Blue rectangle containing 'NHS' as white slanted letters](../../nhs-logo.png 'The NHS logo')
+![Blue rectangle containing 'NHS' as white slanted letters](../nhs-logo.png 'The NHS logo')
 
 ## Tables
 
