@@ -26,7 +26,7 @@ In future we'd like to sync the service with existing health data sources, or po
 
 Radiographers have told us that at some point between the identity check and x-rays being taken, they will ask participants a broad question such as "Have you had any issues or surgery in your breast or chest area?"
 
-The exact way they phrase this question varys widely from clinic to clinic.
+The exact way they phrase this question varies widely from clinic to clinic.
 
 The response is recorded on a paper form. They could make a tick, write down a year, or put a 'Y' on one or both sides, and add comments in the space provided. If there is nothing to record, they will typically strike through the section to indicate that the question has been covered.
 
@@ -34,7 +34,7 @@ The response is recorded on a paper form. They could make a tick, write down a y
 
 ### Examples of completed forms
 
-These are real forms containing no identifiable participant inforamtion.
+These are real forms containing no identifiable participant information.
 
 ![Cropped photos of radiographer medical history notes on NBSS form](med-history-form-examples.png)
 
@@ -81,7 +81,7 @@ In the diagram:
 
 ### Mapping requirements to reality 
 
-We anayalysed the paperwork from a screening clinic to see what information was most frequently captured. While this only gives a very rough approximation (we plan to analyse more clinics in the coming weeks) it is useful to see that in the majority of appointments, no medical information needs to be recorded.
+We analysed the paperwork from a screening clinic to see what information was most frequently captured. While this only gives a very rough approximation (we plan to analyse more clinics in the coming weeks) it is useful to see that in the majority of appointments, no medical information needs to be recorded.
 
 When it was necessary, the topics recorded in our sample clinic were:
 
@@ -146,7 +146,7 @@ There are alternative ways to group these (for example, breast implant removal c
 
 Each issue has been turned into a short data collection form which can be accessed from a medical information dashboard.
 
-### An example journey for collecting breast cancer infroamtion
+### An example journey for collecting breast cancer information
 
 The side-by-side form pattern on the following prototype images is not typical in the NHS design system. We've used it as it matches the way radiographers work, adding information about a participant as they are stood facing them.
 
@@ -158,7 +158,7 @@ The side-by-side form pattern on the following prototype images is not typical i
 
 ![Checkboxes for the treatments that can affect each breast, with a separate list for systemic treatments that affect the whole body](breast-cancer-flow-4.png 'Some treatments are breast specific, while others affect the whole body so are recorded with a single option.')
 
-![Radio button optiosn for selecting location information, which trigger a way to add details](breast-cancer-flow-5.png 'We can provide an autocomplete tool for treatment at an NHS unit, but also need to cater for more complex location information.')
+![Radio button options for selecting location information, which trigger a way to add details](breast-cancer-flow-5.png 'We can provide an autocomplete tool for treatment at an NHS unit, but also need to cater for more complex location information.')
 
 ![Final part of the form with a freeform box and various save options](breast-cancer-flow-6.png 'Each medical info form has a way to add additional details. Some will capture all the details at once, while some will allow users to add another (for example, if there were multiple instances of breast cancer).')
 
@@ -170,11 +170,11 @@ Radiologists made it clear that dates were only necessary for accessing breast c
 
 However, radiographers felt there was a valid need to collect this information. It may not be necessary during this screening episode, but the next time a radiographer is reviewing the information with the participant at a mammogram appointment being able to refer to a year is very useful.
 
-We are continuing to test this with users, but the current approach is likely to be an optional 'Year' field on each form. This does bring potential complications (Do we want the treatment date, or the diagnosis date? Is a year too vauge, or would a month be useful too? Do participants take a disproportionate amount of time to answer questions about dates?) but this can be adapted as we gather more feedback.
+We are continuing to test this with users, but the current approach is likely to be an optional 'Year' field on each form. This does bring potential complications (Do we want the treatment date, or the diagnosis date? Is a year too vague, or would a month be useful too? Do participants take a disproportionate amount of time to answer questions about dates?) but this can be adapted as we gather more feedback.
 
 ## Before and after data collection
 
-We've looked at ways to make it easy as possible for users to begin the relevant data collection journey based on what gets mentioned by the participant. This means clear actions that leave no ambiguity about which issue should be recorded where.
+We've looked at ways to make it as easy as possible for users to begin the relevant data collection journey based on what gets mentioned by the participant. This means clear actions that leave no ambiguity about which issue should be recorded where.
 
 ### The initial design
 
@@ -182,7 +182,7 @@ While we were refining the categories, our prototype used the summary list compo
 
 ![A list of medical information categories, each with an option to add details](med-history-card-draft.png)
 
-As well as taking up a large portion of the page, the repetitive nature of this pattern made it difficult for users to quickly scan and make the appropriate selection. The list of links also makes it appear that there is a lot of actions for the user to take, even if the intention is for them to ignore anything irrelevant.
+This pattern takes up a large portion of the page and the repetitive nature of the links made it difficult for users to quickly scan and make the appropriate selection. The list of links also makes it appear that there are a lot of actions for the user to take, even if the intention is for them to ignore anything irrelevant.
 
 ### The latest design
 
