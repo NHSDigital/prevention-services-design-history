@@ -32,5 +32,5 @@ These concepts were presented through a system-agnostic flow and initial user jo
 
 The session provided invaluable feedback from Product and Program Leads, which was critical for refining and strengthening the proposed journey. 
 
-![high level journey phases starting from diabetes diagnosis confirmed, screening cohort identified and other reports and participant invited and screened for diabetic retinopathy. User groups include: GP, participant, Data improvements user and DESPs as well as a row for supporting services, proposed changes and summary of three core areas for transformative change](des-desired-to-be-user-journey-blog-3.png "Desired To-Be User Journey")
+![high level journey phases starting from diabetes diagnosis confirmed, screening cohort identified and other reports and participant invited and screened for diabetic retinopathy. User groups include: GP, participant, Data improvements user and DESPs (Diabetic Eye Screening Providers) as well as a row for supporting services, proposed changes and summary of three core areas for transformative change](des-desired-to-be-user-journey-blog-3.png "Desired To-Be User Journey")
 
