@@ -4,7 +4,7 @@ description: How the bowel team carried out a high level audit of the bowel canc
 date: 2025-04-07
 tags:
   - bowel screening
-  - Accessibility
+  - accessibility
 ---
 
 This week the bowel UCD team reviewed the accessibility and usability of the bowel cancer screening system (BCSS).
