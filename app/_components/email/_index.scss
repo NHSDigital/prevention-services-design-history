@@ -6,7 +6,10 @@
   margin-bottom: nhsuk-spacing(8);
   max-width: 40rem;
 
-  h1, h2, h3, h4 {
+  h1,
+  h2,
+  h3,
+  h4 {
     @include nhsuk-font-size($size: 26);
     @include nhsuk-typography-weight-bold;
     margin-bottom: nhsuk-spacing(4);
