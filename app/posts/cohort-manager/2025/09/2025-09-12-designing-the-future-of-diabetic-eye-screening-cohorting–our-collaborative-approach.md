@@ -14,7 +14,7 @@ Our collaborative sessions with the program enabled us to generate fresh ideas, 
 
 We began by translating the strongest ideas into a first draft of the future cohorting journey. Using Mural, our team developed several rough iterations, focusing on high-level concepts while deliberately avoiding premature solutionising. 
 
-Through this iterative process, we merged two of the three key ideas, discarding the third after assessing its feasibility and alignment. The outcome was a first-pass journey map that captured the experience of key users (participants, clinicians, DESPs, and QA teams). 
+Through this iterative process, we merged two of the three key ideas, discarding the third after assessing its feasibility and alignment. The outcome was a first-pass journey map that captured the experience of key users (participants, clinicians, diabetic eye screening providers, and QA teams). 
 
 To ensure the journey was viable, we engaged technical teams, product leads, and business analysts to gather feedback and validate both the user-centred design and technical feasibility. 
 
