@@ -5,7 +5,7 @@ date: 2025-06-30
 tags:
   - cervical screening
   - hpv self testing
-  - accessibiity
+  - accessibility
 ---
 
 The HPV self-testing team is aiming to deliver a trusted, reliable and accessible service which allows eligible individuals to order an HPV test, self-sample, return their kit and receive a result, with clear information on next steps. The HPV self-testing service is not a simple at-home testing project. We want to purposely aim this service at a very diverse group of users that are currently not engaged with the cervical screening programme.
