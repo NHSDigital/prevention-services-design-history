@@ -156,7 +156,7 @@ The side-by-side form pattern on the following prototype images is not typical i
 
 ![Checkboxes for the treatments that can affect each breast, with a separate list for systemic treatments that affect the whole body](breast-cancer-flow-4.png 'Some treatments are breast specific, while others affect the whole body so are recorded with a single option.')
 
-![Radio button options for selecting location information, which trigger a way to add details](breast-cancer-flow-5.png 'We can provide an autocomplete tool for treatment at an NHS unit, but also need to cater for more complex location information.')
+![Radio button options for selecting location information, which trigger a way to add details](breast-cancer-flow-5.png 'We can provide an autocomplete input to select treatment at an NHS unit, but also need to cater for more complex location information.')
 
 ![Final part of the form with a freeform box and various save options](breast-cancer-flow-6.png 'Each medical info form has a way to add additional notes that are not covered in the fields above. Some will capture all the information at once, while others will allow users to add another (for example, if there were multiple instances of breast cancer).')
 
