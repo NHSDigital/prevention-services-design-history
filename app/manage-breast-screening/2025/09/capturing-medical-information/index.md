@@ -1,6 +1,6 @@
 ---
 title: Capturing medical information
-description: Logging relevant treatments and surgeries of people attending breast screening
+description: Recording relevant medical treatments and surgeries of people attending breast screening
 date: 2025-07-21
 tags:
   - beta
