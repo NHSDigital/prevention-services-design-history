@@ -184,7 +184,7 @@ This pattern takes up a large portion of the page and the repetitive nature of t
 
 ### The latest design
 
-We've devised a more space-efficient pattern using a row of buttons to launch each data-capture journey.
+We are trying a more space-efficient pattern using a row of buttons to launch each data-capture journey.
 
 ![A medical information summary card with clickable buttons showing each type of data to capture](med-history-card-prototype.png)
 
