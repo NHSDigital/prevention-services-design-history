@@ -77,7 +77,7 @@ In the diagram:
 
 ### Mapping requirements to reality 
 
-We analysed the paperwork from a screening clinic to see what information was most frequently captured. While this only gives a very rough approximation (we plan to analyse more clinics in the coming weeks) it is useful to see that in the majority of appointments, no medical information needs to be recorded.
+We analysed the paperwork from a screening clinic to see what information was most frequently captured. While this only gives a very rough approximation (we plan to analyse more clinics in the coming weeks) it is useful to see that in the majority of appointments, no medical information needed to be recorded.
 
 When it was necessary, the topics recorded in our sample clinic were:
 
