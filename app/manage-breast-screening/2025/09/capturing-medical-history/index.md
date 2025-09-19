@@ -93,7 +93,7 @@ This may not be the most frequently used part of our service, but the informatio
 
 ## Creating an appropriate path
 
-Regardless of how this question is asked, we want to provide mammographers with an efficient way to record whatever information they are told.
+We want to provide mammographers with an efficient way to record whatever relevant medical history information they are told.
 
 Our first solution was to present a standard set of questions that could cover any previous medical issue. 
 
