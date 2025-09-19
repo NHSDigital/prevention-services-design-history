@@ -24,7 +24,7 @@ In the future we'd like to sync the service with existing health data sources (w
 
 ## How medical information is currently recorded
 
-Radiographers have told us that at some point between the identity check and x-rays being taken, they will ask participants "Have you had any issues or surgery in your breast or chest area?" - the exact way they phrase this question varies widely from clinic to clinic.
+At some point between the identity check and x-rays being taken, radiographers need to ask participants about they relevant medical history. The exact way they phrase this question varies from clinic to clinic, but those we've spoken with have said they will typically ask "Have you had any issues or surgery in your breast or chest area?"
 
 The response is recorded on a paper form. They could make a tick, write down a year, or put a 'Y' on one or both sides, and add comments in the space provided. If there is nothing to record, they will typically strike through the section to indicate that the question has been covered.
 
@@ -36,7 +36,7 @@ These are real forms containing no identifiable participant information.
 
 ![Cropped photos of radiographer medical history notes on NBSS form](med-history-form-examples.png)
 
-This information is transcribed into NBSS once the appointment has been completed.
+Relevant information is transcribed into NBSS once the appointment has been completed, with the form scanned and uploaded.
 
 ![Cropped photos of radiographer medical history notes on NBSS form](nbss-med-history.png)
 
@@ -50,9 +50,7 @@ This can capture many potential scenarios but leaves a lot of unanswered questio
 * cysts that have not been aspirated
 * other breast cancer treatment, such as chemotherapy
 
-As well as certain fields not being available, the freeform nature of what is there doesn't help to gather structured data that can be used within the service (and beyond). 
-
-There are far too many things sitting within the 'other' bucket.
+As well as certain fields not being available, the freeform nature of what is there doesn't help to gather structured data that can be used within the service (and beyond). It also leads to variability in what's recorded and the level of detail.
 
 ## Designing a new approach
 
