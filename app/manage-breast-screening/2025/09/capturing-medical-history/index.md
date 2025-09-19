@@ -142,7 +142,7 @@ Through discussions we've been able to refine what's actually needed for each is
 
 There are alternative ways to group these (for example, breast implant removal could be captured under other procedures or breast implants) which we will continue to explore through user testing.
 
-Each issue has been turned into a short data collection form which can be accessed from a medical information dashboard.
+Each issue has been turned into a short data collection form which can be accessed from a general medical information page.
 
 ### An example journey for collecting breast cancer information
 
