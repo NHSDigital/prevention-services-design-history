@@ -110,7 +110,7 @@ After consulting with subject matter experts, we quickly realised things were a 
 
 The benefits of presenting users with a single, familiar pattern were far outweighed by the downsides of including fields for things that aren't necessary.
 
-They also told us that because this information is coming from participants, it can't be wholly relied upon. Their preference is to ask as few questions as possible that would give them the information needed to inform their actions.
+They also told us that because this information is coming from participants, it can't be wholly relied upon. People are unlikely to lie about previous treatment, but the frequently misremember details, especially if it happened many years before. Their preference is to ask as few questions as possible that would give them the information needed to inform their actions.
 
 Some of the feedback included:
 
