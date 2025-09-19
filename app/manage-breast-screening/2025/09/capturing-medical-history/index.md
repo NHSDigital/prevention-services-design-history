@@ -1,7 +1,7 @@
 ---
-title: Capturing medical information
+title: Capturing medical history
 description: Recording relevant medical treatments and surgeries of people attending breast screening
-date: 2025-07-21
+date: 2025-09-22
 tags:
   - beta
   - prototype
@@ -164,7 +164,7 @@ The side-by-side form pattern on the following prototype images is not typical i
 
 There was a general consensus between user groups about what was important in each area, with one exception; dates.
 
-Radiologists made it clear that dates were only necessary for accessing breast cancer and benign lumps so pathology reports containing the full diagnosis and treatment information. In all other instances, it was not needed. As long as they know that a thing had occurred at some point in the past, that was enough to base their assessment on.
+Radiologists made it clear that dates were only necessary for accessing pathology reports containing diagnosis and treatment information of breast cancer and benign lumps. In all other instances, it was not needed. As long as they know that a thing had occurred at some point in the past, that was enough to base their assessment on.
 
 However, radiographers felt there was a valid need to collect this information. It may not be necessary during this screening episode, but the next time a radiographer is reviewing the information with the participant at a mammogram appointment, being able to refer to a year is very useful.
 
@@ -194,7 +194,9 @@ Once data has been collected, we need to show this to the user, and give them th
 
 ![Displaying information captured about breast implants and other procedures within a summary table](med-history-info-recorded.png)
 
-This does create a hefty table in the interface, but with medical history being recorded quite infrequently it's unlikely to disrupt the user workflow. It's possible to add multiple issues, which are presented one after the other. When the medical history card is collapsed, we will display a summary counter so users will still be able to see that something has been recorded.
+This does create a hefty table in the interface, but with medical history being recorded quite infrequently it's unlikely to disrupt the typical user workflow. Research suggests it's uncommon for radiographers to need to record more than one item of medical history, and very rarely more than a couple. However, if that is required we've made it possible to add multiple issues which are displayed one after the other. 
+
+When the medical history card is collapsed, we will display a summary counter so users will still be able to see that something has been recorded.
 
 This is a pattern we're using for information collected during this appointment. We'll need to do further work to determine how this could be displayed in a future appointment, or when data has been pulled into the system via another source.
 
