@@ -20,7 +20,7 @@ It's valuable to collect any previous diagnosis of breast cancer, benign lumps, 
 
 Parts of the NHS might be aware, but often the office where breast screening is taking place will not. Sometimes it could be looked it up in patient databases, but that's not always practical given the time constraints that clinics are under.
 
-In future we'd like to sync the service with existing health data sources, or populate it through a pre-appointment questionnaire. But for now we're designing a solution for when there is no prior information available and everything needs to be collected during the appointment.
+In the future we'd like to sync the service with existing health data sources (where possible), or populate it through a pre-appointment questionnaire. But for now we're designing a solution for when there is no prior information available and everything needs to be collected during the appointment.
 
 ## How medical information is currently recorded
 
