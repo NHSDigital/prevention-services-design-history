@@ -146,7 +146,7 @@ Each issue has been turned into a short data collection form which can be access
 
 ### An example journey for collecting breast cancer information
 
-The side-by-side form pattern on the following prototype images is not typical in the NHS design system. We've used it as it matches the way radiographers work, adding information about a participant as they are stood facing them.
+The side-by-side form pattern on the following prototype images is not typical in the NHS design system. We've used it as it matches the way radiographers work and annotate results. In breast cancer treatment right is always on the left and left always on the right, which is how it looks when a participant is stood facing them.
 
 ![Options to select whether cancer was in the right or left breast, with a backup option if they don't know](breast-cancer-flow-1.png 'Participants will usually know if cancer had been found in one or both breasts, but not always.')
 
