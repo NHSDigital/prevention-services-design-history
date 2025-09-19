@@ -36,9 +36,7 @@ We aimed to:
 
 We mapped the process from data capture through to sharing of reports and analysis. This showed us where manual work is currently required, and where issues are arising in a complex process involving many people. This meant we could identify the opportunities to improve.
 
-A screenshot of a computer
-
-Description automatically generated
+![Map of the current complicated manual process of BQA reporting](current-bqa-reporting-process-map.png)
 
 ### Conducted interviews
 
@@ -86,10 +84,9 @@ Larger BSOs employ people whose only role is data entry – not just Pathology d
 
 BSO admin staff have to look through reports for the data they have to enter into NBSS. Some pathology reports are in a ‘storytelling’ style, others are what is known as ‘synoptic reports’. Synoptic reports echo the fields in the NBSS system, making it easier to find and enter the right data. The synoptic format would also be easier to extract data from with a digital tool.
 
+![Replicas (without data) of: synoptic pathology report with structured data that mirrors NBSS fields (left), and the more common ‘storytelling’ report where admin staff need to hunt for the data they need (right)](pathology-report-format-examples.png)
 
-
-Left: Replica (without data) of synoptic pathology report with structured data  that mirrors NBSS fields
-Right: Replica (without data) of the more common ‘storytelling’ report where admin staff need to hunt for the data they need
+**Replicas (without data) of: synoptic pathology report with structured data that mirrors NBSS fields (left), and the more common ‘storytelling’ report where admin staff need to hunt for the data they need (right)**
 
 #### The annual reporting process is time consuming and manual
 
@@ -144,9 +141,8 @@ Other benefits of working with existing paper processes include:
 
 The diagram shows how we might be able to streamline the process, reduce manual work and remove duplication.
 
-A diagram of a problem
 
-Description automatically generated
+![Diagram showing how we could solve multiple problems and speed up BQA reporting](bqa-reporting-future-state-concept.png)
 
 ## What’s next
 
