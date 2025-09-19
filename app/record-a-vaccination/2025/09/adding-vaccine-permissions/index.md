@@ -1,0 +1,77 @@
+---
+title: Adding vaccine permissions
+date: 2025-09-19
+description: Why we’ve restricted which vaccines each organisation can record.
+---
+
+Previously, all organisations using RAVS could technically record any of the 4 vaccine types that we support: COVID-19, flu, RSV and pertussis.
+
+However in reality different organisations are able to give and record different vaccines depending upon how they’ve been commissioned and assured. For example, only pharmacies that are part of a pilot are currently able to offer the RSV vaccine.
+
+Whilst we were only supporting 4 vaccine types and a limited number of organisations, this was not an issue as the risk was small and organisations could just ignore the vaccines they weren’t using.
+
+With the expansion of RAVS to support more vaccine types, we decided to add an additional layer of permissions so that different organisations could be given access to record different vaccines.
+
+## Pharmacies self-onboarding
+
+For [pharmacies signing up to use the service](/record-a-vaccination/2025/08/enabling-pharmacies-to-sign-up/) we added an additional screen to ask which vaccines they would be giving:
+
+![TODO](what-vaccinations-do-you-want-to-record.png)
+
+If the pharmacy is in London, some additional options are shown:
+
+![TODO](what-vaccinations-do-you-want-to-record-london.png)
+
+Currently, all pharmacies are able to offer the flu vaccine as part of their standard service. Only pharmacies who have been assured can offer the COVID-19 vaccine. In London, some pharmacies have been separately commissioned to offer the pneumococcal vaccine and an extended eligibility for the flu vaccine.
+
+## Organisations added by regions
+
+If an organisation is invited by a region using the [regional interface](/record-a-vaccination/2024/08/onboarding-organisations-without-spreadsheets/), the regional user is now asked which vaccines the organisation should be given access to:
+
+![TODO](which-vaccines-can-they-record.png)
+
+This list contains all of the vaccine types that RAVS currently supports.
+
+## Giving organisations access to additional vaccines
+
+When a regional user views details of the organisations in their region added to RAVS, the screen now shows which vaccines they are currently able to record, and includes a link to add additional vaccines:
+
+![TODO](region-organisation-view.png)
+
+When adding additional vaccines, they are shown a list of checkboxes for the vaccines the organisation cannot yet record, and can select which ones to add:
+
+![TODO](which-vaccines-do-you-want-to-add.png)
+
+## What an organisation sees
+
+If an organisation does not have access to a vaccine, they will not be able to add batches for that vaccine, or select that vaccine when recording a vaccination.
+
+If they need to request access to give a new vaccine type, they will have to contact their region.
+
+## Removing access to vaccines
+
+We have currently chosen not to give regional users the ability to remove an organisation’s ability to record a vaccine type.
+
+This is because:
+
+* if this was done accidentally, it may prevent someone being given a vaccine or the information being shared, causing a clinical risk
+* even if an organisation is no longer commissioned to give a certain vaccine type, they may still need to retrospectively record those vaccinations
+* if the organisation closes or is no longer offering any vaccinations, they can be deactivated instead
+
+We will keep this under review.
+
+## Requesting and approving
+
+We also designed a way for users to be able to directly request access to additional vaccine types within the service, instead of needing to contact their region by email:
+
+![TODO](request-vaccine.png)
+
+These requests would then appear in a ‘Messages’ section in the regional interface (as well as an email notification):
+
+![TODO](messages.png)
+
+The regional user could then approve or deny the request:
+
+![TODO](approve-or-deny.png)
+
+However we decided to de-scope this feature, and will instead wait and see what the additional admin burden of managing requests for access to record vaccines looks like.
