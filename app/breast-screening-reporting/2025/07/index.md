@@ -1,12 +1,12 @@
 ---
-title: Improving Pathology BQA reporting
+title: Improving pathology BQA reporting
 description: A concept for how we might improve data quality and reduce manual work in pathology reporting.
 date: 2025-07-01
 ---
 
 **Note: this work was completed by Team Analyse. It will be carried forward by the Breast Screening Pathway Team and/or Breast Screening Reporting.**
 
-We were given a heads up that Pathology reporting, specifically the Breast Screening Quality Assurance (BQA) report, would be a good place to create value quickly in breast screening reporting because the entire process is currently painfully manual.
+We were given a heads up that pathology reporting, specifically the Breast Screening Quality Assurance (BQA) report, would be a good place to create value quickly in breast screening reporting because the entire process is currently painfully manual.
 
 ## What is the BQA report?
 
@@ -58,11 +58,11 @@ Pathology reports (with identifying data removed) were collected to understand t
 
 Firstly we observed a variety of dedicated people doing their best to work with old systems. They have no choice but to spend a lot of time on arduous manual tasks to complete BQA reporting. Seeing passionate, dedicated, time-poor people having to complete painfully slow tasks that should not exist is a great motivator to create something better.
 
-### PCA Pathologists view
+### PCA pathologists view
 
-PCA Pathologists represent the Royal College of Pathology and set the standards. They can tell that certain types of BQA data are problematic, despite the great effort by BSOs and QA teams, and this is due to challenges with the way data is currently captured. They also told us that NBSS has not kept pace with newer, more sophisticated technology meaning we are currently missing opportunities to improve our understanding.
+PCA pathologists represent the Royal College of Pathology and set the standards. They can tell that certain types of BQA data are problematic, despite the great effort by BSOs and QA teams, and this is due to challenges with the way data is currently captured. They also told us that NBSS has not kept pace with newer, more sophisticated technology meaning we are currently missing opportunities to improve our understanding.
 
-There is no suggestion that admin staff are doing anything wrong. PCA Pathologists know that BQA data is challenging and complex for admin staff and we cannot expect them all to get it right all the time.
+There is no suggestion that admin staff are doing anything wrong. PCA pathologists know that BQA data is challenging and complex for admin staff and we cannot expect them all to get it right all the time.
 
 Note that BQA data is entered after care decisions have been made in the Multi Disciplinary Team meeting (MDT) so these issues do not impact breast screening participants. Also, QA team view
 
@@ -82,7 +82,7 @@ When they do receive the data, the D&A team are currently spending large amounts
 
 Smaller BSOs do not have dedicated data staff so this work is undertaken by people with multiple other tasks. They find this work very stressful as they are very aware that this is complex data that should not be interpreted. When seeking clarification some BSOs have no access to the pathologist who wrote the report.
 
-Larger BSOs employ people whose only role is data entry – not just Pathology data. Some of these staff are extremely experienced and it’s not a role that a person new to breast screening can easily step into.
+Larger BSOs employ people whose only role is data entry – not just pathology data. Some of these staff are extremely experienced and it’s not a role that a person new to breast screening can easily step into.
 
 #### Pathology lab reports are not consistent
 
