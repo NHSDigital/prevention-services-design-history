@@ -176,7 +176,7 @@ We've looked at ways to make it as easy as possible for users to begin the relev
 
 ### The initial design
 
-While we were refining the categories, our prototype used the summary list component from the GOV.UK system.
+While we were refining the categories, our prototype used the summary list component from the NHS design system.
 
 ![A list of medical information categories, each with an option to add details](med-history-card-draft.png)
 
