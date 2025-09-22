@@ -14,7 +14,7 @@ We've been working with radiologists and radiographers to understand exactly wha
 
 During a screening appointment mammographers need to find out if the participant has had any previous medical issues affecting their breasts. This can influence how the appointment proceeds, and inform radiologists about things they may need to consider when reviewing x-ray images.
 
-It's valuable to collect any previous diagnosis of breast cancer, benign lumps, cosmetic breast implants, a pacemaker, and various other things that may have happened to one or both breasts.
+It's valuable to collect information on any previous diagnosis of breast cancer, benign lumps, cosmetic breast implants, a pacemaker, and various other things that may have happened to one or both breasts.
 
 ### Don't we already have this information?
 
@@ -108,7 +108,7 @@ After consulting with subject matter experts, we quickly realised things were a 
 
 The benefits of presenting users with a single, familiar pattern were far outweighed by the downsides of including fields for things that aren't necessary.
 
-They also told us that because this information is coming from participants, it can't be wholly relied upon. People are unlikely to lie about previous treatment, but the frequently misremember details, especially if it happened many years before. Their preference is to ask as few questions as possible that would give them the information needed to inform their actions.
+They also told us that because this information is coming from participants, it can't be wholly relied upon. People are unlikely to lie about previous treatment, but they frequently misremember details, especially if it happened many years before. Their preference is to ask as few questions as possible that would give them the information needed to inform their actions.
 
 Some of the feedback included:
 
@@ -200,7 +200,7 @@ This is a pattern we're using for information collected during this appointment.
 
 ## What we’re doing next 
 
-Now we've refined these journeys with the radiologists and radiographers we work closely with, they now need to be tested with a wider set of users. We're particularly looking to see how they work alongside the rest of the service and whether they cover the myriad of scenarios that occur in day-to-day mammogram appointments.
+Now we've refined these journeys with the radiologists and radiographers we work closely with, they can be tested with a wider set of users. We're particularly looking to see how they work alongside the rest of the service and whether they cover the myriad of scenarios that occur in day-to-day mammogram appointments.
 
 We're also aiming to find out if:
 
