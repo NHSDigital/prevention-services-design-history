@@ -24,7 +24,7 @@ In the future we'd like to sync the service with existing health data sources (w
 
 ## How medical information is currently recorded
 
-At some point between the identity check and x-rays being taken, radiographers need to ask participants about they relevant medical history. The exact way they phrase this question varies from clinic to clinic, but those we've spoken with have said they will typically ask "Have you had any issues or surgery in your breast or chest area?"
+At some point between the identity check and x-rays being taken, radiographers need to ask participants about their relevant medical history. The exact way they phrase this question varies from clinic to clinic, but those we've spoken with have said they will typically ask "Have you had any issues or surgery in your breast or chest area?"
 
 The response is recorded on a paper form. They could make a tick, write down a year, or put a 'Y' on one or both sides, and add comments in the space provided. If there is nothing to record, they will typically strike through the section to indicate that the question has been covered.
 
