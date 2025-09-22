@@ -14,7 +14,7 @@ We've been working with radiologists and radiographers to understand exactly wha
 
 During a screening appointment mammographers need to find out if the participant has had any previous medical issues affecting their breasts. This can influence how the appointment proceeds, and inform radiologists about things they may need to consider when reviewing x-ray images.
 
-It's valuable to collect any previous diagnosis of breast cancer, benign lumps, cosmetic breast implants, a pacemaker, and various other things that may have happened to one or both breasts.
+It's valuable to collect information on any previous diagnosis of breast cancer, benign lumps, cosmetic breast implants, a pacemaker, and various other things that may have happened to one or both breasts.
 
 ### Don't we already have this information?
 
@@ -24,7 +24,7 @@ In the future we'd like to sync the service with existing health data sources (w
 
 ## How medical information is currently recorded
 
-At some point between the identity check and x-rays being taken, radiographers need to ask participants about they relevant medical history. The exact way they phrase this question varies from clinic to clinic, but those we've spoken with have said they will typically ask "Have you had any issues or surgery in your breast or chest area?"
+At some point between the identity check and x-rays being taken, radiographers need to ask participants about their relevant medical history. The exact way they phrase this question varies from clinic to clinic, but those we've spoken with have said they will typically ask "Have you had any issues or surgery in your breast or chest area?"
 
 The response is recorded on a paper form. They could make a tick, write down a year, or put a 'Y' on one or both sides, and add comments in the space provided. If there is nothing to record, they will typically strike through the section to indicate that the question has been covered.
 
@@ -108,7 +108,7 @@ After consulting with subject matter experts, we quickly realised things were a 
 
 The benefits of presenting users with a single, familiar pattern were far outweighed by the downsides of including fields for things that aren't necessary.
 
-They also told us that because this information is coming from participants, it can't be wholly relied upon. People are unlikely to lie about previous treatment, but the frequently misremember details, especially if it happened many years before. Their preference is to ask as few questions as possible that would give them the information needed to inform their actions.
+They also told us that because this information is coming from participants, it can't be wholly relied upon. People are unlikely to lie about previous treatment, but they frequently misremember details, especially if it happened many years before. Their preference is to ask as few questions as possible that would give them the information needed to inform their actions.
 
 Some of the feedback included:
 
@@ -144,7 +144,9 @@ Each issue has been turned into a short data collection form which can be access
 
 ### An example journey for collecting breast cancer information
 
-The side-by-side form pattern on the following prototype images is not typical in the NHS design system. We've used it as it matches the way radiographers work and annotate results. In breast cancer treatment right is always on the left and left always on the right, which is how it looks when a participant is stood facing them.
+The side-by-side form pattern on the following prototype images is not typical in the NHS design system.
+
+We've used it as it matches the way radiographers work and annotate results, which should reduce the risk of recording incorrect information. In breast cancer treatment right is always on the left and left always on the right, which is how it looks when a participant is stood facing them. 
 
 ![Options to select whether cancer was in the right or left breast, with a backup option if they don't know](breast-cancer-flow-1.png 'Participants will usually know if cancer had been found in one or both breasts, but not always.')
 
@@ -200,11 +202,11 @@ This is a pattern we're using for information collected during this appointment.
 
 ## What we’re doing next 
 
-Now we've refined these journeys with the radiologists and radiographers we work closely with, they now need to be tested with a wider set of users. We're particularly looking to see how they work alongside the rest of the service and whether they cover the myriad of scenarios that occur in day-to-day mammogram appointments.
+Now we've refined these journeys with the radiologists and radiographers we work closely with, they can be tested with a wider set of users. We're particularly looking to see how they work alongside the rest of the service and whether they cover the myriad of scenarios that occur in day-to-day mammogram appointments.
 
 We're also aiming to find out if:
 
-* collecting structured information adds significant time to an appointment
+* collecting structured information adds significant time to an appointment (and if that's offset by removing the manual transcription task)
 * radiographers think any information would be difficult to collect 
 * there's anything that radiographers typically discuss that doesn't have a place to go
 
