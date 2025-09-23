@@ -1,0 +1,12 @@
+{
+  "name": "NHS Digital prevention services design history",
+  "portsAttributes": {
+    "8080": {
+      "label": "Preview",
+      "onAutoForward": "openPreview"
+    }
+  },
+  "forwardPorts": [8080],
+  "postCreateCommand": "npm install",
+  "postAttachCommand": "npm start"
+}
