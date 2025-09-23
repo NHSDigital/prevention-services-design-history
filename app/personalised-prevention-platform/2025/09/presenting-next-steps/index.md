@@ -9,7 +9,6 @@ tags:
 
 
 Hello! We’ve undergone a mild rebrand. We’re now known as the Weight Management team, still under Personalised Prevention Services.
-{.nhsuk-body-l}
 
 Prior to this we were the [Personalised Prevention Platform (PPP).](/personalised-prevention-platform/)
 
@@ -36,9 +35,9 @@ Everyone we have spoken to told us they believed they could be doing more to mai
 
 We are confident that any given individual can be presented with a range of options that could be well suited to them. For example:
 
-* solo self-directed apps
-* in-person group programmes
-* regular community events
+* apps people use by themselves, for example Active 10
+* in-person group programmes, for example an exercise class
+* regular community events, for example Parkrun
 
 We wanted to test how we might present next steps in a clear and actionable manner.
 
@@ -46,12 +45,12 @@ Our prototypes were rooted in four underlying themes:
 
 ### 1. What’s the value of presenting a range of opportunities?
 
-Personalisation can only ever go so far &ndash; particularly in the case of [primary prevention.](http://localhost:8080/personalised-prevention/2025/07/definitions/) It is not realistic or desirable to assume that we can propose one perfect route for every individual &ndash; choice and agency must play a part.
+There are limits to personalisation, especially in prevention. We can’t create the perfect path for each person &ndash; and we shouldn’t try to. The best approach is helping people choose what works for them from relevant options.
 
 Can we provide:
 
-* enough choice for a user to find at least one interesting thing?
-* a narrow enough selection to avoid overwhelm and choice paralysis?
+* enough choice that each person finds at least one thing they want to try?
+* a small enough selection that people don't feel overwhelmed?
 
 ### 2. What’s the minimum viable information about an activity we can use?
 
@@ -107,7 +106,7 @@ How can we know if a user has:
 * attended a community event?
 * used a public facility?
 
-## What we did
+## How we tested presenting next steps
 
 ### Expanding the prototype user journey
 
@@ -129,7 +128,7 @@ For listings, we gradually moved from hard coded selections matched to participa
 
 This enabled us to:
 
-* continue to prove our “local is high value” hypotheses
+* continue to test our “local is high value” hypotheses
 * test a real dataset with real filters
 
 {% from "nhsuk/components/images/macro.njk" import image as nhsukImage %}
@@ -166,11 +165,11 @@ to:
 
 ### Blend national and local
 
-Since [discovery](/personalised-prevention-platform/2025/03/discovery-summary/) we’ve continuously proved that presenting a blend of national and local has real value to people. Throughout our sessions people asked if the options were real (they all were), and then make notes to look them up afterwards.
+Since [discovery](/personalised-prevention-platform/2025/03/discovery-summary/) we’ve continuously proved that presenting a blend of national and local has real value for people. Throughout our sessions people asked if the options were real (they all were), and then make notes to look them up afterwards.
 
 “National” and “local” are false distinctions, very visible to us, as we operate within organisational structures.
 
-But where a thing “comes from” is utterly irrelevant to a user. You can be interested in Active 10, interested in your local Parkrun, and interested in the public gym in your local park.
+But where a thing “comes from” is irrelevant to a user. You can be interested in Active 10, interested in your local Parkrun, and interested in the public gym in your local park.
 
 ### Strike a balance between needs and wants
 
@@ -254,7 +253,7 @@ Here’s why such an approach like this isn't realistic and won’t work for use
 * We’re asking for an **immediate** commitment from the user.
 * That commitment is required before the user has access to all the information they may need.
 * Demanding commitment this quickly creates unreliability at a key point, risking false positives.
-* To create an interface that requires a declaration means you must remove all affordance to onward journeys, creating friction in exactly the wrong place.
+* To create an interface that requires a declaration means you must remove all other ways to continue, creating friction in exactly the wrong place.
 * There is literally no user need here, we’re making the user do the work to join things up for us.
 
 ---
