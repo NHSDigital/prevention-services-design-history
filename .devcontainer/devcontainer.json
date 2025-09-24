@@ -8,5 +8,42 @@
   },
   "forwardPorts": [8080],
   "postCreateCommand": "npm install",
-  "postAttachCommand": "npm start"
+  "postAttachCommand": "npm start",
+  // codespace customisations
+  "customizations": {
+    // Configure properties specific to VS Code web-basde IDE used within codespaces.
+    "vscode": {
+      // editor settings
+      "settings": {
+        // Turn on word wrapping by default
+        "editor.wordWrap": "on",
+        // Use pre-set indentation settings for all files
+        "editor.detectIndentation": false,
+        // make emmet work within nunjucks
+        "emmet.includeLanguages": {
+          "njk": "html",
+          "nunjucks": "html",
+          "erb": "html",
+          "jinja": "html",
+          "jinja-html": "html",
+          "markdown": "html"
+        },
+        // Explicitly enable semantic highlighting to work around issue in codespaces where it wouldn't apply
+        "editor.semanticHighlighting.enabled": true,
+        "editor.bracketPairColorization.enabled": true,
+        // Force VS Code to re-evaluate file types
+        "files.associations": {
+          "*.html": "nunjucks"
+        },
+        "html.suggest.html5": true
+      },
+      // bundle the following editor extensions
+      "extensions": [
+        // nunjuck syntax highlighting
+        "ginfuru.better-nunjucks",
+        // File utilities like duplicate, move, rename, delete files
+        "sleistner.vscode-fileutils"
+      ]
+    }
+  }
 }
