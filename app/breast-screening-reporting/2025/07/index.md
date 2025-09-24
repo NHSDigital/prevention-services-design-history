@@ -74,7 +74,7 @@ Due to system limitations such as lack of data validation local QA staff have to
 
 The report currently takes approximately five months prepare due to the manual nature of checking and data collection. This means that analysis is delayed.
 
-When they do receive the data, the D&A team are currently spending large amounts of time doing manual work checking, cleaning and reconciling data before it is usable. As one analyst said “t takes two weeks to do the report, which is ridiculous.”
+When they do receive the data, the D&A team are currently spending large amounts of time doing manual work checking, cleaning and reconciling data before it is usable. As one analyst said “it takes two weeks to do the report, which is ridiculous.”
 
 ### BSO view
 
