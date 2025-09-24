@@ -16,11 +16,11 @@ With the expansion of RAVS to support more vaccine types, we decided to add a pe
 
 For [pharmacies signing up to use the service](/record-a-vaccination/2025/08/enabling-pharmacies-to-sign-up/) we added an additional screen to ask which vaccines they would be giving:
 
-![TODO](what-vaccinations-do-you-want-to-record.png)
+![Screenshot of a page with the heading ‘What vaccinations do you want to record?’ and checkboxes for COVID-19 and Flu](what-vaccinations-do-you-want-to-record.png)
 
 If the pharmacy is in London, some additional options are shown:
 
-![TODO](what-vaccinations-do-you-want-to-record-london.png)
+![Screenshot of a page with the heading ‘What vaccinations do you want to record?’ and checkboxes for COVID-19, Flu, Flu (London) and Pneumococcal](what-vaccinations-do-you-want-to-record-london.png)
 
 Currently, all pharmacies are able to offer the flu vaccine as part of their standard service. Only pharmacies who have been assured can offer the COVID-19 vaccine. In London, some pharmacies have been separately commissioned to offer the pneumococcal and MMR vaccines and an extended eligibility for the flu vaccine.
 
@@ -28,7 +28,7 @@ Currently, all pharmacies are able to offer the flu vaccine as part of their sta
 
 If an organisation is invited by a region using the [regional interface](/record-a-vaccination/2024/08/onboarding-organisations-without-spreadsheets/), the regional user is now asked which vaccines the organisation should be given access to:
 
-![TODO](which-vaccines-can-they-record.png)
+![Screenshot of a page with the heading ‘What vaccinations can they record?’ and checkboxes for COVID-19, Flu, Flu (London), MMR, Pertussis, Pneumococcal and RSV](which-vaccines-can-they-record.png)
 
 This list contains all of the vaccine types that RAVS currently supports.
 
@@ -36,11 +36,11 @@ This list contains all of the vaccine types that RAVS currently supports.
 
 When a regional user views details of an organisations in their region that is using RAVS, the screen now shows which vaccines that organisation is currently able to record, and includes a link to add additional vaccines:
 
-![TODO](region-organisation-view.png)
+![Screenshot of a page with the heading ‘Pickfords Pharmacy’ followed by the text ‘They can record COVID-19, flu and RSV vaccinations’ and a link ‘Add vaccines’](region-organisation-view.png)
 
 When adding additional vaccines, the regional user is shown a list of the vaccines the organisation cannot yet record, and they can select which ones to add:
 
-![TODO](which-vaccines-do-you-want-to-add.png)
+![Screenshot of a page with the text ‘Pickfords Pharmacy’ followed by the heading ‘Which caccines do you want to add?’ and checkboxes for Flu (London service), MMR, Pertussis and Pneumococcal](which-vaccines-do-you-want-to-add.png)
 
 ## What an organisation sees
 
@@ -64,14 +64,14 @@ We will keep this under review.
 
 We also designed a way for users to directly request access to additional vaccine types within the service, instead of needing to contact their region by email:
 
-![TODO](request-vaccine.png)
+![Screenshot of a page a section opened labelled ‘Need to add more vaccine types?’ under which there are checkboxes for MMR, Pertussis, Pneumococcal and a button labelled ‘Send request’](request-vaccine.png)
 
 These requests would then appear in a 'Messages' section in the regional interface (as well as an email notification):
 
-![TODO](messages.png)
+![Screenshot of a page with the heading ‘Messages’ beneath which are 4 rows of a table, each of which has a link containing the name of an organisation and the text ‘Request to record [vaccine type]’. In a second column either ‘Today’ or ‘[number] days ago’](messages.png)
 
 The regional user could then approve or deny the request:
 
-![TODO](approve-or-deny.png)
+![Screenshot of a page with the heading ‘Addlestone Pharmacy’ and below that the text ‘Request to record pertussis and RSV. Sent on 24 June 2025’ and the a green Approve button and a red Deny button](approve-or-deny.png)
 
 However we decided to de-scope this feature, and will instead wait and see what the additional admin burden of managing requests for access to record vaccines looks like.
