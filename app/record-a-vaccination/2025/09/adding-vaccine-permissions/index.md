@@ -1,6 +1,6 @@
 ---
 title: Adding vaccine permissions
-date: 2025-09-19
+date: 2025-09-24
 description: Why we’ve restricted which vaccines each organisation can record.
 ---
 
@@ -8,9 +8,9 @@ Previously, all organisations using RAVS could technically record any of the 4 v
 
 However in reality different organisations are able to give and record different vaccines depending on how they’ve been commissioned and assured. For example, only pharmacies that are part of a pilot are currently able to offer the RSV vaccine.
 
-When we were only supporting 4 vaccine types and a limited number of organisations, this was not an issue as the risk was small and organisations could just ignore the vaccines they weren’t using.
+When we were only supporting 4 vaccine types and a limited number of organisations, this was not an issue as organisations could just ignore the vaccines they weren't using.
 
-With the expansion of RAVS to support more vaccine types, we decided to add an additional layer of permissions so that different organisations could be given access to record different vaccines.
+With the expansion of RAVS to support more vaccine types, we decided to add a permissions system so that different organisations could be given access to record different vaccines.
 
 ## Pharmacies self-onboarding
 
@@ -22,7 +22,7 @@ If the pharmacy is in London, some additional options are shown:
 
 ![TODO](what-vaccinations-do-you-want-to-record-london.png)
 
-Currently, all pharmacies are able to offer the flu vaccine as part of their standard service. Only pharmacies who have been assured can offer the COVID-19 vaccine. In London, some pharmacies have been separately commissioned to offer the pneumococcal vaccine and an extended eligibility for the flu vaccine.
+Currently, all pharmacies are able to offer the flu vaccine as part of their standard service. Only pharmacies who have been assured can offer the COVID-19 vaccine. In London, some pharmacies have been separately commissioned to offer the pneumococcal and MMR vaccines and an extended eligibility for the flu vaccine.
 
 ## Organisations added by regions
 
