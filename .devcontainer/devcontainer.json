@@ -3,7 +3,7 @@
   "portsAttributes": {
     "8080": {
       "label": "Preview",
-      "onAutoForward": "openPreview"
+      "onAutoForward": "openBrowser"
     }
   },
   "forwardPorts": [8080],
@@ -19,6 +19,22 @@
         "editor.wordWrap": "on",
         // Use pre-set indentation settings for all files
         "editor.detectIndentation": false,
+        // Set default tab size to 2 spaces and use spaces not tabs
+        // This should work via .editorconfig but doesn't so setting here
+        "editor.tabSize": 2,
+        "editor.insertSpaces": true,
+        "[nunjucks]": {
+          "editor.tabSize": 2
+        },
+        "[html]": {
+          "editor.tabSize": 2
+        },
+        "[css]": {
+          "editor.tabSize": 2
+        },
+        "[javascript]": {
+          "editor.tabSize": 2
+        },
         // make emmet work within nunjucks
         "emmet.includeLanguages": {
           "njk": "html",
@@ -35,7 +51,11 @@
         "files.associations": {
           "*.html": "nunjucks"
         },
-        "html.suggest.html5": true
+        "html.suggest.html5": true,
+        "files.exclude": {
+          "node_modules/": true,
+          "_site/": true
+        }
       },
       // bundle the following editor extensions
       "extensions": [
