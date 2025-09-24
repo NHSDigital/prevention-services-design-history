@@ -25,7 +25,7 @@ Other teams across NHS England and Department for Health and Social Care had alr
 
 ## Research and analysis
 
-We conducted a range of research and analysis activities to identify pain points and user needs, as well as assess how these are being met by the existing landscape. We explored:
+We identified pain points and user needs, as well as assess how these are being met by the existing landscape. We explored:
 
 ### The existing prevention and behaviour change journey
 
@@ -42,7 +42,7 @@ Most of the behaviour change activity we wanted to focus on happened in step 3 �
 
 ### User experience of this journey and pain points
 
-From previous research conducted by NHSE and DHSC, we identified 60 pain points for users across the journey. These were mapped to the 9 sections of the journey and grouped into 6 core themes:
+From previous research conducted by NHSE and DHSC, we identified 60 pain points for users across the journey. We mapped these to 9 sections of the journey and grouped into 6 themes:
 
 - mental and emotional barriers
 - lack of personalisation
@@ -53,7 +53,7 @@ From previous research conducted by NHSE and DHSC, we identified 60 pain points 
 
 ### Attitudes to AI
 
-A literature review of attitudes to AI, and to digital or AI‑powered Health Coaches, uncovered opportunities for us to help reduce health inequalities, for example:
+We reviewed research on attitudes to AI and digital health coaches. This showed opportunities to reduce health inequalities:
 
 - AI can improve access for those less likely to seek traditional healthcare
 - users with lower education levels may find chatbots more useful
@@ -95,7 +95,7 @@ We also proposed that Health Coach would, in the future, likely bring together d
 
 ### Feasibility and viability of delivering this
 
-We explored how the technical design might look – for example, using numerous large language models and designing agents which would work together to provide the best answer in line with agreed behaviour change models and clinical safety parameters. We began to look at ways in which Health Coach could deal with escalations from lifestyle topics into clinical – for example by integrating with the 111 Online service. This is something that would continue to be tested in alpha.
+We explored the technical design. This could use several AI models working together to provide the best answer in line with agreed behaviour change models and clinical safety parameters. We began to look at ways in which Health Coach could deal with escalations from lifestyle topics into clinical – for example by integrating with the 111 Online service. This is something that would continue to be tested in alpha.
 
 We also considered:
 
