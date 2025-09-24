@@ -38,7 +38,7 @@ We mapped the user journey based on what we knew about prevention and behaviour 
 
 <!-- add image ![Blue rectangle containing 'NHS' as white slanted letters](../nhs-logo.png 'The NHS logo') -->
 
-Most of the behaviour change activity we wanted to focus on happened in step 3 – because our researched showed that people find it hard to sustain lifestyle change. We thought this was where we could help people the most – supporting them after they'd already started using prevention services.
+Most of the behaviour change activity we wanted to focus on happened in step 3 – because our research showed that people find it hard to sustain lifestyle change. We thought this was where we could help people the most – supporting them after they'd already started using prevention services.
 
 ### User experience of this journey and pain points
 
@@ -62,13 +62,13 @@ It was also noted that digital literacy can impact acceptability, and that AI mo
 
 ### Whether user needs are being met by the current market
 
-We looked at existing health coaching apps in the UK and abroad, from big tech, to public sector, to start-up collaborations with local councils. We uncovered some recurring capabilities and identified opportunities for us to meet user needs in ways which the current offerings do not. These didn’t meet all of the user needs – so left opportunities for us to:
+We looked at existing health coaching apps in the UK and abroad, from big tech, to public sector, to start-up collaborations with local councils. We uncovered some recurring capabilities and identified opportunities for us to meet user needs in ways which the current offerings do not. These didn’t meet all of the user needs and left an opportunity for us to:
 
 - improve equity of access
-- harness the full power of the NHS and integrating with public services
+- use NHS data and services that private sector apps can’t access
 - improve trust, transparency, and ethics of AI use
 - support across a wider range of behaviours or risk factors
-- make it locally-relevant
+- make it locally‑relevant
 
 ## What we concluded from our research and analysis
 
@@ -86,12 +86,12 @@ We identified some of the capabilities or features we’d like to test and which
 (Mental and emotional barriers; Lack of personalisation; Access barriers)
 - smart nudging through prompts or reminders to keep users from dropping out or disengaging, grounded in personalised evidence and aware of user context.
 (Difficulty navigating and poor join-up; Poor follow through and support)
-- a holistic progress dashboard including progress and personalised goals for all target behaviours visible in one place.
+- a progress dashboard that tracks all your health behaviours in one place
 (Too much complexity; Poor follow-through and support)
-- population-level clustering and analysis to enable learning from user behaviour and identification of wider trends to inform recommendations.
+- learning from patterns in how people use the service to make better recommendations.
 (Mental and emotional barriers; Lack of personalisation)
 
-We also proposed that Health Coach would, in the future, likely bring together data from numerous sources (and organisations) to create Healthy Lifestyle data record. We also resolved to explore the possibility of Health Coach surfacing in different interfaces (e.g. Better Health and the NHS App).
+We also proposed that Health Coach would, in the future, likely bring together data from numerous sources (and organisations) to create Healthy Lifestyle data record. We also resolved to explore the possibility of Health Coach appearing in the Better Health apps or NHS app.
 
 ### Feasibility and viability of delivering this
 
@@ -100,8 +100,8 @@ We explored how the technical design might look – for example, using numerous 
 We also considered:
 
 - cost and benefits – the societal benefits of delivering Health Coach are likely to significantly outweigh the costs of delivering it, but not in direct cash-savings for the NHS.
-- information governance and legal basis – Health Coach would likely to use a consent-based model for processing data, but there are further dependencies to explore (including where it sits and which data it uses).
-- strategy and policy – Health Coach aligns with departmental and governmental policy, with a specific mention in the 10-Year Health Plan.
+- information governance and legal basis – Health Coach would likely use a consent‑based model for processing data, but there are further dependencies to explore (including where it sits and which data it uses).
+- strategy and policy – Health Coach fits with health policies, with a specific mention in the 10‑Year Health Plan.
 
 ## Conclusion and plan for Alpha
 
