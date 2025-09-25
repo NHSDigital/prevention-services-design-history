@@ -10,7 +10,7 @@ tags:
 
 Following our design workshop, we developed a set of ideas aimed at improving the accuracy, efficiency, and clinical confidence in the DES cohorting process. These proposals were shaped by user-centred design principles and informed by technical feasibility assessments.
 
-## Proposed Ideas to Transform the DES Cohorting Service:
+## Proposed ideas to transform the DES cohorting service:
 -	Validate DES cohorts using a secondary data source to improve accuracy and reduce reliance on GP-coded entries alone.
 -	Simplify SNOMED coding by either introducing a single, definitive code for DES or categorising the existing 2,500+ codes into three confidence levels: Low, Medium, and High.
 -	Establish a feedback loop between GPs and DESPs to enable data captured during screening appointments to be ingested back into a central source system. 
