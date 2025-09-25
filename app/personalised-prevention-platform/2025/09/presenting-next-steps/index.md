@@ -94,18 +94,6 @@ Do people understand the connection between the:
 
 How easy is it for the user to explore all available options?
 
-### 4. Can we gauge intent?
-
-A central piece of our proposition (and prevention strategy) is the idea of a feedback loop. We need to be able to check in and support people during their activities, playing the role of “interested friend”.
-
-Yet again it is not news to state that “things are not joined up”. There is no consistent underlying capability that allows us to rely on “knowing via tech” what a user has decided (or not) to do next.
-
-How can we know if a user has:
-
-* downloaded and started to use an app?
-* attended a community event?
-* used a public facility?
-
 ## How we tested presenting next steps
 
 ### Expanding the prototype user journey
@@ -207,97 +195,8 @@ What was surprising was how effective deliberately small tweaks were. The additi
 
 ![A service result listing before and after the addition of a logo](logo-addition@2x.png 'Small visual tweaks had marked effect')
 
-### Intent is the next big challenge
-
-A big challenge for us is to figure out how and where in our overall prevention journey we can find out what a user is actually doing. We need to be able to do this in order to:
-
-* check in with someone in a structured and personalised way &ndash; we approach the user with a “subject”
-* match feedback to options in order to improve our recommendations to all users
-* provide feedback to services themselves
-* get a better picture of outcomes
-
-In the simplest possible scenario, we show the user options, they pick one, then we check in later to see how it’s going. Easy right?
-
-Not so fast!
-
-Let’s take Parkrun as an example. A potential user journey could be:
-
-1. noticing Parkrun in the listing
-2. reading more in the details and getting interested
-3. clicking through to the Parkrun site to find out more
-4. getting engaged and registering with Parkrun
-5. attending their first event
-
-From point 3, we have no idea of what the user does next. The click through does not represent “starting” or “choosing”, we can only infer it represents a desire to find out a bit more about something before making a decision.
-
-Remember, it would be unwise to attempt to replicate, host and maintain information about any possible option in its entirety.
-
-There’s three potential ways to approach this:
-
-1. Gain a commitment from the user that they are going to take up an option that we’ve presented.
-2. Receive information back from services themselves.
-3. Work to assemble clues and indications as to intent during the user journey.
-
----
-
-We felt we needed to work to disprove the first approach in order to counter repeated querying moving forward.
-
-![Two screenshots, one showing an 'I want to do this' button, and the other showing app links and a 'what do you think?' question](intent-iteration@2x.png 'From blocking to gathering clues')
-
-We started with an initial “blocking” design, insisting on a commitment: “I want to do this”.
-
-In sessions, there was inconsistency in users’ understanding of the interaction. When prompted to explain, answers varied from things like “it would launch the app, right?” to “it would display more details” (correct).
-
-Here’s why such an approach like this isn't realistic and won’t work for users (or us):
-
-* We’re asking for an **immediate** commitment from the user.
-* That commitment is required before the user has access to all the information they may need.
-* Demanding commitment this quickly creates unreliability at a key point, risking false positives.
-* To create an interface that requires a declaration means you must remove all other ways to continue, creating friction in exactly the wrong place.
-* There is literally no user need here, we’re making the user do the work to join things up for us.
-
----
-
-The second potential approach is the ideal: we receive information back from services themselves about usage.
-
-A reporting approach benefits from being reliable and removes unnecessary work from the user to join things up. It’s definitely something to explore, particularly with options that offer online referral or registration.
-
-However, we also must consider:
-
-* informal or small scale community based options, for example a litter picking club
-* services that don’t _want_ to report on an individual level, for example any service offering anonymity of any kind
-* facilities which have zero registration or reporting, for example a public gym in a park
-
-All these examples are completely viable &ndash; the lack of “being joined up” is not a reason to exclude them.
-
-In short, this approach is strong and we’d likely consider it the best, but we need to be able to handle a range.
-
----
-
-Finally we can work to assemble clues and indications as to someone’s during this onboarding journey.
-
-Perhaps we can gain clues in the background by using analytics to:
-
-* track and save result sets as the user explores options
-* track visits into detail pages
-* measure dwell time, scroll depth and so on in such pages
-* track outbound clicks
-
-We can also experiment more with providing opportunities for the user to communicate interest:
-
-* favouriting or liking
-* asking the user what they think of an option in-page
-* include tools to send or share option details
-
-Using multiple techniques puts us in the realm of probabilities and likelihoods. This is more realistic and reflective of what we know about people’s lived experiences. It also prevents us from building a dependency on false points of truth.
-
-
 ---
 
 ## What we’re doing next
 
-Our next piece of work is around the first conversation we’ll have with a user after they’ve been presented options – the very first check in.
 
-At the point of our first check in, someone has onboarded, potentially setting up some goals, barriers, and preferences along the way. Hopefully they’ve been presented with one or more options that are interesting and engaging.
-
-Our next task is to engage the user and introduce a bit more of our interface for what we hope is an ongoing conversation. Importantly we need to jump the gap between presenting options and figuring out if something’s being started.
