@@ -17,7 +17,7 @@ Following our design workshop, we developed a set of ideas aimed at improving th
 -	Increase the frequency of cohort data updates to ensure timely and accurate identification of eligible participants.
 -	Create a centralised repository for DES participants, to streamline eligibility tracking. Additionally, consider a future-facing scope that could expand to support broader diabetes care, holistic patient management and broader outcome tracking.
 
-## Additional Insights
+## Additional insights
 -	Gathered the program’s perspective on the value and scope of the repository for DES vs. Diabetes.
 -	Collected feedback on the MVP through a voting exercise.
 
