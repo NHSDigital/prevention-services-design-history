@@ -31,12 +31,19 @@ We identified pain points and user needs, as well as assess how these are being 
 
 We mapped the user journey based on what we knew about prevention and behaviour change services from our experience across NHS England and Better Health. The journey was split into 9 sections, and 4 high‑level stages:
 
-- become aware and engage
-- find and select a service
-- enrol and engage in a service
+1. become aware and engage
+- awareness for change
+- seek help
+2. find and select a service
+- find a prevention service
+- select a service
+- wait for service to start
+3. enrol and engage in a service
+- first contact and triage
+- ongoing service engagement
+- completion of service engagement
+4. feedback and next steps
 - feedback and next steps
-
-<!-- add image ![Blue rectangle containing 'NHS' as white slanted letters](../nhs-logo.png 'The NHS logo') -->
 
 Most of the behaviour change activity we wanted to focus on happened in step 3 – because our research showed that people find it hard to sustain lifestyle change. We thought this was where we could help people the most – supporting them after they'd already started using prevention services.
 
@@ -105,8 +112,8 @@ We also considered:
 
 ## Conclusion and plan for Alpha
 
-We found significant evidence to support both elements of our problem statement, and that a solution is feasible and viable. We recommended that the project progress into Alpha to test our riskiest assumptions, can we:
+We found significant evidence to support both elements of our problem statement, and that a solution is feasible and viable. We recommended that the project progress into Alpha to test our riskiest assumptions:
 
-1. support people to improve their health through building habits and creating sustained behaviour change?
-2. do this in a way that reduces or does not worsen health inequalities?
-3. manage clinical risk safely?
+1. can we support people to improve their health through building habits and creating sustained behaviour change?
+2. can we do this in a way that reduces or does not worsen health inequalities?
+3. can we manage clinical risk safely?
