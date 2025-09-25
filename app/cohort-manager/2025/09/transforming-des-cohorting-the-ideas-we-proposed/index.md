@@ -8,7 +8,7 @@ tags:
   - cohort manager diabetic eye screening
 ---
 
-Following our design workshop, we developed a set of ideas aimed at improving the accuracy, efficiency, and clinical confidence in the DES cohorting process. These proposals were shaped by user-centred design principles and informed by technical feasibility assessments.
+Following our design workshop, we developed a set of ideas aimed at improving the accuracy, efficiency, and clinical confidence in the diabetic eye screening (DES) cohorting process. These proposals were shaped by user-centred design principles and informed by technical feasibility assessments.
 
 ## Proposed ideas to transform the DES cohorting service:
 -	Validate DES cohorts using a secondary data source to improve accuracy and reduce reliance on GP-coded entries alone.
