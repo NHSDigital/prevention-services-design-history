@@ -1,7 +1,7 @@
 ---
 title: AI Health Coach discovery summary
 description: An overview of the research, analysis, and conclusions from discovery phase
-date: 2025-09-24
+date: 2025-09-26
 tags:
   - discovery
   - AI
