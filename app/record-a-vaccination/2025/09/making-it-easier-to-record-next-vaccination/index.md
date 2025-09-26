@@ -37,14 +37,7 @@ After that first vaccination has been saved we've introduced these new options. 
 •	the same vaccination for another patient
 •	a different vaccination for another patient
 
-They have the option of changing any of these previous selections. 
-
-If the saved settings are correct for the next patient, they can continue straight to the screen where they are asked for the patient NHS number or details.
-Once they've seen the patient's vaccination history, they are only asked:
-
-•	consent details
-•	injection site 
-•	check and confirm
+![Screenshot of the 'Vaccination saved' screen which shows the options for recording the next vaccination](next-vaccination-options.png 'Previous screen for adding users')
 
 ### Record the same patient's next vaccination
 
