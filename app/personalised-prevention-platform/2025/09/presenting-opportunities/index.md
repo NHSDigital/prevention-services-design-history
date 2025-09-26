@@ -1,5 +1,5 @@
 ---
-title: "Presenting next steps"
+title: "Presenting opportunities"
 description: "Presented with useful and relevant options, do people feel encouraged to take up activities?"
 date: 2025-09-01
 author: Mat Johnson
@@ -12,7 +12,7 @@ Hello! We’ve undergone a mild rebrand. We’re now known as the Weight Managem
 
 Prior to this we were the [Personalised Prevention Platform (PPP).](/personalised-prevention-platform/)
 
-A lot of our underlying thinking remains the same:
+Our underlying thinking remains the same:
 
 1. we can reach the right people
 2. we can encourage people to act to improve their health
@@ -20,20 +20,22 @@ A lot of our underlying thinking remains the same:
 4. we can understand enough about the user to suggest what might be effective
 5. we have permission for a life-long dialogue
 
-Our thin steel thread is a prevention journey for weight management.
+Our thin thread is a prevention journey for weight management.
 
 Our [previous post](/personalised-prevention-platform/2025/04/onboarding-users/) talked about how we've been exploring how we introduce our service to users, and find out a bit about them, through an “onboarding” process.
 
-In this post let’s look at the next stage: presenting next steps.
+In this post let’s look at the next stage: presenting useful and relevant options.
 
-## Why present next steps?
+## Why present options?
 
 Everyone we have spoken to told us they believed they could be doing more to maintain their health.
 
 > [!NOTE]
-> However they remained largely unaware of the range of help **already** available to them.
+> However they remained largely unaware of the range of help **already available** to them.
 
-We are confident that any given individual can be presented with a range of options that could be well suited to them. For example:
+We’re seeing this in findings across personalised prevention services (PPS).
+
+We’re confident that any given individual can be presented with a range of options that could be well suited to them. For example:
 
 * apps people use by themselves, for example Active 10
 * in-person group programmes, for example an exercise class
@@ -43,9 +45,9 @@ We wanted to test how we might present next steps in a clear and actionable mann
 
 Our prototypes were rooted in four underlying themes:
 
-### 1. What’s the value of presenting a range of opportunities?
+### 1. What’s the value of presenting a range of options?
 
-There are limits to personalisation, especially in prevention. We can’t create the perfect path for each person &ndash; and we shouldn’t try to. The best approach is helping people choose what works for them from relevant options.
+There are limits to personalisation, especially in prevention. We can’t create the perfect path for each person &ndash; and we shouldn’t try to. The best approach is helping people choose what works for them from relevant opportunities.
 
 Can we provide:
 
@@ -54,18 +56,16 @@ Can we provide:
 
 ### 2. What’s the minimum viable information about an activity we can use?
 
-It is not news to state that directories of services represent “hard yards”. The underlying work of assembling and maintaining information about services (of all shapes and sizes) has been repeatedly “discovered”.
-
-However it’s also not news to state that information such as this is required to underpin all kinds of transformational capabilities (not just a weight management journey).
+It’s not news to state that service directories represent “hard yards”. The underlying work of assembling and maintaining information about services (of all shapes and sizes) has been repeatedly “discovered”. However it’s also not news to state that this information is required to underpin all sorts of transformational capabilities.
 
 In our case we need to work out how to establish a source of information about the options we might present to a user in a pilot area.
 
-We’ve made some experimental inroads with some help from the AI Health Coach team (thank you!), asking can algos and agents:
+We’ve made some interesting experimental inroads with some help from the AI Health Coach team (thank you!), asking can algos and agents:
 
 * rapidly assemble a “starter for 10” of relevant local services based on set criteria?
 * represent a more sophisticated “automated link checker” maintenance approach to changes in information?
 
-Looking forwards we need to bear in mind that what we’re designing is not the only thing that such information provides value to. How do we design our data for re-use as agnostically as possible?
+Looking forwards we need to bear in mind that what we’re designing is not the only service that such information can provide value to. How do we design our data for re-use as agnostically as possible?
 
 On top of this, it’s critical to acknowledge that the mechanics of some next steps could be complex, even if their central proposition is not. For example any given option could have multiple:
 
@@ -94,11 +94,11 @@ Do people understand the connection between the:
 
 How easy is it for the user to explore all available options?
 
-## How we tested presenting next steps
+## How we tested presenting opportunities
 
 ### Expanding the prototype user journey
 
-We extended our user journey into how presenting next steps might work. We continued to iterate our onboarding segment, swapping out chunks to try variants or different approaches.
+We extended our user journey into how presenting options might work. We continued to iterate our onboarding segment, swapping out chunks to try variants or different approaches.
 
 {% from "nhsuk/components/images/macro.njk" import image as nhsukImage %}
 {{ nhsukImage({
@@ -110,7 +110,7 @@ We extended our user journey into how presenting next steps might work. We conti
 
 [Open a large version of this image (4.5mb)](user-journey-iterations-xlarge.jpg)
 
-### Listings of next steps
+### Listings of opportunities
 
 For listings, we gradually moved from hard coded selections matched to participants’ local areas, to an API returning only national services derived from the [Better Health](https://www.nhs.uk/better-health/) website.
 
@@ -133,13 +133,11 @@ For pages showing details, we moved from:
 
 * minimal and highly atomic content
 * zero imagery
-* a blocking approach requiring a declaration of intent
 
 to:
 
 * looser content retaining a strong structure
 * minimal imagery
-* a non-blocking approach to getting clues to intent
 
 {% from "nhsuk/components/images/macro.njk" import image as nhsukImage %}
 {{ nhsukImage({
@@ -157,13 +155,13 @@ Since [discovery](/personalised-prevention-platform/2025/03/discovery-summary/) 
 
 “National” and “local” are false distinctions, very visible to us, as we operate within organisational structures.
 
-But where a thing “comes from” is irrelevant to a user. You can be interested in Active 10, interested in your local Parkrun, and interested in the public gym in your local park.
+But where a thing “comes from” is irrelevant. You can be interested in Active 10, interested in your local Parkrun, and interested in the public gym in your local park.
 
 ### Strike a balance between needs and wants
 
 Earlier onboarding prototypes included goal and priority setting segments, along with asking about barriers &ndash; things that could get in the way.
 
-We removed these segments, instead asking a series of questions directly mapped to filters in the results listing, for example:
+We tested removing these segments, instead asking a series of questions directly mapped to filters in the results listing, for example:
 
 ![A question page asking 'how do you like to be taught or coached?' alongside a column of filters displaying the same](example-filter-question@2x.png 'Onboarding questions mapped to filters')
 
@@ -179,9 +177,11 @@ We’ve proven that we need to become more opinionated in the options we present
 
 ### Continuously assess the relationship between volume, variety, and granularity
 
+Generally people understood the connection between our onboarding questions, the initial set of options, and the associated filters.
+
 With 18 services in our prototype API, one or two users combined preferences or filters that led to zero results. This led to immediate disengagement and in real life, dropoff.
 
-There is a strong relationship between the volume and variety of information we hold, and the ability to tune (or “personalise”) a set of results. If you only have a few options to offer, you can only offer so much granular control in your interface.
+There is a strong relationship between the volume and variety of information we hold, and the ability to filter (or “personalise”) a set of results. If you only have a few options to offer, you can only offer so much granular control in your interface. This balance needs to be continuously assessed, particularly at lower volumes.
 
 Our 18 services represent a generic baseline that we know to be suitable for all geographic areas and a wide range of people. In our pilot we expect to layer local offerings on top of this baseline, and so our volume and variety increases. With an idea of that increase, we get a better idea of how much granularity we can introduce.
 
@@ -189,14 +189,18 @@ Having a localised layer also allows us to practice ”no dead ends”. If our b
 
 ### “Being engaging” can be quite simple
 
-Unsurprisingly the early presentation of options (above) was not engaging, with users often mentioning how unexciting they were.
-
-What was surprising was how effective deliberately small tweaks were. The addition of a only small amount of imagery &ndash; in some cases only a logo &ndash; along with a looser content structure alleviated any further comment.
+Unsurprisingly the early presentation of options was not very engaging, with users often mentioning how unexciting they were.
 
 ![A service result listing before and after the addition of a logo](logo-addition@2x.png 'Small visual tweaks had marked effect')
 
+What was surprising was how effective deliberately small tweaks were. The addition of a only small amount of imagery &ndash; in some cases only a logo &ndash; along with a looser content structure alleviated any further comment.
+
 ---
 
-## What we’re doing next
+## What’s next?
+
+In prototype land, we continue along our user journey &ndash; checking in with people to see if any of our options are of interest to them, and introducing the basic elements to help with our “life-long dialogue”.
+
+In pilot land, we’re starting to assemble the user journey for onboarding and presenting opportunities, distilled and iterated from various prototypes.
 
 
