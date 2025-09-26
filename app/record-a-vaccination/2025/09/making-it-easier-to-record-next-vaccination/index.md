@@ -13,7 +13,8 @@ The option to easily record another vaccination for the same patient, often refe
 
 We also know that in some settings, users might be recording the same vaccination for  successive patients, for example if they are running a vaccination clinic just for flu vaccinations.
 
-These new recording options are part of the wider work we've been doing to simplify the recording journey for our users. See our previous post on [asking, fewer better questions](https://design-history.prevention-services.nhs.uk/record-a-vaccination/2025/03/asking-fewer-better-questions/). 
+These new recording options are part of the wider work we've been doing to simplify the recording journey for our users. See our previous post on [asking fewer, better questions](https://design-history.prevention-services.nhs.uk/record-a-vaccination/2025/03/asking-fewer-better-questions/).
+
 
 All of these changes which we've been referring to within our team as 'streamlining' are due to go live in October.
 
