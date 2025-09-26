@@ -112,7 +112,7 @@ We also considered:
 
 ## Conclusion and plan for Alpha
 
-We found significant evidence to support both elements of our problem statement, and that a solution is feasible and viable. We recommended that the project progress into Alpha to test our riskiest assumptions:
+We found significant evidence to support both elements of our problem statement, and that a solution is feasible and viable. We recommended that the project progress into alpha to test our riskiest assumptions:
 
 1. can we support people to improve their health through building habits and creating sustained behaviour change?
 2. can we do this in a way that reduces or does not worsen health inequalities?
