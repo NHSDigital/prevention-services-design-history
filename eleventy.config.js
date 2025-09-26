@@ -84,6 +84,7 @@ export default function (eleventyConfig) {
     'bowel-screening',
     'breast-screening-reporting',
     'cohort-manager',
+    'diabetic-eye-screening',
     'explore-team',
     'manage-breast-screening',
     'manage-your-screening',
