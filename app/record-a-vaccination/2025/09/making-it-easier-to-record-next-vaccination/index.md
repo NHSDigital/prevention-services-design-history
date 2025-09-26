@@ -31,7 +31,7 @@ When a user selects 'Record vaccinations', they go through the default recording
 •	injection site (the only exception is nasal vaccines where this question is skipped)
 •	check and confirm answers (final screen before the record is saved)
 
-After that first vaccination has been saved we've introduced these new options. The user can choose to record either:
+After that first vaccination has been saved, we've introduced these new options. The user can choose to record either:
 
 •	the same patient's next vaccination
 •	the same vaccination for another patient
