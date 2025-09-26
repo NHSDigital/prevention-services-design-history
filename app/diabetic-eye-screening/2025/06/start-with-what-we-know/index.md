@@ -1,5 +1,5 @@
 ---
-title: Diabetic eye screening - start with what we know
+title: Start with what we know
 description: How we approached understanding the service
 date: 2025-06-06
 author: Sakshi Lamba Jhanji
