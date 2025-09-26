@@ -32,18 +32,18 @@ We identified pain points and user needs, and assessed how these are being met b
 We mapped the user journey based on what we knew about prevention and behaviour change services from our experience across NHS England and Better Health. The journey was split into 9 sections, and 4 high‑level stages:
 
 1. become aware and engage
-- awareness for change
-- seek help
+   - awareness for change
+   - seek help
 2. find and select a service
-- find a prevention service
-- select a service
-- wait for service to start
+   - find a prevention service
+   - select a service
+   - wait for service to start
 3. enrol and engage in a service
-- first contact and triage
-- ongoing service engagement
-- completion of service engagement
+   - first contact and triage
+   - ongoing service engagement
+   - completion of service engagement
 4. feedback and next steps
-- feedback and next steps
+   - feedback and next steps
 
 Most of the behaviour change activity we wanted to focus on happened in step 3 – because our research showed that people find it hard to sustain lifestyle change. We thought this was where we could help people the most – supporting them after they'd already started using prevention services.
 
