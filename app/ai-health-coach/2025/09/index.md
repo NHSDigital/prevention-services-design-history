@@ -110,7 +110,7 @@ We also considered:
 - information governance and legal basis – Health Coach would likely use a consent‑based model for processing data, but there are further dependencies to explore (including where it sits and which data it uses).
 - strategy and policy – Health Coach fits with health policies, with a specific mention in the 10‑Year Health Plan.
 
-## Conclusion and plan for Alpha
+## Conclusion and plan for alpha
 
 We found significant evidence to support both elements of our problem statement, and that a solution is feasible and viable. We recommended that the project progress into alpha to test our riskiest assumptions:
 
