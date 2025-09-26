@@ -25,7 +25,7 @@ Other teams across NHS England and Department for Health and Social Care had alr
 
 ## Research and analysis
 
-We identified pain points and user needs, as well as assess how these are being met by the existing landscape. We explored:
+We identified pain points and user needs, and assessed how these are being met by the existing landscape. We explored:
 
 ### The existing prevention and behaviour change journey
 
