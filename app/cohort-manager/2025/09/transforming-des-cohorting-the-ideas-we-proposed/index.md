@@ -1,7 +1,7 @@
 ---
 title: Transforming diabetic eye screening cohorting – the ideas we proposed
 description: The ideas we proposed as part of our desired to-be vision for DES cohorting
-date: 2025-09-24
+date: 2025-09-26
 author: Chloe Eaborn
 tags:
   - discovery
