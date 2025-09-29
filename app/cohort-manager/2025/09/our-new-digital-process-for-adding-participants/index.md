@@ -75,9 +75,9 @@ Testing and piloting gave us confidence to proceed to public beta and roll the d
 
 ### Where are we now?
 
-The new digital process for adding participants has now been live for all BSOs just over one month and we have seen strong uptake so far:
+The new digital process for adding participants has now been live for all BSOs for around 7 weeks and we have seen strong uptake so far:
 - 77% of requests in the first month came in via the portal
-- more than half (49) of the 77 English BSOs have used the portal to raise at least one request
+- 66 (86%) of the 77 English BSOs have used the portal to raise at least one request
 
 In addition to monitoring usage data, we have continued collecting feedback from users during the public beta phase. Insights gathered so far suggest high levels of satisfaction with the digital add process. In particular, users feel the new process is easier than raising requests via email, with feedback frequently citing the simplicity of using the portal to add participants:
 
