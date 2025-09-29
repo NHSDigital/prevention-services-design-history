@@ -1,5 +1,5 @@
 ---
-title: Breast screening - our new digital process for adding participants
+title: Breast screening - Our new digital process for adding participants
 description: How we digitised the process for manually adding participants to the breast screening cohort
 date: 2025-09-30
 tags:
