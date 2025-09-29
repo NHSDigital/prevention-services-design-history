@@ -6,9 +6,9 @@ description: Changes we’ve made to support the London flu service
 
 From the 1 October 2025, RAVS is also supporting the London flu service.
 
-This is an additional serviced funded by the NHS London region which enables pharmacies to offer the flu vaccination to some additional at-risk groups not covered by the national flu eligibility criteria.
+This is an additional services funded by the NHS London region which enables pharmacies to offer the flu vaccination to some at-risk groups not covered by the national flu eligibility criteria.
 
-The additional groups are:
+The groups are:
 
 * Homeless
 * Gypsy, Roma and Traveller communities
@@ -29,11 +29,11 @@ Here’s how we added support for this in the service.
 
 Given that the vaccine used for the London flu service is identical to that used by the national flu vaccination campaign, our starting point was to keep the interface exactly the same, but to offer some additional eligibility criteria which can be selected.
 
-This was also motivated by the numbered from last season, which showed that even for pharmacies taking part in the London flu service, the vast majority of their flu vaccinations were still given under the national eligibility.
+This was also motivated by the numbers from last season, which showed that even for pharmacies taking part in the London flu service, the vast majority of their flu vaccinations were still given under the national eligibility.
 
-The additional categories would be revealed when selecting a ‘London flu service’ option:
+The extra categories would be revealed when selecting a ‘London flu service’ option:
 
-![Screenshot of a page with the heading ‘Why are you giving them the vaccine?’ and a list of options as radio buttons. The last option is labelled ‘London flu service’ and is selected, revelling 11 additional options.](london-flu-added-eligibility.png)
+![Screenshot of a page with the heading ‘Why are you giving them the vaccine?’ and a list of options as radio buttons. The last option is labelled ‘London flu service’ and is selected, revealing 11 additional options.](london-flu-added-eligibility.png)
 
 ## Technical constraints
 
