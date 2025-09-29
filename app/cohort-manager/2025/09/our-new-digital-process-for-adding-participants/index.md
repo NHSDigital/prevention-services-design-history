@@ -8,9 +8,6 @@ tags:
   - live
   - breast screening
 ---
-
-This post discusses how we digitised the process Breast Screening Offices use to add participants to their system who fall outside of the automatic cohort.
-
 ## Why do some participants need adding?
 
 Participants in England are automatically added to the breast screening cohort if they meet the following criteria:
