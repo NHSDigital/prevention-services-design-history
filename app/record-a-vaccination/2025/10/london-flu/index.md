@@ -55,7 +55,7 @@ If the 'Flu (London service)' option is selected, the eligibility screen shows j
 
 ![Screenshot of a page with the heading ‘Why are you giving them the vaccine?’ with 11 options as radio buttons](london-flu-elgibility-options.png)
 
-## Known issues
+## Known issues with the design
 
 The biggest issue with treating the London flu service as a separate vaccine type from the national flu service is that it means that pharmacies will have to add the batch numbers and expiry dates for the vials they have in stock twice.
 
