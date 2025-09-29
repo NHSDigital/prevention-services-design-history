@@ -60,4 +60,15 @@ groups:
         image:
           alt: RSV mission patch
           src: rsv-mission-patch.png
+  - title: Print specifications
+    description: >
+      We use [Diginate](http://diginate.com) to print our stickers, using these specifications:
+
+
+      Product: Vinyl stickers<br>
+      Material: Gloss<br>
+      Shape: Circular<br>
+      Supply: Individuals on a square backing<br>
+      Diameter: 50mm
+
 ---
