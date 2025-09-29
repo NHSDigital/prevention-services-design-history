@@ -37,7 +37,7 @@ To reduce inefficiencies and provide a better experience for users, we converted
 
 ![Screenshot from the homepage of the National IT Customer Support Portal. It contains a search box, as well as the ability to view knowledge articles, submit a case and see a list of recently used case types, and see cases the user has raised previously. There is also a section for service status which allows users to check for services outages and report if they have been affected](national-it-customer-support-portal-homepage.png "Screenshot of the NHS National IT Customer Support Portal homepage")
 
-Benefits of this include: 
+Benefits of this include:
 - removing manual steps associated with saving and completing a Word form locally, improving clinical safety by reducing risk of user error
 - being able to view and track requests directly within the portal, addressing a common user pain point of relying on emails previously
 - offering greater tracking and auditability to support with reporting and investigations in response to incidents
@@ -54,11 +54,11 @@ Before the digital form went live, we conducted remote moderated usability testi
 
 Feedback highlighted that the form was clear, simple, and user friendly, and demonstrated that users were able to easily raise requests for participants to be added. Our findings also gave us confidence that the portal is addressing users’ pain points around viewing raised requests and monitoring them across the BSO team.
 
-Testing also highlighted some elements of the portal which weren’t immediately intuitive to users. These tended to centre around navigating the portal and tracking requests that have already been raised. Whilst users were quick to learn, insights helped to identify topics to be addressed in supporting guidance for the initial rollout, as well as opportunities for improvements in future releases. 
+Testing also highlighted some elements of the portal which weren’t immediately intuitive to users. These tended to centre around navigating the portal and tracking requests that have already been raised. Whilst users were quick to learn, insights helped to identify topics to be addressed in supporting guidance for the initial rollout, as well as opportunities for improvements in future releases.
 
 ## Piloting the new process
 
-Following usability testing, we ran a pilot with 3 BSOs who used the portal to add real participants for a one-month period. This functioned as a private beta to help us further ensure the solution works for users and capture feedback from real usage. 
+Following usability testing, we ran a pilot with 3 BSOs who used the portal to add real participants for a one-month period. This functioned as a private beta to help us further ensure the solution works for users and capture feedback from real usage.
 
 During this time, users’ requests raised via the portal continued to be picked up and actioned by the National Service Desk. This meant that if there were any issues with BSOs’ requests, agents from the service desk could respond directly to the BSO
 
@@ -81,9 +81,9 @@ In addition to monitoring usage data, we have continued collecting feedback from
 
 >… it is so straightforward and simple, and it takes, like literally a minute, not even that.”
 
-As of 16 September 2025, requests to add participants to BS Select are no longer accepted by email, with users being asked to submit them via the portal instead. 
+As of 16 September 2025, requests to add participants to BS Select are no longer accepted by email, with users being asked to submit them via the portal instead.
 
 
 ## Further information
 
-If you'd like to learn more about Cohort Manager, [our earlier post](/cohort-manager/2025/08/raised-and-not-raised/) looks into how introducing a labelling feature in our user interface aims to help users track the status of data exceptions.
+If you'd like to learn more about Cohort Manager, [our earlier post](/select/2025/08/raised-and-not-raised/) looks into how introducing a labelling feature in our user interface aims to help users track the status of data exceptions.
