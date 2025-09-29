@@ -1,0 +1,6 @@
+{
+  "layout": "post",
+  "eleventyNavigation": {
+    "parent": "Select people for invitation"
+  }
+}
