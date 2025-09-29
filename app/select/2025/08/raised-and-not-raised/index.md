@@ -1,5 +1,5 @@
 ---
-title: Breast screening - "raised" and "not raised"
+title: Status labelling - "raised" and "not raised"
 description: A look at the labelling feature in our user interface
 date: 2025-08-04
 tags:
