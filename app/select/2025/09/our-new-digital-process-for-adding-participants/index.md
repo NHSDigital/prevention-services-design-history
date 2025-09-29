@@ -79,7 +79,7 @@ The new digital process for adding participants has now been live for all BSOs f
 
 In addition to monitoring usage data, we have continued collecting feedback from users during the public beta phase. Insights gathered so far suggest high levels of satisfaction with the digital add process. In particular, users feel the new process is easier than raising requests via email, with feedback frequently citing the simplicity of using the portal to add participants:
 
->… it is so straightforward and simple, and it takes, like literally a minute, not even that.”
+>… it is so straightforward and simple, and it takes, like literally a minute, not even that.
 
 As of 16 September 2025, requests to add participants to BS Select are no longer accepted by email, with users being asked to submit them via the portal instead.
 
