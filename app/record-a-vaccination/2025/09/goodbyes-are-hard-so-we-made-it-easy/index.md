@@ -1,7 +1,7 @@
 ---
 title: "Goodbyes are hard. So we made it easy."
 description: "Allowing NHS regions deactivate organisations."
-date: 2025-07-15
+date: 2025-09-29
 ---
 
 RAVS has a [regional interface](/record-a-vaccination/2024/08/onboarding-organisations-without-spreadsheets/) which has been successful in allowing the 7 NHS Regions control who they want to on board to RAVS and when. It gives them control for their own area and removes a level of admin otherwise taken up by the RAVS team, a win-win.
@@ -18,7 +18,7 @@ The challenge is allowing the organisations enough time to finish everything the
 
 To allow a smooth transition to closure the RAVS regional interface lets regions deactivate organisations, which then gives 90 days, to either change their mind and undo the action or the organisation will become closed after 90 days.
 
-The 90 days of course also allows circa 3 months for the organisation to get things in order as needed. 
+The 90 days of course also allows circa 3 months for the organisation to get things in order as needed.
 
 Both these elements are clearly displayed in the regional interface in terms of what the regions need to know about deactivation and the email that will be sent to the Lead Administrators at that organisation.
 
