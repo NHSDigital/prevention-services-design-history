@@ -2,6 +2,7 @@
 title: Our new digital process for adding participants
 description: How we digitised the process for manually adding participants to the breast screening cohort
 date: 2025-09-29
+author: Kathryn Murphy-Wright
 tags:
   - beta
   - live
