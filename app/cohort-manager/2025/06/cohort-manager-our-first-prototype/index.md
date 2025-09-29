@@ -1,5 +1,5 @@
 ---
-title: Breast screening - our first prototype
+title: Cohort Manager - our first prototype
 description: Exploring the first design of our user interface
 date: 2025-06-11
 author: Kieron Bradshaw
