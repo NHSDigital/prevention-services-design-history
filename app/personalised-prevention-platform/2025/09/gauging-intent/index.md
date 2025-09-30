@@ -7,38 +7,54 @@ tags:
 - prototyping
 ---
 
+A central piece of our proposition (and that of prevention strategy in general) is the idea of a cycle.
 
-Hello! We’ve undergone a mild rebrand. We’re now known as the Weight Management team, still under Personalised Prevention Services.
+{% from "nhsuk/components/images/macro.njk" import image as nhsukImage %}
+{{ nhsukImage({
+  classes: "app-media--full-width",
+  src: "stages-highlighted.png",
+  alt: "Diagram of a prevention cycle showing stages of information provided, risks explained, support to improve, taking action, maintaining. Find support, taking action, and maintain are highlighted",
+  caption: "The segments of the cycle we’ve been exploring"
+}) }}
 
-Prior to this we were the [Personalised Prevention Platform (PPP).](/personalised-prevention-platform/)
+So far we’ve explored a user’s very first contact with our service &ndash; [introducing and onboarding,](/personalised-prevention-platform/2025/04/onboarding-users/) followed by [presenting opportunities.](/personalised-prevention-platform/2025/09/presenting-opportunities/) At this point we have one goal. We want to understand just enough about someone to suggest relevant opportunities that meet their needs.
 
-A lot of our underlying thinking remains the same:
+Next we need to be able to support people in maintaining their activities.
 
-1. we can reach the right people
-2. we can encourage people to act to improve their health
-3. we can help people to discover services that meet their needs
-4. we can understand enough about the user to suggest what might be effective
-5. we have permission for a life-long dialogue
+A big challenge for us is to figure out which (if any) opportunities a user intends to take up, now that we’ve presented them. We need to be able to do this in order to:
 
-Our thin steel thread is a prevention journey for weight management.
-
-Our [previous posts](/personalised-prevention-platform/2025/04/onboarding-users/) talked about
-onboarding then
-presenting options
-
-In this post let’s look at a big fun thing: gauging intent.
-
-## Can we gauge intent?
-
-A central piece of our proposition (and prevention strategy) is the idea of a feedback loop. We need to be able to check in and support people during their activities, playing the role of “interested friend”.
-
-Yet again it is not news to state that “things are not joined up”. There is no consistent underlying capability that allows us to rely on “knowing via tech” what a user has decided (or not) to do next.
+* check in with someone in a structured and personalised way &ndash; we approach the user with a “subject”
+* match feedback to options in order to improve our recommendations to all users
+* provide feedback to services themselves
+* get a better picture of outcomes
 
 How can we know if a user has:
 
 * downloaded and started to use an app?
 * attended a community event?
 * used a public facility?
+
+In the abstract this seems farily straightforward. We show the user options, they pick one, then we check in later to see how it’s going. Easy right?
+
+Not so fast!
+
+Let’s take Parkrun as an example opportunity. A potential user journey could be:
+
+1. noticing Parkrun in the listing
+2. reading more in the details and getting interested
+3. clicking through to the Parkrun site to find out more
+4. getting engaged and registering with Parkrun
+5. attending their first event
+
+From point 3, we have no idea of what the user does next. The click through does not represent “starting” or “choosing”, we can only infer it represents a desire to find out a bit more about something before making a decision.
+
+---
+
+Guess what? It’s not news to state (see previous post about presenting opportunities) that “things are not joined up”. There is no consistent underlying capability that allows us to rely on “knowing via tech” what a user has decided (or not) to do next.
+
+---
+
+## Can we gauge intent?
 
 ## How we tested
 
@@ -64,26 +80,7 @@ to:
 
 ### Intent is the next big challenge
 
-A big challenge for us is to figure out how and where in our overall prevention journey we can find out what a user is actually doing. We need to be able to do this in order to:
 
-* check in with someone in a structured and personalised way &ndash; we approach the user with a “subject”
-* match feedback to options in order to improve our recommendations to all users
-* provide feedback to services themselves
-* get a better picture of outcomes
-
-In the simplest possible scenario, we show the user options, they pick one, then we check in later to see how it’s going. Easy right?
-
-Not so fast!
-
-Let’s take Parkrun as an example. A potential user journey could be:
-
-1. noticing Parkrun in the listing
-2. reading more in the details and getting interested
-3. clicking through to the Parkrun site to find out more
-4. getting engaged and registering with Parkrun
-5. attending their first event
-
-From point 3, we have no idea of what the user does next. The click through does not represent “starting” or “choosing”, we can only infer it represents a desire to find out a bit more about something before making a decision.
 
 Remember, it would be unwise to attempt to replicate, host and maintain information about any possible option in its entirety.
 
@@ -156,3 +153,9 @@ Our next piece of work is around the first conversation we’ll have with a user
 At the point of our first check in, someone has onboarded, potentially setting up some goals, barriers, and preferences along the way. Hopefully they’ve been presented with one or more options that are interesting and engaging.
 
 Our next task is to engage the user and introduce a bit more of our interface for what we hope is an ongoing conversation. Importantly we need to jump the gap between presenting options and figuring out if something’s being started.
+
+Wouldn't it be good if, as we introduce users to the interface surfaces and tools that make up this dialogue, they didn't have to do a ton of planning and entering of information in order to even get set up? You know the vibe right?
+
+The vibe we want is akin to tripping on a paving stone then catching yourself - oh look, it's all here and it makes sense! We’re going for people who aren’t necessarily highly motivated, so we need to always be extremely mindful of _friction._ How can we work really hard so our users don’t have to?
+
+And so when we're initiating our conversation, the first sally in our dialogue, wouldn't it be nice if we had an idea of what we wanted to talk about? What if we were able to talk about the things we'd made the user aware of? What if we could have an idea of what was interesting to them, what they might be considering doing?
