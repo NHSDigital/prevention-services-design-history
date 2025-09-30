@@ -2,7 +2,7 @@
 title: "Gauging intent"
 description: "Presented with useful and relevant options, do people feel encouraged to take up activities?"
 date: 2025-09-02
-author: Mat Johnson
+author: Mat Johnson and Roz Strachan
 tags:
 - prototyping
 ---
