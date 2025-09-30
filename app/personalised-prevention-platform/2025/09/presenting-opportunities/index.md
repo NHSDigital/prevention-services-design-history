@@ -1,8 +1,8 @@
 ---
-title: "Presenting opportunities"
-description: "Presented with useful and relevant options, do people feel encouraged to take up activities?"
+title: "Presenting options"
+description: "Presented with useful and relevant opportunities, do people feel encouraged to take up activities?"
 date: 2025-09-01
-author: Mat Johnson
+author: Mat Johnson and Roz Strachan
 tags:
 - prototyping
 ---
@@ -10,17 +10,17 @@ tags:
 
 Hello! We’ve undergone a mild rebrand. We’re now known as the Weight Management team, still under Personalised Prevention Services.
 
-Prior to this we were the [Personalised Prevention Platform (PPP).](/personalised-prevention-platform/)
+Before this we were the [Personalised Prevention Platform (PPP).](/personalised-prevention-platform/)
 
 Our underlying thinking remains the same:
 
-1. we can reach the right people
-2. we can encourage people to act to improve their health
-3. we can help people to discover services that meet their needs
-4. we can understand enough about the user to suggest what might be effective
-5. we have permission for a life-long dialogue
+1. We can reach the right people.
+2. We can encourage people to act to improve their health.
+3. We can help people to discover services that meet their needs.
+4. We can understand enough about the user to suggest what might be effective.
+5. We have permission for a life-long dialogue.
 
-Our thin thread is a prevention journey for weight management.
+But we’ll be focusing on just one part of the prevention journey to start with: weight management.
 
 Our [previous post](/personalised-prevention-platform/2025/04/onboarding-users/) talked about how we've been exploring how we introduce our service to users, and find out a bit about them, through an “onboarding” process.
 
@@ -56,16 +56,16 @@ Can we provide:
 
 ### 2. What’s the minimum viable information about an activity we can use?
 
-It’s not news to state that service directories represent “hard yards”. The underlying work of assembling and maintaining information about services (of all shapes and sizes) has been repeatedly “discovered”. However it’s also not news to state that this information is required to underpin all sorts of transformational capabilities.
+It’s not news to state that service directories represent “hard yards”. The underlying work of assembling and maintaining information about services (of all shapes and sizes) has been repeatedly “discovered”. However it’s also not news to state that we need this information to underpin all sorts of transformational capabilities.
 
-In our case we need to work out how to establish a source of information about the options we might present to a user in a pilot area.
+We need to work out where and how we’ll get information about the services we want to show users in a pilot area.
 
 We’ve made some interesting experimental inroads with some help from the AI Health Coach team (thank you!), asking can algos and agents:
 
 * rapidly assemble a “starter for 10” of relevant local services based on set criteria?
 * represent a more sophisticated “automated link checker” maintenance approach to changes in information?
 
-Looking forwards we need to bear in mind that what we’re designing is not the only service that such information can provide value to. How do we design our data for re-use as agnostically as possible?
+Looking forwards, we need to bear in mind that other services might find the type of information we’re collating valuable too. How do we design our data for re-use as agnostically as possible?
 
 On top of this, it’s critical to acknowledge that the mechanics of some next steps could be complex, even if their central proposition is not. For example any given option could have multiple:
 
@@ -76,11 +76,11 @@ On top of this, it’s critical to acknowledge that the mechanics of some next s
 
 It follows that rather than attempt to recreate and maintain lots of complex content, we need to be able to do “just enough”. We must start lean in terms of how much information we display, and aim to meet essential needs first.
 
-What is just enough for someone:
+What is just enough for someone to:
 
-* to understand the proposition?
-* to know how to start?
-* to be engaged?
+* understand the proposition?
+* know how to start?
+* be engaged?
 
 ### 3. How well does filtering work?
 
@@ -88,13 +88,13 @@ If we acknowledge personalisation can only go so far, logically we need to creat
 
 Do people understand the connection between the:
 
-* questions we’ve asked
-* results themselves
+* questions we’ve asked?
+* results themselves?
 * available filters in the results listing?
 
 How easy is it for the user to explore all available options?
 
-## How we tested presenting opportunities
+## How we tested presenting options
 
 ### Expanding the prototype user journey
 
@@ -110,7 +110,7 @@ We extended our user journey into how presenting options might work. We continue
 
 [Open a large version of this image (4.5mb)](user-journey-iterations-xlarge.jpg)
 
-### Listings of opportunities
+### Listing options
 
 For listings, we gradually moved from hard coded selections matched to participants’ local areas, to an API returning only national services derived from the [Better Health](https://www.nhs.uk/better-health/) website.
 
@@ -185,7 +185,7 @@ There is a strong relationship between the volume and variety of information we 
 
 Our 18 services represent a generic baseline that we know to be suitable for all geographic areas and a wide range of people. In our pilot we expect to layer local offerings on top of this baseline, and so our volume and variety increases. With an idea of that increase, we get a better idea of how much granularity we can introduce.
 
-Having a localised layer also allows us to practice ”no dead ends”. If our base selection is generic, then a minimum set of options would include all relevant generic options. For example a user’s priority to “exercise or move more” would at the absolute minimum return the Active 10 and Couch to 5k apps.
+Having a localised layer also allows us to practise ”no dead ends”. If our base selection is generic, then a minimum set of options would include all relevant generic options. For example a user’s priority to “exercise or move more” would at the absolute minimum return the Active 10 and Couch to 5k apps.
 
 ### “Being engaging” can be quite simple
 
