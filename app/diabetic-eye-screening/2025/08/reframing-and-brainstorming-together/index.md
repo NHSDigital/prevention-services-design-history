@@ -1,5 +1,5 @@
 ---
-title: Diabetic eye screening - reframing and brainstorming together 
+title: Reframing and brainstorming together 
 description: How we reframed the problems we are addressing and ideated together to create a shared vision for our cohorting service
 date: 2025-08-04
 author: Sakshi Lamba Jhanji

@@ -84,7 +84,8 @@ export default function (eleventyConfig) {
     'bowel-screening',
     'breast-screening-reporting',
     'breast-screening-pathway',
-    'cohort-manager',
+    'select',
+    'diabetic-eye-screening',
     'explore-team',
     'manage-breast-screening',
     'manage-your-screening',
@@ -99,6 +100,7 @@ export default function (eleventyConfig) {
     'select-people-for-invitation',
     'vaccinations-in-the-app',
     // Personalised prevention service collections
+    'ai-health-coach',
     'personalised-prevention',
     'lung-health-check',
     'nhs-health-check-online',
