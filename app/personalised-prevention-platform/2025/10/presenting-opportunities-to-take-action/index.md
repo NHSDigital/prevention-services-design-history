@@ -1,6 +1,6 @@
 ---
-title: "Presenting options"
-description: "Presented with useful and relevant opportunities, do people feel encouraged to take up activities?"
+title: "Presenting opportunities to take action"
+description: "Presented with useful and relevant options, do people feel encouraged to take up activities?"
 date: 2025-10-01
 author: Mat Johnson and Roz Strachan
 tags:
@@ -10,7 +10,7 @@ tags:
 
 Hello! We’ve undergone a mild rebrand. We’re now known as the Weight Management team, still under Personalised Prevention Services.
 
-Before this we were the [Personalised Prevention Platform (PPP).](/personalised-prevention-platform/)
+Before this we were the [Personalised Prevention Platform (PPP).](/personalised-prevention-platform/) At least for now we’ll continue to post under PPP to reflect the ambition for the project.
 
 Our underlying thinking remains the same:
 
@@ -28,10 +28,7 @@ In this post let’s look at the next stage: presenting useful and relevant opti
 
 ## Why present options?
 
-Everyone we have spoken to told us they believed they could be doing more to maintain their health.
-
-> [!NOTE]
-> However they remained largely unaware of the range of help **already available** to them.
+Everyone we have spoken to told us they believed they could be doing more to maintain their health. However they remained largely unaware of the range of help **already available** to them.
 
 We’re seeing this in findings across personalised prevention services (PPS).
 
