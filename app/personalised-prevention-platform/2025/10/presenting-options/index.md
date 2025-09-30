@@ -1,7 +1,7 @@
 ---
 title: "Presenting options"
 description: "Presented with useful and relevant opportunities, do people feel encouraged to take up activities?"
-date: 2025-09-01
+date: 2025-10-01
 author: Mat Johnson and Roz Strachan
 tags:
 - prototyping
