@@ -6,7 +6,7 @@ description: Changes we’ve made to support the London flu service
 
 From the 1 October 2025, RAVS is also supporting the London flu service.
 
-This is an additional services funded by the NHS London region which enables pharmacies to offer the flu vaccination to some at-risk groups not covered by the national flu eligibility criteria.
+This is an additional service funded by the NHS London region which enables pharmacies to offer the flu vaccination to some groups not covered by the national flu eligibility criteria.
 
 The groups are:
 
