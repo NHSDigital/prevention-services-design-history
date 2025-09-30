@@ -185,7 +185,7 @@ There is a strong relationship between the volume and variety of information we 
 
 Our 18 services represent a generic baseline that we know to be suitable for all geographic areas and a wide range of people. In our pilot we expect to layer local offerings on top of this baseline, and so our volume and variety increases. With an idea of that increase, we get a better idea of how much granularity we can introduce.
 
-Having a localised layer also allows us to practise ”no dead ends”. If our base selection is generic, then a minimum set of options would include all relevant generic options. For example a user’s priority to “exercise or move more” would at the absolute minimum return the Active 10 and Couch to 5k apps.
+Having a localised layer also allows us to make sure there are no “dead ends”. If our base selection is generic, then a minimum set of options would include all relevant generic options. For example a user’s priority to “exercise or move more” would at the absolute minimum return the Active 10 and Couch to 5k apps.
 
 ### “Being engaging” can be quite simple
 
