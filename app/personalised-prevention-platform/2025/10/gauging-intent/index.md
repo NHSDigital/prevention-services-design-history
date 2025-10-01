@@ -21,7 +21,7 @@ A central piece of our proposition (and that of PPS strategy in general) is the 
   caption: "The segments of the cycle we’ve been exploring"
 }) }}
 
-We’ve explored a user’s very first contact with our service &ndash; [introducing and onboarding,](/personalised-prevention-platform/2025/04/onboarding-users/) followed by [presenting options.](/personalised-prevention-platform/2025/09/presenting-options/)
+We’ve explored a user’s very first contact with our service &ndash; [introducing and onboarding,](/personalised-prevention-platform/2025/04/onboarding-users/) followed by [presenting relevant options.](/personalised-prevention-platform/2025/10/presenting-opportunities-to-take-action/)
 
 This post examines how we figure out which (if any) opportunities a user intends to take up, now that we’ve presented them. How can we know if someone has:
 
