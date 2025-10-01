@@ -29,7 +29,7 @@ This post examines how we figure out which (if any) opportunities a user intends
 * attended a community event, for example a Parkrun?
 * used a public facility, for example an outdoor gym?
 
-We need to be able to do this in order to:
+We need to be able to do this so we can:
 
 * check in with someone in a personalised way &ndash; we can approach the user with a “subject”
 * understand what is working for someone and what isn’t
@@ -72,11 +72,11 @@ In our research sessions, we noted a lot of inconsistency in understanding this 
 
 Aside from causing confusion, an approach like this isn’t realistic because:
 
-* We’re asking for an **immediate** commitment from the user.
-* That commitment is required before the user has access to all the information they may need.
-* Demanding commitment this quickly creates unreliability at a key point, risking false positives.
-* To create an interface that requires a declaration means you must remove all other ways to continue, creating friction in exactly the wrong place.
-* There is literally no user need here, we’re making the user do the work to join things up for us.
+* we’re asking for an **immediate** commitment from the user
+* that commitment is required before the user has access to all the information they may need
+* demanding commitment this quickly creates unreliability at a key point, risking false positives
+* to create an interface that requires a declaration means you must remove all other ways to continue, creating friction in exactly the wrong place
+* there is literally no user need here, we’re making the user do the work to join things up for us
 
 The drawbacks of this approach are self-evident, but we felt we needed to demonstrate very clearly the fundamental difficulty (and problematic nature) of relying on the user and interface to do the work of joining up for us.
 
@@ -119,7 +119,7 @@ Using multiple techniques puts us in the realm of probabilities and likelihoods.
 
 ## Intent is the third big challenge
 
-So far we’ve assembled three big challenges:
+So far we have assembled three big challenges:
 
 1. curating a good selection of local and national options
 2. understanding how to recommend those options based on user input (and what we might already know)
@@ -127,6 +127,6 @@ So far we’ve assembled three big challenges:
 
 ## What we’re doing next
 
-We’re thinking about the first conversation we’ll have with a user after they’ve been presented options. At the point of our first check in, someone has potentially set up some goals, barriers, and preferences. Hopefully they’ve been presented with one or more relevant options that are interesting and engaging.
+We’re thinking about the first conversation we’ll have with a user after they’ve been presented with options. At the point of our first check in, someone has potentially set up some goals, barriers, and preferences. Hopefully they’ve been presented with one or more relevant options that are interesting and engaging.
 
-The first check in the primary point where having knowledge of a user’s intent becomes crucial. Otherwise what will we talk about?
+The first check is the primary point where having knowledge of a user’s intent becomes crucial. Otherwise what will we talk about?
