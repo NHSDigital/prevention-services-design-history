@@ -1,6 +1,6 @@
 ---
 title: "Gauging intent"
-description: "Presented with useful and relevant options, do people feel encouraged to take up activities?"
+description: "How do we know if someone’s actually going to do something based on the options we've shown them?"
 date: 2025-10-02
 author: Mat Johnson and Roz Strachan
 tags:
