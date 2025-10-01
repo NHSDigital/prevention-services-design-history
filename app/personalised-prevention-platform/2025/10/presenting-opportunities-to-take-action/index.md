@@ -1,5 +1,5 @@
 ---
-title: "Presenting opportunities to take action"
+title: "Showing people options they can act on"
 description: "Presented with useful and relevant options, do people feel encouraged to take up activities?"
 date: 2025-10-01
 author: Mat Johnson and Roz Strachan
@@ -24,7 +24,7 @@ But we’ll be focusing on just one part of the prevention journey to start with
 
 Our [previous post](/personalised-prevention-platform/2025/04/onboarding-users/) talked about how we've been exploring how we introduce our service to users, and find out a bit about them, through an “onboarding” process.
 
-In this post let’s look at the next stage: presenting useful and relevant options.
+In this post let’s look at the next stage: presenting useful and relevant options. When presented with useful and relevant options, do people feel encouraged to take up activities?
 
 ## Why present options?
 
