@@ -2,6 +2,7 @@
 title: Discovery summary
 description: A summary post detailing our discovery into personalised prevention
 date: 2025-03-20
+author: Mat Johnson and Bill Wessel
 tags:
 - discovery
 ---

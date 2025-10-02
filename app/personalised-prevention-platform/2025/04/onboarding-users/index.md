@@ -2,6 +2,7 @@
 title: Onboarding users
 description: Exploring how people might be introduced to the service using prototypes
 date: 2025-04-11
+author: Mat Johnson
 tags:
 - alpha
 - prototyping
