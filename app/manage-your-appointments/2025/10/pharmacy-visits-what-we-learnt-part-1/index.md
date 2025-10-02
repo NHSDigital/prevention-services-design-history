@@ -1,6 +1,6 @@
 ---
-title: What is the manage your appointments service?
-date: 2024-09-24
+title: Pharmacy visits what we learnt part 1
+date: 2025-10-02
 ---
 
 The service will enable healthcare providers to create and manage availability and appointments
