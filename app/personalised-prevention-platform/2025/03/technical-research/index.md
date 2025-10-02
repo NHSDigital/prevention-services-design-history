@@ -2,6 +2,7 @@
 title: Technology research summary
 description: A summary of technology within NHSE that could support personalised prevention work
 date: 2025-03-31
+author: Dan Merchante
 tags:
 - discovery
 ---
