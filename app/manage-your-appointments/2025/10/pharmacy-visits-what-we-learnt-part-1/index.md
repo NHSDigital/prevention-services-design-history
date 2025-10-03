@@ -1,5 +1,5 @@
 ---
-title: What we learnt from visiting pharmacies: part 1
+title: "What we learnt from visiting pharmacies: part 1"
 date: 2025-10-02
 ---
 
