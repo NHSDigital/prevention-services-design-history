@@ -2,6 +2,9 @@
 title: How we told users about a change to the interface
 date: 2025-10-03
 description: How we helped users adapt to a new interface through communications and a 2 month period of dual-running.
+opengraphImage:
+  src: /record-a-vaccination/2025/10/how-we-told-users-about-a-change-to-the-interface/record-vaccinations-new.png
+  alt: Text saying ‘Record vaccinations’ followed by ‘New’ in a blue box
 ---
 
 For the autumn 2025 winter vaccination we made some major changes to the interface for recording and editing vaccination records.
