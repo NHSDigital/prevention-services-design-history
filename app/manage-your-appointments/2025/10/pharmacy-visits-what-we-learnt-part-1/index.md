@@ -15,9 +15,9 @@ We did this research for two main reasons:
 This research helped us get a clearer picture of how pharmacies run their seasonal vaccination services and how, in turn, they set up appointment availability in MYA. Broadly, the pharmacies I visited took one of two approaches. 
 
 ### A flexible approach 
-The most common approach pharmacies took was to allow bookings at any time and set up their appointment availability to mirror their opening hours. That meant going into MYA, creating a weekly repeating session for Monday – Friday, adding all the vaccination services they offer, and then setting the start and finish times to match opening hours. More often than not the start and ed dates for this covered the whole campaign.  
+The most common approach pharmacies took was to allow bookings at any time and set up their appointment availability to mirror their opening hours. That meant going into MYA, creating a weekly repeating session for Monday – Friday, adding all the vaccination services they offer, and then setting the start and finish times to match opening hours. More often than not the start and end dates for this covered the whole campaign. Here's how this set up looks once a user reaches the 'Check your answers' screen:
 
-[image of typical availability] 
+![Screenshot of a MYA webpage with the title 'Check weekly session' with the details: 1 October to 23 December 2025, Monday to Friday, 09:30 to 17:30, one vaccinator, 5-minute appointments, COVID and flu vaccinations, 96 total appointments in the session and a save session button at bottom.](MYA-check-answers.png)
 
 Pharmacies taking this approach typically had lower demand for both seasonal vaccination appointments and other pharmacy services. They also had more capacity, with 2 pharmacists on site at any time, or at the very least trained vaccinators. This gave them the breathing room to offer seasonal vaccinations all day, while still being able to take breaks and stay on top of everything else. 
 
