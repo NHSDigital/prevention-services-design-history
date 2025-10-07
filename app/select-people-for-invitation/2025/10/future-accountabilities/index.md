@@ -7,9 +7,9 @@ tags:
   - service design
 ---
 
-Currently the Select People for Invitation (SPI) service is used to send invitations to book vaccination appointments for 
+Currently the Select People for Invitation (SPI) service is used to send invitations to book vaccination appointments for:
 
-- Covid
+- COVID-19
 - Flu
 - MMR
 - RSV
