@@ -3,7 +3,7 @@ title: "What we learnt from visiting pharmacies: part 1"
 date: 2025-10-02
 ---
 
-We recently visited 10 pharmacies in London to see how they were using Manage Your Appointments just as appointment booking for this year’s seasonal vaccinations opened. 
+We recently visited 10 pharmacies in London to see how they were using Manage Your Appointments, just as appointment booking for this year’s seasonal vaccinations opened. 
 
 We did this research for two main reasons: 
 
