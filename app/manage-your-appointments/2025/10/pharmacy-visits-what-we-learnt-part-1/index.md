@@ -12,7 +12,7 @@ We did this research for two main reasons:
 2. To hear from users unlikely to take part in remote research: up to this point most of the research on MYA has been remote. This means the sample has skewed towards the kind of users who can easily join a pre-scheduled Teams call. As a result, we’ve heard from lots of back office staff for large pharmacy chains, and people in admin roles for Trusts and primary care networks (PCNs). But, we haven’t heard from as many pharmacists or dispensers as we should have, especially given pharmacies account for roughly 95% of MYA’s users.  
 
 ## Different approaches to running seasonal vaccinations
-This research helped us get a clearer picture of how pharmacies run their seasonal vaccination services and how, in turn, they set up appointment availability in MYA. Broadly, the pharmacies I visited took one of two approaches. 
+This research helped us get a clearer picture of how pharmacies run their seasonal vaccination services and how, in turn, they set up appointment availability in MYA. Broadly, the pharmacies we visited took one of two approaches. 
 
 ### A flexible approach 
 The most common approach pharmacies took was to allow bookings at any time and set up their appointment availability to mirror their opening hours. That meant going into MYA, creating a weekly repeating session for Monday – Friday, adding all the vaccination services they offer, and then setting the start and finish times to match opening hours. More often than not the start and end dates for this covered the whole campaign. Here's how this set up looks once a user reaches the 'Check your answers' screen:
