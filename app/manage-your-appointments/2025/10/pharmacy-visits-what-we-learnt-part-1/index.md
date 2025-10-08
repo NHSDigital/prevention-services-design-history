@@ -9,7 +9,7 @@ We did this research for two main reasons:
 
 1. To help us better understand the feedback we were receiving: we’ve been getting lots of feedback through our survey, in the Q&A during training webinars and via the service desk. This feedback is great for learning what users want and where they’re running into problems, but usually it’s missing the detail required to fully understand the underlying need. 
 
-2. To hear from users unlikely to take part in remote research: up to this point most of the research on MYA has been remote. This means the sample has skewed towards the kind of users who can easily join a pre-scheduled Teams call. As a result, we’ve heard from lots of back office staff for large pharmacy chains, and people in admin roles for Trusts and PCNs. But, we haven’t heard from as many pharmacists or dispensers as we should have, especially given pharmacies account for roughly 95% of MYA’s users.  
+2. To hear from users unlikely to take part in remote research: up to this point most of the research on MYA has been remote. This means the sample has skewed towards the kind of users who can easily join a pre-scheduled Teams call. As a result, we’ve heard from lots of back office staff for large pharmacy chains, and people in admin roles for Trusts and primary care networks (PCNs). But, we haven’t heard from as many pharmacists or dispensers as we should have, especially given pharmacies account for roughly 95% of MYA’s users.  
 
 ## Different approaches to running seasonal vaccinations
 This research helped us get a clearer picture of how pharmacies run their seasonal vaccination services and how, in turn, they set up appointment availability in MYA. Broadly, the pharmacies I visited took one of two approaches. 
