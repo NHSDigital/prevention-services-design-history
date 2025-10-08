@@ -50,5 +50,3 @@ We assumed pharmacies deliver most vaccinations at pre-booked time slots, sticki
 
 When you take a step back, none of this is especially surprising. But, without regular research with end users, it’s easy to slip back into self-referential design and start making these kinds of assumptions. 
 
-## Opportunities for improvement
-During these visits we also observed pharmacy staff using MYA for the first time. This highlighted several usability issues, which will be outlined in another design history entry coming soon.
