@@ -22,7 +22,7 @@ There are 3 main user groups involved in SPI:
 
 ## How this might change
 
-The [NHS vaccination strategy](https://www.england.nhs.uk/long-read/nhs-vaccination-strategy/) and the [NHS 10 year plan](https://www.gov.uk/government/publications/10-year-health-plan-for-england-fit-for-the-future) both talk about giving more autonomy at a local level. This has previously been called "delegation" and was framed as delegation of commissioning vaccine services from NHSE to ICBs. The language is evolving, and this theme is now known as "future accountabilities".
+The [NHS vaccination strategy](https://www.england.nhs.uk/long-read/nhs-vaccination-strategy/) and the [NHS 10 year plan](https://www.gov.uk/government/publications/10-year-health-plan-for-england-fit-for-the-future) both talk about giving more autonomy at a local level. This has previously been called "delegation" and was framed as delegation of commissioning vaccine services from NHSE to integrated care boards (ICBs). The language is evolving, and this theme is now known as "future accountabilities".
 
 Whilst all of the detail isn't yet known, the theme of greater local autonomy is clear. To that end we have engaged with ICBs to learn about how they see the future landscape and what role SPI might play for them.
 
@@ -44,7 +44,7 @@ Some quotes:
 
 > Direct ICB‑level communications would reduce friction, help GP budgets, and speed up outreach
 
-> Million% we could use that if we could send out and invite people
+> Million percent we could use that if we could send out and invite people
 
 Contact the SPI team if you would like access to the full research findings report.
 
