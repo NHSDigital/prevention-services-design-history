@@ -22,7 +22,7 @@ The most common approach pharmacies took was to allow bookings at any time and s
 Pharmacies taking this approach typically had lower demand for both seasonal vaccination appointments and other pharmacy services. They also had more capacity, with two pharmacists on site at any time, or at the very least two trained vaccinators. This gave them the breathing room to offer seasonal vaccinations all day, while still being able to take breaks and stay on top of everything else. 
 
 It also meant they had a relaxed attitude to walk-ins and patients ringing to book an appointment, which they would often just note down in a paper diary. As one pharmacist put it:
-> “it’s not manage your appointments, it’s go with the flow”. 
+> it’s not manage your appointments, it’s go with the flow. 
 
 ### Less room for manoeuvre 
 At the other end of the spectrum there was a smaller group of pharmacies who found it more difficult to juggle seasonal vaccinations alongside everything else.  These pharmacies typically had a single pharmacist on site, coupled with high demand for other services, like dispensing. This meant they were more worried about falling behind, or becoming overwhelmed, and they were trying to set up MYA in a way that kept things manageable.  
