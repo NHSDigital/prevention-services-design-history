@@ -46,7 +46,7 @@ We’d assumed staff would attend training or read guidance before using the ser
 In reality pharmacy staff simply don’t have the time for guidance or training beforehand, or to carefully double check everything. Plus, finding time without distractions to do an admin task like this is hard. That means when they get to it, the aim is simply to get their appointment availability set up as quickly as possible, and before they get interrupted by something else. 
 
 ### 3. Pharmacies run services to the minute 
-We assumed pharmacies deliver most vaccinations at pre-booked time slots, sticking closely to scheduled appointments. At the pharmacies we visited in this research, we found walk-ins were equally, if not more common. My impression was that pharmacies are less concerned with strict timings and more focused on providing a good service overall. If someone turns up early, they may be seen early; if they’re late, it’s usually not a problem. 
+We assumed pharmacies deliver most vaccinations at pre-booked time slots, sticking closely to scheduled appointments. At the pharmacies we visited in this research, we found walk-ins were equally likely, if not more common. My impression was that pharmacies are less concerned with strict timings and more focused on providing a good service overall. If someone turns up early, they may be seen early; if they’re late, it’s usually not a problem. 
 
 When you take a step back, none of this is especially surprising. But, without regular research with end users, it’s easy to slip back into self-referential design and start making these kinds of assumptions. 
 
