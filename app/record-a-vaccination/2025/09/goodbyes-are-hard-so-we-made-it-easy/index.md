@@ -1,6 +1,6 @@
 ---
 title: "Goodbyes are hard. So we made it easy."
-description: "Allowing NHS regions deactivate organisations."
+description: "Allowing NHS regions to deactivate organisations."
 date: 2025-09-29
 ---
 
