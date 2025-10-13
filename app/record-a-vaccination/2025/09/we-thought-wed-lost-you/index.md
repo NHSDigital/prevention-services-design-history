@@ -1,6 +1,5 @@
 ---
-title: "Phew, we thought we’d lost you?!"
-description: Reactivating users after 90 days of inactivity
+title: Reactivating users after 90 days of inactivity
 date: 2025-09-29
 ---
 
