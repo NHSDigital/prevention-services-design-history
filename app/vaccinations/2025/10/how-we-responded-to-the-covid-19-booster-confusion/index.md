@@ -3,7 +3,7 @@ title: How we responded to the COVID-19 booster confusion
 date: 2025-10-17
 ---
 
-**This autumn, as the COVID-19 vaccination programme launched, our digital services team needed to move quickly to respond to unexpected confusion around eligibility.** 
+**This autumn, as the COVID-19 vaccination programme launched, our digital services team needed to move quickly to respond to unexpected confusion around eligibility.**
 
 We needed to help reduce pressure on community pharmacies and restore clarity for patients.
 
@@ -20,9 +20,9 @@ The age threshold rose from **65 to 75**, meaning many people who had qualified 
 
 > "If something has changed, it would be kind to inform people that they are no longer at significant risk"
 
-Pharmacies saw a surge in patients who expected to receive a vaccine but were turned away. 
+Pharmacies saw a surge in patients who expected to receive a vaccine but were turned away.
 
-This led to frustration and anger - especially among those unaware of the updated rules.  It also caused stress and disruption for pharmacy teams, who were already under pressure during a busy period. 
+This led to frustration and anger - especially among those unaware of the updated rules.  It also caused stress and disruption for pharmacy teams, who were already under pressure during a busy period.
 
 ![Screenshot of a news headline with the title 'Pharmacies acing angry patients over COVOD-19 jab'](headline.jpg)
 
@@ -51,7 +51,7 @@ While the COVID-19 vaccination booking service automatically screens out users w
 
 This is needed because many people want the convenience of arranging both vaccinations in one go - ideally to have at the same appointment. We need to make that process as smooth as possible for those who are eligible.
 
-We made the criteria as clear as possible, using a prominent yellow [warning callout](https://service-manual.nhs.uk/design-system/components/warning-callout). But it's possible many people simply didn't read this or understand it, or just clicked through anyway. 
+We made the criteria as clear as possible, using a prominent yellow [warning callout](https://service-manual.nhs.uk/design-system/components/warning-callout). But it's possible many people simply didn't read this or understand it, or just clicked through anyway.
 
 > “No proper information on eligibility. Just a yes/no question”
 > “I wanted to see more detail on eligibility criteria”
