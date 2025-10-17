@@ -59,7 +59,7 @@ We made the criteria as clear as possible, using a prominent yellow [warning cal
 
 We're waiting for more data to back this assumption - but this is something researchers see time and again: users skip the content and head straight for the green button — and designers always have to plan for it.
 
-![Screenshot of the self-referral screen](NBS.png "Our flu booking service asks users if they’d also like a COVID-19 vaccine. Many eligible people clicked through.")
+![Screenshot of the self-referral screen](NBS.png "Our flu booking service asks users if they'd also like a COVID-19 vaccine. We think many ineligible people clicked through.")
 
 [We saw this pattern in the COVID testing service too](https://digital.nhs.uk/blog/design-matters/2022/covid-19-testing-tackling-eligibility): once users are familiar with a digital service and have seen an interruption screen before, they're more likely to ignore it, even if content has changed. They assume they've read it before.
 
