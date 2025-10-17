@@ -1,5 +1,5 @@
 ---
-title: People just go straight for the green button
+title: How we responded to the COVID-19 booster confusion
 date: 2025-10-17
 ---
 
