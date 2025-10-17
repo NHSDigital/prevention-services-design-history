@@ -16,9 +16,9 @@ The age threshold rose from **65 to 75**, meaning many people who had qualified 
 [Despite clear guidance on NHS.UK](https://www.nhs.uk/vaccinations/covid-19-vaccine/) and GOV.UK, the shift caught many off guard. Here's what some users told us in the booking exit survey (1 Sept to 5 October):
 
 
-> "I do not understand why I do not qualify too, especially as I am 67"
+> I do not understand why I do not qualify too, especially as I am 67
 
-> "If something has changed, it would be kind to inform people that they are no longer at significant risk"
+> If something has changed, it would be kind to inform people that they are no longer at significant risk
 
 Pharmacies saw a surge in patients who expected to receive a vaccine but were turned away.
 
