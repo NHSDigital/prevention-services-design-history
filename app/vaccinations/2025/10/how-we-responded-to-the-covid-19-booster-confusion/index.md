@@ -79,7 +79,7 @@ It's always a challenge to help people determine whether they have a weakened im
 
 ## What we've learned - and what we'll do next time
 
-But let's focus on what we can do.
+But let's focus on what we *can* do.
 
 Now we know: **when eligibility rules change, clarity matters more than ever.**
 
