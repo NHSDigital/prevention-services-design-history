@@ -38,7 +38,7 @@ We - Vaccination Digital Services - acted quickly to support patients and pharma
 
 Mindful of the frustration people were feeling, we wanted the tone of our email to reflect that. It was a slight shift from our [usual voice](https://service-manual.nhs.uk/content/voice-and-tone) - more empathetic, more human - and it felt right for the moment:
 
-> “We understand this might be confusing, especially if you had the vaccine last year.”
+> We understand this might be confusing, especially if you had the vaccine last year.
 
 ![Screenshot of the targeted follow-up messages we sent out](comms.png "The follow-up messages we sent, to set expectations")
 
@@ -53,8 +53,8 @@ This is needed because many people want the convenience of arranging both vaccin
 
 We made the criteria as clear as possible, using a prominent yellow [warning callout](https://service-manual.nhs.uk/design-system/components/warning-callout). But it's possible many people simply didn't read this or understand it, or just clicked through anyway.
 
-> “No proper information on eligibility. Just a yes/no question”
-> “I wanted to see more detail on eligibility criteria”
+> No proper information on eligibility. Just a yes/no question
+> I wanted to see more detail on eligibility criteria
 
 We're waiting for more data to back this assumption - but this is something researchers see time and again: users skip the content and head straight for the green button — and designers always have to plan for it.
 
@@ -68,11 +68,11 @@ But it's likely the confusion wasn't *just* about age.
 
 Every season, it seems that some patients self-refer believing they have a weakened immune system that qualifies them for the jab -  but in fact they do not, or no longer, meet the criteria. For example, someone who recently came off treatment might not realise they're no longer eligible.
 
-> "I’m asthmatic. Got to the time section. Got thrown off. Filled out details and said not eligible. I've had it every year for as long as I remember."
+> I’m asthmatic. Got to the time section. Got thrown off. Filled out details and said not eligible. I've had it every year for as long as I remember.
 
-> "I have to rank as very [disappointed] as I find I am not eligible despite a number of health conditions including cardiac, respiratory and diabetes."
+> I have to rank as very [disappointed] as I find I am not eligible despite a number of health conditions including cardiac, respiratory and diabetes.
 
-> "Incomplete list of immune conditions left me uncertain as to whether I am eligible or not"
+> Incomplete list of immune conditions left me uncertain as to whether I am eligible or not
 
 It's always a challenge to help people determine whether they have a weakened immune system because of a health condition or treatment, because this is ultimately determined by a clinician. We can't publish a definitive list for people to check against, only [a summary](https://www.nhs.uk/vaccinations/covid-19-vaccine/).
 
