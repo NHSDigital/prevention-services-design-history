@@ -54,6 +54,7 @@ This is needed because many people want the convenience of arranging both vaccin
 We made the criteria as clear as possible, using a prominent yellow [warning callout](https://service-manual.nhs.uk/design-system/components/warning-callout). But it's possible many people simply didn't read this or understand it, or just clicked through anyway.
 
 > No proper information on eligibility. Just a yes/no question
+
 > I wanted to see more detail on eligibility criteria
 
 We're waiting for more data to back this assumption - but this is something researchers see time and again: users skip the content and head straight for the green button — and designers always have to plan for it.
