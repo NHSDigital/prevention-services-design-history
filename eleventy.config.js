@@ -28,6 +28,10 @@ export default function (eleventyConfig) {
             href: '/sitemap'
           },
           {
+            text: 'All posts',
+            href: '/all'
+          },
+          {
             text: 'Subscribe to feed',
             href: '/feed.xml'
           },
