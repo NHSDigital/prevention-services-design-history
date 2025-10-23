@@ -1,5 +1,6 @@
 ---
 title: How we responded to the COVID-19 booster confusion
+author: Caroline Finucane
 date: 2025-10-23
 ---
 
