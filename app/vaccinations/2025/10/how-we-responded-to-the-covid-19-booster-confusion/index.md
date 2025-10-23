@@ -8,8 +8,6 @@ date: 2025-10-23
 
 Many patients turned up at pharmacies expecting to receive a booster, but had to be turned away.
 
-![Screenshot of a news headline with the title 'Pharmacies acing angry patients over COVOD-19 jab'](headline.jpg)
-
 We needed to act fast to help reduce pressure on community pharmacies and offer clarity for patients.
 
 Many of the ineligible people coming forward had likely come through our own booking service, which is intentionally designed to let people self-refer if they believe they are eligible. 
@@ -20,7 +18,7 @@ This year, the Joint Committee on Vaccination and Immunisation (JCVI) changed el
 
 The age threshold rose from **65 to 75**, meaning many people who had qualified last year were no longer eligible.
 
-[We published guidance on NHS.UK](https://www.nhs.uk/vaccinations/covid-19-vaccine/) and GOV.UK, but the shift caught many off guard. Here's what some users told us in the booking exit survey (1 Sept to 5 October):
+[NHS England published guidance on NHS.UK](https://www.nhs.uk/vaccinations/covid-19-vaccine/) and GOV.UK, but the shift caught many off guard. Here's what some users told us in the booking exit survey (1 Sept to 5 October):
 
 > I do not understand why I do not qualify too, especially as I am 67
 
