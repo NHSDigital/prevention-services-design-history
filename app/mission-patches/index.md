@@ -71,4 +71,6 @@ groups:
       Supply: Individuals on a square backing<br>
       Diameter: 50mm
 
+
+      Download [template for Sketch](nhs-mission-patch-template.sketch)
 ---
