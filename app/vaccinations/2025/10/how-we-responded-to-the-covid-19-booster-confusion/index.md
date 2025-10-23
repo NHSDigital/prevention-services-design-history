@@ -73,7 +73,7 @@ Every season, it seems that some patients self-refer believing they have a weake
 
 > Incomplete list of immune conditions left me uncertain as to whether I am eligible or not
 
-It's always a challenge to help people determine whether they have a [weakened immune system because of a health condition or treatment](https://www.nhs.uk/vaccinations/covid-19-vaccine/), because this is ultimately determined by a clinician. We can't publish a definitive list for people to check agains.
+It's always a challenge to help people determine whether they have a [weakened immune system because of a health condition or treatment](https://www.nhs.uk/vaccinations/covid-19-vaccine/), because this is ultimately determined by a clinician. We can't publish a definitive list for people to check against.
 
 ## What we've learned - and what we'll do next time
 
