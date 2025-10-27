@@ -10,7 +10,7 @@ tags:
 
 We’re exploring adding an appointment note. An appointment note highlights relevant information about a participant's screening appointment to admin staff and mammographers.
 
-## What’s the user need? 
+## What’s the user need?
 
 What and who are appointment notes for? We already have a way for users to add special appointment needs: for example, if a participant needs support with vision or mobility. Participants may have other needs which should be highlighted in a screening appointment for additional support, for example, if they’re: 
 
