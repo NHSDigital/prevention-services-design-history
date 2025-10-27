@@ -37,7 +37,7 @@ It may also expose interesting gaps in our product that we’ll need to find a b
 
 There are other kinds of notes we may want to show in our product: 
 
-Radiologist notes for image reading
+## Radiologist notes for image reading
 
 We’ll likely need a way to add notes for radiologists that will inform their medical opinion when reading images. In addition to the breast features diagram, radiologists would benefit from notes to help them decide:
 
