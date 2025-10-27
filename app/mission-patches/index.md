@@ -60,6 +60,16 @@ groups:
         image:
           alt: RSV mission patch
           src: rsv-mission-patch.png
+  - title: Breast screening programme
+    description: This mission patch celebrates the breast screening programme with our two fierce hyenas. Hyenas are powerful, fierce, matriarchal and resilient, just like us.
+    columns: 3
+    type: "secondary"
+    items:
+      - description: Mission patch for transforming breast screening – representing our whole breast screening programme.
+        date: 2025-10-21
+        image:
+          alt: Breast screening programme mission patch
+          src: hyenas-mission-patch-2025.png
   - title: Print specifications
     description: >
       We use [Diginate](http://diginate.com) to print our stickers, using these specifications:
