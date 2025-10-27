@@ -11,11 +11,11 @@ eleventyComputed:
     parent: Home
 groups:
   - title: Manage vaccinations in schools
-    description: The team chose a polar bear as their mascot because they're big on protecting their cubs. Living in a hostile environment, they can also be highly adaptive and conserve energy. That, and everyone on the team seems to love [The Bear](https://www.imdb.com/title/tt14452776/).
+    description: The team chose a polar bear as their mascot because they’re big on protecting their cubs. Living in a hostile environment, they can also be highly adaptive and conserve energy. That, and everyone on the team seems to love [The Bear](https://www.imdb.com/title/tt14452776/).
     columns: 3
     type: "secondary"
     items:
-      - description: To celebrate completion of the pilot, our first mission patch features Mavis protecting her 2 cubs. The northern lights reflect the colours of the teams involved with the service's development, while the 3 stars represent the 3 SAIS teams we piloted with.
+      - description: To celebrate completion of the pilot, our first mission patch features Mavis protecting her 2 cubs. The northern lights reflect the colours of the teams involved with the service’s development, while the 3 stars represent the 3 SAIS teams we piloted with.
         date: 2024-04-04
         image:
           alt: Mavis pilot mission patch
@@ -25,13 +25,13 @@ groups:
         image:
           alt: Mavis HPV private beta mission patch
           src: mavis-hpv-private-beta-mission-patch.png
-      - description: The mission patch for the release supporting 'doubles' (co-administered MenACWY and Td/IPV vaccinations) features Mavis meeting her double.
+      - description: The mission patch for the release supporting ‘doubles’ (co-administered MenACWY and Td/IPV vaccinations) features Mavis meeting her double.
         date: 2025-04-09
         image:
-          alt: Mavis 'doubles' mission patch
+          alt: Mavis ‘doubles’ mission patch
           src: mavis-doubles-mission-patch.png
   - title: Record a vaccination
-    description: The team chose a hare as their mascot because they're able to make big leaps forward.
+    description: The team chose a hare as their mascot because they’re able to make big leaps forward.
     columns: 3
     type: "secondary"
     items:
