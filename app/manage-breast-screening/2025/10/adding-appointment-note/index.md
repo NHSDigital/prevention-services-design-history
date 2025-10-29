@@ -22,7 +22,7 @@ Appointment notes should capture information relevant to a screening appointment
 
 ## What notes shouldn’t include 
 
-We already have a way to capture special appointment needs. We also already have a way to capture medical information, both in a structured and a free-text way, so we want to discourage the appointment note being used for these purposes. We’ve added a callout to steer users towards adding a special appointment if that’s more appropriate for what they’re capturing. 
+We already have a way to capture special appointment needs (for example, a participant may need support with mobility, hearing, or vision). We also already have a way to capture medical information, both in a structured and a free-text way, so we want to discourage the appointment note being used for these purposes. We’ve added a callout to steer users towards adding a special appointment if that’s more appropriate for what they’re capturing. 
 
 The appointment note offers users a degree of freedom outside of a structure, so in practice, we’ll need to monitor how this is actually used by our users. 
 
