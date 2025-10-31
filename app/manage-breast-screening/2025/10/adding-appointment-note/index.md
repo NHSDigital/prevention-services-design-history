@@ -26,7 +26,7 @@ We already have a way to capture special appointment needs (for example, a parti
 
 The appointment note offers users a degree of freedom outside of a structure, so in practice, we’ll need to monitor how this is actually used by our users. 
 
-It may also expose interesting gaps in our product that we’ll need to find a better way to support. 
+It may also expose gaps in our product that we’ll need to find a better way to support. 
 
 ## Screenshots
 ![Screenshot showing the note tab selected, with a textarea for the user to add a note to the appointment](appointment-note-1.png)
