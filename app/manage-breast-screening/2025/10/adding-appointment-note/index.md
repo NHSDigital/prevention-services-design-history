@@ -41,7 +41,7 @@ There are other kinds of notes we may want to show in our product:
 
 We’re also exploring freetext notes for radiologists. These notes will help to inform their medical opinion when reading images. In addition to the [breast features diagram](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2025/07/medical-annotation-tool-for-capturing-breast-features/), radiologists would benefit from notes to help them decide:
 
-*  if an image is classed as normal (if, for example, the participant has lost a significant amount of weight)
+* if an image is classed as normal (if, for example, the participant has lost a significant amount of weight)
 * whether to do a technical recall
 * or a note to explain why an image isn’t perfect (for example, no paddle is available). 
 
