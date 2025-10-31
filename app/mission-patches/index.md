@@ -43,6 +43,10 @@ groups:
         image:
           alt: RAVS 1 million jabs mission patch
           src: ravs-1-million-jabs-mission-patch.png
+      - description: This mission patch celebrated the launch of the new streamlined interface for recording vaccinations.
+        image:
+          alt: RAVS Streamlined mission patch
+          src: ravs-streamlined.png
   - title: Vaccinations
     description: These mission patches celebrate work that spanned multiple vaccination teams.
     columns: 3
