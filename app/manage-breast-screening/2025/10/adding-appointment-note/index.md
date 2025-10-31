@@ -1,7 +1,7 @@
 ---
 title: Adding an appointment note
 description: Exploring adding an appointment note, which highlights relevant information about the appointment to admin staff and mammographers
-date: 2025-10-27
+date: 2025-10-31
 tags:
   - beta
   - prototype
