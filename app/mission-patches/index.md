@@ -56,10 +56,18 @@ groups:
         image:
           alt: Autumn/Winter 2024 mission patch
           src: autumn-winter-2024-mission-patch.png
-      - description: This sparkly mission patch celebrated the launch of a brand new RSV vaccination, which was enabled by multiple teams including Select & Invite, Book a vaccination, Record a vaccination, and Capture & Flow.
+      - description: This sparkly mission patch celebrated the launch of a brand new RSV vaccination, which was enabled by multiple teams and services.
         image:
           alt: RSV mission patch
           src: rsv-mission-patch.png
+      - description: This mission patch celebrated the work of the digital services supporting the Autumn/Winter 2025 seasonal vaccinations.
+        image:
+          alt: Autumn/Winter 2025 mission patch
+          src: vaccinations-autumn-winter-campaign-2025.png
+      - description: This sticker celebrated the VDS Ideas Summit event on 30 October 2025
+        image:
+          alt: VDS Ideas Summit 2025
+          src: vds-ideas-summit-2025.png
   - title: Breast screening programme
     description: This mission patch celebrates the breast screening programme with our two fierce hyenas. Hyenas are powerful, fierce, matriarchal and resilient, just like us.
     columns: 3
