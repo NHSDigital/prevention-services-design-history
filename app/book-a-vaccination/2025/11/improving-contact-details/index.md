@@ -15,7 +15,7 @@ This created an accessibility issue. If users tried to click continue without en
 
 ![screenshot showing a screen with four text inputs for collecting mobile number or email address](contact-details-old.png) 
 
-## What we did   
+## What we did
 
 Because we ask users on the previous page whether they consent to receiving confirmation and reminder messages about their vaccination appointments, we require them to provide us with at least one method of communication. 
 
