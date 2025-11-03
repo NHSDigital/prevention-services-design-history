@@ -19,7 +19,7 @@ This created an accessibility issue. If users tried to click continue without en
 
 Because we ask users on the previous page whether they consent to receiving confirmation and reminder messages about their vaccination appointments, we require them to provide us with at least one method of communication. 
 
-We noticed that the pattern used in the existing contact details page did not match the guidance in the nhs.uk design system. 
+We noticed that the pattern used in the existing contact details page did not match the guidance on the design system in the NHS digital service manual.
 
 We decided to use checkboxes with a conditional reveal to help users enter their contact information. We also added a text divider, with an option to allow users to tell us if they don’t have a mobile or email. Users who select this option can enter a landline number instead.
 
