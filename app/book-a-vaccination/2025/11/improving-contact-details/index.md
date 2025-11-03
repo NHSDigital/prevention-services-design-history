@@ -9,7 +9,7 @@ The feedback from an accessibility audit on the National Booking Service (NBS) t
 
 The existing screen used four inputs to ask users to enter either a mobile number or email address, with double inputs required for both types of contact information.
 
-Because we need to be able to give users the option of giving us a mobile number or an email address (or both, if they choose). All fields on the screen were marked as optional.   
+Because we need to be able to give users the option of giving us a mobile number or an email address (or both, if they choose). All fields on the screen were marked as optional.
 
 This created an accessibility issue. If users tried to click continue without entering any information, the service would show an error message, asking them to enter at least one method of communication.
 
