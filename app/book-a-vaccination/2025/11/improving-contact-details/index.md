@@ -27,9 +27,7 @@ We decided to use checkboxes with a conditional reveal to help users enter their
 
 We added a screen where we allowed users to check the details they had just provided, and correct them if they had made a mistake. 
 
-![screenshot showing a screen allowing users to check the contact information they entered](cya-contact.png)   
-
- 
+![screenshot showing a screen allowing users to check the contact information they entered](cya-contact.png)
 
 ## Findings   
 
