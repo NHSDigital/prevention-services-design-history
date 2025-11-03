@@ -25,7 +25,6 @@ We decided to use checkboxes with a conditional reveal to help users enter their
 
 ![screenshot showing a screen with conditionally revealing checkboxes for email and mobile, and a data exclusive checkbox for users who don’t have either](contact-details-new.png)
 
-
 We added a screen where we allowed users to check the details they had just provided, and correct them if they had made a mistake. 
 
 ![screenshot showing a screen allowing users to check the contact information they entered](cya-contact.png)   
