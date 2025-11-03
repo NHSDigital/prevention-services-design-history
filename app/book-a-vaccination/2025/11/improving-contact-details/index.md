@@ -5,7 +5,7 @@ date: 2025-11-03
 
 The feedback from an accessibility audit on the National Booking Service (NBS) told us the way we collect contact details on NBS was not very accessible.
 
-###  The existing design
+### The existing design
 
 The existing screen used four inputs to ask users to enter either a mobile number or email address, with double inputs required for both types of contact information.  
 
