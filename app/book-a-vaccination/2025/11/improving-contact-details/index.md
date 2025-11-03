@@ -29,6 +29,6 @@ We added a screen where we allowed users to check the details they had just prov
 
 ![screenshot showing a screen allowing users to check the contact information they entered](cya-contact.png)
 
-## Findings   
+## Findings
 
 During user testing, participants found the updated screens straightforward and were able to provide their preferred contact method without issue. Users appreciated the opportunity to double check the information for mistakes.
