@@ -1,6 +1,8 @@
 ---
 title: Managing vaccines and batches (beta)
 date: 2024-03-08
+tags:
+  - managing vaccines
 ---
 
 We're close to releasing our minimal viable service into beta with hospital hubs.

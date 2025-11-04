@@ -1,6 +1,10 @@
 ---
 title: Promoting the service with a product page
 date: 2025-08-18
+tags:
+  - product pages
+  - communications
+  - marketing
 ---
 
 We created [a product page](https://www.ravs.england.nhs.uk/) to promote the service to potential new users.

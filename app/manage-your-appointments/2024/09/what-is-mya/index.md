@@ -1,6 +1,8 @@
 ---
 title: What is the manage your appointments service?
 date: 2024-09-24
+tags:
+  - appointments
 ---
 
 The service will enable healthcare providers to create and manage availability and appointments

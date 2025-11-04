@@ -1,6 +1,8 @@
 ---
 title: Designing an initial user permissions model
 date: 2024-07-22
+tags:
+  - permissions
 ---
 
 In our initial pilot, all users were able to do all actions. There was also no functionality to add users to the service - this required a support request.
