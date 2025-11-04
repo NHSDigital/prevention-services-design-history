@@ -119,7 +119,7 @@ Once reviewed, the collapsed expander shows that an item has been added. In the 
 
 In usability testing the workflow seems to support appointments well - providing access to the right sections at the right time. Having a dedicated mode for the appointment allows us to have bespoke UI tailored for different situations, and to track status as sections are completed.
 
-We've also identified a few issues with the workflow. Firstly a dedicated mode means many views are accessible from two different contexts. We worry about the risk of confusion between them. We’ve seen this in usability testing - mammographers forgetting to start the appointment and working from the non-workflow screens instead. If they don’t start the appointment we won’t track who’s doing it, and the participant will still show as checked in and available for other mammographers to collect.
+We’ve also identified a few issues with the workflow. Firstly a dedicated mode means many views are accessible from two different contexts. We worry about the risk of confusion between them. We’ve seen this in usability testing - mammographers forgetting to start the appointment and working from the non-workflow screens instead. If they don’t start the appointment we won’t track who’s doing it, and the participant will still show as checked in and available for other mammographers to collect.
 
 Secondly, mammographers can think they have to ask about all items displayed on screen since they currently ask about everything on the screening forms they use. Our design does not intend this. For example, 'Other medical information' should only be recorded if it comes up, not routinely asked about, to avoid extending appointments.
 
