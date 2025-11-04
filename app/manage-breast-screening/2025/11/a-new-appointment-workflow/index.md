@@ -69,7 +69,7 @@ Medical information can be lengthy and detailed, but most of the time there’s 
 
 Our changes are subtle, but we hope will address the issues and be flexible for the future. They mostly relate to navigation between existing stages, and keeping track of what you’ve done.
 
-We’re introducing a dedicated mode - the 'workflow' - that will be distinct from viewing the appointment. We somewhat had this already but are now being more explicit about it - referring to it as a thing, and making it visually distinct from looking at the appointment. The aim is to help guide and support screening appointments, partly acting as a checklist / reminder. We think a separate mode is necessary because it allows us to have dedicated UI asking things like ‘Have you checked x?’ while not cluttering views in other contexts such as checking information on the phone.
+We’re introducing a dedicated mode - the 'workflow' - that will be distinct from viewing the appointment. We somewhat had this already but are now being more explicit about it - referring to it as a thing, and making it visually distinct from looking at the appointment. The aim is to help guide and support screening appointments, partly acting as a checklist / reminder. We think a separate mode is necessary because it allows us to have dedicated interface asking things like ‘Have you checked x?’ while not cluttering views in other contexts such as checking information on the phone.
 
 Here’s a video moving through all the stages with no medical information to add:
 
