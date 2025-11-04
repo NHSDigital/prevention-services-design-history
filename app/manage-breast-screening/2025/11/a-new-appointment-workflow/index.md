@@ -121,7 +121,7 @@ In usability testing the workflow seems to support appointments well - providing
 
 We’ve also identified a few issues with the workflow. Firstly a dedicated mode means many views are accessible from two different contexts. We worry about the risk of confusion between them. We’ve seen this in usability testing - mammographers forgetting to start the appointment and working from the non-workflow screens instead. If they don’t start the appointment we won’t track who’s doing it, and the participant will still show as checked in and available for other mammographers to collect.
 
-Secondly, mammographers can think they have to ask about all items displayed on screen since they currently ask about everything on the screening forms they use. Our design does not intend this. For example, 'Other medical information' should only be recorded if it comes up, not routinely asked about, to avoid extending appointments.
+Secondly, mammographers can think they have to ask about all items displayed on screen since they currently ask about everything on the screening forms they use. Our design does not intend this. For example, ‘Other medical information’ should only be recorded if it comes up, not routinely asked about, to avoid extending appointments.
 
 Finally there is uncertainty over how to show that something has been reviewed or confirmed. Mammographers want to demonstrate that they have done their job thoroughly, especially in case of later review or audit. For example, when a participant reports no symptoms, some staff prefer to record this explicitly as no symptoms, whereas others feel that marking no symptoms too early could cause problems if symptoms are later observed during the appointment.
 
