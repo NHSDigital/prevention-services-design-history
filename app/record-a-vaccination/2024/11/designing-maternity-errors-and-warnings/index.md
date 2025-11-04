@@ -1,6 +1,12 @@
 ---
 title: Designing warnings and error messages for vaccinations in pregnancy
 date: 2024-11-26
+tags:
+  - warnings
+  - error messages
+  - maternity vaccinations
+  - pertussis vaccine
+  - RSV vaccine
 ---
 
 ## Context

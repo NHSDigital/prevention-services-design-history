@@ -1,6 +1,9 @@
 ---
 title: Making it easier to record the next vaccination
 date: 2025-09-26
+tags:
+  - streamlining
+  - persisting answers
 ---
 As part of the work we've done to streamline the recording journey, we've added 2 new options for users once they've saved their first vaccination of the session. They can choose to record:
 
@@ -46,7 +49,7 @@ If a user selects this option, they skip these questions:
 - date of vaccination
 - site or location
 - name of vaccinator
-- patient's NHS number 
+- patient's NHS number
 
 We only ask these questions:
 
@@ -54,11 +57,11 @@ We only ask these questions:
 - why the patient is having the vaccination (eligibility)
 - consent details
 - injection site
-- check and confirm 
+- check and confirm
 
 ### Record the same vaccination for another patient
 
-If a user selects this option, they are taken to a summary page asking them to check if this data from the previous vaccination still applies: 
+If a user selects this option, they are taken to a summary page asking them to check if this data from the previous vaccination still applies:
 
 - date
 - site or location
@@ -68,7 +71,7 @@ If a user selects this option, they are taken to a summary page asking them to c
 
 ![Check these details still apply screen](check-details-still-apply.png)
 
-They have the option of changing any of these previous selections. 
+They have the option of changing any of these previous selections.
 
 If the saved settings are correct for the next patient, they can continue straight to the screen where they are asked for the patient NHS number or details.
 
@@ -84,29 +87,29 @@ This option is very similar to the default recording option but skips the first 
 
 - date of vaccination
 - site or location
-- name of vaccinator 
+- name of vaccinator
 
-## Research 
+## Research
 
 We carried out research and usability testing with a range of participants working in different settings. Participants were a mix of hands-on vaccinators, and people who organised clinics but did not give vaccinations. Some were new to RAVS and some had used the service for a while.
 
 ### The way the options were presented
 
-We found that participants understood the options to record another vaccination for the same patient or the same vaccination for another patient. 
+We found that participants understood the options to record another vaccination for the same patient or the same vaccination for another patient.
 
 It was pointed out that we were missing an option to record a different vaccination for another patient so this is something we added later.
 
-### Recording the same patient's next vaccination 
+### Recording the same patient's next vaccination
 
-Participants understood and could complete the journey. 
+Participants understood and could complete the journey.
 
 Most thought this option would make it quicker to record multiple vaccinations for the same patient.
 
 ### Recording the same vaccination for another patient
 
-Participants understood and could complete the journey. But some had concerns that they or their teams might lose track of the selections that were being applied to the next patient. 
+Participants understood and could complete the journey. But some had concerns that they or their teams might lose track of the selections that were being applied to the next patient.
 
-We also heard from participants who worked at community pharmacies that they were less likely to find this option useful. 
+We also heard from participants who worked at community pharmacies that they were less likely to find this option useful.
 
 ## What we changed after research
 
@@ -114,9 +117,9 @@ On the screen where we show the options for what you can do next after a vaccina
 
 - added the name of the vaccination to the 'Vaccination saved' message to highlight which vaccination has just been saved
 - switched the order of the choices, making the option to record the 'same patient's next vaccination' the top option
-- added an option to record a different vaccination for another patient 
+- added an option to record a different vaccination for another patient
 
-To address users' concerns about potentially losing track of the selections that were being applied to the next patient in the 'give the same vaccination to another patient' journey, we are exploring using [headings with captions]( https://service-manual.nhs.uk/design-system/styles/typography) for the 2 new branch journeys. 
+To address users' concerns about potentially losing track of the selections that were being applied to the next patient in the 'give the same vaccination to another patient' journey, we are exploring using [headings with captions]( https://service-manual.nhs.uk/design-system/styles/typography) for the 2 new branch journeys.
 
 Our hypothesis being that the 'caption' displayed above the heading will help users understand which journey they are in.
 
@@ -127,5 +130,5 @@ Once the new streamlined recording journey is live, we will monitor:
 - how often these new journeys are used
 - how long it takes users to record a vaccination using the different options, and if the 'extra' journeys save time
 
-And we'll need to carry out further user research to understand if these new journeys have made it easier for users to record multiple successive vaccinations. 
+And we'll need to carry out further user research to understand if these new journeys have made it easier for users to record multiple successive vaccinations.
 

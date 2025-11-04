@@ -1,6 +1,9 @@
 ---
 title: Enabling pharmacies to sign up to the service
 date: 2025-08-21
+tags:
+  - self onboarding
+  - pharmacies
 ---
 
 We’ve created a new way for pharmacies to sign up and start using the Record a vaccination service (RAVS).

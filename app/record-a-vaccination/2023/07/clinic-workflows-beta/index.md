@@ -1,6 +1,8 @@
 ---
 title: Clinic workflows (beta)
 date: 2023-07-31
+tags:
+  - clinics
 ---
 
 ## Customising the way healthcare settings can record their vaccinations

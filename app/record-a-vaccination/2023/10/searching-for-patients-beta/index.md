@@ -1,6 +1,8 @@
 ---
 title: Searching for patients (beta)
 date: 2023-10-02
+tags:
+  - patient search
 ---
 
 ## How users find patients

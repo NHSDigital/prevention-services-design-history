@@ -2,6 +2,9 @@
 title: Adding support for the London flu service
 date: 2025-09-30
 description: Changes we’ve made to support the London flu service
+tags:
+  - flu vaccine
+  - regional variation
 ---
 
 From the 1 October 2025, RAVS is also supporting the London flu service.
