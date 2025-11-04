@@ -20,10 +20,10 @@ Our mammogram pages were linear, moving from one to the next.
 
 The stages were:
 
-- confirm identity and that the last mammogram was not within 6 months
-- confirm there is no medical info to add (or else go to a page to add it)
-- take images
-- review
+1. confirm identity and that the last mammogram was not within 6 months
+2. confirm there is no medical info to add (or else go to a page to add it)
+3. take images
+4. review
 
 This matches the ‘ideal’ appointment, but in user research with mammographers we found scenarios where a fixed order wouldn’t always work, and where we needed flexibility to return to sections easily and quickly.
 
