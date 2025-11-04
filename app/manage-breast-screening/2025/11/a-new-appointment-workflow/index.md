@@ -127,7 +127,7 @@ Finally there is uncertainty over how to show that something has been reviewed o
 
 The phrase mark as reviewed was introduced to strike a balance as it means that the information has been checked for now, without implying that the situation cannot change.
 
-# Next steps
+## Next steps
 
 Usability testing alone cannot confirm whether the issues mentioned above will persist in live use, as staff may adapt their behaviour when using our service multiple times outside of research sessions.
 
