@@ -27,7 +27,7 @@ The stages were:
 
 This matches the ‘ideal’ appointment, but in user research with mammographers we found scenarios where a fixed order wouldn’t always work, and where we needed flexibility to return to sections easily and quickly.
 
-### Can the appointment go ahead
+### Can the appointment go ahead?
 
 Our existing journey started with a question about whether the appointment could go ahead.
 
