@@ -61,7 +61,7 @@ One thing we wondered was whether we could skip the medical information guard pa
 
 ### Summary of issues
 
-Navigation: Need to be able to get to medical information without starting the appointment, and add to it even if you know the appointment cannot go ahead.
+- **Navigation** - Need to be able to get to medical information without starting the appointment, and add to it even if you know the appointment cannot go ahead.
 
 Medical information can be lengthy and detailed, but most of the time there’s nothing to add. We need to facilitate and standardise the conversation, while allowing detail to be added in place when necessary.
 
