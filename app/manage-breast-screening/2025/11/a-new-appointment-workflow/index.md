@@ -91,7 +91,7 @@ Our medical information page has several new interactions that we’re testing a
 
 ![The medical information page now has 5 sections in expander cards. They are collapsed by default](workflow-review-medical-information.png)
 
-We’ve grouped medical information in to five sections: mammogram history, medical history, symptoms, breast features, and other medical information. Each of these is within a customised expander component. When collapsed they show a summary of sort of information suitable for the section, and counts of any items that have been added. The aim is that when collapsed, the subtitles should be sufficient to support the conversations mammographers have with participants. If something comes up in conversation, the section can be expanded to provide detail there and then.
+We’ve grouped medical information in to five sections: mammogram history, medical history, symptoms, breast features, and other medical information. Each of these is within a customised expander component. When collapsed they show a summary of information suitable for the section, and counts of any items that have been added. The aim is that when collapsed, the subtitles should be sufficient to support the conversations mammographers have with participants. If something comes up in conversation, the section can be expanded to provide detail there and then.
 
 We’re also experimenting with having a status tag ‘to review’ for each section. When expanded, each section has a button ‘Mark as reviewed’ that updates the status of the section, collapses the current section, and expands and scrolls to the next section. This somewhat emulates a checklist - someone could click through each in turn:
 
