@@ -1,7 +1,8 @@
 ---
 title: A new appointment workflow
 description: A new workflow to help mammographers conduct screening appointments
-date: 2025-11-04
+date: 2025-11-05
+author: Ed Horsford
 tags:
   - beta
   - prototype
