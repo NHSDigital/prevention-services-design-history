@@ -3,6 +3,9 @@ title: A new appointment workflow
 description: A new workflow to help mammographers conduct screening appointments
 date: 2025-11-05
 author: Ed Horsford
+opengraphImage:
+  src: /manage-breast-screening/2025/11/a-new-appointment-workflow/workflow-header.png
+  alt: Screenshot of the header of the new workflow
 tags:
   - beta
   - prototype
