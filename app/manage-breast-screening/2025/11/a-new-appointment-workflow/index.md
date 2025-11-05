@@ -83,7 +83,7 @@ This view now includes participant and medical information tabs allowing access 
 
 ### The key stages of the workflow
 
-We’ve identified four stages we think it’s important appointments go through, but allow for some freedom in moving between them. Our sages are: confirm identity, review medical information, take images, review. These are close to the pages we had before, but we’re now explicitly showing them in a new secondary navigation. You can only get to the next after completing the ones before it - but you can still use the navigation to return to sections. We’re experimenting with showing a green tick on sections you’ve completed as a checklist of steps that all stages appointments should go through.
+We’ve identified four stages we think it’s important appointments go through, but allow for some freedom in moving between them. Our stages are: confirm identity, review medical information, take images, review. These are close to the pages we had before, but we’re now explicitly showing them in a new secondary navigation. You can only get to the next after completing the ones before it, but you can still use the navigation to return to sections. We’re experimenting with showing a green tick on sections you’ve completed as a checklist of steps that all stages appointments should go through.
 
 ### Reviewing medical information
 
