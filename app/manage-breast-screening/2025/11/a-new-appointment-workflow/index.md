@@ -57,7 +57,7 @@ Where there was some medical information to add, we had a long page that was des
 
 ![The previous medical information page had four sections with several summary lists, ending in a radio question 'Can imaging go ahead?'](record-medical-information-partially-completed.png)
 
-One thing we wondered was whether we could skip the medical information guard page and just come to this page directly. Our concern was that whilst this page links to everything you might want to add and not easily scannable or supportive of the conversation mammographers have with participants. If we’d like to help standardise what’s asked about, this is too detailed to be helpful.
+One thing we wondered was whether we could skip the medical information guard page and just come to this page directly. Our concern was that whilst this page links to everything you might want to add, it's not easily scannable or supportive of the conversation mammographers have with participants. If we’d like to help standardise what’s asked about, this is too detailed to be helpful.
 
 ### Summary of issues
 
