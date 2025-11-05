@@ -123,7 +123,7 @@ We’ve also identified a few issues with the workflow. Firstly, a dedicated mod
 
 Secondly, mammographers can think they have to ask about all items displayed on screen since they currently ask about everything on the screening forms they use. Our design does not intend this. For example, ‘Other medical information’ should only be recorded if it comes up, not routinely asked about, to avoid extending appointments.
 
-Finally there is uncertainty over how to show that something has been reviewed or confirmed. Mammographers want to demonstrate that they have done their job thoroughly, especially in case of later review or audit. For example, when a participant reports no symptoms, some staff prefer to record this explicitly as no symptoms, whereas others feel that marking no symptoms too early could cause problems if symptoms are later observed during the appointment.
+Finally, there is uncertainty over how to show that something has been reviewed or confirmed. Mammographers want to demonstrate that they have done their job thoroughly, especially in case of later review or audit. For example, when a participant reports no symptoms, some staff prefer to record this explicitly as no symptoms, whereas others feel that marking no symptoms too early could cause problems if symptoms are later observed during the appointment.
 
 The phrase mark as reviewed was introduced to strike a balance as it means that the information has been checked for now, without implying that the situation cannot change.
 
