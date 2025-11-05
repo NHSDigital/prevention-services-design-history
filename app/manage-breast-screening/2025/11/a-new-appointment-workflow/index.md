@@ -37,7 +37,7 @@ This initial guard question signified that the appointment had started. Users ha
 
 We saw several problems with this design:
 
-1. Before the appointment, there’s no way to see prior medical information. What if a participant calls up in advance to let us know about something - how can it be checked? The only way to get to medical information is to start the appointment - even though it’s not actually started.
+1. Before the appointment, there’s no way to see prior medical information. What if a participant calls up in advance to let us know about something - how can it be checked? The only way to get to medical information is to start the appointment, even though it’s not actually started.
 2. At the start of the appointment, you must say the appointment can go ahead before you can get to medical information. What if we know the appointment shouldn’t go ahead, yet we also want to add medical information?
 3. On the appointment page there is a summary list row showing their last known mammogram, with ability to [add details of reported mammograms](/manage-breast-screening/2025/06/recording-previous-mammograms/). If a participant reports one less than 6 months ago, should it be added here first? or should the mammographer say the appointment cannot go ahead? if they choose the later, we won’t actually collect details of the prior mammogram.
 
