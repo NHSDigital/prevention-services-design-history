@@ -12,7 +12,7 @@ We’ve been working on some changes affecting navigation between stages of a sc
 
 ![Screenshot of the header of the new workflow](workflow-header.png)
 
-Our aim is to help facilitate the appointment, make them consistent and ensure certain actions are completed. Recent changes improve navigation between stages, while enforcing some sections and a workflow sequence.
+Our aim is to help facilitate appointments, make them consistent and ensure certain actions are completed. Recent changes improve navigation between stages, while enforcing some sections and a workflow sequence.
 
 ## What we had before
 
