@@ -77,7 +77,7 @@ Once the mammographer conducting the screening has actively begun the appointmen
 
 The partial mammogram scenario covers any instance where at least one X-ray has been taken, but the appointment could not be concluded. This is a more complicated journey that we are tackling separately.
 
-The reasons for a participant to be marked as ANS include: 
+The reasons for a participant to be marked as `Attended not screened` include: 
 
 * they decide to opt out
 * they don't understand instructions given to them
