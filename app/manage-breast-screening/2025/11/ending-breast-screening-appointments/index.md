@@ -130,4 +130,4 @@ We're specifically looking to find out if:
 
 We're starting to develop ideas for what happens to the output of this information. In future, tasks such as rescheduling or opting out could be automated, but for our pilot we need to provide clinic staff with the necessary details to enable any post-clinic actions.
 
-An early thought is to generate an 'Admin report' following each clinic. This would summarise any appointments to rearrange, any support requirements that need to be added to a participant record, and a list of people who did not turn up that need to be contacted.
+An early thought is to generate a report following each clinic. This would summarise any appointments to rearrange, any support requirements that need to be added to a participant record, and a list of people who did not turn up that need to be contacted.
