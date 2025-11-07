@@ -44,7 +44,7 @@ Analysis of the current journeys narrowed our focus to three situations where re
 
 This includes any time before check in (including the days and weeks leading up to the appointment), or after the participant has been checked in at the clinic reception.
 
-Two [appointment statuses](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2025/02/defining-appointment-status-labels/) can be triggered at this stage; `Cancelled` or `Attended not screened`. This is determined by whether they make contact before they arrive, or come to the clinic and a reason is given there.
+Two [appointment statuses](/manage-breast-screening/2025/02/defining-appointment-status-labels/) can be triggered at this stage; `Cancelled` or `Attended not screened`. This is determined by whether they make contact before they arrive, or come to the clinic and a reason is given there.
 
 Some scenarios for why a participant's appointment cannot be started may include:
 
