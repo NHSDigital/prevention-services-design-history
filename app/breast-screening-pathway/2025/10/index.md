@@ -33,7 +33,7 @@ As part of this work, we're exploring and documenting how NBSS works to support 
 
 ## Introduction
 
-The Pathway Team set out to create a single source of truth for NBSS, UK's operational breast-screening system used by Breast Screening Offices to _invite_, _track_ and _manage screening pathways_ and runs as a Windows desktop client, leveraging Crystal Reports for report extracts.
+The Pathway Team set out to create a single source of truth for NBSS, UK's operational breast-screening system used by Breast Screening Offices to invite, track and manage screening pathways and runs as a Windows desktop client, leveraging Crystal Reports for report extracts.
 
 As we prepare for a new service, our team's goal is simple: document each part of the system that matters to screening teams (including function codes and screens through to reporting extracts and underlying data), and translate those findings into practical insights for clinical and operational colleagues.
 
@@ -60,11 +60,11 @@ This section describes the steps we took to lay a foundation of understanding an
 
 #### Establish a framework
 
-We began by establishing a **custom analysis framework**[^2] to set the direction for analysing business concerns such as _data_, and _processes_. This allows us to aggregate into easy-to-digest dimensions that support _higher-level reasoning_ about the system.
+We began by establishing a **custom analysis framework**[^2] to set the direction for analysing business concerns such as data, and processes. This allows us to aggregate into easy-to-digest dimensions that support higher-level reasoning about the system.
 
 ![custom analysis framework](001_analysis_framework.png)
 
-Adjacent to that we also break down business concept into smaller **real-world concepts** and ask one pertinent architectural/use-case question to ground the _why_ of that concept.
+Adjacent to that we also break down business concept into smaller **real-world concepts** and ask one pertinent architectural/use-case question to ground the "why?" of that concept.
 
 ![real-world concepts](002_analysis_framework.png)
 
@@ -80,7 +80,7 @@ With this step, we looked at all reports and letters produced by the system. Giv
 #### Analyse user processes
 For this phase, we looked into how certain processes are fulfilled in the system i.e. the user flow between various input screens.
 
-_The custom framework helped to ground our analysis as we moved deeper to better understand the system._
+> Using a custom framework helped to ground our analysis as we moved deeper to better understand the system.
 
 ---
 
@@ -109,7 +109,7 @@ NBSS is a Windows desktop client built in VB6 with custom UI controls and toolin
 
 We also looked at existing internal Confluence content and Jira boards for topics related to NBSS. This presented a clearer view of repetitive or missing focus areas which we noted for our journey of discovery.
 
-(please see the author's previous analysis work[^6] which was used to add to our new discovery content)
+> Refer to previous analysis work[^6] used to add to our new discovery content.
 
 With a basic understanding in place, we moved onto exploring the system in more detail.
 
@@ -138,7 +138,7 @@ Function codes are simple constructs that
 * links to a Visual Basic project, OR
 * links to a configured form
 
-The system allows defining function codes for **``Standard``** and **``Administrator``** user types. ``Standard`` are typically screening office managers or junior office managers; ``Administrator`` can exercise more control over the configuration of the system and who generally require _deeper knowledge_ of the inner workings of NBSS.
+The system allows defining function codes for **``Standard``** and **``Administrator``** user types. ``Standard`` are typically screening office managers or junior office managers; ``Administrator`` can exercise more control over the configuration of the system and who generally require deeper knowledge of the inner workings of NBSS.
 
 The NBSS function codes are a _starting point_ into screening workflows, like printing reports or editing data, and users can typically start with any function code available to them.
 
@@ -150,13 +150,13 @@ NBSS secures function codes in a **user group**. The following image shows permi
 
 ![Permissions](011_analysis_permissions.png)
 
-_Configuring permissions for a user group_
+Configuring permissions for a user group
 
-NBSS permissions handling is similar to the RBAC model but without provision for _fine-grained_ access control.
+NBSS permissions handling is similar to the RBAC model but without provision for fine-grained access control.
 
 In RBAC, **users** are assigned to a named **role** which contains a bundle of **permissions**. In NBSS, a **user group** acts like a role and menu-function permissions (see above) are permissions.
 
-It's increasingly common for modern systems to **extending RBAC**  and use **ABAC** (attribute-based access control) or a mixture of ABAC+RBAC to provide **context-aware permissions**[^9]. ABAC grants permissions based on one or more _attributes of the logged-on user_. For example, an access condition like _Clinicians may view results only for sites within their BSO location and only for active episodes_ might use attributes like ``site``, ``status``, or ``organisation`` to apply appropriate permissions.
+It's increasingly common for modern systems to **extending RBAC**  and use **ABAC** (attribute-based access control) or a mixture of ABAC+RBAC to provide **context-aware permissions**[^9]. ABAC grants permissions based on one or more _attributes of the logged-on user_. For example, an access condition like "Clinicians may view results only for sites within their BSO location and only for active episodes" might use attributes like ``site``, ``status``, or ``organisation`` to apply appropriate permissions.
 
 ### Frequency
 
@@ -165,20 +165,20 @@ While there are many function codes to select from, some are utilised more often
 
 ![Client search](004_analysis_sad_ss.png)
 
-_Main client entry screen_
+Main client entry screen
 
 or **``SMSTA``** which deals with different types of letters:
 
 ![Letter prints](005_analysis_smsta.png)
 
-  _Main letter printing screen_
+  Main letter printing screen
 
 #### What can standard user types do?
 Functionality available is determined by the function codes configured for a given user group by an administrator. Below is a typical Screening Office Manager menu excerpt we used to map function codes:
 
 ![SOM Menu](010_analysis_menu.png)
 
-_A sample menu structure for a screening office manager_
+A sample menu structure for a screening office manager
 
 |Entry menu code|	Description|
 |-|-|
@@ -204,7 +204,9 @@ As users navigate through the system, there are many places they can manipulate,
 
 ![Discovery Metrics](009_analysis_metrics.png)
 
-_User journey data metrics_
+User journey data metrics
+
+<br/>
 
 |Category | Description |
 |-|-|
