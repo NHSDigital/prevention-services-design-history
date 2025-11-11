@@ -90,7 +90,7 @@ As well as actively stopping an appointment, users may reach an end point based 
 
 ### Recent mammograms
 
-For example, if the participant tells them about a mammogram that took place within the last 6 months, they would be advised not to go ahead.
+One of the required steps during an appointment is for mammographers to ask participants about any recent mammograms that may not be on their system. If the participant reports that they have had a mammogram within the last 6 months, our service will let the mammographer know the appointment should not to go ahead and give them options on how to proceed.
 
 ![Screenshot of a conditional page that appears when a recent mammogram has been recorded](recent-mammogram.png)
 
@@ -108,9 +108,9 @@ If the participant tells the mammographer they have had a double mastectomy and 
 
 ## 3. Handling outstanding appointments after the clinic ends
 
-The only status chance that can be applied here is `Did not attend` (DNA). This is where the participant does not turn up for their appointment and does not make contact to actively cancel it. 
+The only status that can be applied here is `Did not attend` (DNA). This is where the participant does not turn up for their appointment and does not make contact to actively cancel it. 
 
-We've not yet designed the 'Close clinic' journey, but if any open appointments exist at the end of a clinic we need to tell users about any DNA statuses they are about to create.
+When a breast screening clinic finishes, staff at BSOs currently run a series of end-of-clinic checks to ensure all appointments are accounted for. We've not yet designed a version of this in our service, but if any open appointments exist at the end of a clinic we will need a way to tell users about any DNA statuses they are about to create.
 
 There may be instances where participants have called to cancel but this information has yet to be entered into the system. We will be providing a way to make changes at this point before closing the clinic.
 
