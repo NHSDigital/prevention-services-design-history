@@ -1,6 +1,6 @@
 ---
 title: Ending breast screening appointments
-description: Capturing information when appointments cannot be completed.
+description: Capturing information when appointments cannot be completed
 date: 2025-11-11
 author: Danny Chadburn
 opengraphImage:
