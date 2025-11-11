@@ -20,7 +20,7 @@ Various journeys have been added to our prototype so the appropriate information
 
 A regular breast screening appointment will finish when the participant has had a set of four mammogram images taken.
 
-But during each clinic there will be cancellations, appointments that need to stop partway through, and participants who don't turn up at all. Each of these needs to be accounted for with reasons provided where possible. The recorded information can be used for rearranging appointments, or to make sure no future screening invites are sent.
+But during each clinic there will be cancellations, appointments that need to stop partway through, and participants who don't turn up at all. Each of these needs to be accounted for with reasons provided where possible. The recorded information can be used for rearranging appointments, or to make sure no future screening invites are sent. It could also be used to identify trends across the breast screening programme for reasons why appointments are cancelled or aborted.
 
 The National Breast Screening System (NBSS) provides staff with options to record many of these reasons. We're looking to simplify the experience, reflect the latest guidance and eliminate the need for some paper-based processes.
 
