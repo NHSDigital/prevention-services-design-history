@@ -20,7 +20,7 @@ Various journeys have been added to our prototype so the appropriate information
 
 A regular breast screening appointment will finish when the participant has had a set of four mammogram images taken.
 
-But during each clinic there will be cancellations, appointments that need to stop partway through, and participants who don't turn up at all. Each of these needs to be accounted for with reasons provided where possible. The recorded information can be used for rearranging appointments, or to make sure no future screening invites are sent. Appointment data may also be analysed to help assess the overall effectiveness of the screening programme.
+But during each clinic there will be cancellations, appointments that need to stop partway through, and participants who don't turn up at all. Each of these needs to be accounted for with reasons provided where possible. The recorded information can be used for rearranging appointments, or to make sure no future screening invites are sent.
 
 The National Breast Screening System (NBSS) provides staff with options to record many of these reasons. We're looking to simplify the experience, reflect the latest guidance and eliminate the need for some paper-based processes.
 
@@ -129,4 +129,4 @@ We're specifically looking to find out if:
 
 We're starting to develop ideas for what happens to the output of this information. In future, tasks such as rescheduling or opting out could be automated, but for our pilot we need to provide clinic staff with the necessary details to enable any post-clinic actions.
 
-An early thought is to generate a report following each clinic. This would summarise any appointments to rearrange, any support requirements that need to be added to a participant record, and a list of participants who did not turn up that need to be contacted.
+An early thought is to generate a report following each clinic for BSO admin teams to action. This would summarise any appointments to rearrange, any support requirements that need to be added to a participant record, and a list of participants who did not turn up that need to be contacted.
