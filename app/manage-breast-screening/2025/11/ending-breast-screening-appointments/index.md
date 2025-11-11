@@ -20,15 +20,15 @@ Various journeys have been added to our prototype so the appropriate information
 
 A regular breast screening appointment will finish when the participant has had a set of four mammogram images taken.
 
-But during each clinic there will be cancellations, appointments that need to stop partway through, and people who don't turn up at all. Each of these needs to be accounted for with reasons provided where possible. The recorded information can be used for rearranging appointments, or to make sure no future screening invites are sent. Appointment data may also be analysed to help assess the overall effectiveness of the screening programme.
+But during each clinic there will be cancellations, appointments that need to stop partway through, and participants who don't turn up at all. Each of these needs to be accounted for with reasons provided where possible. The recorded information can be used for rearranging appointments, or to make sure no future screening invites are sent. Appointment data may also be analysed to help assess the overall effectiveness of the screening programme.
 
-The National Breast Screening System (NBSS) provides staff with options to record many of these reasons, but not in an efficient or logical way. We're looking to simplify the experience, reflect the latest guidance and eliminate the need for some paper-based processes.
+The National Breast Screening System (NBSS) provides staff with options to record many of these reasons. We're looking to simplify the experience, reflect the latest guidance and eliminate the need for some paper-based processes.
 
 ### Exploring each scenario
 
 Before drafting the journeys, we reviewed information created for breast screening offices (BSOs) that determines what they're being asked to collect. This included guidance on [opting out](https://www.gov.uk/government/publications/opting-out-of-breast-screening/guidance-on-opting-out-cease-from-breast-screening), marking participants who [attended a clinic but were not screened](https://www.gov.uk/government/publications/breast-screening-attended-not-screened/breast-screening-attended-not-screened-guidance), and [reporting equipment faults](https://www.gov.uk/government/publications/breast-screening-quality-assurance-for-mammography-and-radiography/guidance-for-breast-screening-mammographers).
 
-We wanted to see how this matches the processes that clinic admin teams and mammographers actually follow. We spoke to people at numerous clinics and produced a map to identify gaps and see where improvements could be made.
+We wanted to see how this matches the processes that clinic admin teams and mammographers actually follow. We spoke to staff at numerous clinics and produced a map to identify gaps and see where improvements could be made.
 
 ![Screenshot of a digital whiteboard showing some of the reasons why an appointment might end prematurely](end-point-scenarios.png)
 
@@ -65,11 +65,9 @@ They will first be asked to explain why. The options for the second question cov
 
 ### Working to current constraints
 
-If rescheduling is required, we're offering the option to rearrange it within or outside a 6-week window.
+If rescheduling is required, we're offering the option to rearrange it. The options of arranging an appointment within or beyond the next 6-weeks mirrors the current booking functionality. We're using this as a starting point while working with colleagues rebuilding the screening invitation system to ensure any options provided here are in line with future functionality.  within or outside a 6-week window.
 
 ![Screenshot of a form providing options for rescheduling the appointment](reschedule-info.png)
-
-This reflects the limitations of the current booking system. We're using this as a starting point, while working with colleagues rebuilding the screening invitation system to ensure any options provided here are in line with future functionality. 
 
 ## 2. Stopping the appointment after it starts
 
@@ -77,15 +75,12 @@ Once the mammographer conducting the screening has actively begun the appointmen
 
 The partial mammogram scenario covers any instance where at least one X-ray has been taken, but the appointment could not be concluded. This is a more complicated journey that we are tackling separately.
 
-The reasons for a participant to be marked as `Attended not screened` include: 
+At each stage of the workflow, an 'Appointment cannot proceed' link is available. When users select this they are asked for a reason. This list is very similar to the 'Cancel appointment' options, but has been adapted to include some things that can only occur once the appointment has actually begun, such as:
 
-* they decide to opt out
 * they don't understand instructions given to them
 * they fail the ID check in the mammogram room
 * they've had a total bilateral mastectomy
 * there are technical issues with equipment before any images are taken
-
-At each stage of the workflow, an 'Appointment cannot proceed' link is available. When users select this they are asked for a reason. This list is very similar to the 'Cancel appointment' options, but has been adapted to include things that can only occur once the appointment has actually begun.
 
 ![Screenshot of a form with reasons for stopping the appointment after it has begun and options for rescheduling](appointment-cannot-proceed.png)
 
@@ -130,4 +125,4 @@ We're specifically looking to find out if:
 
 We're starting to develop ideas for what happens to the output of this information. In future, tasks such as rescheduling or opting out could be automated, but for our pilot we need to provide clinic staff with the necessary details to enable any post-clinic actions.
 
-An early thought is to generate a report following each clinic. This would summarise any appointments to rearrange, any support requirements that need to be added to a participant record, and a list of people who did not turn up that need to be contacted.
+An early thought is to generate a report following each clinic. This would summarise any appointments to rearrange, any support requirements that need to be added to a participant record, and a list of participants who did not turn up that need to be contacted.
