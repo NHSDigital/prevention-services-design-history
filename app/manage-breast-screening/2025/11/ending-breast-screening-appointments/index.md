@@ -44,7 +44,7 @@ Analysis of the current journeys narrowed our focus to three situations where re
 
 This includes any time before check in (including the days and weeks leading up to the appointment), or after the participant has been checked in at the clinic reception.
 
-Two [appointment statuses](/manage-breast-screening/2025/02/defining-appointment-status-labels/) can be triggered at this stage; `Cancelled` or `Attended not screened`. This is determined by whether they make contact before they arrive, or come to the clinic and a reason is given there.
+Two [appointment statuses](/manage-breast-screening/2025/02/defining-appointment-status-labels/) can be triggered at this stage: `Cancelled` or `Attended not screened`. This is determined by whether they make contact before they arrive, or come to the clinic and a reason is given there.
 
 Some scenarios for why a participant's appointment cannot be started may include:
 
@@ -73,7 +73,7 @@ If rescheduling is required, we're offering the option to rearrange it. The opti
 
 Once the mammographer conducting the screening has actively begun the appointment workflow, two statuses are possible; `Attended not screened` (ANS) and `Partial mammogram`.
 
-The partial mammogram scenario covers any instance where at least one X-ray has been taken, but the mamographer was unable to take the typical set of four. This is a more complicated journey that we are tackling separately.
+The partial mammogram scenario covers any instance where at least one X-ray has been taken, but the mamographer was unable to take a full set. This is a more complicated journey that we are tackling separately.
 
 At each stage of the workflow, an 'Appointment cannot proceed' link is available. When users select this they are asked for a reason. This list is very similar to the 'Cancel appointment' options, but has been adapted to include some things that can only occur once the appointment has actually begun, such as:
 
