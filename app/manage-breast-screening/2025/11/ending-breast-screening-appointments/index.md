@@ -100,7 +100,7 @@ Regulations state that mammographers need the participant's consent to continue 
 
 ![Screenshot of a conditional page that appears when consent to continue has not been given](no-consent.png)
 
-
+This is only relevant where there's a specific consent workflow. If a participant chooses to withdraw consent for any other reason, mammographers can select the appropriate option from the 'Appointment cannot proceed' screen.
 
 ### Bilateral mastectomy
 
