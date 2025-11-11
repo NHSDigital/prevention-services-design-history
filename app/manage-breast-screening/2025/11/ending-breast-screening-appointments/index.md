@@ -73,12 +73,14 @@ If rescheduling is required, we're offering the option to rearrange it. The opti
 
 Once the mammographer conducting the screening has actively begun the appointment workflow, two statuses are possible; `Attended not screened` (ANS) and `Partial mammogram`.
 
-The partial mammogram scenario covers any instance where at least one X-ray has been taken, but the appointment could not be concluded. This is a more complicated journey that we are tackling separately.
+The partial mammogram scenario covers any instance where at least one X-ray has been taken, but the mamographer was unable to take the typical set of four. This is a more complicated journey that we are tackling separately.
 
 At each stage of the workflow, an 'Appointment cannot proceed' link is available. When users select this they are asked for a reason. This list is very similar to the 'Cancel appointment' options, but has been adapted to include some things that can only occur once the appointment has actually begun, such as:
 
-* they don't understand instructions given to them
 * they fail the ID check in the mammogram room
+* they don't understand instructions given to them
+* they need additional support that the clinic can't provide
+* they have a medical issue that prevents screening
 * they've had a total bilateral mastectomy
 * there are technical issues with equipment before any images are taken
 
