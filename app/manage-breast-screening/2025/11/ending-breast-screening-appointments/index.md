@@ -96,9 +96,11 @@ For example, if the participant tells them about a mammogram that took place wit
 
 ### Withdrawn consent
 
-If the participant does not consent to mammograms of breast implants, users would be given options for how to end the appointment.
+Regulations state that mammographers need the participant's consent to continue if they have breast implants. If consent is not given, the mammographer is given options for how to end the appointment. This pattern may be reused in other scenarios where consent is required, such as when a participant has a carer.
 
 ![Screenshot of a conditional page that appears when consent to continue has not been given](no-consent.png)
+
+
 
 ### Bilateral mastectomy
 
