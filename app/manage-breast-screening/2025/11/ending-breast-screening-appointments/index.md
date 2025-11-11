@@ -65,7 +65,7 @@ They will first be asked to explain why. The options for the second question cov
 
 ### Working to current constraints
 
-If rescheduling is required, we're offering the option to rearrange it. The options of arranging an appointment within or beyond the next 6-weeks mirrors the current booking functionality. We're using this as a starting point while working with colleagues rebuilding the screening invitation system to ensure any options provided here are in line with future functionality.  within or outside a 6-week window.
+If rescheduling is required, we're offering the option to rearrange it. The options of arranging an appointment within or beyond the next 6-weeks mirrors the current booking functionality. We're using this as a starting point while working with colleagues rebuilding the screening invitation system to ensure any options provided here are in line with future functionality.
 
 ![Screenshot of a form providing options for rescheduling the appointment](reschedule-info.png)
 
