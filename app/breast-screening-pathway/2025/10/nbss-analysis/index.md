@@ -11,8 +11,6 @@ tags:
 
 In this first series of articles, we discuss how the Pathway Team set about on our journey of discovery into the National Breast Screening System (NBSS). In this article we'll discuss how the journey started, what we  uncovered and where we are today in our journey.
 
-**Audience**: screening, operations, technical, product colleagues.
-
 ---
 
 ## Summary
@@ -62,11 +60,11 @@ This section describes the steps we took to lay a foundation of understanding an
 
 We began by establishing a **custom analysis framework**[^2] to set the direction for analysing business concerns such as data, and processes. This allows us to aggregate into easy-to-digest dimensions that support higher-level reasoning about the system.
 
-![custom analysis framework](001_analysis_framework.png)
+![Custom analysis framework diagram showing broad concepts mapping onto analysis dimensions.](001_analysis_framework.png)
 
 Adjacent to that we also break down business concept into smaller **real-world concepts** and ask one pertinent architectural/use-case question to ground the "why?" of that concept.
 
-![real-world concepts](002_analysis_framework.png)
+![Diagram showing several real-world concepts and a single pertinent question relevant to its impact.](002_analysis_framework.png)
 
 #### Analyse data components and structures
 In this phase we interrogated the database technology to grasp the contents and structures and how they relate to the NBSS system.
@@ -94,12 +92,12 @@ Data is the core of any system, without which, processes, extracts, and inputs a
 
 NBSS data sits on InterSystems Caché/IRIS, an **object database** with a full SQL layer. Data resides in multidimensional **globals** (nested key-value files stored on disk) projected into _tables_ for SQL and _classes_ for objects, so analysts can use whichever access mode suits their needs[^4].
 
-For example, ``^Client(123,"Episode",45)=...`` references a global titled ``Client`` with subscripts ``123``, ``Episode``, and ``45``.
+For example, `^Client(123,"Episode",45)=...` references a global titled `Client` with subscripts `123`, `Episode`, and `45`.
 
 
 #### Product development
 
-![Visual Basic](006_analysis_software.png)
+![Visual Basic 6 developer startup window.](006_analysis_software.png)
 
 NBSS is a Windows desktop client built in VB6 with custom UI controls and tooling (e.g., Crystal Reports scheduling). The VB6 IDE is no longer supported on modern 64-bit Windows, but the VB6 runtime continues to ship and be supported on current Windows versions for existing applications (limited support for serious regressions and security issues; follows Windows lifecycle)[^5].
 
@@ -128,9 +126,9 @@ We documented our initial findings on Confluence pages according to our assessme
 ### Journeys start with a "function code"
 Initial discovery identified that all system functionality is accessed via specific function codes configured for the user group to which a logged-on user belongs.
 
-![Sample NBSS code structure](003_analysis_menus.png)
+![A snippet of the standard NBSS code tree  structure](003_analysis_menus.png)
 
-_Function-oriented navigation_
+Function-oriented navigation
 
 Function codes are simple constructs that
 * defines a short code and description
@@ -138,7 +136,7 @@ Function codes are simple constructs that
 * links to a Visual Basic project, OR
 * links to a configured form
 
-The system allows defining function codes for **``Standard``** and **``Administrator``** user types. ``Standard`` are typically screening office managers or junior office managers; ``Administrator`` can exercise more control over the configuration of the system and who generally require deeper knowledge of the inner workings of NBSS.
+The system allows defining function codes for **`Standard`** and **`Administrator`** user types. `Standard` are typically screening office managers or junior office managers; `Administrator` can exercise more control over the configuration of the system and who generally require deeper knowledge of the inner workings of NBSS.
 
 The NBSS function codes are a _starting point_ into screening workflows, like printing reports or editing data, and users can typically start with any function code available to them.
 
@@ -148,7 +146,7 @@ The NBSS function codes are a _starting point_ into screening workflows, like pr
 
 NBSS secures function codes in a **user group**. The following image shows permissions set for a given user group, which also apply to all users in that group:
 
-![Permissions](011_analysis_permissions.png)
+![An example of the permissions window in NBSS](011_analysis_permissions.png)
 
 Configuring permissions for a user group
 
@@ -156,53 +154,53 @@ NBSS permissions handling is similar to the RBAC model but without provision for
 
 In RBAC, **users** are assigned to a named **role** which contains a bundle of **permissions**. In NBSS, a **user group** acts like a role and menu-function permissions (see above) are permissions.
 
-It's increasingly common for modern systems to **extending RBAC**  and use **ABAC** (attribute-based access control) or a mixture of ABAC+RBAC to provide **context-aware permissions**[^9]. ABAC grants permissions based on one or more _attributes of the logged-on user_. For example, an access condition like "Clinicians may view results only for sites within their BSO location and only for active episodes" might use attributes like ``site``, ``status``, or ``organisation`` to apply appropriate permissions.
+It's increasingly common for modern systems to **extending RBAC**  and use **ABAC** (attribute-based access control) or a mixture of ABAC+RBAC to provide **context-aware permissions**[^9]. ABAC grants permissions based on one or more attributes of the logged-on user. For example, an access condition like "Clinicians may view results only for sites within their BSO location and only for active episodes" might use attributes like `site`, `status`, or `organisation` to apply appropriate permissions.
 
 ### Frequency
 
 #### Which functions are most important?
-While there are many function codes to select from, some are utilised more often than others. For example: **``SAD``** which deals with Client functionality like creating client registration, managing clinical details, appointments, referrals or even film information:
+While there are many function codes to select from, some are utilised more often than others. For example: **`SAD`** which deals with Client functionality like creating client registration, managing clinical details, appointments, referrals or even film information:
 
-![Client search](004_analysis_sad_ss.png)
+![The client search window in NBSS](004_analysis_sad_ss.png)
 
 Main client entry screen
 
-or **``SMSTA``** which deals with different types of letters:
+or **`SMSTA`** which deals with different types of letters:
 
-![Letter prints](005_analysis_smsta.png)
+![One of the main windows used in NBSS related to printing letters](005_analysis_smsta.png)
 
   Main letter printing screen
 
 #### What can standard user types do?
 Functionality available is determined by the function codes configured for a given user group by an administrator. Below is a typical Screening Office Manager menu excerpt we used to map function codes:
 
-![SOM Menu](010_analysis_menu.png)
+![An internal representation of the default menu structure for Screening Office Managers](010_analysis_menu.png)
 
 A sample menu structure for a screening office manager
 
 |Entry menu code|	Description|
 |-|-|
-| ``SAD``	| Manage authorities, code dictionaries, system parameters and screening office details.|
-| ``SAP``	| Appointments, clinic reception desk, clinic, film reading whiteboard, rebooking DNAs, session prints|
-| ``SB``	| Batch functionality, completion, print, edit, specification, attach to a clinic, or print by status
-| ``SR``	| Client registrations, exceptions, duplicates or lookalikes.
-| ``SI``	| Clinical processing, DNA episodes, mammography data entry, results entry, close routine episodes, print ad-hoc forms.
-| ``SCL``	| Clinics functionality, including clinic diaries, create/print clinics, rebook appointments.
-| ``SDY`` |	Daybook functionality like exporting a worklist or importing a daybook summary.
-| ``SF``	| Capture film reader overall results, individual client entry, PERFORMS worklist, or image assessment review.
-| ``ST``	| Receive and transmit data between NHAIS.
-| ``SG``	| Manages/prints GP (practice) details.
-| ``SL``	| Adhoc label/legacy printing, configure letter tasks.
-| ``SSM``	| Client search entry, film tracking/destruction, privileged client options, resend PACS messages associate clients to trials.
-| ``SM``	| Miscellaneous tasks like activity prompts and reprinting letters.
-| ``SP``	| Print adhoc reports, call/recall/ntd lists, or report schedules/tasks.
-| ``STA``	| Statistics and tables: AGEX, ASSEX, BASOX, CREGX, DLEX, SEXA, KC62 (single client prints/Dept. Health/cytology/histology/WBN QA/lymph node), film reader QA
+| `SAD`	| Manage authorities, code dictionaries, system parameters and screening office details.|
+| `SAP`	| Appointments, clinic reception desk, clinic, film reading whiteboard, rebooking DNAs, session prints|
+| `SB`	| Batch functionality, completion, print, edit, specification, attach to a clinic, or print by status
+| `SR`	| Client registrations, exceptions, duplicates or lookalikes.
+| `SI`	| Clinical processing, DNA episodes, mammography data entry, results entry, close routine episodes, print ad-hoc forms.
+| `SCL`	| Clinics functionality, including clinic diaries, create/print clinics, rebook appointments.
+| `SDY` |	Daybook functionality like exporting a worklist or importing a daybook summary.
+| `SF`	| Capture film reader overall results, individual client entry, PERFORMS worklist, or image assessment review.
+| `ST`	| Receive and transmit data between NHAIS.
+| `SG`	| Manages/prints GP (practice) details.
+| `SL`	| Adhoc label/legacy printing, configure letter tasks.
+| `SSM`	| Client search entry, film tracking/destruction, privileged client options, resend PACS messages associate clients to trials.
+| `SM`	| Miscellaneous tasks like activity prompts and reprinting letters.
+| `SP`	| Print adhoc reports, call/recall/ntd lists, or report schedules/tasks.
+| `STA`	| Statistics and tables: AGEX, ASSEX, BASOX, CREGX, DLEX, SEXA, KC62 (single client prints/Dept. Health/cytology/histology/WBN QA/lymph node), film reader QA
 
 ### User journey data discovery
 
 As users navigate through the system, there are many places they can manipulate, view or print data. To highlight the extent of these data points across the system, we identified several areas involved with data, as shown below:
 
-![Discovery Metrics](009_analysis_metrics.png)
+![A set of basic metrics found during discovery](009_analysis_metrics.png)
 
 User journey data metrics
 
@@ -213,7 +211,7 @@ User journey data metrics
 | Menus | Starting function codes to access system functionality. These functions codes are configured separately for standard or administrator user types. |
 | Forms | Unique visual input forms to enter and view information. |
 | Screens | Simple navigation views or print parameters forms. |
-| Reports | Structured report templates that are either <li>``ad-hoc`` - custom user reports, <li>``standard`` - used by most services, <li>``regional`` - higher-level for a region, <li>``built-in`` - defined in the system by default. |
+| Reports | Structured report templates that are either <li>`ad-hoc` - custom user reports, <li>`standard` - used by most services, <li>`regional` - higher-level for a region, <li>`built-in` - defined in the system by default. |
 | Letters | Structured report templates printed for clients. |
 | Data tables | Physical object storage locations. |
 | Data routines | Program code to create, update or transform NBSS data. |
@@ -228,7 +226,7 @@ The Pathway Team will continue to
 * outline journey exemplars (SAD, SMSTA) supported by the index.
 
 
-[^1]: [What we learned - Improved data requirements](https://design-history.prevention-services.nhs.uk/breast-screening-pathway/2025/09/what-we-learned-about-breast-screening-data/)
+[^1]: [What we learned - Improved data requirements](/breast-screening-pathway/2025/09/what-we-learned-about-breast-screening-data/)
 
 [^2]: [Assessment framework - How? What? Why?](https://nhsd-confluence.digital.nhs.uk/spaces/DTS/pages/1128218608/NBSS+Assessment)
 
