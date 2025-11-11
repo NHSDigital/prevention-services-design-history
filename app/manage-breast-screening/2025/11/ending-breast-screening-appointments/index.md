@@ -104,7 +104,7 @@ This is only relevant where there's a specific consent workflow. If a participan
 
 ### Bilateral mastectomy
 
-If the participant tells the mammographer they have no breast tissue remaining due to a full double mastectomy, we will offer the user the option to end the appointment if no images need to be taken.
+If the participant tells the mammographer they have had a double mastectomy and have no breast tissue remaining, no images need to be taken. In this scenario, the mammographer will be taken on a path to end the appointment.
 
 ## 3. Handling outstanding appointments after the clinic ends
 
