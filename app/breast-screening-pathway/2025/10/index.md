@@ -9,11 +9,18 @@ tags:
 
 <!-- markdownlint-disable -->
 
-_In this first series of articles, we discuss how the Pathway Team set about on our journey of discovery into the National Breast Screening System (NBSS). In this article we'll discuss how the journey started, what we  uncovered and where we are today in our journey._
+In this first series of articles, we discuss how the Pathway Team set about on our journey of discovery into the National Breast Screening System (NBSS). In this article we'll discuss how the journey started, what we  uncovered and where we are today in our journey.
 
-_**Audience**: helps screening, operations, technical, product colleagues to quickly reason about NBSS._
+**Audience**: screening, operations, technical, product colleagues.
 
-## TL;DR
+---
+
+## Summary
+
+**Important** NHS England has confirmed the plan to replace NBSS with a new, modern, digital service for breast screening service. NBSS has played a vital role in supporting our breast screening offices (BSOs) for over 20 years and we intended for our new services to build upon its strengths.
+
+As part of this work, we're exploring and documenting how NBSS works to support our transition and in recognition of its vital role.
+
 
 > * **From opaque legacy to practical insights**: replacing  mission-critical systems is more than code migration; it requires _data reasoning_.
 > * We mapped _**what users do**_ (menu codes, journeys), _**what is stored**_ (forms, screens, reports, tables), and _**how data changes**_ (routines, classes).
@@ -81,7 +88,7 @@ _The custom framework helped to ground our analysis as we moved deeper to better
 
 To better comprehend the system's capabilities, we first obtained access to an NBSS installation. While gaining access to NBSS was not 100% pain-free, once available, it was time to begin the real journey.
 
-**Database tech**
+#### Database tech
 
 Data is the core of any system, without which, processes, extracts, and inputs are meaningless. Therefore, our first analysis phase was to establish a catalog of the structures, understand how the database technology works, list the types of data contained within in it, how  to access the data, and how to extract it.
 
@@ -90,31 +97,21 @@ NBSS data sits on InterSystems Caché/IRIS, an **object database** with a full S
 For example, ``^Client(123,"Episode",45)=...`` references a global titled ``Client`` with subscripts ``123``, ``Episode``, and ``45``.
 
 
-**Product development**
+#### Product development
 
 ![Visual Basic](006_analysis_software.png)
 
 NBSS is a Windows desktop client built in VB6 with custom UI controls and tooling (e.g., Crystal Reports scheduling). The VB6 IDE is no longer supported on modern 64-bit Windows, but the VB6 runtime continues to ship and be supported on current Windows versions for existing applications (limited support for serious regressions and security issues; follows Windows lifecycle)[^5].
 
+> Custom tools and controls were excluded from analysis as they deal with UI elements or support functionality.
 
-**Why we can't upgrade to .NET**
-Modernising older VB6 projects is non-trivial due to issues like COM dependencies, legacy control packs, and differences in error handling and UI models between VB6 and .NET. Other issues include:
-
-* the internal NBSS custom controls, vendor-specific control packs depend on the native Microsoft Common Controls library which no longer is the base foundation in a .NET world; porting becomes more difficult without a considerable rewrite.
-* there is no in-place, binary-compatible upgrade path from VB6 to VB.NET. Older projects move from a COM-based, reference-counted, late-binding runtime (VB6) to a managed, CLR-based, exception-driven platform (.NET).
-* VB6 uses ``On Error GoTo`` for non-exception flows, while .NET uses ``exception`` handling.
-* There are layout differences, different UI event models, focus/activation, and z-order quirks. This means that complex VB6 forms or custom ``UserControls`` often have to be rewritten.
-* Older VB6 projects commonly depend on OCX controls and VB6 runtime-era Common Controls. There are no native .NET equivalents for many of these.
-
->:bulb: _Custom tools and controls were excluded from analysis as they deal with UI elements or support functionality._
-
-**Documentation**
+#### Documentation
 
 We also looked at existing internal Confluence content and Jira boards for topics related to NBSS. This presented a clearer view of repetitive or missing focus areas which we noted for our journey of discovery.
 
 (please see the author's previous analysis work[^6] which was used to add to our new discovery content)
 
-_With a basic understanding in place, we moved onto exploring the system in more detail._
+With a basic understanding in place, we moved onto exploring the system in more detail.
 
 ---
 
@@ -128,7 +125,7 @@ We documented our initial findings on Confluence pages according to our assessme
 * **artefacts**, like reports and letters
 * **integrations**
 
-### :bulb: Journeys start with a "function code"
+### Journeys start with a "function code"
 Initial discovery identified that all system functionality is accessed via specific function codes configured for the user group to which a logged-on user belongs.
 
 ![Sample NBSS code structure](003_analysis_menus.png)
@@ -145,9 +142,9 @@ The system allows defining function codes for **``Standard``** and **``Administr
 
 The NBSS function codes are a _starting point_ into screening workflows, like printing reports or editing data, and users can typically start with any function code available to them.
 
-#### Permissions
+### Permissions
 
-**Role-based access controls (RBAC)**
+#### Role-based access controls (RBAC)
 
 NBSS secures function codes in a **user group**. The following image shows permissions set for a given user group, which also apply to all users in that group:
 
@@ -161,9 +158,9 @@ In RBAC, **users** are assigned to a named **role** which contains a bundle of *
 
 It's increasingly common for modern systems to **extending RBAC**  and use **ABAC** (attribute-based access control) or a mixture of ABAC+RBAC to provide **context-aware permissions**[^9]. ABAC grants permissions based on one or more _attributes of the logged-on user_. For example, an access condition like _Clinicians may view results only for sites within their BSO location and only for active episodes_ might use attributes like ``site``, ``status``, or ``organisation`` to apply appropriate permissions.
 
-#### Frequency
+### Frequency
 
-**Which functions are most important?**
+#### Which functions are most important?
 While there are many function codes to select from, some are utilised more often than others. For example: **``SAD``** which deals with Client functionality like creating client registration, managing clinical details, appointments, referrals or even film information:
 
 ![Client search](004_analysis_sad_ss.png)
@@ -176,7 +173,7 @@ or **``SMSTA``** which deals with different types of letters:
 
   _Main letter printing screen_
 
-**What can standard user types do?**
+#### What can standard user types do?
 Functionality available is determined by the function codes configured for a given user group by an administrator. Below is a typical Screening Office Manager menu excerpt we used to map function codes:
 
 ![SOM Menu](010_analysis_menu.png)
@@ -201,7 +198,7 @@ _A sample menu structure for a screening office manager_
 | ``SP``	| Print adhoc reports, call/recall/ntd lists, or report schedules/tasks.
 | ``STA``	| Statistics and tables: AGEX, ASSEX, BASOX, CREGX, DLEX, SEXA, KC62 (single client prints/Dept. Health/cytology/histology/WBN QA/lymph node), film reader QA
 
-### :bulb: User journey data discovery
+### User journey data discovery
 
 As users navigate through the system, there are many places they can manipulate, view or print data. To highlight the extent of these data points across the system, we identified several areas involved with data, as shown below:
 
