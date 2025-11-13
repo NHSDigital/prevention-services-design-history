@@ -1,6 +1,9 @@
 ---
 title: Managing users, roles and permissions (beta)
 date: 2023-08-14
+tags:
+  - permissions
+  - roles
 ---
 
 ## Providing the right people with access to the right actions and tasks

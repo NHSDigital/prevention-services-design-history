@@ -1,6 +1,8 @@
 ---
 title: "Sprint one: managing vaccines"
 date: 2023-04-10
+tags:
+  - managing vaccines
 ---
 
 ### Designing a new service to manage vaccines

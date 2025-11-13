@@ -43,6 +43,10 @@ groups:
         image:
           alt: RAVS 1 million jabs mission patch
           src: ravs-1-million-jabs-mission-patch.png
+      - description: This mission patch celebrated the launch of the new streamlined interface for recording vaccinations.
+        image:
+          alt: RAVS Streamlined mission patch
+          src: ravs-streamlined.png
   - title: Vaccinations
     description: These mission patches celebrate work that spanned multiple vaccination teams.
     columns: 3
@@ -56,10 +60,28 @@ groups:
         image:
           alt: Autumn/Winter 2024 mission patch
           src: autumn-winter-2024-mission-patch.png
-      - description: This sparkly mission patch celebrated the launch of a brand new RSV vaccination, which was enabled by multiple teams including Select & Invite, Book a vaccination, Record a vaccination, and Capture & Flow.
+      - description: This sparkly mission patch celebrated the launch of a brand new RSV vaccination, which was enabled by multiple teams and services.
         image:
           alt: RSV mission patch
           src: rsv-mission-patch.png
+      - description: This mission patch celebrated the work of the digital services supporting the Autumn/Winter 2025 seasonal vaccinations.
+        image:
+          alt: Autumn/Winter 2025 mission patch
+          src: vaccinations-autumn-winter-campaign-2025.png
+      - description: This sticker celebrated the VDS Ideas Summit event on 30 October 2025
+        image:
+          alt: VDS Ideas Summit 2025
+          src: vds-ideas-summit-2025.png
+  - title: Breast screening programme
+    description: This mission patch celebrates the breast screening programme with our two fierce hyenas. Hyenas are powerful, fierce, matriarchal and resilient, just like us.
+    columns: 3
+    type: "secondary"
+    items:
+      - description: Mission patch for transforming breast screening – representing our whole breast screening programme.
+        date: 2025-10-21
+        image:
+          alt: Breast screening programme mission patch
+          src: hyenas-mission-patch-2025.png
   - title: Print specifications
     description: >
       We use [Diginate](http://diginate.com) to print our stickers, using these specifications:
@@ -71,4 +93,6 @@ groups:
       Supply: Individuals on a square backing<br>
       Diameter: 50mm
 
+
+      Download [template for Sketch](nhs-mission-patch-template.sketch)
 ---

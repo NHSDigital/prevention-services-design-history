@@ -1,6 +1,8 @@
 ---
 title: Designing a maternity journey
 date: 2024-07-18
+tags:
+  - maternity vaccinations
 ---
 
 As part of the service's expanding scope to help deliver a wider number of vaccines, we assessed how RAVS could support maternity vaccines.

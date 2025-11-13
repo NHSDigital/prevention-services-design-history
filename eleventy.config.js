@@ -28,6 +28,10 @@ export default function (eleventyConfig) {
             href: '/sitemap'
           },
           {
+            text: 'All posts',
+            href: '/all'
+          },
+          {
             text: 'Subscribe to feed',
             href: '/feed.xml'
           },
@@ -50,6 +54,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./app/**/*.jpeg')
   eleventyConfig.addPassthroughCopy('./app/**/*.png')
   eleventyConfig.addPassthroughCopy('./app/**/*.pdf')
+  eleventyConfig.addPassthroughCopy('./app/**/*.sketch')
 
 
   // Nunjucks filters

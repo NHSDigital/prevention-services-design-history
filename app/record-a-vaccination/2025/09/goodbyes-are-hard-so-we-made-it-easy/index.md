@@ -2,6 +2,9 @@
 title: "Goodbyes are hard. So we made it easy."
 description: "Allowing NHS regions to deactivate organisations."
 date: 2025-09-29
+tags:
+  - offboarding
+  - deactivation
 ---
 
 RAVS has a [regional interface](/record-a-vaccination/2024/08/onboarding-organisations-without-spreadsheets/) which has been successful in allowing the 7 NHS regions to control who they want to onboard to RAVS and when. It gives them control for their own area and removes a level of admin otherwise taken up by the RAVS team, a win-win.

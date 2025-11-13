@@ -1,6 +1,8 @@
 ---
 title: Designs used in the pilot
 date: 2024-07-12
+tags:
+  - pilot
 ---
 
 We ran an initial pilot of the service with 3 NHS Trusts in June 2024.

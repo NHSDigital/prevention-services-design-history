@@ -2,6 +2,9 @@
 title: Went for an appointment... came back with a list
 description: Creating patient lists in RAVS
 date: 2025-07-11
+tags:
+  - patient lists
+  - appointments
 ---
 
 We wanted to add ‘appointments’ into RAVS to reflect how the majority of vaccinators work.

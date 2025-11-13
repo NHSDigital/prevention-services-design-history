@@ -1,6 +1,8 @@
 ---
 title: Designing eligibility for vaccinations in the NHS App
 date: 2025-07-02
+tags:
+  - RSV vaccine
 ---
 
 We’re working on a new vaccination feature in the NHS App to help people of any age:

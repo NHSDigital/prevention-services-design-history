@@ -1,6 +1,9 @@
 ---
 title: Pertussis in maternity care settings (discovery)
 date: 2024-02-12
+tags:
+  - maternity vaccinations
+  - pertussis vaccine
 ---
 
 During our initial discovery, we wanted to understand:

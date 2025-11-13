@@ -1,6 +1,8 @@
 ---
 title: "Sprint two: finding patients and recording vaccinations"
 date: 2023-04-24
+tags:
+  - finding patients
 ---
 
 ## Improving the way data is recorded
