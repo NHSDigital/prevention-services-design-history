@@ -84,7 +84,7 @@ groups:
           src: hyenas-mission-patch-2025.png
   - title: Print specifications
     description: >
-      We use [Diginate](http://diginate.com) to print our stickers, using these specifications:
+      We use [Diginate](http://diginate.com) to print our stickers. Recommended specifications:
 
 
       Product: Vinyl stickers<br>
@@ -93,6 +93,7 @@ groups:
       Supply: Individuals on a square backing<br>
       Diameter: 50mm
 
-
-      Download [template for Sketch](nhs-mission-patch-template.sketch)
+      <h2>Templates</h2>
+      [Template for Illustrator](nhs-mission-patch-template.ai)<br>
+      [Template for Sketch](nhs-mission-patch-template.sketch)
 ---

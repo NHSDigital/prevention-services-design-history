@@ -49,6 +49,7 @@ export default function (eleventyConfig) {
   })
 
   // Images and PDFs
+  eleventyConfig.addPassthroughCopy('./app/**/*.ai')
   eleventyConfig.addPassthroughCopy('./app/**/*.gif')
   eleventyConfig.addPassthroughCopy('./app/**/*.jpg')
   eleventyConfig.addPassthroughCopy('./app/**/*.jpeg')
