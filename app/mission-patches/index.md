@@ -94,5 +94,8 @@ groups:
       Diameter: 50mm
 
 
-      Download [template for Illustrator](nhs-mission-patch-template.ai), [template for Sketch](nhs-mission-patch-template.sketch)
+      Downloads:
+
+      - [template for Illustrator](nhs-mission-patch-template.ai)
+      - [template for Sketch](nhs-mission-patch-template.sketch)
 ---
