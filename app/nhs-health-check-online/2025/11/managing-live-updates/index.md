@@ -1,5 +1,5 @@
 ---
-title: Designing for change: how we’re managing live updates in our service 
+title: "Designing for change: how we’re managing live updates in our service"
 date: 2025-11-01
 ---
 
