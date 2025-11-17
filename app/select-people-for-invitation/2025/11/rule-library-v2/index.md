@@ -1,7 +1,7 @@
 ---
 title: Rule library version 2
 description: Improving our rule library to make it easier to add rules
-date: 2025-11-12
+date: 2025-11-19
 tags:
   - users
   - service design
