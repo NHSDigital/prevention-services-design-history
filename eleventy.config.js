@@ -112,8 +112,9 @@ export default function (eleventyConfig) {
     'nhs-health-check-online',
     'personalised-prevention-platform',
     'smoking-cessation',
-    'talking-therapies'
+    'talking-therapies',
     // Digital best start
+    'age-related-messaging'
   ]) {
     eleventyConfig.addCollection(service, (collection) => {
       return collection.getFilteredByGlob(`app/${service}/**/*.md`)
