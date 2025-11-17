@@ -67,7 +67,7 @@ export default function (eleventyConfig) {
   })
 
   // Service area collections
-  for (const area of ['screening', 'vaccinations', 'personalised-prevention']) {
+  for (const area of ['screening', 'vaccinations', 'personalised-prevention', 'digital-best-start']) {
     eleventyConfig.addCollection(`${area}-area`, (collection) => {
       return collection
         .getAll()
@@ -113,6 +113,7 @@ export default function (eleventyConfig) {
     'personalised-prevention-platform',
     'smoking-cessation',
     'talking-therapies'
+    // Digital best start
   ]) {
     eleventyConfig.addCollection(service, (collection) => {
       return collection.getFilteredByGlob(`app/${service}/**/*.md`)
