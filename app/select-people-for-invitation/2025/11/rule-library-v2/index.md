@@ -11,7 +11,7 @@ tags:
 
 Our initial way to add rules was through a rule builder form, which required a high degree of technical understanding. Our first version of [rule library](/select-people-for-invitation/2025/03/rule-library/) was a way of pre-populating that form with certain values to make the process easier for users. 
 
-Our [research](/add-link/) showed this was a big step forward in making it easier for users to add commonly used rules, however there was still a lot of scope for improvement. We anticipated this might be the case as the first rule library implementation was very much a minimum viable product approach - we wanted to add value quickly and learn more about the way users interact with the system. 
+Our research showed this was a big step forward in making it easier for users to add commonly used rules, however there was still a lot of scope for improvement. We anticipated this might be the case as the first rule library implementation was very much a minimum viable product approach - we wanted to add value quickly and learn more about the way users interact with the system. 
 
 ## The problems we wanted to fix
 
