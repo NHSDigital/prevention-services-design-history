@@ -9,7 +9,7 @@ tags:
   - user research
 ---
 
-Our initial way to add rules was through a rule builder form, which required a high degree of technical understanding. Our first version of [rule library](/select-people-for-invitation/2025/03/rule-library/) was a way of pre-populating that form with certain values to make the process easier for users. 
+Our initial way to add rules was through a rule builder form, which required a high degree of technical understanding. Our first version of the [rule library](/select-people-for-invitation/2025/03/rule-library/) was a way of pre-populating that form with certain values to make the process easier for users. 
 
 Our research showed this was a big step forward in making it easier for users to add commonly used rules, however there was still a lot of scope for improvement. We anticipated this might be the case as the first rule library implementation was very much a minimum viable product approach - we wanted to add value quickly and learn more about the way users interact with the system. 
 
@@ -24,17 +24,17 @@ Our research showed this was a big step forward in making it easier for users to
 - We reviewed the list of rules that were in the library and categorised them
 - They fell broadly into 4 types of rule:
   - **Text:** Rules that require a parameter configuring as text e.g. exclude people under a certain age (age is the text parameter)
-  - **Text and date:** Rules that require a text parameter and a date parameter, e.g. exclude people under a certain ago on a particular date
+  - **Text and date:** Rules that require a text parameter and a date parameter, e.g. exclude people under a certain age on a particular date
   - **Pick list:** Rules that require one or more parameters to be selected from a list of options, e.g. exclude people who are not registered to a GP within certain ICBs
   - **Radios** Rules that require a single selection from a group of options, e.g. exclude people living in care homes (yes / no)
 
 We designed a template for each type of rule, which means the user interface is tailored to the rule type. Therefore the interaction is much simpler, quicker and safer for users.
 
-This image shows the old screen for excluding care home residents
+This image shows the old screen for excluding care home residents:
 
 [![The rule library v1 way of excluding care home residents](rule-library2.png)](rule-library2.png)
 
-This image shows the new screen, which as can be seen is very much simpler to use and easier to understand.
+This image shows the new screen, which as can be seen is very much simpler to use and easier to understand:
 
 [![The rule library v2 way of excluding care home residents](rule-library3.png)](rule-library3.png)
 
