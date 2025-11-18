@@ -3,7 +3,7 @@ title: "Designing for change: how we’re managing live updates in our service"
 date: 2025-11-17
 ---
 
-The NHS Digital Health Check online service is currently in its private beta phase. It is at this stage we’re slowly beginning to observe how real users interact with our platform, and how the user-facing outputs of the algorithms we use are received. This is a critical moment for any digital health product: the transition from static design to dynamic, real-world use. One of the most important challenges we’ve tackled during this phase is how to ‘manage change once live’ - especially when those changes affect users mid-journey.
+The NHS Digital Health Check online service is currently in its private beta phase. It is at this stage that we are slowly beginning to observe how real users interact with our platform, and how they respond to the information and guidance they receive. This is a critical moment for any digital health product: the transition from static design to dynamic, real-world use. One of the most important challenges we’ve tackled during this phase is how to ‘manage change once live’ - especially when those changes affect users mid-journey.
 
 ## The context: evolving risk algorithms 
 
@@ -15,10 +15,10 @@ Shortly after the service went into Private Beta, we received feedback from clin
 
 Unlike our pre-launch design, our live service must account for active users - people who are mid-task, mid-decision, or mid-reflection. Any change we introduce must be: 
 
-- clear and actionable 
-- emotionally safe 
+- clear and actionable
+- not likely to cause stress, frustration or anxiety 
 - non-disruptive to progress 
-- scalable 
+- reusable and repeeatable for potential future changes
 
 We needed a pattern that could alert users to changes without cluttering the task list or causing confusion. Our goal was to guide users to complete new requirements with minimal friction. 
 
@@ -44,10 +44,8 @@ Here’s how the flow works:
     - Includes a checkbox to confirm they’ve read the update. 
 3. After acknowledging the update, they return to their task list, where any affected sections are now marked as incomplete. 
 
-This approach ensures users are informed, empowered, and guided – mitigating surprise and confusion.
+Although we have not yet been able to test this particular journey in isolation, our intention is that this approach should ensure users are informed, empowered, and guided.
 
 ## Looking ahead 
 
-As we continue to iterate and expand our service, this interrupt pattern will serve as a foundation for managing change in a user-centred way. It’s a small but powerful example of how thoughtful design can support clarity, and continuity in the face of evolving clinical standards. 
-
-We’re looking forward to start sharing more insights from our beta phase soon, including how users respond to these patterns and how their feedback continues to shape our efforts to improve clarity and usability.
+As we continue to iterate and expand our service, this interrupt pattern will serve as a foundation for managing change in a user-centred way. It’s a small but powerful example of how thoughtful design can support clarity, and continuity in the face of evolving clinical standards.
