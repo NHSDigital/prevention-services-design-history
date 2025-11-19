@@ -46,7 +46,7 @@ Initial user feedback has been very positive. Users find these new tailored rule
 
 ## Next steps
 
-The dev work to roll this out is ongoing and we're continuing to review the types of rules that are being used in live campaigns. The library caters for the commonly used rules, but for more unusual ones the old rule builder form is still required. We've begun to refer to this as the "custom rule builder" and made the rule library the default way to add rules. Access to the "custom rule builder" is restricted to a certain user role, so if we onboard new users to SPI we can prevent them adding any type of rule which isn't in the library - which makes the service a bit safer for new users.
+The development work to roll this out is ongoing and we're continuing to review the types of rules that are being used in live campaigns. The library caters for the commonly used rules, but for more unusual ones the old rule builder form is still required. We've begun to refer to this as the "custom rule builder" and made the rule library the default way to add rules. Access to the "custom rule builder" is restricted to a certain user role, so if we onboard new users to SPI we can prevent them adding any type of rule which isn't in the library - which makes the service a bit safer for new users.
 
 We have also defined a process for users to request new rules be added to the library.
 
