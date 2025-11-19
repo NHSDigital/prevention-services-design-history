@@ -25,18 +25,18 @@ Our research showed this was a big step forward in making it easier for users to
 - They fell broadly into 4 types of rule:
   - **Text:** Rules that require a parameter configuring as text e.g. exclude people under a certain age (age is the text parameter)
   - **Text and date:** Rules that require a text parameter and a date parameter, e.g. exclude people under a certain age on a particular date
-  - **Pick list:** Rules that require one or more parameters to be selected from a list of options, e.g. exclude people who are not registered to a GP within certain ICBs
+  - **Pick list:** Rules that require one or more parameters to be selected from a list of options, e.g. exclude people who are not registered to a GP within certain Integrated Care Boards
   - **Radios** Rules that require a single selection from a group of options, e.g. exclude people living in care homes (yes / no)
 
 We designed a template for each type of rule, which means the user interface is tailored to the rule type. Therefore the interaction is much simpler, quicker and safer for users.
 
 This image shows the old screen for excluding care home residents:
 
-[![The rule library v1 way of excluding care home residents](rule-library2.png)](rule-library2.png)
+[![The rule library version 1 way of excluding care home residents which was quite complicated and required technical knowledge](rule-library2.png)](rule-library2.png)
 
 This image shows the new screen, which as can be seen is very much simpler to use and easier to understand:
 
-[![The rule library v2 way of excluding care home residents](rule-library3.png)](rule-library3.png)
+[![The rule library version 2 way of excluding care home residents which is much simpler and more intuitive](rule-library3.png)](rule-library3.png)
 
 A note on the technical implementation: every rule which follows the same template uses the same underlying code, but configured through customised parameters. Meaning we ensure a consistent approach and we don't have to maintain many versions of a radio button rule page for each individual rule which uses that pattern.
 
