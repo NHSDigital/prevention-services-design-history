@@ -38,7 +38,7 @@ This image shows the new screen, which as can be seen is very much simpler to us
 
 [![The rule library v2 way of excluding care home residents](rule-library3.png)](rule-library3.png)
 
-A note on the technical implementation: every rule which follows the same template uses the same underlying code, but configured through customised parameters. Meaning we ensure a consistent approach and we don't have to maintain many versions of a radio button rule page for each individual rule which uses that pattern.
+A note on the technical implementation: every rule which follows the same template uses the same underlying code, but configured through customised parameters. This means we ensure a consistent approach and we don't have to maintain many versions of a radio button rule page for each individual rule which uses that pattern.
 
 ## Feedback
 
