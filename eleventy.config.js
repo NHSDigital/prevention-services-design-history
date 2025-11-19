@@ -67,7 +67,7 @@ export default function (eleventyConfig) {
   })
 
   // Service area collections
-  for (const area of ['screening', 'vaccinations', 'personalised-prevention']) {
+  for (const area of ['screening', 'vaccinations', 'personalised-prevention', 'digital-best-start']) {
     eleventyConfig.addCollection(`${area}-area`, (collection) => {
       return collection
         .getAll()
@@ -112,7 +112,9 @@ export default function (eleventyConfig) {
     'nhs-health-check-online',
     'personalised-prevention-platform',
     'smoking-cessation',
-    'talking-therapies'
+    'talking-therapies',
+    // Digital best start
+    'age-related-messaging'
   ]) {
     eleventyConfig.addCollection(service, (collection) => {
       return collection.getFilteredByGlob(`app/${service}/**/*.md`)
