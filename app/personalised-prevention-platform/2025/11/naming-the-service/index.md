@@ -130,4 +130,4 @@ When we dropped it in to some existing content, one sentence looked like this:
 
 ## The name we’ll test with users
 
-The name we plan to put in front of users in the pilot is the top‑scoring name, which was ’NHS help to stay healthy’.
+The name we plan to put in front of users in the pilot is the top‑scoring name, which was ’NHS Help to stay healthy’.
