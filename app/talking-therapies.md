@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Talking therapies
-description: Increasing access to available talking therapy services for underserved communities
+description: Increasing access to NHS Talking Therapy services for underserved groups.
 area: personalised-prevention
 pagination:
   data: collections.talking-therapies
