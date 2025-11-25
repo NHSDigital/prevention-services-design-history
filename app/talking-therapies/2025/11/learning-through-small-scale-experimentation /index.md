@@ -1,7 +1,7 @@
 ---
 title: Learning through small‑scale experimentation
 author: Emma Parnell
-description: A pilot sending messagess to GP patients about NHS Talking Therapies resulted in an uplift in referrals, validating the approach before scaling nationally.
+description: Increasing access to NHS Talking Therapy services for underserved groups.
 date: 2025-11-24
 ---
 
@@ -62,7 +62,7 @@ This was the user journey that patients went through:
 
 ![User journey showing screens where a user gets an app notification, visits the NHS.UK service then finds the therapy provider local to them](service-blueprint.png "The user journey – from getting a message to starting with a therapy provider")
 
-Based on data gathered in the first 7 days, it was decided that a follow-on message would be sent 10 days after the first message with a view to increasing referrals even further. The first line of the message was changed slightly so that it made conversational sense to the user. Unfortunately, it wasn't possible to implement shortened URLs for the pilot because of the number of different campaign IDs we wanted to use to track various messages through the pilot.
+Based on data gathered in the first 7 days, it was decided that a follow-on message would be sent 8 days after the first message with a view to increasing referrals even further. The first line of the message was changed slightly so that it made conversational sense to the user. Unfortunately, it wasn't possible to implement shortened URLs for the pilot because of the number of different campaign IDs we wanted to use to track various messages through the pilot.
 
 ![A screenshot of two messages shown to users. The first message reads "Feeling anxious, low or stuck? NHS Talking Therapies offers free, confidential support for adults. You can refer yourself directly to the service. You don't need a diagnosed mental health condition or to talk to your GP" Then links the user the NHS service finder. The second message reads "Just a reminder that NHS Talking Therapies offers free, confidential support for adults who are feeling anxious, low or stuck. You can refer yourself directly to the service. You don't need a diagnosed mental health condition or to talk to your GP." Then links the user to NHS service finder](messages.png "The messages we sent to users")
 
@@ -72,7 +72,7 @@ Despite the GP surgery onboarding to the NHS App just before the pilot started, 
 
 Proactively contacting people from underserved groups does have the potential to increase awareness of, and referrals into, NHS Talking Therapies. The service works and we have a foundation to build from for MVP.
 
-However, there are key points at which significant drop off occurs. The journey for a user starts with receiving a message which links them out to ‘Find a service’. Linking to NHS.UK builds trust but introduces a barrier in the referral journey that resulted in a 35% drop off. The journey then hands off to an external provider’s website, and a long referrals form. At this point we saw a further 40% drop off. Both points in the journey need to be explored in MVP to see if the user journey could be redesigned to improve retention.
+However, there are key points at which significant drop off occurs. The journey for a user starts with receiving a message which links them out to ‘[Find a service](https://www.nhs.uk/nhs-services/mental-health-services/find-nhs-talking-therapies-for-anxiety-and-depression/)’. Linking to NHS.UK builds trust but introduces a barrier in the referral journey that resulted in a 35% drop off. The journey then hands off to an external provider’s website, and a long referral form. At this point we saw a further 40% drop off. Both points in the journey need to be explored in MVP to see if the user journey could be redesigned to improve retention.
 
 Sending the messages highlighted a mismatch between the full name of the GP Practice and the name that the practice submitted to the central ODS database. This resulted in a small number of people being unable to find their GP practice in ‘Find a Service’. This highlights the need for QA testing and assurance around small scale pilots. It also points to the need for overall ownership and routes into existing services where required. For example, SPI, CaaS, NHS.UK and Notify.
 
