@@ -112,7 +112,7 @@ Here are the average scores the team gave each name.
 | NHS Local connect                    |  5.2  |
 | NHS Change up                        |  4.7  |
 
-The top‑4 scoring names were:
+The 4 highest‑scoring names were:
 - NHS Help to stay healthy
 - NHS Healthier me
 - NHS Healthier living
@@ -120,7 +120,7 @@ The top‑4 scoring names were:
 
 ## Using the names in context
 
-After the workshop we tried the top‑4 names in contexts we were likely to use them, and discounted the ones that didn’t work so well.
+After the workshop we tried the 4 highest‑scoring names in contexts we were likely to use them, and discounted the ones that didn’t work so well.
 
 We discounted ‘Healthier me’, for example, because it will be awkward when we’re talking directly to users and saying ‘you’.
 
