@@ -15,7 +15,7 @@ The improvements and changes we’ve made include:
 
 ## Changing from co-administration to single vaccination
 
-When booking a vaccination appointment, users can choose to get their flu and COVID vaccines in the same appointment (co-administration).
+When booking a vaccination appointment, users can choose to get their flu and COVID vaccines in the same appointment (co-admin).
 
 Co-admin availability can sometimes be limited, so to give users more flexibility, we added the option to switch from co-admin to single jab at a couple of key points in the booking journey
 
