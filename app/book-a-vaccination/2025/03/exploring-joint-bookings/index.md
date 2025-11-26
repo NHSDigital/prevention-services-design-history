@@ -1,5 +1,5 @@
 ---
-title: Enabling joint bookings for up to 2 people
+title: Exploring joint bookings for up to 2 people
 date: 2025-03-03
 tags:
   - appointments
@@ -69,3 +69,12 @@ Users were able to add a second person to the booking, and understood that they 
 ### Slot selection
 
 Most users found selecting appointment slots straightforward.​ One participant expected to be able to book appointments at different times, and wanted more flexibility.
+
+## Next steps
+
+After testing the joint bookings design during user research, we've added it to the joint roadmap for the National Booking Service (NBS) and the Manage Your Appointments (MYA) Service.
+
+We aim to deliver joint bookings in stages starting during autumn-winter 2025 in this order:
+- single cohort joint bookings (on RSV only, during autumn/winter 2025)
+- multi-cohort joint bookings (on COVID, during spring 2026)
+- joint bookings with co-admin (by autumn/winter 2026)
