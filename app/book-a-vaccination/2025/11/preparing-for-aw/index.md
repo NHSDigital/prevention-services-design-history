@@ -6,7 +6,7 @@ tags:
   - continuous improvement
 ---
 
-As part of our preparation for the Autumn winter 2025 Flu and COVID campaigns, we’ve added some new features and made some improvements to the NBS journey.
+As part of our preparation for the Autumn-winter 2025 flu and COVID campaigns, we’ve added some new features and made some improvements to the Book a vaccination journey.
 
 The improvements and changes we’ve made include:
 - changing from co-administration to single vaccination
@@ -15,7 +15,7 @@ The improvements and changes we’ve made include:
 
 ## Changing from co-administration to single vaccination
 
-When booking a vaccination appointment, users can choose to get their flu and COVID vaccines in the same appointment (co-administration).
+When booking a vaccination appointment, users can choose to get their flu and COVID vaccines in the same appointment (co-admin).
 
 Co-admin availability can sometimes be limited, so to give users more flexibility, we added the option to switch from co-admin to single jab at a couple of key points in the booking journey
 
