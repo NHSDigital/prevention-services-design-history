@@ -1,6 +1,9 @@
 ---
 title: "Making date selection more flexible "
 date: 2025-10-02
+tags:
+  - appointments
+  - continuous improvement
 ---
 
 Our analytics on the National Booking Service (NBS) showed that 25% of users were clicking ‘show later dates’ when trying to find a suitable date for their appointment in NBS. 
