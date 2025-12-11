@@ -1,5 +1,5 @@
 ---
-title: Consent for HPV vaccination
+title: Consent for HPV vaccination for the private beta
 date: 2024-12-17
 screenshots:
   - title: "Screenshots: Initial journey"
