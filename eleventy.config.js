@@ -57,7 +57,6 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./app/**/*.pdf')
   eleventyConfig.addPassthroughCopy('./app/**/*.sketch')
 
-
   // Nunjucks filters
   eleventyConfig.addFilter('push', (array, item) => {
     const newArray = [...array]
@@ -67,7 +66,12 @@ export default function (eleventyConfig) {
   })
 
   // Service area collections
-  for (const area of ['screening', 'vaccinations', 'personalised-prevention', 'digital-best-start']) {
+  for (const area of [
+    'screening',
+    'vaccinations',
+    'personalised-prevention',
+    'digital-best-start'
+  ]) {
     eleventyConfig.addCollection(`${area}-area`, (collection) => {
       return collection
         .getAll()
@@ -98,12 +102,19 @@ export default function (eleventyConfig) {
   })
 
   // Breast screening teams - the team index pages for this pathway
-  eleventyConfig.addCollection('pathway-breast-screening-teams', (collection) => {
-    return collection
-      .getAll()
-      .filter(({ data }) => data?.pathway === 'breast-screening' && data?.layout === 'collection')
-      .sort((a, b) => a.data.title.localeCompare(b.data.title))
-  })
+  eleventyConfig.addCollection(
+    'pathway-breast-screening-teams',
+    (collection) => {
+      return collection
+        .getAll()
+        .filter(
+          ({ data }) =>
+            data?.pathway === 'breast-screening' &&
+            data?.layout === 'collection'
+        )
+        .sort((a, b) => a.data.title.localeCompare(b.data.title))
+    }
+  )
 
   // Service collections
   for (const service of [
