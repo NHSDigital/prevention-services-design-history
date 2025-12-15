@@ -72,4 +72,4 @@ screenshots:
         text: Archive batch
 ---
 
-The following is a snapshot of the operational aspects of Mavis as they appeared when the service launched into private beta with Coventry and Warwickshire Partnership NHS Trust on 17 December 2024.
+The following is a snapshot of the operational aspects of Mavis as they appeared when the service launched into private beta with Coventry and Warwickshire Partnership NHS Trust on 16 December 2024.
