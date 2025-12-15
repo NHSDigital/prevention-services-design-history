@@ -24,13 +24,9 @@ Once these tasks have been done, the appointment can be considered complete. But
 
 A pattern for this called [check answers](https://service-manual.nhs.uk/design-system/patterns/check-answers) already exists in the NHS and GOV.UK design systems, using the [summary list](https://service-manual.nhs.uk/design-system/components/summary-list) component.
 
+It shows all data submitted through a service, with links to change each entry where required. It helps users confirm that their data has been captured, see they have completed all the required sections, and provides chance to notice and correct errors before sending data.
+
 ![An example of the check answers pattern on the NHS design system](check-answers.png)
-
-It shows all data submitted through a service, with links to change each entry where required. 
-
-> Check answers pages help to:
-> - increase users' confidence as they can clearly see that they have completed all the sections and that their data has been captured
-> - reduce error rates as users are given a chance to notice and correct errors before sending data
 
 This works for users who have time to review the accuracy of each line when registering with a GP surgery, applying for a passport, or filing their self assessment. 
 
