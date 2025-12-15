@@ -3,6 +3,7 @@ layout: collection
 title: Explore team
 description: A discovery team that understands problems and experiments with solutions
 area: screening
+pathway: breast-screening
 pagination:
   data: collections.explore-team
   reverse: true

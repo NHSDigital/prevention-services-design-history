@@ -3,6 +3,7 @@ layout: collection
 title: Breast screening pathway
 description: Replacing legacy technology to build a clinically‑safe, integrated screening service that better supports breast screening office staff
 area: screening
+pathway: breast-screening
 pagination:
   data: collections.breast-screening-pathway
   reverse: true
