@@ -9,7 +9,7 @@ opengraphImage:
 tags:
   - beta
   - prototype
-  - breast-screening
+  - breast screening
 ---
 
 We're creating a way for mammographers to efficiently check the information they've collected during an appointment before they mark it as complete.
