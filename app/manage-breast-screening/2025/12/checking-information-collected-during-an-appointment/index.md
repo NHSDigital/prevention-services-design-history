@@ -4,7 +4,7 @@ description: We're creating a way for mammographers to efficiently check the inf
 date: 2025-12-16
 author: Danny Chadburn
 opengraphImage:
-  src: /manage-breast-screening/2025/12/check-info-collected-during-appointment/check-information-full.png
+  src: /manage-breast-screening/2025/12/checking-information-collected-during-an-appointment/check-information-full.png
   alt: Screenshot of an example check information page on the Manage breast screening service
 tags:
   - beta
