@@ -8,7 +8,7 @@ tags:
   - telephone booking
 ---
 
-The national booking service (NBS) offers a telephone booking service, via 119. Users who cannot or do not want to book using the online service can call to book an appointment.
+The Book a vaccination service (NBS) offers a telephone booking service, via 119. Users who cannot or do not want to book using the online service can call to book an appointment.
 
 ## What we did
 
