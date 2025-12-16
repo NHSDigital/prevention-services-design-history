@@ -1,6 +1,5 @@
 {
   "layout": "post",
-  "pathway": "breast-screening",
   "eleventyNavigation": {
     "parent": "Breast screening pathway"
   }

@@ -2,22 +2,6 @@
 
 {% from "_components/screenshots/macro.njk" import appScreenshots %}
 
-{% block beforeContent %}
-  {% if pathway and pathways[pathway] %}
-    {# Custom breadcrumb with pathway #}
-    {% set teamSlug = page.filePathStem.split("/")[1] %}
-    {{ nhsukBreadcrumb({
-      items: [
-        { text: "Home", href: "/" },
-        { text: pathways[pathway].title, href: pathways[pathway].url },
-        { text: eleventyNavigation.parent, href: "/" + teamSlug + "/" }
-      ]
-    }) }}
-  {% else %}
-    {{ super() }}
-  {% endif %}
-{% endblock %}
-
 {% block content %}
   {{ super() }}
 

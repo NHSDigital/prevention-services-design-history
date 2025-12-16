@@ -4,6 +4,9 @@ title: Explore team
 description: A discovery team that understands problems and experiments with solutions
 area: screening
 pathway: breast-screening
+eleventyNavigation:
+  key: Explore team
+  parent: Breast screening
 pagination:
   data: collections.explore-team
   reverse: true

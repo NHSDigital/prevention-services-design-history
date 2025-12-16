@@ -3,6 +3,8 @@ layout: pathway
 title: Breast screening
 description: Posts from teams working on breast screening
 area: screening
+eleventyNavigation:
+  key: Breast screening
 pagination:
   data: collections.pathway-breast-screening
   reverse: true
