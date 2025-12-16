@@ -1,9 +1,11 @@
 ---
 title: "Testing our non-digital routes"
 date: 2025-12-16
-description: What we learned during research with the 119 telephone booking service:
+description: "What we learned during research with the 119 telephone booking service"
+tags:
   - appointments
   - assisted digital routes
+  - telephone booking
 ---
 
 The national booking service (NBS) offers a telephone booking service, via 119. Users who cannot or do not want to book using the online service can call to book an appointment.
