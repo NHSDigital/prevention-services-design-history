@@ -1,7 +1,7 @@
 ---
 title: Designing a search feature for Cohort Manager
 description: Adding a search feature so that users can quickly find all data exceptions and reports linked to a particular NHS number
-date: 2025-12-15
+date: 2025-12-16
 author: Arpana Ghagre
 tags:
   - beta
