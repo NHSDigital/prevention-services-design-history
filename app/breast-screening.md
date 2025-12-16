@@ -1,7 +1,7 @@
 ---
 layout: pathway
 title: Breast screening
-description: Design history posts from teams working on breast screening services
+description: Posts from teams working on breast screening
 area: screening
 pagination:
   data: collections.pathway-breast-screening
@@ -10,7 +10,7 @@ pagination:
 permalink: "breast-screening/{% if pagination.pageNumber > 0 %}page/{{ pagination.pageNumber + 1 }}{% endif %}/"
 ---
 
-## Service areas
+## Service areas and teams
 
 {% for area in collections['pathway-breast-screening-teams'] %}{% set displayName = pathways['breast-screening'].teamNames[area.data.title] if pathways['breast-screening'].teamNames[area.data.title] is defined else area.data.title %}{% if displayName %}[{{ displayName }}]({{ area.url }}){% if not loop.last %} | {% endif %}{% endif %}{% endfor %}
 

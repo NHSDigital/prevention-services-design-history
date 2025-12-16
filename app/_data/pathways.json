@@ -5,10 +5,10 @@
     "teamNames": {
       "Breast screening pathway": "Pathway",
       "Breast screening reporting": "Reporting",
-      "Explore team": "",
-      "Team invite": "Invite people",
+      "Explore team": "Explore",
+      "Invite": "Invite people",
       "Select": "Select cohorts",
-      "Manage breast screening": "Manage"
+      "Manage breast screening": "Manage breast screening"
     }
   }
 }
