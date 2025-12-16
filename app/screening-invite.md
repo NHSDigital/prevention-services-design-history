@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Invite
-description: Delivering screening communications to participants in an appropriate, clinically safe way through the channel that works best for them
+description: Delivering screening comms to participants through channels that work best for them
 area: screening
 pathway: breast-screening
 eleventyNavigation:

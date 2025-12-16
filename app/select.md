@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Select
-description: A service that helps ensure the right people are selected for invitation to screening
+description: Ensuring the right people are selected for invitation to breast screening
 area: screening
 pathway: breast-screening
 eleventyNavigation:

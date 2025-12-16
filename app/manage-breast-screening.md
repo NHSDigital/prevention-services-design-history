@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Manage breast screening
-description: A staff-facing service that supports the breast screening journey from appointment check-in to clinical data collection, image reading and arbitration
+description: Helping staff during the breast screening journey from appointments to image reading
 area: screening
 pathway: breast-screening
 eleventyNavigation:
