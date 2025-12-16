@@ -45,15 +45,15 @@ Crucially for SMT users, search results include historic exceptions and reports,
 
 ## How results are presented
 
-Search results appear in a table showing the most recent items first for faster triage. The table includes key details to aid investigation: demographics, exception details (such as reference, status and brief description), ServiceNow case IDs, and report types. Users can click on individual results to view full details of exceptions or reports.
+Search results appear in a table showing the most recent items first for faster triage. The table includes key details to aid investigation: demographics, exception details such as **local reference, exception status** and **brief description**, **ServiceNow case IDs**, and **report types**. Users can click on individual results to view full details of exceptions or reports.
 
 ![Screenshot from the Cohort Manager. Showing how the search results are shown for exceptions and the reports](search-results.png "A view of Cohort Manager's interface showing the search results for exceptions and reports")
 
 ## Search error scenarios
 
 When using the search feature, we considered the following common error cases:
-- empty input: the search box is left blank
-- invalid format: the NHS number entered does not match the required format
+- **empty input**: the search box is left blank
+- **invalid format**: the NHS number entered does not match the required format
 
 For all these scenarios, the system shows the ‘No results’ page :
 
@@ -68,9 +68,12 @@ This highlights a gap: NHS should provide a dedicated design component for searc
 ## How it tested
 
 Prototype testing confirmed that the search met user expectations in terms of:  
-- the ability to view full details of each result
-- clarity of information presented
-- alignment with real-world workflows
+- **the ability to view full details of each result**
+Testing confirmed that users could click into search results and see the complete information behind each exception or report. This was important because investigations often require more than just a summary — users need access to the full demographic details, exception history, and linked ServiceNow case IDs to understand the context and resolve issues accurately.
+- **clarity of information presented**
+The prototype was checked to ensure that the search results table displayed information in a clear, structured way. Key fields such as NHS number, demographics, exception status, and report type were easy to read and logically organised. This clarity reduced confusion, helped users quickly identify the right record, and avoided mistakes during investigations.
+- **alignment with real-world workflows**
+The search feature was tested against actual scenarios faced by Service Management Team (SMT) and other user groups. For example, SMT users often need to trace the history of a participant’s record across multiple exceptions and reports. Testing showed that the search results supported this workflow by presenting historic data in newest‑to‑oldest order, making triage faster and investigations more consistent with how teams work in practice.
 
 ## Our future expectation
 
