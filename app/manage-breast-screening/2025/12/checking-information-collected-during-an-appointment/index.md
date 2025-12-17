@@ -1,11 +1,11 @@
 ---
 title: Checking information collected during an appointment
 description: We're creating a way for mammographers to efficiently check the information they've collected during an appointment before they mark it as complete.
-date: 2025-12-16
+date: 2025-12-18
 author: Danny Chadburn
 opengraphImage:
   src: /manage-breast-screening/2025/12/checking-information-collected-during-an-appointment/check-information-full.png
-  alt: Screenshot of an example check information page on the Manage breast screening service
+  alt: An example check information page on the Manage breast screening service
 tags:
   - beta
   - prototype
@@ -119,7 +119,9 @@ Neither option felt right, so we've added in a series of mini confirmation pages
 
 If a new symptom comes up in conversation while images are being taken, or they forgot to record that the participant is currently taking HRT, this information can be added quickly without the mammographer losing their place in the process.
 
-![Animation showing a new symptom being added and confirmed from the review page](add-symptom.gif)
+![A page of optional symptoms after selecting to add a symptom from the review page](add-symptom.png 'If a user chooses to add a symptom from the review page, rather than taking them back to the medical information step we show them a list of symptoms to select from.')
+
+![The confirmation page that appears after adding symptom info before returning to the review page](lump-confirmation.png 'After adding the symptom details, users are shown a confirmation page before they continue their journey back to the review step.')
 
 ## What we’re doing next 
 
