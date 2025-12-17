@@ -20,7 +20,7 @@ Here are five important lessons we learned and what we're doing about them.
 
 ## 1. Mature teams that work openly can overcome significant challenges 
 
-For every challenge faced, a common theme for us suceeding was the maturity of the team, and how well people communicated and collaborated.  
+For every challenge faced, a common theme for us succeeding was the maturity of the team, and how well people communicated and collaborated.  
 
 When project scope changed repeatedly or unforeseen problems emerged, the team were patient and worked flexibly and efficiently. Working in the open helped keep everyone aligned and maintained momentum, with team members frequently discussing blockers, asking questions, and being receptive to constructive feedback. 
 
