@@ -1,7 +1,7 @@
 ---
 title: 5 lessons learned from building Cohort Manager
 description: Five important lessons we learned from getting Cohort Manager live (and what we're doing about them)
-date: 2025-12-19
+date: 2025-12-17
 author: the Select team
 tags:
   - beta
