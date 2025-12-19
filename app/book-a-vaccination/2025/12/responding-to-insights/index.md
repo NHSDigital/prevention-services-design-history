@@ -35,7 +35,7 @@ We made a change to the hint text on the name screen to try and help users under
 
 ![screenshot showing before and after images of the name page, with updated hint text](help-enter-names.png)
 
-### Signposting to the NHS app
+### Signposting to the NHS App
 
 We added some content to tell users that they can use the NHS app to book vaccinations if they are signed up as app users.
 
