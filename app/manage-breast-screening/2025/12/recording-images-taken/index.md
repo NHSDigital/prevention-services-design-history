@@ -61,7 +61,7 @@ When an image is taken on the x-ray machine the image file itself has metadata t
 
 Given all this available information, an obvious question might be: why are the same details recorded manually?
 
-The manually recorded details serve as a backup record for when some of the thing noted above go wrong. This is important when there can be a significant time delay before the images are available in PACS.
+The manually recorded details serve as a backup record for when some of the things noted above go wrong. This is important when there can be a significant time delay before the images are available in PACS.
 
 ## Automatic image flow (our ideal workflow)
 
