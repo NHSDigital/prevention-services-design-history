@@ -69,7 +69,7 @@ Our automatic image flow hopes to change the existing workflow by retrieving the
 
 ### Awaiting images
 
-Once the mammographer has Oncereviewed a participant's medical information and is ready to proceed to taking images, our interface will await receiving them.
+Once the mammographer has reviewed a participant's medical information and is ready to proceed to taking images, our interface will await receiving them.
 
 ![Screenshot of a page titled 'Awaiting images' showing text informing the user that images will appear once they have been taken](automatic-awaiting-images.png)
 
@@ -132,7 +132,7 @@ If the mammographer needed to take fewer or more images than expected, the secon
 
 Mammographers will be adjusting the default view counts by 1 or 2. To do that they could type in to the text entry boxes. But as they’ll usually need to only make a small relative adjustment, we’ve designed a new stepper component to let them adjust the numbers without typing. They can click the plus or minus button to adjust the counts. This component progressively enhances from a text input and we have [opened a PR to contribute back to the NHS Design system](https://github.com/nhsuk/nhsuk-frontend/pull/1719).
 
-![Video of new stepper input component. The component has a text input with 'minus' button on the left side, and 'plus' button on the right. Pressing the buttons increments or decriments the text input.](manual-stepper-input.gif)
+![Video of new stepper input component. The component has a text input with 'minus' button on the left side, and 'plus' button on the right. Pressing the buttons increments or decriments the text input.](manual-image-details-stepper.gif)
 
 ### Recording repeats
 
@@ -146,7 +146,9 @@ In our usability testing, mammographers have quickly become familiar with the in
 
 ### Freetext comments for standard sets of images
 
-Mammographers have told us that they currently often write freetext like “Best possible images” as a message to go to the image readers. They can do this with our flow in our ‘additional details’ box - but this isn’t shown if they select the initial option to say they’ve taken a standard set of images. We could choose to move this box earlier - but would like to evaluate how helpful comments like ‘best possible images’ really are. Can it already be assumed that a mammographer has taken the best possible images? Do image readers do anything with this information? Is this message masking a deeper need or something we could solve in a different way?
+Mammographers have told us that they currently often write freetext like “Best possible images” as a message to go to the image readers. They can do this with our flow in our ‘additional details’ box - but this isn’t shown if they select the initial option to say they’ve taken a standard set of images. We could choose to move this box earlier - but would like to evaluate how helpful comments like ‘best possible images’ really are.
+
+Can it already be assumed that a mammographer has taken the best possible images? Do image readers do anything with this information? Is this message masking a deeper need or something we could solve in a different way?
 
 ### Recording repeats on the same page
 
