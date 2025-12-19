@@ -53,7 +53,7 @@ Solving this is tricky, because some sites have multiple vaccinators but only on
 
 
 ### Reducing unnecessary logins
-Currently users are logged out of MYA 60 minutes after they log in, regardless of when they last used the service. That means if they need to use MYA throughout a working day that runs 9.30 - 6pm they need to login in 9 times each day. This is time consuming and frustrating for users.
+Currently users are logged out of MYA 60 minutes after they log in, regardless of when they last used the service. That means if they need to use MYA throughout a working day that runs from 9.30am to  6pm they need to login in 9 times each day. This is time consuming and frustrating for users.
 
 
 ### Reducing double entry
