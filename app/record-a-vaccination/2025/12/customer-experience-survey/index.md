@@ -17,7 +17,7 @@ At busy times, such as during October 2025, we’ve had up to 20 people leaving 
 
 We wanted a snapshot of people’s experience of RAVS during a defined period of time and ideally based on a large number of responses. 
 
-We also wanted to start tracking user satisfaction as one of our KPIs. Our plan is to run  regular surveys at intrevals of 3 or 4 months. 
+We also wanted to start tracking user satisfaction as one of our key performance indicators (KPIs). Our plan is to run  regular surveys at intrevals of 3 or 4 months. 
 
 ## What we asked in the survey
 
