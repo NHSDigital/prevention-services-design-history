@@ -21,8 +21,8 @@ Copy from Jon’s post 
  
 ### Approach  
  
-Our first attempt introduced 3 key changes to MYA: 
- 
+Our first attempt introduced 3 key changes to MYA:
+
 Sub navigation and manage availability tab
  
 ![Screenshot of a MYA webpage that shows a Manage availability tab with ](iteration-1-manage-availability.png)
@@ -38,7 +38,7 @@ This screen gives users more detail about the group of sessions and actions link
 ### What we tested 
  
 We set participants the following tasks:  
- Correcting a mistake – forgotten lunch break You’ve created your appointments for the autumn campaign but you’ve forgotten to add a lunch break. You need to update MYA so you’ve got a break between 12 – 1pm. 
+Correcting a mistake – forgotten lunch break You’ve created your appointments for the autumn campaign but you’ve forgotten to add a lunch break. You need to update MYA so you’ve got a break between 12 – 1pm. 
  
 Making a change – run out of flu vaccine stock You’ve been busier than expected and will run out of flu vaccines next Tuesday, you need to stop people booking appointments and cancel the ones after Tuesday 
  
@@ -78,7 +78,7 @@ Once users decide they want to change the multiple sessions they then select exa
 ### What we tested 
  
 Our experience in iteration 1 prompted us to scale back our ambitions. Rather than trying to design for both editing and cancelling, we decided to focus on to nailing down a journey for cancelling multiple sessions first. We set research participants the following task: 
- Let’s imagine you’ve set up all your sessions in MYA but you realise you’ve made a couple of mistakes. You’ve got the wrong start time and wrong appointment length and you just want to remove what you’ve got and start again. Can you show me how you’d remove do that? 
+Let’s imagine you’ve set up all your sessions in MYA but you realise you’ve made a couple of mistakes. You’ve got the wrong start time and wrong appointment length and you just want to remove what you’ve got and start again. Can you show me how you’d remove do that? 
  
  
 ### What we found 
