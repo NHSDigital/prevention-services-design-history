@@ -84,3 +84,14 @@ There were also some pharmacies using different digital systems to record the Lo
 
 There was also some confusion on which system to use in order to receive payment for the London flu vaccinations.
 
+## Other issues
+
+A couple of users mentioned a desire to have the cursor move to the next field automatically when inputting dates.
+
+Some users complained about being logged out too quickly, and does so even if it asks you whether you want to stay logged in and you answer ‘yes’.
+
+One user spoke about reducing the text size to reduce the amount of scrolling they had to do on each page. (They were using quite a small screen.)
+
+One user wanted a bit more help to determine whether someone qualifies under immunosuppressed (COVID-19) and clinical risk group (flu), given that this criteria can change every year.
+
+One pharmacy chain chose to additionally enter vaccinations into their patient medical records (PMR) system.
