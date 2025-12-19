@@ -2,6 +2,9 @@
 title: "Responding to insights"
 date: 2025-12-19
 description: "How we’ve responded to user feedback and improved the booking service during the autumn-winter 2025 season"
+opengraphImage:
+  src: /book-a-vaccination/2025/12/responding-to-insights/help-enter-names.png
+  alt: Screenshot showing hint text iterations on the name page
 tags:
   - appointments
   - continuous improvement
