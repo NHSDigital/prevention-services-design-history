@@ -11,7 +11,7 @@ tags:
   - iterations
 ---
 
-The autumn-winter 20205 season for Flu and COVID saw more than 5 million appointments booked using the online booking service. We've used analytics data, survey feedback and user research to identify ways to help people use the Book a Vaccination service (NBS).
+The autumn-winter 2025 season for Flu and COVID-19 saw more than 5 million appointments booked using the online booking service. We've used analytics data, survey feedback and user research to identify ways to help people use the Book a vaccination service (NBS).
 
 Monitoring responses to our user satisfaction survey told us that users struggle with:
 
