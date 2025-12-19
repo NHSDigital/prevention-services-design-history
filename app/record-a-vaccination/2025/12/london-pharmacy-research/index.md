@@ -60,7 +60,7 @@ However, we found that some users were not aware of there being 2 options and we
 
 In the new 'Record vaccinations' journey, it currently takes 7 screens before getting to see the patient’s details and vaccination history. Users suggested this should come earlier, as they use this screen to help determine eligibility:
 
-> You put all the data in… and then discovering that the
+> You put all the data in… and then discover that the
 patient wasn’t actually eligible for it
 
 This is something we plan to address early next year.
