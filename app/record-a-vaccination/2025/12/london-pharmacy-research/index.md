@@ -92,7 +92,7 @@ There was also some confusion about which system to use in order to receive paym
 
 A couple of users mentioned a desire to have the cursor move to the next field automatically when inputting dates.
 
-Some users complained about being logged out too quickly, and does so even if it asks you whether you want to stay logged in and you answer ‘yes’.
+Some users complained about being logged out too quickly, and the service does so even if it asks you whether you want to stay logged in and you answer ‘yes’.
 
 One user spoke about reducing the text size to reduce the amount of scrolling they had to do on each page. (They were using quite a small screen.)
 
