@@ -4,8 +4,8 @@ description: What we learnt from user research of digital-first breast screening
 date: 2025-12-19
 author: Katy Cooper
 tags:
-  - private-beta
-  - user-research
+  - private beta
+  - user research
   - screening
 ---
 
