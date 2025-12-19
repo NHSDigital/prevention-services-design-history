@@ -76,12 +76,16 @@ Invite and reminder messages needed to remain within two SMS fragments to manage
 
 ### What we took into research
 
-- Revised invite message options
-- Two reminder message variants
-- Updates to the first pages of the service start journey
+#### Revised invite message options
 
 ![Invite options](invites.png '3 invites, 2 on an phone screen and letter')
-![Reminder options](reminder.png '3 reminders on phone screens')
+
+#### Two reminder message variants
+
+![Reminder options](reminders.png '3 reminders on phone screens')
+
+#### Updates to the first pages of the service start journey
+
 ![Starting flow](starting-flow.png 'Pages a users sees after clicking the invite link')
 
 ## Learnings
