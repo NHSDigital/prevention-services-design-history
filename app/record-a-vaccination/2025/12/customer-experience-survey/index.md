@@ -1,71 +1,140 @@
 ---
 title: Our first customer experience survey
 date: 2025-12-19
-description: How we 
-opengraphImage:
-  src: /record-a-vaccination/2025/10/how-we-told-users-about-a-change-to-the-interface/record-vaccinations-new.png
-  alt: Text saying ‘Record vaccinations’ followed by ‘New’ in a blue box
-tags:
-  - communications
-  - dual running
 ---
 
-For the autumn 2025 winter vaccination we made some major changes to the interface for recording and editing vaccination records.
+On 26 November 2024, we emailed all users of our servie, around 16,500 people, asking them to take part in a short customer experience survey. This post is about what we asked and what our users told us. 
 
-Whilst we were confident that the new interface would be simpler and easier to use, we know that changing things can be disconcerting, and some users may want reassurance.
+## Why a survey and why now
 
-Here’s how we tried to resolve this by providing users with additional communications and guidance, and by allowing a 2 month period of dual-running of the old and new interfaces side-by-side.
+Record a vaccination (RAVS) has been used to record vaccinations since September 2024. Over the past year we’ve done several rounds of in-person and remote user research and usability testing. 
+We’ve also had a permanent link to a feedback survey in the header of our service. This has provided useful insights but it’s not been widely used. In total, we’ve had just over 400 responses and they have not been evenly spread over time. 
 
-## Getting ready
+At busy times, such as during October 2025, we’ve had up to 20 people leaving feedback per week. But at quieter times it might only be 1 or 2 people a week.
 
-On 26 August we sent all users an email with the subject line ‘Get ready for autumn vaccinations’.
+We wanted a snapshot of people’s experience of RAVS, based on a large number of responses and for a defined timeframe. 
+We also wanted to start tracking user satisfaction as one of our KPIs. Our plan is to run  regular surveys at intevals of 4 or 4 months. 
 
-This email contained a checklist of tasks for users to do, such as checking they can still log in, reactivating any users, and setting up their vaccine batches.
+## What we asked in the survey
 
-It also contained a section titled ‘Coming soon’:
+We created the survey in Qualtrics. It included 12 questions. 
 
-![Screenshot of an email with the text: ‘Coming soon. We are continuously updating RAVS based on user feedback. Changes you can expect to see in the next couple of months include: an even simpler recording journey, an easier way to record multiple vaccinations for the same patient, longer sessions so you have more time before you are logged out. We'd love to hear your suggestions for other things we could improve. Please continue to give us your feedback.](coming-soon-email-section.png)
+The first question was how often have you used RAVS over the last 2 months. If the response was they’d not used RAVS at all, the participant would exit the survey. 
 
-## The week before
+Most of the questions were statements and we asked participants to what extent they agreed or disagreed with them.
+We also asked users about their overall satisfaction with the survey and if they had any suggestions for improvements.
 
-On 25 September we sent all users a second email, this time purely focused on the new interface and containing some further details.
+### How we contacted people to ask them to take part
+We sent this short email using GOV.UK Notify, the platform we use for all emails we send users:
 
-![Screenshot of an email with the content: Dear FirstName LastName. In the first week of October, we're adding 2 new sections to RAVS: 1. 'Record vaccinations' will offer a simpler, quicker way to record vaccinations. 2. 'Records' will allow you to easily view and edit vaccination records. The current 'Find a patient' section will still be available for recording vaccinations and editing records until 30 November 2025. Find out more. Watch a video and read our updated guidance: Record vaccinations includes a short video plus a description of what you'll be asked and what has changed. Records describes how you can find and edit vaccination records. Kind regards,NHS Record a vaccination](new-way-to-record-vaccinations-email.png)
+Subject line: Help us improve NHS Record a vaccination (RAVS)
 
-The email linked to our [user guide](http://guide.ravs.england.nhs.uk) which described the 2 new sections.
+Dear ((FirstName)) ((LastName)),
+We’d love to hear about your experience using Record a vaccination (RAVS) so that we can improve our service.
+Please take a minute to complete our short survey:
+RAVS customer experience survey
+All your answers will be anonymous.
+Many thanks,
+NHS Record a vaccination
 
-We’ve added a ‘New’ tag to help the new information stand out in the contents list for the user guide.
+## What our users told us
 
-![Screenshot of a webpage with the heading ‘How to use the Record a vaccination service’ followed by a contents list in which ‘Record vaccinations’ and ‘Records’ both have a ‘New’ tag next to them.](guidance-site-contents-list.png)
+When we closed the survey 2 weeks after sending the email, we had 1,275 responses. Most of these (around 10,000) came in the first 48 hours after we sent the email. 
 
-The Record vaccinations guidance now also contains a short video which shows how the new recording journey works.
+Here’s a breakdown of the questions and answers
 
-![Screenshot of a webpage with the subheading ‘Video: Record vaccinations’ and an embedded video](record-vaccinations-video.png)
+### Over the last 2 months how often have you used RAVS?
 
-## On launch
+-	A few times a week 44%
+-	Almost every day 18%
+-	Once or twice 15%
+-	Once a week 13%
+-	Once a fortnight 5%
+-	I have not used RAVS 5%
 
-On the 29 September, we launched the new interface for all users.
+### How satisfied are you with RAVS overall? 
 
-We made the decision to not initially remove the old interface, which is labelled ‘Find a patient’. Instead, both the old and the new interfaces are available at the same time.
+-	Very satisfied 49%
+-	Satisfied 42%
+-	Neither satisfied nor dissatisfied 6%
+-	Dissatisfied 3%
+-	Very dissatisfied 1%
 
-The new sections are highlighted with ‘New’ tags in the header navigation:
+To what extent do you agree or disagree with the following statements?
 
-![Screenshot of a webpage with a blue header with an ‘NHS Record a vaccination’ logo and then a navbar with ‘Home’, ‘Find a patient’, ‘Record vaccinations (New)’, ‘Vaccines’, ‘Records (New)’.](dual-running-header.png)
+### I find RAVS easy to use
 
-Making both interfaces for recording vaccinations available at the same time has the potential to cause confusion, but we hope that it gives users more flexibility on when to switch over to the new interface, rather than having to do it unexpectedly at the start of the busiest time of year for vaccinations.
+-	Strongly agree 54%
+-	Agree 39%
+-	Neither agree nor disagree 4%
+-	Disagree 2%
+-	Strongly disagree 0%
+-	
+### I never need to go back to make changes
 
-## Future plans
+-	Strongly agree 31%
+-	Agree 37%
+-	Neither agree nor disagree 15%
+-	Disagree 16%
+-	Strongly disagree 1%
+-	
+### I’m able to complete tasks efficiently in RAVS
 
-We plan to retire the old ‘Find a patient’ interface on 30 November 2025.
+-	Strongly agree 45%
+-	Agree 44%
+-	Neither agree nor disagree 6%
+-	Disagree 4%
+-	Strongly disagree 1%
+-	
+### RAVS is reliable
 
-This date has been included in the guidance site, and we plan to additionally communicate it within the service by adding a panel to the top of each section:
+-	Strongly agree 41%
+-	Agree 46%
+-	Neither agree nor disagree 10%
+-	Disagree 3%
+-	Strongly disagree 0%
+-	
+### RAVS integrates well with the way we work
 
-![Screenshot of a webpage with a banner on it saying ‘This new section makes it easier to record vaccinations. You can continue using Find a patient until 30 November 2025. Find out more (opens in new tab).’](new-section-banner.png)
+-	Strongly agree 39%
+-	Agree 46%
+-	Neither agree nor disagree 10%
+-	Disagree 4%
+-	Strongly disagree 2%
+-	
+### I am a confident user of RAVS
 
-We may send some additional emails to alert users of the removal of the old interface if needed, depending on what our analytics show for how many of them have already switched over.
+-	Strongly agree 50%
+-	Agree 43%
+-	Neither agree nor disagree 7%
+-	Disagree 1%
+-	Strongly disagree 0%
+-	
+### When RAVS is updated, the changes are clearly communicated
 
-After 30 November, we also will remove the ‘New’ tags from the header, and remove the guidance page for the old interface.
+-	Strongly agree 25%
+-	Agree 31%
+-	Neither agree nor disagree 29%
+-	Disagree and Strongly disagree combined 5%
+-	Not sure 10%
+-	
+### Does RAVS provide you everything you need?
 
+-	Yes 86%
+-	No 14%
 
+### Please tell us how RAVS could be improved.
 
+We got a whopping 563 responses to this question. We dedicated a December retro to doing an initial sorting exercise. This involved cutting up 92 pages of feedback into individual comments and grouping them into piles and identifying themes.   
 
+## Reflections and what next
+
+We were very happy to learn that 91% of users were either very satisfied or satisfied with RAVS overall. 
+
+But at the same time the survey highlighted that satisfaction levels vary across different areas and there is lots of potential for improvement. For example, when asked if changes to the service were clearly communicated, only 56% agreed or strongly agreed. 
+
+We still have lots of sorting to do of all the free text suggestions for improvements. And then we need to work out how to prioritise and address the feedback. 
+
+Some things users have suggested are things we’ve already addressed or that are on our roadmap. But there are lots more suggestions for improvements, big and small, that we’ll need to look into.
+
+One thing we will bear in mind for the next survey. When we invited people to take part, we did not say how long the survey would be open for. This is something we will include next time. 
