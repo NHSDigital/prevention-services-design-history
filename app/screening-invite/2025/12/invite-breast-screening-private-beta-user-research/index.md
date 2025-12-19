@@ -9,7 +9,7 @@ tags:
   - screening
 ---
 
-Introducing digital-first invitations to breast screening was paused before private beta release. This design history sets out what we have learned so far and what we would have done next if the work had continued from a UCD perspective, to support future teams picking it up. 
+The work to rollout digital comms in breast using data from NBSS has been paused. Instead, digital comms will be rolled out along with our new Manage breast screening service. This design history documents what we have learned so far, and what we would have done next, to support the new team looking at this.
 
 ## Problem we were solving 
 
