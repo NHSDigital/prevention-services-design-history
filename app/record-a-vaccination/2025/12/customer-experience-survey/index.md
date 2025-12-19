@@ -52,7 +52,7 @@ Here’s a breakdown of the questions and answers.
 
 
 | Frequency              | Percentage of users   |
-| :----------------------| --------------------: |
+| :--------------------- | --------------------: |
 | A few times a week     | 44%                   |
 | Almost every day       | 18%                   |
 
