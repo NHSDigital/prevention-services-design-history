@@ -18,7 +18,7 @@ We:
 We learnt a lot. This post summarises some of the problems we’ve found and the opportunities for improving the service.
 
 ### Making it possible to edit and delete multiple sessions
-Currently, users can create multiple sessions but, if they want to cancel or edit those sessions they have to go through one by one. This means that if a site makes a mistake when setting up their schedule, or needs to make a change to it during the campaign, they are faced with a time consuming and repetitive task. 
+Currently users can create multiple sessions but if they want to cancel or edit those sessions, they have to go through one by one. This means that if a site makes a mistake when setting up their schedule, or needs to make a change to it during the campaign, they are faced with a time consuming and repetitive task. 
 
 For example, if a site has set up sessions running 9.30 - 5pm every weekday from October 1st to December 31st, and needs to change them all, they would have to repeat the same process 66 times. 
 
