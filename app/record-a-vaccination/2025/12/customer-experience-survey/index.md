@@ -151,7 +151,7 @@ Here’s a breakdown of the responses we got. Some of the questions were present
 | :------ | --------------------: |
 | Yes     | 86%                   |
 | No      | 14%                   |
-.
+
 
 ### Please tell us how RAVS could be improved
 
