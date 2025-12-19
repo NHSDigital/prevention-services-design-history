@@ -52,7 +52,7 @@ The pharmacies started using the service during a moment of transition, when the
 * Find a patient – the old way
 * Record vaccinations – the new, [streamlined](/record-a-vaccination/2025/03/asking-fewer-better-questions/) interface
 
-Those that had used both generally preferred 'Record vaccinations' to 'Find a patient', claiming it to be ‘easier’ and ‘quicker’.
+Those that had used both generally preferred 'Record vaccinations' to 'Find a patient', saying it was ‘easier’ and ‘quicker’.
 
 > It’s like, click, click, click, boom [done]
 
