@@ -1,7 +1,7 @@
 ---
 title: "Improving uptake"
 description: "Redesigning invites, reminders, and the journey from invite to start."
-date: 2025-11-18
+date: 2025-12-19
 ---
 
 The NHS Health Check online service is currently in private beta. As users of the service increased, we began to observe how they interacted with the service and where drop-off occurred across the early stages of the journey.
@@ -44,7 +44,7 @@ To understand why people were not starting the service, we:
 - ran a survey with 56 panel members
 - explored attitudes to invites, reminders, nudges, and motivations for completing a health check
 
-### Key findings
+### Findings
 
 The most common reason for not starting was "life getting in the way", rather than lack of interest.
 
@@ -80,9 +80,11 @@ Invite and reminder messages needed to remain within two SMS fragments to manage
 - Two reminder message variants
 - Updates to the first pages of the service start journey
 
-*[Screenshots of mobile screens showing invite messages and service start pages]*
+![Invite options](invites.png '3 invites, 2 on an phone screen and letter')
+![Reminder options](reminder.png '3 reminders on phone screens')
+![Starting flow](starting-flow.png 'Pages a users sees after clicking the invite link')
 
-## Key learnings
+## Learnings
 
 From user research and interviews with GP staff, we learned that:
 
