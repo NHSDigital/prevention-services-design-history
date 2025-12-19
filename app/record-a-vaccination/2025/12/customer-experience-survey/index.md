@@ -132,6 +132,8 @@ To what extent do you agree or disagree with the following statements?
 
 We got 563 responses to this question which was fantastic in terms of the rich insights they provide but also somewhat overwhelming. We dedicated a December retro to doing an initial sorting exercise. This involved cutting up 92 pages of feedback into individual comments, grouping them into piles and identifying themes.   
 
+![100s of strips of paper with comments from users laid out on a table](image-name.png)
+
 ## Reflections and what next
 
 We were very happy to learn that 91% of users were either very satisfied or satisfied with RAVS overall. 
