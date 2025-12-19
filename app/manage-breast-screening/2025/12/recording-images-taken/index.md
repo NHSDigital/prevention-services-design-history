@@ -109,7 +109,7 @@ When we show this image information on the [final review step](/manage-breast-sc
 
 ## Manual image flow (backup workflow)
 
-Our automatic image flow is our medium term ambition, which we hope will help reduce some of the current administrative paperwork. But we also anticipate that we may not always have the ability to get the images immediately, so we should have a fallback flow to manually record the images taken, similar to how it’s currently done in NBSS. We may launch with this first for our private beta, and hope to later replace with the automatic flow in most cases.
+Our automatic image flow is our medium term ambition, which we hope will help reduce some of the current administrative paperwork. We may not always have the ability to get the images immediately, so we should have a fallback flow to manually record the images taken, similar to how it’s currently done in NBSS. We may launch with this first for our private beta, and hope to later replace with the automatic flow in most cases.
 
 ### Record images taken
 
