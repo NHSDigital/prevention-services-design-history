@@ -17,7 +17,7 @@ tags:
   - COVID-19
 ---
 
-In November 2025, we visited 13 community pharmacies in London who had recently started using Record a vaccination for the autumn-winter flu and COVID-19 vaccinations campaigns.
+In a cold and snowy November 2025, we visited 13 community pharmacies in London who had recently started using Record a vaccination for the autumn-winter flu and COVID-19 vaccinations campaigns.
 
 These pharmacies were a mixture of those who had chosen to use the service and had [self signed up](/record-a-vaccination/2025/08/enabling-pharmacies-to-sign-up/), and those who had been onboarded by the NHS England London region as part of the London flu and pneumococcal vaccine programme.
 
