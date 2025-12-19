@@ -15,7 +15,7 @@ We:
 - combed through around 700 service desk tickets
 - reviewed the Q&As from 12 training webinars attended by about a thousand MYA users
 
-We learnt a lot. This post summarises some of the problems we’ve found and the opportunities for improving the service.
+We learnt a lot. Here are some of the problems we’ve found and the opportunities for improving the service.
 
 ### Making it possible to edit and delete multiple sessions
 Currently users can create multiple sessions but if they want to cancel or edit those sessions, they have to go through one by one. This means that if a site makes a mistake when setting up their schedule, or needs to make a change to it during the campaign, they are faced with a time consuming and repetitive task. 
