@@ -52,7 +52,7 @@ This ensures that expertise, data constraints, and delivery risks are considered
 
 For our first design sprint in July 2025, we focused on understanding the simplest report in BSIS – KC63. This report compiles coverage data from all breast screening services in England. Coverage helps us understand how well the screening programme is reaching the eligible population and is formally published annually for public accountability.
 
-We explored how KC63 could be improved and delivered in FDP with the underlying question to answer being ‘does FDP’s have the capabilities we need to replace this report?’.
+We explored how KC63 could be improved and delivered in FDP with the underlying question to answer being ‘does FDP have the capabilities we need to replace this report?’.
 
 We found that the report in BSIS was not used regularly, it lacked helpful visualisations of the data and must be used in combination with other reports to gain meaningful insights. We have found that this is a theme with a lot of the BSIS reports; that many individual tables could be replaced with fewer, more holistic insights.
 
