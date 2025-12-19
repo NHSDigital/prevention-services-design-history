@@ -150,7 +150,7 @@ Mammographers have told us that they currently often write freetext like “Best
 
 ### Recording repeats on the same page
 
-We’ve found some challenges with the conditional repeats page in usability testing. Users are very used to recording details of repeats on the same screen - so look for a place to do that. We’d need to rely on javascript to insert this content on the prior screen as it depends on the answers they give on that screen.
+We’ve found some challenges with the conditional repeats page in usability testing. Users are very used to recording details of repeats on the same screen where they added image information - so look for a place to do that. We’d need to rely on javascript to insert this content on the prior screen as it depends on the answers they give on that screen.
 
 We may also find that once users are familiar with the new service, then this extra page works well. Repeats are relatively uncommon - 1-3% of screenings - so an extra page focused on these details feels like a good starting point we can work from in the future.
 
