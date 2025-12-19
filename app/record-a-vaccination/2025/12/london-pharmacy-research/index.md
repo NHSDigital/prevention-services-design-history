@@ -33,7 +33,7 @@ Some joined the webinar, some looked at the videos and some just figured it out 
 
 ## Entering NHS numbers
 
-Pharmacies were using different ways to locate a customer’s NHS number before entering it into Record a vaccination.
+Pharmacies were using different ways to locate a patient’s NHS number before entering it into Record a vaccination.
 
 Some were using the [National Care Records Service](https://digital.nhs.uk/services/national-care-records-service), others were using the pharmacy’s patient medical record (PMR) system, or copying it from [Manage your appointments](/manage-your-appointments/).
 
