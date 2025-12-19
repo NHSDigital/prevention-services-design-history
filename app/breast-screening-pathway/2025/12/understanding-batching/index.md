@@ -1,6 +1,6 @@
 ---
 title: Understanding how participants are selected for breast screening
-description: xx
+description: Sharing discovery learnings about batching - the process used to select eligible participants for breast screening
 date: 2025-12-19
 author: Kathryn Murphy-Wright
 tags:
