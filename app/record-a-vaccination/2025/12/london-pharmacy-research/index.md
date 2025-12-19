@@ -84,7 +84,7 @@ The users suggested that it would:
 Some users were not clear on the difference between
 'Flu (London service)' and 'Flu' in the interface, and were not aware of the differences in eligibility between the 2 programmes.
 
-There were also some pharmacies using different digital systems to record the London flu vaccinations verses the national flu vaccinations, unaware they can use RAVS for both.
+There were also some pharmacies using different digital systems to record the London flu vaccinations verses the national flu vaccinations, unaware they can use Record a vaccination for both.
 
 There was also some confusion on which system to use in order to receive payment for the London flu vaccinations.
 
