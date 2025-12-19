@@ -65,7 +65,7 @@ Participants with lower digital confidence experienced some usability issues, in
 
 ## What we changed
 
-We used the findings from the pop-up research to make some improvements to NBS, to try and make it easier for as many people to use as possible.
+We used the findings from the pop-up research to make some improvements to NBS, to try and make it easier to use for as many people as possible.
 
 ### Improving the availability display
 
