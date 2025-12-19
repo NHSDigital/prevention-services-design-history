@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Check and book vaccinations
-description: A service within the NHS App for users to check which vaccines they should get and book an appointment
+description: NHS App feature to let people see which vaccinations they need and book them
 area: vaccinations
 pagination:
   data: collections.vaccinations-in-the-app
