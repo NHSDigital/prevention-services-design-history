@@ -144,9 +144,9 @@ If the mammographer adds 2 or more of any view, after submitting this page they�
 
 In our usability testing, mammographers have quickly become familiar with the interface to add the standard set of images or to add more complex details.
 
-### Freetext comments for standard sets of images
+### Free text comments for standard sets of images
 
-Mammographers have told us that they currently often write freetext like “Best possible images” as a message to go to the image readers. They can do this with our flow in our ‘additional details’ box - but this isn’t shown if they select the initial option to say they’ve taken a standard set of images. We could choose to move this box earlier - but would like to evaluate how helpful comments like ‘best possible images’ really are.
+Mammographers have told us that they currently often write free text like “Best possible images” as a message to go to the image readers. They can do this with our flow in our ‘additional details’ box - but this isn’t shown if they select the initial option to say they’ve taken a standard set of images. We could choose to move this box earlier - but would like to evaluate how helpful comments like ‘best possible images’ really are.
 
 Can it already be assumed that a mammographer has taken the best possible images? Do image readers do anything with this information? Is this message masking a deeper need or something we could solve in a different way?
 
