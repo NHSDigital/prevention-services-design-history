@@ -100,7 +100,7 @@ If the user selects ‘Yes it was a repeat’, then we can conditionally collect
 
 Finally, a user can tell us if it was partial mammography, and give us a free text comment. The comment is primarily for the mammographer to give more context to the image reader about the images.
 
-![At the bottom of the page is a checkbox for 'partial mammography' and a freetext box for additional details.](automatic-additional-details.png)
+![At the bottom of the page is a checkbox for 'partial mammography' and a free text box for additional details.](automatic-additional-details.png)
 
 ### Data display
 
