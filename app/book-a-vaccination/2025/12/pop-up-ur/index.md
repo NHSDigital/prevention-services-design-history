@@ -30,7 +30,7 @@ The pop-up approach engaged a diverse mix of participants across ages, backgroun
 
 ### Key reflections
 
-Running this research in person meant that we heard from people who don’t usually take part in digital research, including those less confident online.  It showed us barriers that users face that we do not usually see in remote research.
+Running this research in person meant that we heard from people who do not usually take part in digital research, including those less confident online.  It showed us barriers that users face that we do not usually see in remote research.
 
 The sessions highlighted a gap between digital and non-digital users – users confident with digital tools were happy booking through NBS, while less confident users preferred to book via their GP or pharmacy walk-ins.
 
