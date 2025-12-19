@@ -21,7 +21,7 @@ In a cold and snowy November 2025, we visited 13 community pharmacies in London 
 
 These pharmacies were a mixture of those that had chosen to use the service and had [self signed up](/record-a-vaccination/2025/08/enabling-pharmacies-to-sign-up/), and those that had been onboarded by the NHS England London region as part of the London flu and pneumococcal vaccine programmes.
 
-Visiting the pharmacies in-person was invaluable for getting an understanding of their experience of using the service had been, as many pharmacists are too busy to take part in remote research or video calls.
+Visiting the pharmacies in-person was invaluable for getting an understanding of their experience of using the service, as many pharmacists are too busy to take part in remote research or video calls.
 
 Here’s a summary of what we learnt:
 
