@@ -68,10 +68,6 @@ groups:
         image:
           alt: Autumn/Winter 2025 mission patch
           src: vaccinations-autumn-winter-campaign-2025.png
-      - description: This sticker celebrated the VDS Ideas Summit event on 30 October 2025
-        image:
-          alt: VDS Ideas Summit 2025
-          src: vds-ideas-summit-2025.png
   - title: Breast screening programme
     description: This mission patch celebrates the breast screening programme with our two fierce hyenas. Hyenas are powerful, fierce, matriarchal and resilient, just like us.
     columns: 3
@@ -121,5 +117,9 @@ groups:
         image:
           alt: Orange square reading 'Work in the open'
           src: dpsp-work-in-the-open.png
+      - description: This sticker celebrated the Vaccination Digital Services (VDS) Ideas Summit event on 30 October 2025
+        image:
+          alt: VDS Ideas Summit 2025
+          src: vds-ideas-summit-2025.png
 
 ---
