@@ -66,6 +66,8 @@ We had planned to monitor success in the following ways:
 * Research reporting was planned to be condensed in a weekly one- slide report of KPIs (key performance indicators), key themes/ quotes etc. highlighting impact, risks and decisions to be made
 * Followed by a more comprehensive report and playback at the end of the period  
 
+![A zoomed out view of the Invite private beta journey mapped out on a Mural board.](invite-private-beta-process.png 'Zoomed out view of the private beta journey')
+
 ## Further recommendations 
 
 To ensure a safe and well-rounded service, we recommended releasing the digital-first invitation alongside, or quickly followed by, digital versions of other types of letter. 
@@ -139,7 +141,7 @@ If online rescheduling were introduced, non-digital rescheduling options would n
 
 Providing this information upfront could reduce participants’ anxiety and the need to get in touch, allowing staff to save time and use it for other ways of supporting delivery of the service. 
 
-#### Data and inclusion 
+### Data and inclusion 
 
 **Access needs data** - The service currently relies on participants self-identifying access needs, GPs responding to information requests (which is inconsistent) and mammographers recording details about previous appointments. For first-time screening participants, NBSS does not hold any accessibility data. This can lead to units not being prepared for specific needs. Participants may arrive at units they cannot physically access or are not suitable for the type of screening appointment they need.  
 
