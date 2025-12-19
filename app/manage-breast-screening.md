@@ -1,8 +1,12 @@
 ---
 layout: collection
 title: Manage breast screening
-description: An alpha exploring the management of participants through breast screening
+description: Helping staff during the breast screening journey from appointments to image reading
 area: screening
+pathway: breast-screening
+eleventyNavigation:
+  key: Manage breast screening
+  parent: Breast screening
 pagination:
   data: collections.manage-breast-screening
   reverse: true

@@ -1,6 +1,9 @@
 ---
 title: Changes to user roles
 date: 2025-09-10
+tags:
+  - permissions
+  - roles
 ---
 
 We've recently decided to make a small change to the information we ask about users when they are given access to Record a vaccination (RAVS).

@@ -6,6 +6,7 @@ tags:
   - beta
   - prototype
   - breast screening
+  - ethnicity
 ---
 
 We're providing a way for the ethnicity of each participant to be collected during a mammogram appointment if we don't already know it. This allows breast screening units (BSUs) to meet data collection requirements set by the NHS.

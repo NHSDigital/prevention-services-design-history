@@ -1,6 +1,8 @@
 ---
 title: "Sprint five: managing vaccines"
 date: 2023-06-05
+tags:
+  - managing vaccines
 ---
 
 ## Designing a new service to manage vaccines

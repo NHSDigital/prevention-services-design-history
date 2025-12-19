@@ -1,6 +1,8 @@
 ---
 title: Improving how we ask users for feedback
 date: 2025-03-27
+tags:
+  - user feedback
 ---
 
 We’ve been exploring how to improve the way that we ask users for feedback, with the aim to get a higher volume of feedback with reduced friction for our users.

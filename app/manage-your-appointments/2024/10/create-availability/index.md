@@ -1,6 +1,8 @@
 ---
 title: Designing the create availability journey
 date: 2024-10-05
+tags:
+  - availability
 ---
 
 As part of managing availability and appointments, our users need to be able to create periods of availability (sometimes called campaigns).

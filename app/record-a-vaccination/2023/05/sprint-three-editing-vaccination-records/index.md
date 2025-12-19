@@ -1,6 +1,8 @@
 ---
 title: "Sprint three: editing vaccination records"
 date: 2023-05-08
+tags:
+  - editing records
 ---
 
 ## Solving problems for users

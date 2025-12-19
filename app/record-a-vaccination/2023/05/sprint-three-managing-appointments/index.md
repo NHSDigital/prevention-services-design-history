@@ -1,6 +1,8 @@
 ---
 title: "Sprint three: managing appointments"
 date: 2023-05-15
+tags:
+  - appointments
 ---
 
 ## Joining up with booking and calendar systems

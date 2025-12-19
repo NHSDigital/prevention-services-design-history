@@ -1,6 +1,9 @@
 ---
 title: Designing the availability and bookings view
 date: 2024-10-10
+tags:
+  - bookings
+  - availability
 ---
 
 As part of managing availability and appointments, our users need to be able to view availability they’ve created, check how many appointments they have booked, and view a list of daily bookings for their site.
