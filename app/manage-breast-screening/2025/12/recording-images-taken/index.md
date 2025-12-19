@@ -105,6 +105,7 @@ Finally, a user can tell us if it was partial mammography, and give us a free te
 ### Data display
 
 When we show this image information on the [final review step](/manage-breast-screening/2025/12/checking-information-collected-during-an-appointment/), here’s how it looks:
+
 ![Image data shown in a summary list](automatic-data-display.png)
 
 ## Manual image flow (backup workflow)
