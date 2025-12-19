@@ -86,7 +86,7 @@ Some users were not clear on the difference between
 
 There were also some pharmacies using different digital systems to record the London flu vaccinations versus the national flu vaccinations, unaware they can use Record a vaccination for both.
 
-There was also some confusion on which system to use in order to receive payment for the London flu vaccinations.
+There was also some confusion about which system to use in order to receive payment for the London flu vaccinations.
 
 ## Other issues
 
