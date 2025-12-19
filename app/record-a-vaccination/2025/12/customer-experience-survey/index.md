@@ -8,11 +8,13 @@ On 26 November 2024, we emailed all users of our service, around 16,500 people, 
 ## Why a survey and why now
 
 Record a vaccination (RAVS) has been used to record vaccinations since September 2024. Over the past year we’ve done several rounds of in-person and remote user research and usability testing. 
+
 We’ve also had a permanent link to a feedback survey in the header of our service. This has provided useful insights but it’s not been widely used. In total, we’ve had just over 400 responses and they have not been evenly spread over time. 
 
 At busy times, such as during October 2025, we’ve had up to 20 people leaving feedback per week. But at quieter times it might only be 1 or 2 people a week.
 
-We wanted a snapshot of people’s experience of RAVS in a defined period of time and based on a large number of responses. 
+We wanted a snapshot of people’s experience of RAVS during a defined period of time and ideally based on a large number of responses. 
+
 We also wanted to start tracking user satisfaction as one of our KPIs. Our plan is to run  regular surveys at intrevals of 3 or 4 months. 
 
 ## What we asked in the survey
@@ -22,6 +24,7 @@ We created the survey in Qualtrics. It included 12 questions.
 The first question was how often have you used RAVS over the last 2 months. If the response was they’d not used RAVS at all, the participant would exit the survey. 
 
 Most of the questions were statements and we asked participants to what extent they agreed or disagreed with them.
+
 We also asked users about their overall satisfaction with the survey and if they had any suggestions for improvements.
 
 ### How we contacted people to ask them to take part
@@ -44,30 +47,31 @@ NHS Record a vaccination
 
 ## What our users told us
 
-When we closed the survey 2 weeks after sending the email, we had 1,275 responses. Most of these (around 10,000) came in the first 48 hours after we sent the email. 
+When we closed the survey 2 weeks after sending the email, we had 1,275 responses. Most of these (around 1,000) came in the first 48 hours after we sent the email. 
 
-Here’s a breakdown of the questions and answers.
+Here’s a breakdown of the responses we got.
 
 ### Over the last 2 months how often have you used RAVS?
 
 
-| Frequency                  | Percentage of users   |
-| :------------------------- | --------------------: |
-| A few times a week         | 44%                   |
-| Almost every day           | 18%                   |
-| Once or twice              | 15%                   |
-| Once a week                | 13%                   |
-| Once a fortnight           | 5%                    |
-| Not used RAVS              | 5%                    |
-
--	A few times a week 44%
--	Almost every day 18%
--	Once or twice 15%
--	Once a week 13%
--	Once a fortnight 5%
--	I have not used RAVS 5%
+| Frequency                            | Percentage of users   |
+| :----------------------------------- | --------------------: |
+| A few times a week                   | 44%                   |
+| Almost every day                     | 18%                   |
+| Once or twice                        | 15%                   |
+| Once a week                          | 13%                   |
+| Once a fortnight                     | 5%                    |
+| Not used RAVS                        | 5%                    |
 
 ### How satisfied are you with RAVS overall? 
+
+| Satisfaction level                   | Percentage of users   |
+| :----------------------------------- | --------------------: |
+| Very satsified                       | 49%                   |
+| Satisfied                            | 42%                   |
+| Neither satisfied nor dissatisfied   | 6%                    |
+| Dissatisfied                         | 3%                    |
+| Very dissatisfied                    | 1%                    |
 
 -	Very satisfied 49%
 -	Satisfied 42%
