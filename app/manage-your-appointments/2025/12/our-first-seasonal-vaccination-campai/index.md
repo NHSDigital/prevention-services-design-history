@@ -26,7 +26,7 @@ For example, if a site has set up sessions running from 9.30am to 5pm every week
 ### Allowing users to edit sessions in full, not just reduce capacity
 Currently, users can remove vaccination services from sessions, reduce the capacity (number of vaccinators) and reduce the length of the session. There’s no way to add services, or increase the capacity or length of the session. 
 
-This means that if a site removes a service because they have run out of stock, they have no way of re-adding it once they receive a delivery. Their only option is to create a new session, which effectively creates an entirely new set of appointment slots in addition to what they have already. For sites with one vaccinator, this can result in double bookings they’re not staffed for.
+This means that if a site removes a service because they have run out of stock, they have no way of re-adding it once they receive a delivery. Their only option is to create a new session, which effectively creates an entirely new set of appointment slots in addition to what they have already. For sites with 1 vaccinator, this can result in double bookings they’re not staffed for.
 
 ### Helping users get to today’s appointments more quickly
 Seeing the list of today’s appointment is a top task for our users. But at the moment users have to navigate through the month and week view to get to it, which involves lots of scrolling and clicking. 
