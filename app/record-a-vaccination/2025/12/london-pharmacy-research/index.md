@@ -6,6 +6,10 @@ image:
   src: /record-a-vaccination/2025/12/london-pharmacy-research/standing-outside-a-pharmacy.jpg
   alt: Text saying ‘Record vaccinations’ followed by ‘New’ in a blue box
   opengraphImage: true
+author:
+  - Mark Harnett
+  - Anna Sutton
+  - Frankie Roberto
 tags:
   - pharmacies
   - onboarding
