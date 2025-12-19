@@ -88,7 +88,7 @@ If we detect 2 or more of any view, we need to ask the mammographer if it was a 
 - Repeats - where some issue has occurred (blurring, technical issue, etc) that required re-doing an image.
 - Extras - where additional images were needed to fully capture the breast.
 
-We can’t automatically work out the reason for the additional image, but we can avoid asking about repeats unless there is an additional image for a view that we’re not expecting:
+We cannot automatically work out the reason for the additional image, but we can avoid asking about repeats unless there is an additional image for a view that we’re not expecting:
 
 ![Additional images can be clearly seen - in the screenshot there are two RMLO views. Below the images, a conditional question asks if the addtional image was a repeat.](automatic-additional-image.png)
 
