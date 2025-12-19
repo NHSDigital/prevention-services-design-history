@@ -13,7 +13,7 @@ tags:
 
 Film reading – looking at x-ray images – is done by radiologists, and is how we identify areas of concern in a mammogram.
 
-Radiologist’s reading performance is routinely quality assured to ensure accuracy, consistency, and patient safety. The reports also provide film reading performance data to the film readers themselves to help them understand their performance and support improvement where needed.
+Radiologists reading performance is routinely quality assured to ensure accuracy, consistency, and patient safety. The reports also provide film reading performance data to the film readers themselves to help them understand their performance and support improvement where needed.
 
 The Film Reading Quality Assurance report (FRQA) is a set of reports within BSIS that supports the assurance process and helps us understand if our radiographers are detecting cancer at the rate we would expect, and in the way that we would expect.
 
