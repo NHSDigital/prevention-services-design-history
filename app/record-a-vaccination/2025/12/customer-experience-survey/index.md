@@ -51,11 +51,14 @@ Here’s a breakdown of the questions and answers.
 ### Over the last 2 months how often have you used RAVS?
 
 
-| Frequency              | Percentage of users   |
-| :--------------------- | --------------------: |
-| A few times a week     | 44%                   |
-| Almost every day       | 18%                   |
-
+| Frequency                  | Percentage of users   |
+| :------------------------- | --------------------: |
+| A few times a week         | 44%                   |
+| Almost every day           | 18%                   |
+| Once or twice              | 15%                   |
+| Once a week                | 13%                   |
+| Once a fortnight           | 5%                    |
+| Not used RAVS              | 5%                    |
 
 -	A few times a week 44%
 -	Almost every day 18%
