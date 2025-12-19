@@ -47,7 +47,7 @@ There was some confusion around not being able to add the same batch number and 
 
 ## Recording vaccinations
 
-The pharmacies started using the service during a moment of transition, where there were [2 different ways](/record-a-vaccination/2025/10/how-we-told-users-about-a-change-to-the-interface/) to record a vaccinations:
+The pharmacies started using the service during a moment of transition, when there were [2 different ways](/record-a-vaccination/2025/10/how-we-told-users-about-a-change-to-the-interface/) to record a vaccinations:
 
 * Find a patient – the old way
 * Record vaccinations – the new, [streamlined](/record-a-vaccination/2025/03/asking-fewer-better-questions/) interface
