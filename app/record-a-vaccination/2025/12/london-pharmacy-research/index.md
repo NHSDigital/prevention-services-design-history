@@ -76,8 +76,8 @@ This was mentioned as a feature on some other sytems.
 The users suggested that it would:
 
 * save them time
-* ensure patients are eligible, without having to wait
-* enable fairer queuing, combining walk-ins and booked
+* ensure patients are eligible, before they're made to wait
+* enable fairer queuing, combining walk-ins and booked appointments
 
 ## London flu confusion
 
