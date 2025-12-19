@@ -15,7 +15,7 @@ The autumn-winter 2025 season for Flu and COVID-19 saw more than 5 million appoi
 
 Monitoring responses to our user satisfaction survey told us that users struggle with:
 
-- matching personal details using the Patient Data Spine (PDS)
+- matching personal details using the Personal Demographics Service (PDS)
 - finding existing bookings to change or cancel
 - understanding co-admin and eligibility requirements
 
