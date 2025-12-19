@@ -83,7 +83,7 @@ In most cases there’s nothing further to do - the mammographer can continue. W
 
 ### Annotating repeat and extra images
 
-If we detect 2 or more of any view, we need to ask the mammographer if it was a ‘repeat’ or an ‘extra’ image. These terms are defined in the guidance:
+If we detect 2 or more of any view, we need to ask the mammographer if it was a ‘repeat’ or an ‘extra’ image. These terms are defined in [the guidance](https://www.gov.uk/government/publications/breast-screening-repeat-mammograms):
 
 - Repeats - where some issue has occurred (blurring, technical issue, etc) that required re-doing an image.
 - Extras - where additional images were needed to fully capture the breast.
