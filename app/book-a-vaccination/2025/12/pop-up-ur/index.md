@@ -22,7 +22,7 @@ Running research in person gives us a good perspective on how people interact wi
 
 ## What we did
 
-The pop-up research was conducted over 2 days in local libraries in London and Birmingham.  We set up an NHS-branded stand, and spoke to 10 participants individually. Each session lasted around 10- 30 min.
+The pop-up research was conducted over 2 days in local libraries in London and Birmingham.  We set up an NHS-branded stand, and spoke to 10 participants individually. Each session lasted around 10 to 30 minutes.
 
 The pop-up approach engaged a diverse mix of participants across ages, backgrounds, and confidence levels.
 
