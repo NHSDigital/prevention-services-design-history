@@ -104,13 +104,6 @@ Referencing "Your GP has asked you" felt more personal and trustworthy.
 
 The tone of the final reminder initially felt too threatening and was softened based on feedback.
 
-## Final design changes
-
-- Updated invite message
-- Two reminder messages with revised tone and timing
-- Improved clarity on the first pages of the service start journey
-- Removal of unnecessary navigation instructions from the invite and adding a link directly to the service
-
 ## Deep linking and journey tracking
 
 Previously, technical constraints with local GP messaging service providers meant we could not deep link from the invite directly to the service start page. This required us to use valuable message space to explain how to navigate via the NHS App home screen.
