@@ -67,7 +67,7 @@ Here’s a breakdown of the responses we got. Some of the questions were present
 
 | Satisfaction level                   | Percentage of users   |
 | :----------------------------------- | --------------------: |
-| Very satsified                       | 49%                   |
+| Very satisfied                       | 49%                   |
 | Satisfied                            | 42%                   |
 | Neither satisfied nor dissatisfied   | 6%                    |
 | Dissatisfied                         | 3%                    |
