@@ -28,7 +28,7 @@ The first question asked users how often they’d used RAVS over the last 2 mont
 
 Most of the questions were statements and we asked participants to what extent they agreed or disagreed with them.
 
-We also asked users about their overall satisfaction with the survey and if they had any suggestions for improvements.
+We also asked users about their overall satisfaction with RAVS and if they had any suggestions for improvements.
 
 ### How we contacted people to ask them to take part
 
