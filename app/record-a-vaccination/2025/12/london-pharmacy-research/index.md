@@ -35,7 +35,7 @@ Some joined the webinar, some looked at the videos and some just figured it out 
 
 Pharmacies were using different ways to locate a customer’s NHS number before entering it into Record a vaccination.
 
-Some were using the National Care records Service, others were using the pharmacy’s patient medical record (PMR) system, or copying it from Manage your appointments.
+Some were using the National Care Records Service, others were using the pharmacy’s patient medical record (PMR) system, or copying it from Manage your appointments.
 
 ## Managing vaccine batches
 
