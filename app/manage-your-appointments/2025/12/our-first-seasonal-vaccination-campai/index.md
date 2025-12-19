@@ -6,7 +6,9 @@ tags:
   - appointments
 ---
 
-This autumn was the first time providers used Manage Your Appointments to set up their seasonal vaccination appointment slots. In both the lead-up to and during the campaign, we gathered lots of feedback. We
+This autumn was the first time providers used Manage your appointments (MYA) to set up their seasonal vaccination appointment slots. In both the lead-up to and during the campaign, we gathered lots of feedback. 
+
+We:
 - visited 15 sites in person
 - ran roughly 25 online research sessions
 - analysed 326 survey responses submitted via the feedback banner
