@@ -3,7 +3,7 @@ title: Using design sprints to help us learn quickly
 description: Adapting a tried and tested method to speed up our first Federated Data Platform (FDP) product 
 date: 2025-12-19
 tags:
-  - Breast screening
+  - breast screening
   - NBSS
   - KC63
   - BSIS
