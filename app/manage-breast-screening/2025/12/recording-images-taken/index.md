@@ -75,7 +75,7 @@ Once the mammographer has Oncereviewed a participant's medical information and i
 
 ### Review image details
 
-When the mammographer has marked the study as complete on the mammogram machine, our service will display low res thumbnails of the images. We can use the image metadata to retrieve the view name, dosage, and other details.
+When the mammographer has marked the study as complete on the mammogram machine, our service will display low resolution thumbnails of the images. We can use the image metadata to get the view name, dosage, and other details.
 
 In most cases there’s nothing further to do - the mammographer can continue. We have a free text box where they can add further details if necessary.
 
