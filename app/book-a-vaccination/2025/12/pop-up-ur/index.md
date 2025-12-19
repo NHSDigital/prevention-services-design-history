@@ -44,9 +44,9 @@ Ease of use – Participants described the booking journey as simple and were ab
 
 Participants found several features of the booking journey reassuring and helpful, including: 
 
-- clear details around vaccination sites, giving them confidence that sites were suitable for their needs
-- being able to tell us what their access needs are helped them feel reassured that their needs would be considered
-- the appointment confirmation page was helpful, and participants understood that they could change or cancel their appointment if needed
+- clear details around vaccination sites – this gave them confidence that sites were suitable for their needs
+- being able to tell us about their access needs – this helped them feel reassured that their needs would be considered
+- the appointment confirmation page – this helped participants understandd that they could change or cancel their appointment if needed
 
 ### Challenges and barriers
 
