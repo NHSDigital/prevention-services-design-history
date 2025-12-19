@@ -1,5 +1,5 @@
 ---
-title: Getting ready for the Autumn-winter 2025-26 campaign
+title: Getting ready for the Autumn-winter 2025 season
 date: 2025-11-26
 tags:
   - appointments
