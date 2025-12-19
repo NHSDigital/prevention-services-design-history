@@ -145,8 +145,12 @@ Here’s a breakdown of the responses we got. Some of the questions were present
 
  ### Does RAVS provide you with everything you need?
 
-86% answered Yes.
-14% answered No.
+
+| Answer  | Percentage of users   |
+| :------ | --------------------: |
+| Yes     | 86%                   |
+| No      | 14%                   |
+.
 
 ### Please tell us how RAVS could be improved.
 
