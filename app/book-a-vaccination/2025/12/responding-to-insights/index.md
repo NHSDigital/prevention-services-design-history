@@ -48,7 +48,7 @@ We added some content to tell users that they can use the NHS app to book vaccin
 
 ### Helping users who are not registered with a GP in England
 
-Users must be registered with a GP in England to use NBS.  Some of the survey feedback told us that some people who are based in Scotland and Wales are trying to use NBS, and seeing a PDS match failure.
+Users must be registered with a GP in England to use NBS.  Some of the survey feedback told us that some people who are based in Scotland and Wales are trying to use NBS, and getting a PDS match failure.
 
 We added some content to our start pages to help users from other UK countries understand how they can access vaccinations and booking services.
 
