@@ -3,6 +3,7 @@ title: Running a film reading design sprint
 description: After beginning with the simplest report in BSIS, the KC63, we are moving on to one of the most complex 
 date: 2025-12-19
 tags:
+  - design sprint
   - breast screening
   - NBSS
   - KC63
