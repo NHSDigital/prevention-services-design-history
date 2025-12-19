@@ -69,7 +69,7 @@ We had many comments about needing to be able to change eligibility criteria whe
 
 ## Partial save
 
-A couple of the pharmacies wanted to be able to ‘check in’ patients at a front desk, partially saving a record for an pharmacist to then complete after giving the vaccination.
+A couple of the pharmacies wanted to be able to ‘check in’ patients at a front desk, partially saving a record for a pharmacist to then complete after giving the vaccination.
 
 This was mentioned as a feature on some other sytems.
 
