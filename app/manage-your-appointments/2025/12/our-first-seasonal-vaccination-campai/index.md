@@ -39,7 +39,7 @@ Rather than creating individual one-off vaccination sessions, many pharmacies ta
 ### Supporting vaccination providers to support the public
 Visiting providers in person highlighted the important role they play helping the public with their vaccination appointments. Often people call the site they’ve booked with to check when their appointment is. At the moment it’s very difficult for staff to give them a quick answer because there’s no way for them to search for individual appointments. 
 
-There are also many people who can’t book an appointment online. Often they call or visit their preferred location to book an appointment. Some of our users handle this by running a separate paper booking system for these appointments, but this creates the risk of double booking because they can’t block these appointments out in MYA.
+There are also many people who cannot book an appointment online. Often they call or visit their preferred location to book an appointment. Some of our users handle this by running a separate paper booking system for these appointments, but this creates the risk of double booking because they cannot block these appointments out in MYA.
 
 
 ### Rethinking how sites set session capacity
