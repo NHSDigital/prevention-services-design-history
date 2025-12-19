@@ -31,19 +31,20 @@ We also asked users about their overall satisfaction with the survey and if they
 
 We sent this short email using GOV.UK Notify, the platform we use for all emails we send users.
 
-**Subject line: Help us improve NHS Record a vaccination (RAVS)**
+> [!NOTE]
+> **Subject line: Help us improve NHS Record a vaccination (RAVS)**
 
-Dear ((FirstName)) ((LastName)),
+> Dear ((FirstName)) ((LastName)),
 
-We’d love to hear about your experience using Record a vaccination (RAVS) so that we can improve our service.
+> We’d love to hear about your experience using Record a vaccination (RAVS) so that we can improve our service.
 
-Please take a minute to complete our short survey:
-RAVS customer experience survey [link]
+> Please take a minute to complete our short survey:
+> RAVS customer experience survey [link]
 
-All your answers will be anonymous.
+> All your answers will be anonymous.
 
-Many thanks,
-NHS Record a vaccination
+> Many thanks,
+> NHS Record a vaccination
 
 ## What our users told us
 
