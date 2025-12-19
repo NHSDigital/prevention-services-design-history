@@ -25,7 +25,7 @@ Survey feedback told us that people were struggling to match their personal deta
 
 - issues with name entry (incorrect spellings on PDS, or people potentially using shortened names or nicknames)
 - people who are not registered with a GP in England trying to use PDS
-- incorrect information on PDS, meaning that people cannot get a match with their current details (postcodes etc)
+- incorrect information on PDS, meaning that people cannot get a match with their current details, such as their postcode
 
 To try and solve these problems, we implemented some small iterations to the service.
 
