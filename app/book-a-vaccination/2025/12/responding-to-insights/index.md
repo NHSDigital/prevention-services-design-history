@@ -43,7 +43,7 @@ We added some content to tell users that they can use the NHS app to book vaccin
 
 ![screenshot showing the start page and the PDS match failure page, with app signposting content text](app-signposting.png)
 
-### Helping users who aren’t registered with a GP in England
+### Helping users who are not registered with a GP in England
 
 Users must be registered with a GP in England to use NBS.  Some of the survey feedback told us that some people who are based in Scotland and Wales are trying to use NBS, and seeing a PDS match failure.
 
