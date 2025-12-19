@@ -30,7 +30,7 @@ It shows all data submitted through a service, with links to change each entry w
 - see they have completed all the required sections
 - notice and correct any errors before sending data
 
-![An example of the check answers pattern on the NHS design system](check-answers.png)
+![Screenshot of a page titled "Help users to check answers" which contains an example of a summary list](check-answers.png  "The check answers pattern in the NHS design system")
 
 This works for users who have time to review the accuracy of each line when registering with a GP surgery, applying for a passport, or filing their self assessment. 
 
