@@ -13,7 +13,7 @@ We:
 - ran roughly 25 online research sessions
 - analysed 326 survey responses submitted via the feedback banner
 - combed through around 700 service desk tickets
-- reviewed the Q&As from 12 training webinars attended by about a thousand MYA users
+- reviewed the Q&As from 12 training webinars attended by about 1,000 MYA users
 
 We learnt a lot. Here are some of the problems we’ve found and the opportunities for improving the service.
 
