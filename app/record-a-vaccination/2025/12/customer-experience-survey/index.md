@@ -49,7 +49,7 @@ NHS Record a vaccination
 
 When we closed the survey 2 weeks after sending the email, we had 1,275 responses. Most of these (around 1,000) came in the first 48 hours after we sent the email. 
 
-Here’s a breakdown of the responses we got.
+Here’s a breakdown of the responses we got. Some of the questions were presented as statements and we asked people to what extent they agreed or disagreed with the statement. 
 
 ### Over the last 2 months how often have you used RAVS?
 
@@ -71,8 +71,6 @@ Here’s a breakdown of the responses we got.
 | Neither satisfied nor dissatisfied   | 6%                    |
 | Dissatisfied                         | 3%                    |
 | Very dissatisfied                    | 1%                    |
-
-To what extent do you agree or disagree with the following statements?
 
 ### I find RAVS easy to use
 
@@ -144,15 +142,16 @@ To what extent do you agree or disagree with the following statements?
 | Disagree and strongly disagree combined    | 5%                    |
 | Not sure                                   | 10%                   |
 
- 
-### Does RAVS provide you with everything you need?
+ ### Does RAVS provide you with everything you need?
 
-86% answered Yes
-14% answered No
+86% answered Yes.
+14% answered No.
 
 ### Please tell us how RAVS could be improved.
 
-We got 563 responses to this question which was fantastic in terms of the rich insights they provide but also somewhat overwhelming. We dedicated a December retro to doing an initial sorting exercise. This involved cutting up 92 pages of feedback into individual comments, grouping them into piles and identifying themes.   
+We got 563 responses to this question which was fantastic in terms of the rich insights they provide but also somewhat overwhelming. 
+
+We dedicated a December retro to doing an initial sorting exercise. This involved cutting up 92 pages of feedback into individual comments, grouping them into piles and identifying themes.   
 
 ![100s of strips of paper with comments from users laid out on a table](free-text-feedback.jpg)
 
@@ -162,8 +161,6 @@ We were very happy to learn that 91% of users were either very satisfied or sati
 
 But at the same time the survey highlighted that satisfaction levels vary across different areas and there is lots of potential for improvement. For example, when asked if changes to the service were clearly communicated, only 56% agreed or strongly agreed. 
 
-We still have lots of sorting to do of all the free text suggestions. And then we need to work out how to prioritise and address the feedback. 
+We still have lots of sorting to do of all the free text suggestions to better understand the biggest issues for our users. And then we need to work out which issues we need to address and what to prioritise. 
 
-Some suggestions are things we’ve already addressed or that are on our roadmap. But there are lots more suggestions for improvements big and small, that we’ll need to look into.
-
-One thing we'll do differently next time is tell people how long the survey will be open for when we invite people to take part. 
+One thing we'll do differently next time is tell people how long the survey will be open for when we invite people to take part.
