@@ -1,0 +1,14 @@
+{
+  "breast-screening": {
+    "title": "Breast screening",
+    "url": "/breast-screening/",
+    "teamNames": {
+      "Breast screening pathway": "Pathway",
+      "Breast screening reporting": "Reporting",
+      "Explore team": "Explore",
+      "Invite": "Invite people",
+      "Select": "Select cohorts",
+      "Manage breast screening": "Manage breast screening"
+    }
+  }
+}
