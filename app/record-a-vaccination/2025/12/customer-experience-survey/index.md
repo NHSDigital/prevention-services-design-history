@@ -48,7 +48,7 @@ We sent this short email using GOV.UK Notify, the platform we use for all emails
 
 ## What our users told us
 
-When we closed the survey 2 weeks after sending the email, we had 1,275 responses. Most of these (around 1,000) came in the first 48 hours after we sent the email. 
+When we closed the survey 2 weeks after sending the email, we had 1,275 responses, a response rate of 8%. Most of these (around 1,000) came in the first 48 hours after we sent the email. 
 
 Here’s a breakdown of the responses we got. Some of the questions were presented as statements and we asked people to what extent they agreed or disagreed with the statement. 
 
