@@ -96,6 +96,6 @@ Some users complained about being logged out too quickly, and does so even if it
 
 One user spoke about reducing the text size to reduce the amount of scrolling they had to do on each page. (They were using quite a small screen.)
 
-One user wanted a bit more help to determine whether someone qualifies under immunosuppressed (COVID-19) and clinical risk group (flu), given that this criteria can change every year.
+One user wanted a bit more help to determine whether someone qualifies under immunosuppressed (COVID-19) and clinical risk group (flu), given that the criteria can change every year.
 
 One pharmacy chain chose to additionally enter vaccinations into their patient medical records (PMR) system.
