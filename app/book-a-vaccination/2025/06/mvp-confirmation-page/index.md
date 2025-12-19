@@ -1,6 +1,9 @@
 ---
 title: "Allowing users to check their booking details"
 date: 2025-06-17
+tags:
+  - appointments
+  - continuous improvement
 ---
 
 We found during research that some users find the end of the booking journey a little sudden.

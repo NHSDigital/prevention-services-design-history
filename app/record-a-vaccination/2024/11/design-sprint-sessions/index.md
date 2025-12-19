@@ -1,6 +1,10 @@
 ---
 title: A design sprint exploring sessions
 date: 2024-11-18
+tags:
+  - clinics
+  - vaccination sessions
+  - streamlining
 ---
 
 We spent 8 days in early October doing a design sprint. This was something we hadn’t done before. The aim was to rethink our core user journey of recording a vaccination.

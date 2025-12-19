@@ -28,6 +28,10 @@ export default function (eleventyConfig) {
             href: '/sitemap'
           },
           {
+            text: 'All posts',
+            href: '/all'
+          },
+          {
             text: 'Subscribe to feed',
             href: '/feed.xml'
           },
@@ -45,12 +49,13 @@ export default function (eleventyConfig) {
   })
 
   // Images and PDFs
+  eleventyConfig.addPassthroughCopy('./app/**/*.ai')
   eleventyConfig.addPassthroughCopy('./app/**/*.gif')
   eleventyConfig.addPassthroughCopy('./app/**/*.jpg')
   eleventyConfig.addPassthroughCopy('./app/**/*.jpeg')
   eleventyConfig.addPassthroughCopy('./app/**/*.png')
   eleventyConfig.addPassthroughCopy('./app/**/*.pdf')
-
+  eleventyConfig.addPassthroughCopy('./app/**/*.sketch')
 
   // Nunjucks filters
   eleventyConfig.addFilter('push', (array, item) => {
@@ -61,11 +66,16 @@ export default function (eleventyConfig) {
   })
 
   // Service area collections
-  for (const area of ['screening', 'vaccinations', 'personalised-prevention']) {
+  for (const area of [
+    'screening',
+    'vaccinations',
+    'personalised-prevention',
+    'digital-best-start'
+  ]) {
     eleventyConfig.addCollection(`${area}-area`, (collection) => {
       return collection
         .getAll()
-        .filter(({ data }) => data?.area === area)
+        .filter(({ data }) => data?.area === area && !data?.pathway)
         .sort((a, b) => {
           // Promoted collection in an area should be shown first
           if (a.data.promote) return -1
@@ -76,6 +86,36 @@ export default function (eleventyConfig) {
     })
   }
 
+  // Pathway collections
+  // Breast screening pathway - aggregates posts from all breast screening teams
+  eleventyConfig.addCollection('pathway-breast-screening', (collection) => {
+    return collection
+      .getFilteredByGlob([
+        'app/manage-breast-screening/**/*.md',
+        'app/breast-screening-pathway/**/*.md',
+        'app/breast-screening-reporting/**/*.md',
+        'app/explore-team/**/*.md',
+        'app/select/**/*.md',
+        'app/screening-invite/**/*.md'
+      ])
+      .sort((a, b) => a.date - b.date)
+  })
+
+  // Breast screening teams - the team index pages for this pathway
+  eleventyConfig.addCollection(
+    'pathway-breast-screening-teams',
+    (collection) => {
+      return collection
+        .getAll()
+        .filter(
+          ({ data }) =>
+            data?.pathway === 'breast-screening' &&
+            data?.layout === 'collection'
+        )
+        .sort((a, b) => a.data.title.localeCompare(b.data.title))
+    }
+  )
+
   // Service collections
   for (const service of [
     'digital-prevention-services',
@@ -83,6 +123,7 @@ export default function (eleventyConfig) {
     'screening',
     'bowel-screening',
     'breast-screening-reporting',
+    'breast-screening-pathway',
     'select',
     'diabetic-eye-screening',
     'explore-team',
@@ -105,7 +146,9 @@ export default function (eleventyConfig) {
     'nhs-health-check-online',
     'personalised-prevention-platform',
     'smoking-cessation',
-    'talking-therapies'
+    'talking-therapies',
+    // Digital best start
+    'age-related-messaging'
   ]) {
     eleventyConfig.addCollection(service, (collection) => {
       return collection.getFilteredByGlob(`app/${service}/**/*.md`)

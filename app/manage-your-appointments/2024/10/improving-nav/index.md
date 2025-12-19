@@ -1,6 +1,8 @@
 ---
 title: Improving navigation within the dashboard
 date: 2024-10-22
+tags:
+  - dashboards
 ---
 
 As we tested the early iterations of the MYA service, we found that users struggled to navigate properly from one section to another.

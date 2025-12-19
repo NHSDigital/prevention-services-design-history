@@ -2,6 +2,9 @@
 title: Adding vaccine permissions
 date: 2025-09-24
 description: Why we’ve restricted which vaccines each organisation can record.
+tags:
+  - permissions
+  - self onboarding
 ---
 
 Previously, all organisations using RAVS could technically record any of the 4 vaccine types that we support: COVID-19, flu, RSV and pertussis.

@@ -1,6 +1,8 @@
 ---
 title: Improving managing vaccines
 date: 2024-07-18
+tags:
+  - managing vaccines
 ---
 
 Following RAVS pilot feedback, users reported struggling to add new vaccines and batches, identifying a need to improve the process.

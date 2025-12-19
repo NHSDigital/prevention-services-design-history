@@ -30,10 +30,10 @@ screenshots:
       - id: refusal-reason
         text: Please tell us why you do not agree to your child having the flu vaccination
       - id: refusal-reason-details-already-given
-        text: Where will the child get their vaccination?
+        text: Where did the child get their vaccination?
         caption: Question shown if selected ‘Vaccine will be given elsewhere’.
       - id: refusal-reason-details-getting-elsewhere
-        text: Where did the child get their vaccination?
+        text: Where will the child get their vaccination?
         caption: Question shown if selected ‘Vaccine already received’.
       - id: refusal-reason-details-medical
         text: What medical reasons prevent the child from being vaccinated?

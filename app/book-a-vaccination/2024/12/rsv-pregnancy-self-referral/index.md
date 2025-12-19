@@ -1,6 +1,8 @@
 ---
 title: Designing a pregnancy self-referral journey for RSV
 date: 2024-12-10
+tags:
+  - RSV vaccine
 ---
 
 As part of the RSV expansion we explored the options for adding a route for people who are 28 weeks pregnant or more.

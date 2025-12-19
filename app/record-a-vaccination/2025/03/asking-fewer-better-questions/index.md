@@ -1,6 +1,8 @@
 ---
 title: Asking fewer, better questions
 date: 2025-03-25
+tags:
+  - streamlining
 ---
 
 For the first 2 months of 2025, the UCD team's main focus was on streamlining the record journey in our service.
