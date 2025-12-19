@@ -57,7 +57,9 @@ Currently users are logged out of MYA 60 minutes after they log in, regardless o
 
 
 ### Reducing double entry
-For staff working in the NHS double entry is a fact of life, so much so users don’t often bring it up unless prompted. That said, what we’ve seen at sites, and when we’ve asked people directly, it’s clear that asking users to provide details when booking their appointment, only for the same details to be asked for again when the vaccinator is recording the vaccination is a poor use of time and a poor experience for the public.
+For staff working in the NHS, double entry is a fact of life, so much so users do not often bring it up unless prompted. 
+
+That said, from what we’ve seen at sites, and when we’ve asked people directly, it’s clear that asking users to provide details when booking their appointment, only for the same details to be asked for again when the vaccinator is recording the vaccination, is a poor use of time and a poor experience for the public.
 
 
 ### Making vaccination service names clearer
