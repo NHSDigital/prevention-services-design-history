@@ -58,7 +58,7 @@ Those that had used both generally preferred 'Record vaccinations' to 'Find a pa
 
 However, we found that some users were not aware of there being 2 options and were using 'Find a patient' and hadn’t explored 'Record vaccinations'.
 
-In the new 'Record vaccinations' journey, it currently takes 7 screens before getting to see the patient’s details and vaccination history. Users suggested this should come earlier, as they use this screen to help determine eligibility.
+In the new 'Record vaccinations' journey, it currently takes 7 screens before you see the patient’s details and vaccination history. Users suggested this should come earlier, as they use this information to help determine eligibility.
 
 > You put all the data in… and then discover that the
 patient wasn’t actually eligible for it!
