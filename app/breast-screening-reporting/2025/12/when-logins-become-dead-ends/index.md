@@ -56,7 +56,7 @@ It would only be this complex for a small minority of users, but still that was 
 
 ## Reducing steps for our users
 
-By working with the helpful NHS FDP team at Arden and GEM who will set up our users in the background, we were able to cut the following stages that would have affected all our future users.
+By working with the helpful NHS FDP team at [Arden and GEM](https://www.ardengemcsu.nhs.uk) who will set up our users in the background, we were able to cut the following stages that would have affected all our future users.
 
 ![Screenshot of a flow diagram with 2 steps crossed out](reducing-steps.png)
 
