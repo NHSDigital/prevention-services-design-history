@@ -33,16 +33,11 @@ We sent this short email using GOV.UK Notify, the platform we use for all emails
 
 > [!NOTE]
 > **Subject line: Help us improve NHS Record a vaccination (RAVS)**
-
 > Dear ((FirstName)) ((LastName)),
-
 > We’d love to hear about your experience using Record a vaccination (RAVS) so that we can improve our service.
-
 > Please take a minute to complete our short survey:
 > RAVS customer experience survey [link]
-
 > All your answers will be anonymous.
-
 > Many thanks,
 > NHS Record a vaccination
 
@@ -160,8 +155,8 @@ We dedicated a December retro to doing an initial sorting exercise. This involve
 
 We were very happy to learn that 91% of users were either very satisfied or satisfied with RAVS overall. 
 
-But at the same time the survey highlighted that satisfaction levels vary across different areas and there is lots of potential for improvement. For example, when asked if changes to the service were clearly communicated, only 56% agreed or strongly agreed. 
+But at the same time the survey highlighted that satisfaction levels vary across different areas and there is plenty of potential for improvement. For example, when asked if changes to the service were clearly communicated, only 56% agreed or strongly agreed. 
 
-We still have lots of sorting to do of all the free text suggestions to better understand the biggest issues for our users. And then we need to work out which issues we need to address and what to prioritise. 
+We still have lots of sorting to do of all the free text suggestions for improvements. And then we need to work out what we need to address and in what order. 
 
-One thing we'll do differently next time is tell people how long the survey will be open for when we invite people to take part.
+On a practical note, one thing we would do differently when we next ask people to take part in a survey is tell them when the survey is closing, so people who cannot respond immediately know how long they have.
