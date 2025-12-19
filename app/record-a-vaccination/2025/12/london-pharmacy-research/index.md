@@ -27,7 +27,7 @@ Here’s a summary of what we learnt:
 
 ## Onboarding
 
-No one had any issues onboarding. People felt it was easy to get access and very easy to begin using.
+No one had any issues onboarding. People felt it was easy to get access to the service and very easy to begin using it.
 
 Some joined the webinar, some looked at the videos and some just figured it out themselves.
 
