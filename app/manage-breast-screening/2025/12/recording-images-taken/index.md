@@ -155,6 +155,6 @@ We may also find that once users are familiar with the new service, then this ex
 
 ## Future work
 
-There’s still a fair amount of ambiguity in the imaging area - especially the automatic image flows. A lot will depend on our private beta partners and on experiments to see what’s feasible. There’s several links in the chain from x-ray machine to PACS, and we’re still trying to technically work out where we can insert ourselves to avoid multiple minute to hour delays in images arriving.
+There’s still a fair amount of ambiguity in the imaging area - especially the automatic image flows. A lot will depend on our private beta partners and on experiments to see what’s feasible. There are several links in the chain from x-ray machine to PACS, and we’re still trying to technically work out where we can insert ourselves to avoid multiple minute to hour delays in images arriving.
 
 One future focus is the need to provide troubleshooting information that tells mammographers what to do if it appears something has gone wrong with the images. This will go further towards our goal of making the whole process more efficient, helping mammographers to fix information there and then, rather than having to log issues to be looked into later.
