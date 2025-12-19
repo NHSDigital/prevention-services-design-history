@@ -50,27 +50,31 @@ Mapping the four main FDP access journeys was enough to show us that we needed t
 
 The longest journey looked like this:
 
+![Screenshot of a very complex flow diagram](FDP-login-non-nhsnet-no-okta-or-auth.jpg)
+
 It would only be this complex for a small minority of users, but still that was too many for our liking.
 
 ## Reducing steps for our users
 
 By working with the helpful NHS FDP team at Arden and GEM who will set up our users in the background, we were able to cut the following stages that would have affected all our future users.
 
+![Screenshot of a flow diagram with 2 steps crossed out](reducing-steps.png)
+
 ## Access for people with an nhs.net email
 
 That means that for users with an nhs.net email address, if they are already logged into email or another service in their browser, they will be instantly logged in to FDP data products with no further steps as shown below.
 
-Image caption: FDP access journey for nhs.net email addresses
+![Screenshot of a flow diagram](already-logged-in.png "FDP access journey for nhs.net email addresses")
 
 If they aren’t already logged in, they will have to authenticate using an app like Microsoft Authenticator, which is standard in the NHS and therefore a familiar process to most staff.
 
-Image caption: FDP access journey for nhs.net email addresses who haven’t logged in today
+![Screenshot of a flow diagram](new-browser-or-not-yet-logged-in.png "FDP access journey for nhs.net email addresses who haven’t logged in today")
 
 ## Access for people with an nhs.uk or other approved email address
 
 The simplest journey for people with this type of email address looks very similar to the second journey above. The difference is that they will be authenticating themselves via a system in the background called Okta and Microsoft Authenticator, and will need to enter a specific Okta password.
 
-Image caption: FDP access journey using Okta for non-nhs.net email addresses
+![Screenshot of a flow diagram](already-has-okta.png "FDP access journey using Okta for non-nhs.net email addresses")
 
 ## Okta setup
 
@@ -78,7 +82,7 @@ This last journey is for users who do not yet have Okta set up (Okta is a techno
 
 All subsequent logins will only require authentication with a sign-in code, which is about as easy as it gets to access secure systems today.
 
-Image caption: Okta setup prior to access for non-nhs.net email addresses
+![Screenshot of a flow diagram](doesnt-have-okta.png "Okta setup prior to access for non-nhs.net email addresses")
 
 ## What’s next
 
