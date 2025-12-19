@@ -70,7 +70,7 @@ We had planned to monitor success in the following ways:
 
 To ensure a safe and well-rounded service, we recommended releasing the digital-first invitation alongside, or quickly followed by, digital versions of other types of letter. 
 
-### Pre-launch communications 
+### Pre-launch communications
 
 We recommend working with GPs and wider NHS communications channels to clearly inform participants that invitation communications are changing. This is intended to: 
 
@@ -110,7 +110,7 @@ Moving forward, we recommend looking more closely at this type of comms because 
 
 ## Opportunities to further improve the service 
 
-### Appointment management 
+### Appointment management
 
 **View appointments in the NHS App** - Usability testing showed that participants strongly expect to be able to view screening appointments in the appointments section of the app, particularly if the invitation itself comes through it. This would: 
 
@@ -155,7 +155,7 @@ Improving the availability and flow of access needs data would help prevent thes
 
 ### Other comms/ larger pathway issues 
 
- All need much more research, but initial findings suggest these opportunities:  
+All need much more research, but initial findings suggest these opportunities:  
 
 **For potential participants who are over 70:** Research has shown pain points for people over 70 who are unaware of the process to self-refer and/or likely to forget without a reminder. Meanwhile there is messaging that the risk of breast cancer increases with age, so there is an opportunity to explore people’s understanding of why screening stops at 71 and what their options are. 
 
@@ -167,7 +167,7 @@ Improving the availability and flow of access needs data would help prevent thes
 
 ## Next steps for future teams 
 
-If this work is restarted, we recommend that the new team should: 
+When this work is restarted, we recommend that the new team should: 
 
 * bridge the research gaps identified above
 * run a tightly monitored private beta
