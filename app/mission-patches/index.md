@@ -109,7 +109,7 @@ groups:
         image:
           alt: Yellow rectangle reading 'Be bold'
           src: dpsp-be-bold.png
-      - description: Sickness to prevention
+      - description: Sickness to prevention.
         image:
           alt: Orange rectangle reading 'Sickeess to prevention', an arrow is crossing out 'sickness' and pointing to 'prevention'
           src: dpsp-sickness-to-prevention.png
