@@ -43,7 +43,7 @@ Several pharmacies asked how they could remove batches which they had run out of
 
 Some users suggested being able to add several batches at the same time.
 
-There was some confusion at not being able to add the same batch number and expiry date more than once. We think this is because they assume they need to add the batch once per box, as a form of stock management. But the service does not currently offer this, and only unique batch numbers need to be added.
+There was some confusion around not being able to add the same batch number and expiry date more than once. We think this is because they assume they need to add the batch once per box, as a form of stock management. But the service does not currently offer this, and only unique batch numbers need to be added.
 
 ## Recording vaccinations
 
