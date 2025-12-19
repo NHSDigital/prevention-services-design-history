@@ -8,7 +8,7 @@ tags:
   - in person research
 ---
 
-During summer 2025 we ran some pop-up, in-person user research sessions. We wanted to reach and test the book a vaccination service (NBS) with groups who are often under-represented, including:
+During summer 2025 we ran some pop-up, in-person user research sessions. We wanted to reach and test the Book a vaccination service (NBS) with groups who are often under-represented, including:
 
 - people from minority ethnic backgrounds
 - individuals with English as a second language
