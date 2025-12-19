@@ -45,7 +45,11 @@ There are also many people who can’t book an appointment online. Often they ca
 ### Rethinking how sites set session capacity
 When users create a session in MYA they can set the capacity, the total vaccinators they will have for the session, at anything between 1 and 99. This then determines how many appointments run simultaneously. If they choose a capacity of 1, they will have one appointment at a time, if they choose a capacity of 2, they’re making 2 appointments available at the same time, and so on. 
 
-While this is useful for larger vaccination centres with multiple vaccinators, many sites only ever have capacity to do one vaccination at a time. For those sites the way we currently approach capacity can cause problems. This campaign some sites have accidentally created significantly more capacity than they have. Usually this is the result of mis-understanding the question ‘How many vaccinators or vaccination spaces do you have?’ and not realising your answer changes the number of appointment slots being created. Solving this is tricky, because some sites have multiple vaccinators but only one consultation room, and others have the reverse. One option we’re investigating is limiting the capacity for a session to one, but creating a simple way for sites to copy those sessions.
+While this is useful for larger vaccination centres with multiple vaccinators, many sites only ever have capacity to do one vaccination at a time. For those sites the way we currently approach capacity can cause problems. 
+
+Some sites have accidentally created significantly more capacity than they have. Usually this is the result of mis-understanding the question ‘How many vaccinators or vaccination spaces do you have?’ and not realising your answer changes the number of appointment slots being created. 
+
+Solving this is tricky, because some sites have multiple vaccinators but only one consultation room, and others have the reverse. One option we’re investigating is limiting the capacity for a session to one, but creating a simple way for sites to copy those sessions.
 
 
 ### Reducing unnecessary logins
