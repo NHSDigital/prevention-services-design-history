@@ -62,14 +62,14 @@ When a user cannot find their booking in NBS, we show a ‘booking not matched�
 
 ![screenshot showing booking not matched screen](booking-not-matched.png)
 
-To match a booking in NBS, we need users to enter:
+To match a booking in NBS, we need users to enter their:
 
-- their booking reference number
-- their name
-- their NHS number or postcode
-- their date of birth
+- booking reference number
+- name
+- NHS number or postcode
+- date of birth
 
-Requiring this much information to match a booking makes it time consuming and frustrating for users to try again when they haven’t matched their booking successfully.  It also makes it difficult for us to understand where users are failing and entering incorrect information.
+Requiring this much information to match a booking makes it time consuming and frustrating for users to try again when they have not found their booking.  It also makes it difficult for us to understand where users are failing and entering incorrect information.
 
 ### Helping users enter reference numbers correctly
 
@@ -85,9 +85,9 @@ We’re also exploring reducing the amount of information that we ask users to e
 
 People booking using NBS can choose to have their flu and COVID-19 vaccines in the same appointment (co-administration) if they are eligible.
 
-We saw in survey feedback that some people do not feel comfortable getting the vaccines in the same appointment but still want to get both on different days.  Users were often not aware that the vaccine they were being offered as a co-administration option was available to book separately.
+We saw in survey feedback that some people do not feel comfortable getting the vaccines at the same appointment and prefer to get them on different days.  Users were often not aware that the vaccine they were being offered as a co-administration option was also available to book separately.
 
-To try and help users understand their options when booking appointments, we added some content to the co-administration page to let users know that they would be able to book separately if they need to.
+To try and help users understand their options when booking appointments, we added some content to the co-administration page to let users know that they could also book the vaccines separately.
 
 ![screenshot showing before and after images of the co-administration page, with updated hint text on booking separately](co-admin.png)
 
