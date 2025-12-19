@@ -17,7 +17,7 @@ Monitoring responses to our user satisfaction survey told us that users struggle
 
 - matching personal details using the Personal Demographics Service (PDS)
 - finding existing bookings to change or cancel
-- understanding co-admin and eligibility requirements
+- understanding co-administration and eligibility requirements
 
 ## Issues matching personal details with PDS
 
