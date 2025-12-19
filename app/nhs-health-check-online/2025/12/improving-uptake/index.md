@@ -111,9 +111,7 @@ Previously, technical constraints with local GP messaging service providers mean
 At the same time as deploying the updated invites and reminders, we:
 
 - implemented deep linking directly to the service start page
-- introduced improved journey tracking, allowing us to measure:
-  - invite link opens
-  - drop-off prior to terms and conditions
+- introduced improved journey tracking, allowing us to measure invite link opens and drop-off prior to terms and conditions
 
 This allowed us to test our hypothesis about early journey friction and significantly improved our ability to understand uptake.
 
