@@ -39,7 +39,7 @@ Some were using the [National Care Records Service](https://digital.nhs.uk/servi
 
 ## Managing vaccine batches
 
-Several pharmacies asked how they could remove batch numbers which they had since run out of. They were unaware of the ‘deplete’ feature, and commented that that term was unfamiliar.
+Several pharmacies asked how they could remove batch numbers which they had run out of. They were unaware of the ‘deplete’ feature, and commented that that term was unfamiliar.
 
 Some users suggested being able to add several batches at the same time.
 
