@@ -43,7 +43,7 @@ There are also many people who cannot book an appointment online. Often they cal
 
 
 ### Rethinking how sites set session capacity
-When users create a session in MYA they can set the capacity, the total vaccinators they will have for the session, at anything between 1 and 99. This then determines how many appointments run simultaneously. If they choose a capacity of 1, they will have one appointment at a time, if they choose a capacity of 2, they’re making 2 appointments available at the same time, and so on. 
+When users create a session in MYA they can set the capacity, the total vaccinators they will have for the session, at anything between 1 and 99. This then determines how many appointments run simultaneously. If they choose a capacity of 1, they will have 1 appointment at a time, if they choose a capacity of 2, they’re making 2 appointments available at the same time, and so on. 
 
 While this is useful for larger vaccination centres with multiple vaccinators, many sites only ever have capacity to do one vaccination at a time. For those sites the way we currently approach capacity can cause problems. 
 
