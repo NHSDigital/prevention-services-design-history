@@ -30,10 +30,14 @@ We sent this short email using GOV.UK Notify, the platform we use for all emails
 Subject line: Help us improve NHS Record a vaccination (RAVS)
 
 Dear ((FirstName)) ((LastName)),
+
 We’d love to hear about your experience using Record a vaccination (RAVS) so that we can improve our service.
+
 Please take a minute to complete our short survey:
 RAVS customer experience survey
+
 All your answers will be anonymous.
+
 Many thanks,
 NHS Record a vaccination
 
@@ -69,7 +73,7 @@ To what extent do you agree or disagree with the following statements?
 -	Neither agree nor disagree 4%
 -	Disagree 2%
 -	Strongly disagree 0%
--	
+  
 ### I never need to go back to make changes
 
 -	Strongly agree 31%
@@ -77,7 +81,7 @@ To what extent do you agree or disagree with the following statements?
 -	Neither agree nor disagree 15%
 -	Disagree 16%
 -	Strongly disagree 1%
--	
+  
 ### I’m able to complete tasks efficiently in RAVS
 
 -	Strongly agree 45%
@@ -85,7 +89,7 @@ To what extent do you agree or disagree with the following statements?
 -	Neither agree nor disagree 6%
 -	Disagree 4%
 -	Strongly disagree 1%
--	
+  
 ### RAVS is reliable
 
 -	Strongly agree 41%
@@ -93,7 +97,7 @@ To what extent do you agree or disagree with the following statements?
 -	Neither agree nor disagree 10%
 -	Disagree 3%
 -	Strongly disagree 0%
--	
+  
 ### RAVS integrates well with the way we work
 
 -	Strongly agree 39%
@@ -101,7 +105,7 @@ To what extent do you agree or disagree with the following statements?
 -	Neither agree nor disagree 10%
 -	Disagree 4%
 -	Strongly disagree 2%
--	
+  
 ### I am a confident user of RAVS
 
 -	Strongly agree 50%
@@ -109,7 +113,7 @@ To what extent do you agree or disagree with the following statements?
 -	Neither agree nor disagree 7%
 -	Disagree 1%
 -	Strongly disagree 0%
--	
+  
 ### When RAVS is updated, the changes are clearly communicated
 
 -	Strongly agree 25%
@@ -117,7 +121,7 @@ To what extent do you agree or disagree with the following statements?
 -	Neither agree nor disagree 29%
 -	Disagree and Strongly disagree combined 5%
 -	Not sure 10%
--	
+  
 ### Does RAVS provide you everything you need?
 
 -	Yes 86%
