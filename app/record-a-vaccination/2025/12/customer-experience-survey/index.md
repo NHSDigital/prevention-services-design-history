@@ -23,7 +23,7 @@ We also wanted to start tracking user satisfaction as one of our key performance
 
 We created the survey in Qualtrics. It included 12 questions. 
 
-The first question was how often have you used RAVS over the last 2 months. If the response was they’d not used RAVS at all, the participant would exit the survey. 
+The first question asked users how often they’d used RAVS over the last 2 months. If the response was they’d not used RAVS at all, the participant would exit the survey. 
 
 Most of the questions were statements and we asked participants to what extent they agreed or disagreed with them.
 
