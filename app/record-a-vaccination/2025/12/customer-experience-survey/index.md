@@ -152,7 +152,7 @@ Here’s a breakdown of the responses we got. Some of the questions were present
 | No      | 14%                   |
 .
 
-### Please tell us how RAVS could be improved.
+### Please tell us how RAVS could be improved
 
 We got 563 responses to this question which was fantastic in terms of the rich insights they provide but also somewhat overwhelming. 
 
