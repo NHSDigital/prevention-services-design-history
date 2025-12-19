@@ -65,4 +65,4 @@ By the end of the design sprint we had iterated and validated a prototype dashbo
 
 We are building the first, very basic version of this dashboard in FDP as Breast Screening Coverage (KC63). This helps us understand how to deliver an early version of the dashboard and the underlying setup needed for the final version.
 
-It also lays the groundwork for much more complex reports like FRQA (Film Reading Quality Assurance), which we will look at next.
+Next we will look at more complex reports like Film Reading Quality Assurance (FRQA).
