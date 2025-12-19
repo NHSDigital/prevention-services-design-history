@@ -1,7 +1,7 @@
 ---
 title: Checking information collected during an appointment
 description: We're creating a way for mammographers to efficiently check the information they've collected during an appointment before they mark it as complete.
-date: 2025-12-18
+date: 2025-12-19
 author: Danny Chadburn
 opengraphImage:
   src: /manage-breast-screening/2025/12/checking-information-collected-during-an-appointment/check-information-full.png
