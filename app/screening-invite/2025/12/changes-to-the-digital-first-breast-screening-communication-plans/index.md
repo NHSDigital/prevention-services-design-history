@@ -14,7 +14,7 @@ Therefore, rather than trying to force it alongside the legacy system, the decis
 
 This post covers what we would have done next after delivering invitations in Private Beta. We hope it’ll help future teams looking at participant engagement in breast screening understand some of the challenges and complexities. 
 
-## Communication types 
+## Communication types
 
 There were some obvious next steps that we would have looked to tackle had we continued with the roll-out. Launching with only invitations for the initial screening appointment meant that there were a remaining messages relating to the appointment phase of the participant journey that were not being communicated in a consistent way. Therefore we quickly wanted to investigate how we could support with communicating with participants in the following scenarios.: 
 
