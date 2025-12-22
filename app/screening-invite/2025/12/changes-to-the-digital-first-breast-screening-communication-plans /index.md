@@ -56,4 +56,4 @@ A significant area of focus beyond Private Beta would have been the change manag
 
 ## Further information 
 
-A summary of the Private Beta user research activities [can be found in this post](https://design-history.prevention-services.nhs.uk/screening-invite/2025/12/invite-breast-screening-private-beta-user-research/). We hope that these can feed into future work on the participant experience in breast screening pathway and help the clinical programme meet its goals.
+A summary of the Private Beta user research activities [can be found in this post](screening-invite/2025/12/invite-breast-screening-private-beta-user-research/). We hope that these can feed into future work on the participant experience in breast screening pathway and help the clinical programme meet its goals.
