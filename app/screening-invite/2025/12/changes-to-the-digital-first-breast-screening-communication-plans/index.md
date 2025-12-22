@@ -14,7 +14,7 @@ Therefore, rather than trying to force it alongside the legacy system, the decis
 
 This post covers what we would have done next after delivering invitations in Private Beta. We hope it’ll help future teams looking at participant engagement in breast screening understand some of the challenges and complexities. 
 
-## Comms types 
+## Communication types 
 
 There were some obvious next steps that we would have looked to tackle had we continued with the roll-out. Launching with only invitations for the initial screening appointment meant that there were a remaining messages relating to the appointment phase of the participant journey that were not being communicated in a consistent way. Therefore we quickly wanted to investigate how we could support with communicating with participants in the following scenarios.: 
 
@@ -22,7 +22,7 @@ There were some obvious next steps that we would have looked to tackle had we co
 
 Text reminders are already prevalent in the service, with the majority of BSOs sending a couple of reminders ahead of the appointment, but at a variety of time intervals. Had we continued, we would have done a short piece of research to understand the most effective timing for reminders, and ratified our assumptions that sending only digital reminders was appropriate. 
 
-### Non-attenders of first appointment 
+### Non-attenders of first appointment 
 
 Participants who don’t attend their first appointment are sent a follow-up appointment invitation. The majority of BSOs send timed appointments as instructed in the service specification. While we were looking at delivering comms to support the current service on NBSS, our initial plan had been to take a similar approach to what’s done today and send a second timed appointment digitally. Now that comms will be delivered alongside the new service, it would be worth looking into what the reasons are for people not attending the first appointment, and whether there is a more effective way of boosting uptake with non-attenders. 
 
