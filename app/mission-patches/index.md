@@ -29,7 +29,17 @@ groups:
         date: 2025-04-09
         image:
           alt: Mavis ‘doubles’ mission patch
-          src: mavis-doubles-mission-patch.png
+          src: mavis-doubles-private-beta-mission-patch.png
+      - description: The mission patch for the CHIS (child health information services) discovery features Mavis howling to notify nearby polar bears about an unvaccinated cub. She does so by standing atop a block of cheese (sounds like ‘chis’).
+        date: 2025-12-18
+        image:
+          alt: Mavis CHIS discovery mission patch
+          src: mavis-chis-discovery-mission-patch.png
+      - description: The mission patch for the release supporting seasonal flu vaccinations features Mavis and her 2 cubs getting their boosters; [one with a doughnut, another with a diamond](/manage-vaccinations-in-schools/2025/09/flu-recording/).
+        date: 2025-12-18
+        image:
+          alt: Mavis flu private beta mission patch
+          src: mavis-flu-private-beta-mission-patch.png
   - title: Record a vaccination
     description: The team chose a hare as their mascot because they’re able to make big leaps forward.
     columns: 3
