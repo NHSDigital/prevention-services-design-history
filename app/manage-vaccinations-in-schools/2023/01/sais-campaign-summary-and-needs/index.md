@@ -5,6 +5,8 @@ related:
   items:
     - text: Mural board
       href: https://app.mural.co/t/nhsdigital8118/m/nhsdigital8118/1671013853603/30e4ce7245629846f6fee298642fa3f40f666992?sender=ue0cc45098e9e9674a3fa9366
+tags:
+  - user research
 ---
 
 We have mapped the journey that SAIS teams follow over the course of the academic year when delivering each of their vaccination campaigns based on our research interviews with 6 SAIS teams, previous research done by NHS Digital and our own desk research.

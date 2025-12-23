@@ -38,6 +38,8 @@ screenshots:
         caption: In this example, the parent has given consent for the injected vaccine only. An HCA can administer a vaccine using the national protocol by recording who supplied it.
       - text: Confirm vaccination (HCA, national protocol)
         caption: The confirmation screen for an HCA using the national protocol shows the nurse who supplied the vaccine.
+tags:
+  - flu vaccine
 ---
 
 The children’s flu vaccine is offered yearly to all school-aged children (Reception to Year 11). Sessions run from the beginning of September every year.

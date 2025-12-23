@@ -1,6 +1,8 @@
 ---
 title: Importing MenACWY vaccination histories into Mavis
 date: 2025-03-25
+tags:
+  - MenACWY vaccine
 ---
 
 This post describes how we adapted Mavis to handle MenACWY vaccination histories and the issues we encountered when working with an early adopter School Age Immunisation Service (SAIS) team and their Child Health Information System (CHIS).

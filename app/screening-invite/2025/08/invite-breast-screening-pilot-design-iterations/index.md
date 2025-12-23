@@ -2,6 +2,9 @@
 title: Breast screening pilot design iterations
 description: Content and interaction design work for the 2024 breast screening invitations Pilot
 date: 2025-08-13
+tags:
+  - pilot
+  - breast screening
 ---
 
 Team Invite is working on inviting people to breast screening appointments using a digital-first communication strategy. In our first post, [we gave a high-level overview of the pilot work](https://design-history.prevention-services.nhs.uk/screening-invite/2025/06/invite-pilot-overview/). In this one we’d like to explain how we took content and interaction design decisions to address user needs.

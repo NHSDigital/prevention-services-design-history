@@ -18,6 +18,8 @@ screenshots:
     - Check and confirm vaccination details
     - Success after consent and vaccination
     - Updated child page
+tags:
+  - prototype
 ---
 
 Several of the SAIS teams we spoke to early on in our research told us they regularly get consent to vaccinate on the day of the session itself.

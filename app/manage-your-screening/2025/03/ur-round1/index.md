@@ -2,6 +2,8 @@
 title: User Research Round 1
 description: MAYS research round 1
 date: 2025-03-26
+tags:
+  - user research
 ---
 
 ## Research focus

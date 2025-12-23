@@ -1,6 +1,9 @@
 ---
 title: Editing vaccination records (beta)
 date: 2023-07-17
+tags:
+  - editing records
+  - permissions
 ---
 
 ## Iterating the editing vaccination records workflow

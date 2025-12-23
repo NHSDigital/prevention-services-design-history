@@ -2,6 +2,9 @@
 title: Defining appointment status labels
 description: Reviewing how to classify appointments so users can see and understand the status of each one.
 date: 2025-02-03
+tags:
+  - breast screening
+  - content
 ---
 
 ## Why status labels are needed

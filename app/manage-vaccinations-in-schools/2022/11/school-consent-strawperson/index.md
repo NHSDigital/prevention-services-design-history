@@ -9,6 +9,8 @@ screenshots:
     - Preview consent message
     - Preview reminder message
     - Existing consent message
+tags:
+  - prototype
 ---
 
 Following the [parental consent journey](/manage-vaccinations-in-schools/2022/11/give-or-refuse-flu-vaccination-strawperson/), we:

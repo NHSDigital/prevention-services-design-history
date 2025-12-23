@@ -1,6 +1,8 @@
 ---
 title: Cohorting for the HPV programme with Mavis in 2024/25
 date: 2024-09-19
+tags:
+  - HPV vaccine
 ---
 
 Mavis will be available for Coventry and Warwickshire SAIS team to use to run their HPV programme in 2024/25 from Monday 2nd December 2024.

@@ -2,6 +2,8 @@
 title: The future of national breast screening service – record of communication
 description: A record of communication issued on 5 June 2025
 date: 2025-07-03
+tags:
+  - breast screening
 ---
 
 This is a record of communication that was issued on 5 June 2025.

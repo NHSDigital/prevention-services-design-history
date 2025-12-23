@@ -6,6 +6,8 @@ image:
   src: /record-a-vaccination/2025/09/one-nostril-or-two/vaccine-type-flow-diagram.png
   opengraphImage: true
   alt: Flow diagram showing a fork whether the top fork is labelled 'Injection' and leads to a screen with the question 'Where did you give the injection?' and the bottom fork is labelled 'Nasal spray' and leads to a screen with the question 'Did you give a full dose of the vaccine?'. Arrows from both screens then recombine at the label 'Check and confirm'
+tags:
+  - content
 ---
 
 From autumn 2025, the nasal flu vaccine for 2 to 3 year olds [will be available in some pharmacies for the first time](https://www.gov.uk/government/publications/vaccine-update-issue-362-august-2025-flu-special/vaccine-update-issue-362-august-2025-flu-special#pharmacy) (rather than just at a GP surgery).

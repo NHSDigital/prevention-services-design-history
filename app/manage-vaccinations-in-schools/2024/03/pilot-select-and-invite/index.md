@@ -20,6 +20,9 @@ screenshots:
     - New session – Check and confirm details
     - text: New session landing page
       caption: Once a session had been created, users were taken to the session’s landing page, where the number of children included in the cohort would show as children without consent responses.
+tags:
+  - pilot
+  - workflows
 ---
 
 The following images are a snapshot of the select and invite journey used for the pilot that ran in March 2024.

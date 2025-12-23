@@ -3,6 +3,8 @@ title: Learning through small‑scale experimentation
 author: Emma Parnell
 description: A pilot sending messages to GP patients about NHS Talking Therapies resulted in an uplift in referrals, validating the approach before scaling nationally.
 date: 2025-11-24
+tags:
+  - pilot
 ---
 
 

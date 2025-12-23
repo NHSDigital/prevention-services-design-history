@@ -1,6 +1,8 @@
 ---
 title: Assessing Gillick competence
 date: 2023-05-11
+tags:
+  - user research
 ---
 
 Gillick competence is the principle nurses use to judge young people’s capacity to consent to vaccinations.

@@ -16,4 +16,7 @@ screenshots:
     - Health questions
     - Confirmation
     - Email confirmation
+tags:
+  - prototype
+  - flu vaccine
 ---

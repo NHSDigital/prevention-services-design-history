@@ -1,6 +1,9 @@
 ---
 title: Editing records support and help content (beta)
 date: 2023-10-16
+tags:
+  - editing records
+  - content
 ---
 
 ## When and where is support needed?

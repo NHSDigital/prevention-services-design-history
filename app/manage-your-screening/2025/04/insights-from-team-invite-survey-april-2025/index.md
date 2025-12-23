@@ -2,6 +2,8 @@
 title: Insights from Team Invite survey April 2025
 description: Insightful findings from team Invite user research survey April 2024 that are particularly impactful to the manage your screening (MAYS) team and its design thinking
 date: 2025-04-28
+tags:
+  - user research
 ---
 
 ## Overview

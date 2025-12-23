@@ -1,6 +1,8 @@
 ---
 title: A first pass at triage
 date: 2023-03-02
+tags:
+  - prototype
 ---
 
 We know that before nurses record vaccinations, they triage consent responses. This is important for:

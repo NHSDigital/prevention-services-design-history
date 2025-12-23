@@ -1,6 +1,8 @@
 ---
 title: Creating a VDS UCD monthnote
 date: 2025-07-03
+tags:
+  - service
 ---
 
 ## Purpose of the VDS UCD month-note
