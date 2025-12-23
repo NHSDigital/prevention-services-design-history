@@ -1,6 +1,11 @@
 ---
 title: Asking parents the right health questions for flu
 date: 2025-06-17
+tags:
+  - live
+  - flu
+  - content
+  - vaccinations
 ---
 
 For the 2025 flu programme, we reviewed the health questions currently asked by SAIS teams, as well as those recommended by the UKHSA.

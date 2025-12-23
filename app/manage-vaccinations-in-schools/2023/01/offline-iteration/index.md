@@ -21,6 +21,9 @@ screenshots:
     - You have offline changes
     - Your offline changes have been saved
     - School session not available offline
+tags:
+  - alpha
+  - vaccinations
 ---
 
 We’ve iterated the [offline designs from the original design spike](/manage-vaccinations-in-schools/2023/01/offline-spike/), moving away from magical implicit offline functionality, to an explicit offline choice.

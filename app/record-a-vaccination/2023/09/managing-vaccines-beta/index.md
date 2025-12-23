@@ -1,6 +1,9 @@
 ---
 title: Managing vaccines (beta)
 date: 2023-09-04
+tags:
+  - beta
+  - managing vaccines
 ---
 
 ## Setting up vaccines and batches for a service

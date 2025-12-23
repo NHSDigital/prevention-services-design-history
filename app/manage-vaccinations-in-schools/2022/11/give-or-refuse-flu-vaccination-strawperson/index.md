@@ -20,6 +20,10 @@ screenshots:
     - "Health question: Aspirin"
     - Check your answers
     - Consent confirmation
+tags:
+  - prototype
+  - flu
+  - vaccinations
 ---
 
 Based on an analysis of existing consent tools we determined parents and guardians would need to:

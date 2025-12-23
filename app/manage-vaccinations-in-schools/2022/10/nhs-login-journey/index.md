@@ -9,6 +9,9 @@ screenshots:
     - Enter password
     - Check your mobile phone
     - Signed in patient
+tags:
+  - prototype
+  - vaccinations
 ---
 
 Screenshots showing the NHS Login journey on a new device.

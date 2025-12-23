@@ -5,6 +5,9 @@ screenshots:
   items:
     - Patient record needing triage
     - Patient record with triage notes
+tags:
+  - beta
+  - vaccinations
 ---
 
 [The previous design for triaging patients](/manage-vaccinations-in-schools/2023/03/first-pass-at-triage/) provided a form field to add notes, but with no space to indicate who created the note and when they added it.

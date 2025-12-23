@@ -3,6 +3,8 @@ title: "Health assessments discovery"
 description:
   "Summary of a discovery exploring which health checks the NHS could offer as digital self‑assessments, and how to evaluate their potential."
 date: 2025-06-09
+tags:
+  - discovery
 ---
 
 This discovery sought to understand whether the NHS could introduce additional health checks as a digital self‑assessment.

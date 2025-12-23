@@ -2,6 +2,9 @@
 title: Designing and testing a prototype
 description: We have been working on a digital version of the lung health check. To understand whether users would want to complete the questionnaire digitally and how we might deliver it.
 date: 2025-08-11
+tags:
+  - prototype
+  - user research
 ---
 
 We have been working on a digital version of the lung health check. This is a questionnaire that assesses someone’s risk of getting lung cancer in the next 5 years. The lung cancer programme would like to introduce a digital service alongside the current phone service. We wanted to understand whether users would want to complete the questionnaire digitally and how we might deliver it.

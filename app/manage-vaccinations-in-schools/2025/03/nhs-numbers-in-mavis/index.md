@@ -1,6 +1,9 @@
 ---
 title: How NHS numbers are used in Mavis
 date: 2025-03-20
+tags:
+  - live
+  - vaccinations
 ---
 
 ## Cohort records

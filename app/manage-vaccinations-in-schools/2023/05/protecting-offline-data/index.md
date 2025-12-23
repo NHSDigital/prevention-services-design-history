@@ -10,6 +10,9 @@ screenshots:
     - Use a code to make offline changes
     - Begin working offline
     - Alternative offline password
+tags:
+  - alpha
+  - vaccinations
 ---
 
 When saving data offline we need to encrypt it. Encryption will make the data secure. We will do this using a secret that the user must remember.

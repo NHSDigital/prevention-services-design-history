@@ -1,6 +1,9 @@
 ---
 title: "Sprint seven: monitoring activity  "
 date: 2023-07-10
+tags:
+  - beta
+  - reporting
 ---
 
 ## Helping users to monitor their performance and activity

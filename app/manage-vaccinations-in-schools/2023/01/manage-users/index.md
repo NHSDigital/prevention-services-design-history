@@ -11,6 +11,9 @@ screenshots:
     - Manage users
     - Edit user
     - Changes saved
+tags:
+  - alpha
+  - vaccinations
 ---
 
 There is a need to manage who can and cannot access the service.

@@ -1,6 +1,8 @@
 ---
 title: What is the record a vaccination service?
 date: 2023-03-24
+tags:
+  - service
 ---
 
 ### The service will enable healthcare professionals to record vaccination data safely and efficiently

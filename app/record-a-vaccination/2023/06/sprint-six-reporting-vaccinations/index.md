@@ -1,6 +1,9 @@
 ---
 title: "Sprint six: reporting vaccinations"
 date: 2023-06-26
+tags:
+  - beta
+  - reporting
 ---
 
 ## Supporting users to query, analyse, and interrogate data.
