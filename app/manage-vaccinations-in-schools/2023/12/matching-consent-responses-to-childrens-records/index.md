@@ -1,6 +1,9 @@
 ---
 title: Matching consent responses to children’s records
 date: 2023-12-07
+tags:
+  - beta
+  - vaccinations
 ---
 
 ## The problem

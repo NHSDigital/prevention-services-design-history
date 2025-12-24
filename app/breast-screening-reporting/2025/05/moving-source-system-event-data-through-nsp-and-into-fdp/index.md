@@ -2,6 +2,9 @@
 title: Moving source-system event data through NSP and into FDP
 description: Two data engineering experiments to move screening data from source systems into the Federated Data Platform
 date: 2025-05-01
+tags:
+  - alpha
+  - data
 ---
 
 ## Context

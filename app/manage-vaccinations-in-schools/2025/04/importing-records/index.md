@@ -24,6 +24,9 @@ screenshots:
     - Important notice – Archive
     - School moves
     - School moves – Review school move
+tags:
+  - beta
+  - vaccinations
 ---
 
 We previously wrote about [the information SAIS teams need to maintain accurate cohorts](/manage-vaccinations-in-schools/2025/02/what-sais-teams-need-to-maintain-accurate-cohorts/). Short of building integrations with different health and GP IT systems, we began operating the private beta by allowing teams to import this data into Mavis using CSV files.

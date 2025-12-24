@@ -58,6 +58,9 @@ screenshots:
         text: Confirmation
       - id: confirmation-consent-given-and-needs-triage
         text: Confirmation (health answers need triage)
+tags:
+  - live
+  - vaccinations
 ---
 
 The following is a snapshot of the parental consent journey as it appeared when the service launched into private beta with Coventry and Warwickshire Partnership NHS Trust on 16 December 2024.

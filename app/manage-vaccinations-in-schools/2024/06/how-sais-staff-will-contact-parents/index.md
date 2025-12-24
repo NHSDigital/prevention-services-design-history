@@ -1,6 +1,10 @@
 ---
 title: How SAIS staff will contact parents
 date: 2024-06-27
+tags:
+  - pilot
+  - user research
+  - vaccinations
 ---
 
 SAIS teams need to contact the parents/carers of children within their cohort, to offer them vaccinations for their children. Currently, different teams do this in a variety of ways, like:

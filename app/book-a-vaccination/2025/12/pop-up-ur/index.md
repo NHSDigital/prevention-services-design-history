@@ -4,7 +4,7 @@ date: 2025-12-19
 description: "What we learned doing pop-up research in local communities"
 tags:
   - appointments
-  - research
+  - user research
   - in person research
 ---
 

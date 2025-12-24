@@ -15,6 +15,9 @@ screenshots:
     - Check and confirm details
     - Session created
     - Session page without any children
+tags:
+  - alpha
+  - vaccinations
 ---
 
 These are first pass designs for creating a school-based routine vaccination session.

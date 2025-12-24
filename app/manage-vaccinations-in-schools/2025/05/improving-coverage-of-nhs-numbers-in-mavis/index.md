@@ -1,6 +1,9 @@
 ---
 title: Improving coverage of NHS numbers in Mavis
 date: 2025-05-12
+tags:
+  - live
+  - vaccinations
 ---
 
 Mavis needs to know every child's NHS number to report their vaccination back to their primary care record, as specified in [ISB 0149](https://digital.nhs.uk/data-and-information/information-standards/governance/latest-activity/standards-and-collections/isb-0149-nhs-number/). When records don't have this unique identifier, they may not be sent to the right place or matched to the right person. This can make it impossible to find out in the future that the child has already had a vaccination.

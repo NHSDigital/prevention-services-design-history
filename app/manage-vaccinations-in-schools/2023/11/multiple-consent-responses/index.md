@@ -16,6 +16,9 @@ screenshots:
       caption: In this scenario, both responses appear collapsed as this record now has an overall outcome. Reasons for refusal appear in the summary at the top of the page.
     - Patient record with no consent responses
     - Who are you trying to get consent from?
+tags:
+  - beta
+  - vaccinations
 ---
 
 Until now, the design for managing consent has assumed there will only ever be one consent response. However, it is possible for multiple consent responses to be submitted against a child. This can occur because:

@@ -34,6 +34,10 @@ screenshots:
     - Triage health questions
     - Patient record which needs triage
     - Patient record with triage completed
+tags:
+  - pilot
+  - workflows
+  - vaccinations
 ---
 
 The following images are a snapshot of the consent and triage journeys used for the pilot that ran in March 2024.

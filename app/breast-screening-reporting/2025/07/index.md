@@ -2,6 +2,9 @@
 title: Improving pathology BQA reporting
 description: A concept for how we might improve data quality and reduce manual work in pathology reporting.
 date: 2025-07-01
+tags:
+  - alpha
+  - breast screening
 ---
 
 **Note: this work was completed by Team Analyse. It will be carried forward by the Breast Screening Pathway Team and/or Breast Screening Reporting.**

@@ -2,6 +2,9 @@
 title: Breast screening invitations pilot overview
 description: An overview of Team Invite’s invitations to breast screening pilot December 2024 – February 2025 
 date: 2025-06-27
+tags:
+  - pilot
+  - breast screening
 ---
 
 Team Invite is working on inviting people to breast screening appointments using a digital-first communication strategy. This approach aims to reduce the number of letters sent and save the NHS significant cost, while providing breast screening participants with modern, reliable and safe ways of being invited to their mammography appointment. Also, we hope that introducing NHS Notify will help breast screening offices manage invitations more effectively, achieve productivity gains, and shorten book to invite time.
