@@ -4,7 +4,7 @@ This post is about some (relatively) fast and furious work we did to design
 Currently, users can create multiple sessions in one go, but if they want to cancel or edit those sessions they have to go through one by one. This means that if a site makes a mistake when setting up their schedule, or needs to make a change to it during the campaign, they are faced with a time consuming and repetitive task. For example, if a site has set up sessions running 9.30 - 5pm every weekday from October 1st to December 31st, and needs to change them all, they currently have to repeat the same process 66 times. 
  
 ### What we wanted to achieve 
- 
+
 The goal of this work was to make just as easy to edit or delete multiple sessions as it is to create them. 
  
 This should have three main benefits: 
@@ -12,15 +12,12 @@ This should have three main benefits: 
 1. Saving time – users should be able to edit or delete multiple sessions in minutes instead of hours 
 2. Increasing flexibility – one MYA’s goals is to be flexible so users can shape their appointment availability to their specific needs. Making it quick and easy to edit multiple session is an important part of this because it enables users to tweak and tinker with their schedule in response to how the seasonal vaccination campaign is playing out 
 3. Fewer wasted trips for the public – some of the feedback we’ve seen this season suggests that sometimes there is mismatch between the availability a site has published and the appointments they are actually offering. That means that some people book an appointment only to be turned away on arrival. We think that the difficulty MYA users encounter trying to change multiple sessions is contributing to this. 
- 
-### Design constraints 
-Copy from Jon’s post 
- 
+
  
 ## Iteration 1 
  
 ### Approach  
- 
+
 Our first attempt introduced 3 key changes to MYA:
 
 Sub navigation and manage availability tab
@@ -36,7 +33,7 @@ Group overview screen 
 This screen gives users more detail about the group of sessions and actions links for making changes. 
  
 ### What we tested 
- 
+
 We set participants the following tasks:  
 Correcting a mistake – forgotten lunch break You’ve created your appointments for the autumn campaign but you’ve forgotten to add a lunch break. You need to update MYA so you’ve got a break between 12 – 1pm. 
  
@@ -45,7 +42,7 @@ Making a change – run out of flu vaccine stock You’ve been busier than expe
 During the session we also asked user to talk us through how they expected the Manage availability screen to change once they added new availability. This helped us dig into how they thought the service worked.  
  
 ### What we found 
- 
+
 Users successfully completed the first task but quickly ran into trouble when making more complex changes. 
  
 During the research sessions it became clear that what users thought they were viewing on the Manage availability screen was the ‘blob’ of repeating sessions they’d originally created. What they were actually viewing was groups of sessions with the same characteristics, which sounds similar but actually works quite differently.  
@@ -55,7 +52,7 @@ Participants were generally able to complete task 1 relatively easily, but when
 ## Iteration 2 
  
 ### Approach 
- 
+
 Our first attempt taught us that users think about Manage Your Appointments as a calendar like tool where they can create a ‘schedule’ of sessions for the public book into. In iteration 2 we took inspiration from that and created a route into editing multiple sessions that mirrored the way managing a meeting series works.  
  
 Here’s how it worked  
@@ -76,20 +73,20 @@ Once users decide they want to change the multiple sessions they then select exa
 
  
 ### What we tested 
- 
+
 Our experience in iteration 1 prompted us to scale back our ambitions. Rather than trying to design for both editing and cancelling, we decided to focus on to nailing down a journey for cancelling multiple sessions first. We set research participants the following task: 
 Let’s imagine you’ve set up all your sessions in MYA but you realise you’ve made a couple of mistakes. You’ve got the wrong start time and wrong appointment length and you just want to remove what you’ve got and start again. Can you show me how you’d remove do that? 
  
  
 ### What we found 
- 
+
 Taking inspiration from a well established pattern resulted in users appearing much more confident when completing the task. They understood the idea that they were changing all the sessions that matched the one they had originally selected. The long list of matching sessions also made it transparent exactly what they were changing. It also offers speed when selecting all sessions, along with fine grained control for other use cases, like staff being on holiday, or having irregular working patterns. 
  
 While this iteration worked well once users were in the flow, several participants struggled to find the entry point and needed prompting to try changing an individual session. This is because participants were usually looking for an action that obviously applied to all sessions. For those who did click to change a single session, the absence of anything on the first screen in the flow to indicate they’d be able to select multiple sessions later on, resulted in them backing out and looking elsewhere.   
 ##Iteration 3 
  
 ### Approach 
- 
+
 This version – aka the Hovis best of both approach - combined elements from iteration 1 and 2 
  
 All availability 
