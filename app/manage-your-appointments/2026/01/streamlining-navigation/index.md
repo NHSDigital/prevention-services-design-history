@@ -13,7 +13,7 @@ During busy periods, such as flu season, vaccinators using Manage Your Appointme
 ## Prioritising the day view
 Previously, vaccinators faced an obstacle course to answer their most urgent question: “Who is my next appointment?”
 
-However, when they signed in, they were presented with the month view. To see today’s list, they had to:
+When they signed in, they were presented with the month view. To see today’s list, they had to:
 1.  Locate the current week within the month.
 2.  Click through to the Week view.
 3.  Find the correct day.
