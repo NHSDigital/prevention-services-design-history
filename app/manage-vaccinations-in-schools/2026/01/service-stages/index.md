@@ -65,7 +65,7 @@ Producing stats about the vaccination programmes for teams to monitor their own 
 
 Establishing relevant vaccination history for each child to determine their eligibility for vaccinations. Managing available vaccines and batches. Reporting individual vaccinations given by the team to GPs, CHIS and NHS England.
 
-Underpinned by the [Immunisation FHIR API](https://digital.nhs.uk/developer/api-catalogue/immunisation-fhir-api). Vaccine management could be managed through a vaccines API in the future.
+Underpinned by the [Immunisation FHIR API](https://digital.nhs.uk/developer/api-catalogue/immunisation-fhir-api). Vaccines could be managed through a vaccines API in the future.
 
 ### Manage and run sessions
 
