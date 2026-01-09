@@ -1,12 +1,12 @@
 ---
 title: "Helping users cancel or edit multiple sessions"
-date: 2026-01-06
+date: 2026-01-09
 tags:
   - pharmacies
   - appointments
 ---
 
-This post is about some work we did to design a new feature that lets users edit or cancel multiple sessions in one go.
+This post covers some work we did to design a new feature that lets users edit or cancel multiple sessions in one go.
 
 ## The problem 
 Currently, users can create multiple sessions in one go, but if they want to cancel or edit those sessions they have to go through one by one. 
@@ -23,20 +23,20 @@ Once fixed, users should be able to edit or delete multiple sessions in minut
 #### Increasing flexibility
 One of our goals is to provide flexibility so users can shape their appointment schedule to their specific needs. 
 
-Making it quick and easy to edit multiple session is an crucial for this. It means users can tweak and tinker with their schedule in response to how the seasonal vaccination campaign is playing out. 
+Making it quick and easy to edit multiple session is crucial for this. It means users can tweak and tinker with their schedule in response to how the seasonal vaccination campaign is playing out. 
 
 #### Reducing wasted trips for the public
 We've received feedback from the public that sometimes they book an appointment and travel to a site only to be turned away on arrival. 
 
-We think this is explained by a mis-match between the appointments a site has published and the appointments they are actually offering. This might - in part - be caused by the difficulties users encounter when they try changing multiple sessions.
+We think this is explained by a mismatch between the appointments a site has published and the appointments they are actually offering. This might - in part - be caused by the difficulties users encounter when they try changing multiple sessions.
  
 ## Iteration 1 
  
 ### Approach  
 
-Our first attempt involved 2 key additions to MYA:
+Our first attempt involved 2 key additions to Manage Your Appointments (MYA):
 
-1. A new sub navigation and manage availability tab. This tab gives users an overview of all their sessions. Each row represents a group of sessions with the same start and end times, services and capacity. From here users can select a group to edit, and filter the groups by date if they only want to edit a subset of sessions.
+1. A new manage availability tab. This tab gives users an overview of all their sessions. Each row represents a group of sessions with the same start and end times, services and capacity. From here users can select a group to edit and filter the groups by date if they only want to edit a subset of sessions.
 2. A group overview screen - this screen gives users more detail about the group of sessions and action links for making changes.
 
 ![Screenshot of a MYA webpage that shows an overview of the different kinds of appointment availability a site has created](iteration-1-manage-availability.png 'New sub navigation and manage availability tab')
@@ -58,7 +58,7 @@ Users successfully completed the first task but quickly ran into trouble when ma
  
 During the research sessions it became clear that what users thought they were viewing on the manage availability screen was the ‘blob’ of repeating sessions they’d originally created. What they were actually viewing was groups of sessions with the same characteristics, which although similar, actually works quite differently.  
  
-As a result when faced with task 2 participants quickly became confused. Rather than using the date filter to select all the sessions from next Tuesday as we’d hoped, participants opened up the group overview screen and looked for a way to change the dates there. Even with assistance, users struggled to see how the date filter would help them. And, in some cases, they thought the filter was a way to edit the start or end dates of the groups shown in the manage availability tab.
+As a result, when faced with task 2 participants quickly became confused. Rather than using the date filter to select all the sessions from next Tuesday as we’d hoped, participants opened up the group overview screen and looked for a way to change the dates there. Even with assistance, users struggled to see how the date filter would help them. And, in some cases, they thought the filter was a way to edit the start or end dates of the groups shown in the manage availability tab.
 
 ## Iteration 2 
  
@@ -68,16 +68,15 @@ Our first attempt taught us that users think about MYA as a calendar-like too
 
 Here's how it worked:
 - Instead of creating a separate place to manage multiple sessions the option is accessed via the change link for an individual session
-- After selecting change users decided what they want to do as usual
-- After that a new screen is displayed which tells users there are other similar sessions and asks them whether they want to change the individual session or all similar sessions
-- If a user chooses to change or cancel multiple sessions they then select exactly which sessions from the full list of all sessions that match the original one
+- After selecting change, users decide what they want to do
+- After that, a new screen is shown which tells users there are other similar sessions and asks them whether they want to change the individual session or multiple sessions
+- If a user chooses to change or cancel multiple sessions they then select those from a full list of all sessions that match the original one
 
 ![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](iteration-2-week-view.png 'The route into changing a session')
 
 ![Screenshot of a MYA webpage where users are asked whether they want to change the length or capacity, remove services or cancel the session](iteration-2-change-session.png 'The options users have once they select change')
 
 ![Screenshot of a MYA webpage which tells users there are other similar sessions and gives the option to cancel one or multiple sessions](iteration-2-one-or-multiple.png 'The new screen giving users the opportunity to change or cancel multiple sessions')
-
 
 ![Screenshot of a MYA webpage with a list of individual sessions that can either be selected in bulk, or individually'](iteration-2-select-sessions.png 'The full list of matching sessions')
 
@@ -88,7 +87,7 @@ Our experience in iteration 1 prompted us to scale back our ambitions for round 
 
 Rather than trying to design for editing and cancelling, we decided to focus on nailing down the journey for cancelling multiple sessions first. We set research participants the following task:
 
-Let’s imagine you’ve set up all your sessions in MYA but you realise you’ve made a couple of mistakes. You’ve got the wrong start time and wrong appointment length and you just want to remove what you’ve got and start again. Can you show me how you’d do that?
+Let’s imagine you’ve set up all your sessions in MYA but you realise you’ve made a couple of mistakes. You’ve got the wrong start time and wrong appointment length, and you just want to remove what you’ve got and start again. Can you show me how you’d do that?
  
  
 ### What we found 
@@ -103,44 +102,44 @@ While this iteration worked well once users were in the flow, several participan
  
 ### Approach 
 
-This version – aka the Hovis best of both approach - combined elements from iteration 1 and 2:
-- We re-introduced a tab in the sub-navigation but called it ‘All availability’ not ‘Manage availability
+This iteration – aka the Hovis best of both approach - combined elements from iteration 1 and 2:
+- We re-introduced a tab in the sub-navigation but called it ‘All availability’ not ‘Manage availability' and simplified the table structure
 - Once users select the ‘Remove’ option, they were shown the list of all sessions which we introduced in iteration 2
-- As in iterations 1 and 2 users were asked what they wanted to do with the bookings for the sessions they were about to cancel
+- As in iterations 1 and 2 users are asked what they want to do with the bookings for the sessions they are about to cancel
 
-![Screenshot of a MYA webpage with the title 'Manage availability'](iteration-3-all-availability.png '')
+![Screenshot of a MYA webpage that shows an overview of the different kinds of appointment availability a site has created](iteration-3-all-availability.png '')
 
-![Screenshot of a MYA webpage with the title 'Manage availability'](iteration-3-select-sessions.png '')
+![Screenshot of a MYA webpage with a list of individual sessions that can either be selected in bulk, or individually](iteration-3-select-sessions.png '')
 
-![Screenshot of a MYA webpage with the title 'Manage availability'](iteration-3-keep-bookings.png '')
+![Screenshot of a MYA webpage where users are asked whether they want to keep the bookings affected by cancelling the sessions](iteration-3-keep-bookings.png '')
 
  
 ### What we tested 
-We used this round to see how participants would respond in scenarios where their goal was to edit, but the service only supported cancelling. We did this to deepen our understanding of thet impact only shipping the cancellation journey might have. 
+We used this round to see how participants would respond in scenarios where their goal was to edit, but the service only supported cancelling. We did this to deepen our understanding of the impact only shipping the cancellation journey might have. 
 
 We set two tasks: 
  
 1. Let’s imagine you’ve decided you no longer want to offer appointments after 4pm and you want to change what you’ve set up so people can’t book after this time. Can you show me how you’d do that?
-2. Now lets imagine you’re off for Christmas and the locum isn’t trained to vaccinate so you want to remove all your appointments between the 24th of December and the 1st of January. Can you show me how you’d do that? 
+2. Now let's imagine you’re off for Christmas and the locum isn’t trained to vaccinate so you want to remove all your appointments between the 24th of December and the 1st of January. Can you show me how you’d do that? 
  
  
 ### What we found 
  
 #### Editing is significantly more useful than cancelling
-This round really emphasised the value of editing over cancelling. Participants translated the task they were set into ‘editing’ and looked for this. Some participants were able to figure out a way to complete the task just using the cancel journey, but it was time consuming. 
+This round really emphasised the value of editing over cancelling. Participants translated the task they were set into ‘editing’ and looked for this. Some participants were able to figure out a way to complete the task just using the cancel journey, but it was time consuming.
  
 #### Intuitive and discoverable
 Although the mismatch between the task and the feature we were testing meant some users didn’t complete task one, re-introducing the additional tab in the sub-navigation clearly addressed the discoverability problems we had with iteration 2. We also saw the multi-select for sessions perform equally well on second outing.  
   
 #### Users were nervous about the 'remove' action
-The action on the All availability tab was ‘Remove’, which was accurate but resulted in several participants not selecting this option for fear it would remove the entire group instantly. 
+The action on the All availability tab was ‘Remove’, which was accurate but resulted in several participants being reluctant to click the action link for fear it would remove the entire group instantly. 
  
 #### Keeping appointments but cancelling sessions causes confusion
-This round of research crystallised a problem we’d seen emerging in iteration 2. This was that people struggled to grasp the concept of cancelling a session, but keeping the appointments. To them, the two things were indivisible. 
+This round of research crystallised a problem we’d seen emerging in iteration 2. This was that people struggle to grasp the concept of cancelling a session but keeping the appointments. To them, the two things are indivisible. 
 
 Exploring this with our participants helped us understand that a more natural framing for them is to either cancel the session (and all the appointments) or stop taking bookings for the session (but keep what’s been booked already). 
 
-MYA users place a high importance on trying to ‘honour’ the appointments that have been booked already, so there are real world benefits to having both options. The challenge is finding a way to do this that’s deliverable and easy to understand for users.
+MYA users place a high importance on trying to ‘honour’ the appointments that have been booked already, so there are real world benefits to having the option to cancel a session but keep the bookings. The challenge is finding a way to do this that’s deliverable and intuitive for users.
  
 ## Iteration 4 
  
