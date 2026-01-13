@@ -56,7 +56,7 @@ One example is a scenario in which a site runs out of adult Flu vaccine. In this
 
 We also want to support working patterns in the future. For example, a site that has two vaccinators who work different hours. This becomes very hard to manage without some way to link days together.
 
-## RRULE
+## Repeating rules
 What MYA does isn’t the typical way calendar-like systems handle repeating events. Most calendars use [Repeating Rules (RRULE)](https://www.rfc-editor.org/rfc/rfc5545). Both iCal and Outlook use this standard.
 
 RRULE would allow users to edit what they created, including the day pattern. And they might offer some other benefits, like making it easier to add breaks. But, if you want to edit days in the middle of the rule, you have to add “exceptions.” These can get complicated, quickly.
