@@ -6,14 +6,16 @@ tags:
   - appointments
 ---
 
-This post covers some work we did to design a new feature that lets users edit or cancel multiple sessions in one go.
+We tested 3 iterations for a feature that lets users edit and delete multiple sessions. Here's what we did and what we learnt along the way.
 
 ## The problem 
-Currently, users can create multiple sessions in one go, but if they want to cancel or edit those sessions they have to go through one by one. 
+In Manage Your Appointments, users create sessions that members of the public can book into. Each session as a start and end time, the vaccination types the site wants to offer, a set appointment length and capacity (the number of vaccinators who will be working). These things come together to determine what appointments are made available to book.
 
-This means if a site makes a mistake when setting up their schedule, or needs to change it during the campaign, they are faced with a time consuming and repetitive task. 
+Currently, users can set up multiple sessions in one go, but if they want to cancel or edit those sessions they have to go through one by one. 
 
-For example, if a site has set up sessions running from 9.30 - 5pm every weekday from October 1st to December 31st, and needs to change them all, they have to repeat the same process 66 times. 
+This means if a user makes a mistake when setting up their schedule, or needs to change it during the campaign, they are faced with a time consuming and repetitive task. 
+
+For example, if a user sets up sessions running from 9.30 - 5pm every weekday from October 1st to December 31st, and needs to change them all, they have to repeat the same process 66 times. 
  
 ### Fixing this has 3 main benefits 
  
@@ -34,12 +36,12 @@ We think this is explained by a mismatch between the appointments a site has pu
  
 ### Approach  
 
-Our first attempt involved 2 key additions to Manage Your Appointments (MYA):
+Our first iteration involved 2 additions to Manage Your Appointments (MYA):
 
 1. A new manage availability tab. This tab gives users an overview of all their sessions. Each row represents a group of sessions with the same start and end times, services and capacity. From here users can select a group to edit and filter the groups by date if they only want to edit a subset of sessions.
 2. A group overview screen - this screen gives users more detail about the group of sessions and action links for making changes.
 
-![Screenshot of a MYA webpage that shows an overview of the different kinds of appointment availability a site has created](iteration-1-manage-availability.png 'New sub navigation and manage availability tab')
+![Screenshot of a MYA webpage that shows an overview of the different kinds of appointment availability a site has created](iteration-1-manage-availability.png 'New secondary navigation and manage availability tab')
 
 ![Screenshot of a MYA webpage that shows the details about a group of sessions including the start time, end time, capacity and appointment length](iteration-1-group-overview.png 'Group overview screen')
 
@@ -64,7 +66,7 @@ As a result, when faced with task 2 participants quickly became confused. Rather
  
 ### Approach 
 
-Our first attempt taught us that users think about MYA as a calendar-like tool where they can create a ‘schedule’ of sessions for the public book into. In iteration 2 we took inspiration from that and created a route into editing multiple sessions that mirrored the way managing a meeting series works.
+Our first iteration taught us that users think about MYA as a calendar-like tool where they can create a ‘schedule’ of sessions for the public book into. In iteration 2 we took inspiration from that and created a route into editing multiple sessions that mirrored the way managing a meeting series works.
 
 Here's how it worked:
 - Instead of creating a separate place to manage multiple sessions the option is accessed via the change link for an individual session
@@ -103,7 +105,7 @@ While this iteration worked well once users were in the flow, several participan
 ### Approach 
 
 This iteration – aka the Hovis best of both approach - combined elements from iteration 1 and 2:
-- We re-introduced a tab in the sub-navigation but called it ‘All availability’ not ‘Manage availability' and simplified the table structure
+- We re-introduced a tab in the secondary navigation but called it ‘All availability’ not ‘Manage availability' and simplified the table structure
 - Once users select the ‘Remove’ option, they were shown the list of all sessions which we introduced in iteration 2
 - As in iterations 1 and 2 users are asked what they want to do with the bookings for the sessions they are about to cancel
 
@@ -120,7 +122,7 @@ We used this round to see how participants would respond in scenarios where thei
 We set two tasks: 
  
 1. Let’s imagine you’ve decided you no longer want to offer appointments after 4pm and you want to change what you’ve set up so people can’t book after this time. Can you show me how you’d do that?
-2. Now let's imagine you’re off for Christmas and the locum isn’t trained to vaccinate so you want to remove all your appointments between the 24th of December and the 1st of January. Can you show me how you’d do that? 
+2. Now let's imagine you’re off for Christmas and the pharmacist covering those days isn’t trained to vaccinate so you want to remove all your appointments between the 24th of December and the 1st of January. Can you show me how you’d do that? 
  
  
 ### What we found 
@@ -129,7 +131,7 @@ We set two tasks: 
 This round really emphasised the value of editing over cancelling. Participants translated the task they were set into ‘editing’ and looked for this. Some participants were able to figure out a way to complete the task just using the cancel journey, but it was time consuming.
  
 #### Intuitive and discoverable
-Although the mismatch between the task and the feature we were testing meant some users didn’t complete task one, re-introducing the additional tab in the sub-navigation clearly addressed the discoverability problems we had with iteration 2. We also saw the multi-select for sessions perform equally well on second outing.  
+Although the mismatch between the task and the feature we were testing meant some users didn’t complete task one, re-introducing the additional tab in the secondary navigation clearly addressed the discoverability problems we had with iteration 2. We also saw the multi-select for sessions perform equally well on second outing.  
   
 #### Users were nervous about the 'remove' action
 The action on the All availability tab was ‘Remove’, which was accurate but resulted in several participants being reluctant to click the action link for fear it would remove the entire group instantly. 
@@ -143,4 +145,4 @@ MYA users place a high importance on trying to ‘honour’ the appointments tha
  
 ## Iteration 4 
  
-We paused our design and research here so the developers in the team can investigate how best to implement some of this work, including deciding whether to use grouping logic or the RRULE. The outcome of that investigation will affect how we approach the next iteration.
+We paused our design and research here so the developers in the team can investigate how best to implement some of this work, including deciding whether to use [grouping logic or the RRULE](/manage-your-appointments/2026/01/crossroads). The outcome of that investigation will affect how we approach the next iteration.
