@@ -32,7 +32,7 @@ This makes MYA very flexible. It's easy to add new sessions to single or multipl
 
 However, editing multiple days is trickier. If a user wants to edit the availability they set up in our earlier example, there’s no link between days, so they have to edit them individually. 
 
-We also know users want to be able to edit _the_ thing they created. However, they can’t edit the repeating day pattern, as it is lost, so it's impossible to make quick adjustments, like removing every Tuesday, for example.
+We also know users want to be able to edit the “thing” they created. However, they can’t edit the repeating day pattern, as it is lost, so it's impossible to make quick adjustments, like removing every Tuesday, for example.
 
 ![The Select days screen](day-pattern.png 'When creating availability, users select a pattern of days. This doesn’t get stored so isn’t editable if the user wants to make updates.')
 
@@ -43,7 +43,7 @@ This is what Jonny, one of our developers, calls “putting a lasso around simil
 
 For most of our users, who create repeating availability and don't alter days in the middle, these will appear precisely like the “thing” they made.
 
-We [tested this over multiple rounds](#joespost). Groups are suitable for simple cases, but not easy to navigate for more complex setups.
+We [tested this over multiple rounds](/manage-your-appointments/2026/01/helping-users-cancel-or-edit-multiple-sessions/). Groups are suitable for simple cases, but not easy to navigate for more complex setups.
 
 This also doesn’t allow editing of the day pattern.
 
@@ -66,7 +66,7 @@ We need a solution that offers the flexibility to edit single days and repeating
 ## What's next
  MYA is at a crossroads, and we need to decide which road to take.
 
-To the left is grouping logic. This approach might yield short-term gains, but it could also cause long-term pain when implementing [future features](https://design-history.prevention-services.nhs.uk/manage-your-appointments/2025/12/our-first-seasonal-vaccination-campai/). 
+To the left is grouping logic. This approach might yield short-term gains, but it could also cause long-term pain when implementing [future features](/manage-your-appointments/2025/12/our-first-seasonal-vaccination-campai/). 
 
 To the right is re-architecting MYA to use an RRULE-like solution and migrating live availability data. This probably means more work, but it could yield substantial benefits. 
 
