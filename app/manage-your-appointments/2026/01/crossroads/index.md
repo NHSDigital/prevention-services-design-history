@@ -5,6 +5,8 @@ author: Jon Roobottom
 opengraphImage:
   src: /manage-your-appointments/2026/01/crossroads/day-pattern.png
   alt: The select days screen from the NHS Manage Your Appointments service
+tags:
+- availability
 ---
 Recently, we've been working on allowing people to edit more than one day at once. Sounds simple. Dear reader, prepare yourself for a shock: It isn't. In fact, it's sparked quite the debate in our team.
 
@@ -60,8 +62,8 @@ One example is a scenario in which a site runs out of adult Flu vaccine. In this
 
 We also want to support working patterns in the future. For example, a site that has two vaccinators who work different hours. This becomes very hard to manage without some way to link days together.
 
-## Repeating rules
-What MYA does isn’t the typical way calendar-like systems handle repeating events. Most calendars use [repeating rules (RRULE)](https://www.rfc-editor.org/rfc/rfc5545). Both iCal and Outlook use this standard.
+## Recurrence rules
+What MYA does isn’t the typical way calendar-like systems handle repeating events. Most calendars use [recurrence rules (RRULE)](https://www.rfc-editor.org/rfc/rfc5545). Both iCal and Outlook use this standard.
 
 RRULE allows users to edit what they created, including the day pattern, because it stores the pattern. And it might offer some other benefits, like making it easier to add breaks. But, if you want to edit days in the middle of the rule, you have to add “exceptions.” These can get complicated, quickly.
 
