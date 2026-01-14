@@ -1,6 +1,7 @@
 ---
 title: "Helping users cancel or edit multiple sessions"
-date: 2026-01-09
+author: Joe Julier
+date: 2026-01-13
 tags:
   - pharmacies
   - appointments
@@ -9,7 +10,7 @@ tags:
 We tested 3 iterations for a feature that lets users edit and delete multiple sessions. Here's what we did and what we learnt along the way.
 
 ## The problem 
-In Manage Your Appointments, users create sessions that members of the public can book into. Each session as a start and end time, the vaccination types the site wants to offer, a set appointment length and capacity (the number of vaccinators who will be working). These things come together to determine what appointments are made available to book.
+In Manage Your Appointments (MYA), users create sessions that members of the public can book into. Each session has a start and end time, the vaccination types the site wants to offer, a set appointment length and capacity (the number of vaccinators who will be working). These things come together to determine what appointments are made available to book.
 
 Currently, users can set up multiple sessions in one go, but if they want to cancel or edit those sessions they have to go through one by one. 
 
@@ -36,7 +37,7 @@ We think this is explained by a mismatch between the appointments a site has pu
  
 ### Approach  
 
-Our first iteration involved 2 additions to Manage Your Appointments (MYA):
+Our first iteration involved 2 additions to MYA:
 
 1. A new manage availability tab. This tab gives users an overview of all their sessions. Each row represents a group of sessions with the same start and end times, services and capacity. From here users can select a group to edit and filter the groups by date if they only want to edit a subset of sessions.
 2. A group overview screen - this screen gives users more detail about the group of sessions and action links for making changes.
