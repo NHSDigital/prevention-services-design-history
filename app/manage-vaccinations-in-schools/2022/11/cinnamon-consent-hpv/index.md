@@ -15,6 +15,9 @@ screenshots:
     - Consent for MMR given
     - Consent for 3-in-1 and MenACWY
     - Asking for type of relationship to child
+tags:
+  - prototype
+  - vaccinations
 ---
 
 There are three separate consent journeys for school-aged immunisations.

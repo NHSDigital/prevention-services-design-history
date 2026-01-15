@@ -1,6 +1,9 @@
 ---
 title: Automatic and manual offline syncing
 date: 2023-03-16
+tags:
+  - prototype
+  - vaccinations
 ---
 
 Automatic syncing hasn’t tested well with users. It also introduces some technical issues of its own.

@@ -5,7 +5,7 @@ date: 2025-07-30
 tags:
   - cervical screening
   - hpv self testing
-  - research
+  - user research
   - usability
 ---
 

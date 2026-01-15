@@ -1,6 +1,9 @@
 ---
 title: How staff will access Mavis during private beta
 date: 2024-06-27
+tags:
+  - private beta
+  - vaccinations
 ---
 
 ## Authentication

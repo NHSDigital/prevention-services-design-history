@@ -1,6 +1,9 @@
 ---
 title: Making minor changes after our first model office
 date: 2023-07-12
+tags:
+  - alpha
+  - vaccinations
 ---
 
 We recently ran a ‘model office’ with Solent NHS Trust. Its School-aged Immunisation Service (SAIS) manages vaccinations for children in Portsmouth, Southampton and the Isle of Wight.

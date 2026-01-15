@@ -1,6 +1,10 @@
 ---
 title: Refining what SAIS nurses see
 date: 2023-03-02
+tags:
+  - prototype
+  - user research
+  - vaccinations
 ---
 
 We’ve made a number of changes to the service following feedback from SAIS nurses. Some are minor tweaks; others are significant redesigns and additions.

@@ -14,6 +14,9 @@ screenshots:
     - Check and confirm details
     - Vaccination saved (offline)
     - Vaccination saved (online)
+tags:
+  - alpha
+  - vaccinations
 ---
 
 We’ve made changes to make it faster to record each vaccinations – focusing more on the default options, but keeping the ability to change defaults for the rarer exceptions.

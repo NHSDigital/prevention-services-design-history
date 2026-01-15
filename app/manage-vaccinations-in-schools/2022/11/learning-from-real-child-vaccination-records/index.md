@@ -9,6 +9,9 @@ screenshots:
     - Data extract from a GP practice system (EMIS)
     - GP practice vaccinations record in the NHS app
     - A snippet from the consolidated record
+tags:
+  - user research
+  - vaccinations
 ---
 
 ## How vaccinations are recorded

@@ -86,6 +86,9 @@ screenshots:
         text: Check and confirm
       - id: patient-vaccinated
         text: Confirmation of vaccination recorded
+tags:
+  - live
+  - vaccinations
 ---
 
 The following is a snapshot of session management and recording HPV vaccinations when the service launched into private beta with Coventry and Warwickshire Partnership NHS Trust on 16 December 2024.

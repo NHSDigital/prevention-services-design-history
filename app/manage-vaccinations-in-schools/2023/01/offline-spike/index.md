@@ -9,6 +9,9 @@ screenshots:
     - You are working offline
     - Help working offline
     - Working offline in the Check a vaccination appointment service
+tags:
+  - alpha
+  - vaccinations
 ---
 
 It became clear during the first round of research that many SAIS teams have a need to work offline. Many don’t have internet access, or if they do have access it can be patchy or unreliable.

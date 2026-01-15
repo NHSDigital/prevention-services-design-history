@@ -9,6 +9,9 @@ screenshots:
     - Sync errored
     - text: Sync errored – try again later
       caption: When the website is unavailable
+tags:
+  - prototype
+  - vaccinations
 ---
 
 Following our investigation into [automatic and manual offline syncing](/manage-vaccinations-in-schools/2023/03/manual-offline-syncing/), we’ve designed the user journey for users to sync their changes manually.

@@ -2,6 +2,9 @@
 title: When logins become dead ends, and how to avoid them
 description:
 date: 2025-12-19
+tags:
+  - live
+  - user research
 ---
 
 Lost or difficult logins stop staff being able to use the data they need. How might we prevent this?

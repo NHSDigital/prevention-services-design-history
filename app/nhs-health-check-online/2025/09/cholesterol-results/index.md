@@ -1,6 +1,9 @@
 ---
 title: Cholesterol results page
 date: 2025-09-01
+tags:
+  - live
+  - content
 ---
 
 The cholesterol results page helps users understand their cholesterol levels and take action to improve their health.

@@ -9,6 +9,9 @@ screenshots:
     - Which batch did you use?
     - "Which batch did you use: Batch selected"
     - "Which batch did you use: Batch not in list"
+tags:
+  - alpha
+  - vaccinations
 ---
 
 We’ve made 2 changes to the way vaccine batches are managed to match the processes of SAIS teams:

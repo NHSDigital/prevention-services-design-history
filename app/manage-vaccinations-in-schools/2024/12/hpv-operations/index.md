@@ -70,6 +70,9 @@ screenshots:
         text: Edit batch
       - id: vaccines-batch-archive
         text: Archive batch
+tags:
+  - live
+  - vaccinations
 ---
 
 The following is a snapshot of the operational aspects of Mavis as they appeared when the service launched into private beta with Coventry and Warwickshire Partnership NHS Trust on 16 December 2024.

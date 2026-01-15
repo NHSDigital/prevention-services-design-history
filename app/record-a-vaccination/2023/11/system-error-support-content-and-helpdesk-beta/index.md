@@ -1,6 +1,9 @@
 ---
 title: System error support content and helpdesk (beta)
 date: 2023-11-30
+tags:
+  - beta
+  - content
 ---
 
 ## Our approach to supporting users
