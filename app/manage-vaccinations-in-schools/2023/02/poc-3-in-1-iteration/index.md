@@ -15,6 +15,9 @@ screenshots:
     - Give reason vaccine not given
     - Check and confirm details – no vaccines given
     - Check and confirm details – single consent
+tags:
+  - prototype
+  - MenACWY vaccine
 ---
 
 The 3-in-1 teenage booster and MenACWY vaccinations are the most complex of those offered by SAIS teams. Two different vaccines are usually administered in the same session. Consent can be for either, both or none.

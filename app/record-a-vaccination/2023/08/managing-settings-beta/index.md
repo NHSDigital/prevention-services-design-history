@@ -1,6 +1,8 @@
 ---
 title: Managing settings (beta)
 date: 2023-08-21
+tags:
+  - workflows
 ---
 
 ## Bringing together parts of the service

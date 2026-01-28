@@ -2,6 +2,10 @@
 title: What we learned about sharing breast and bowel results with GPs
 description: Findings from the first burst of work
 date: 2025-03-12
+tags:
+  - GP results
+  - screening
+  - user research
 ---
 
 In this update we focus on the learnings of our first burst of work (December 2024 - February 2025) and the first 2 outcomes:

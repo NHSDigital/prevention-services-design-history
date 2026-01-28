@@ -1,6 +1,9 @@
 ---
 title: Finding patients (beta)
 date: 2024-03-08
+tags:
+  - finding patients
+  - user research
 ---
 
 ## Testing the find a patient journey

@@ -15,6 +15,8 @@ screenshots:
     - ✉️ Email confirming that parents cannot take part in the pilot
     - ℹ️ The deadline for registering interest in the NHS school vaccination pilot has passed
 
+tags:
+  - pilot
 ---
 
 The following images are a snapshot of the expression of interest journey used for the pilot that ran in March 2024.

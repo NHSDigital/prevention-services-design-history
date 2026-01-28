@@ -1,6 +1,8 @@
 ---
 title: Recording vaccinations (beta)
 date: 2024-03-08
+tags:
+  - user research
 ---
 
 ## Testing the record a vaccination journey

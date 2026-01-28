@@ -12,6 +12,8 @@ screenshots:
     - Which batches?
     - Check and confirm
     - Flu campaign
+tags:
+  - prototype
 ---
 
 We want to simplify the data users enter at the point of vaccination. Repeating their own name, location, vaccine used and vaccination site is laborious. They do this hundreds of times.

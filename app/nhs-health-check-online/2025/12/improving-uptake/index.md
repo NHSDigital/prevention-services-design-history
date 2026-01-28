@@ -2,6 +2,8 @@
 title: "Improving uptake"
 description: "Redesigning invites, reminders, and the journey from invite to start."
 date: 2025-12-19
+tags:
+  - user research
 ---
 
 The NHS Health Check online service is currently in private beta. As users of the service increased, we began to observe how they interacted with the service and where drop-off occurred across the early stages of the journey.

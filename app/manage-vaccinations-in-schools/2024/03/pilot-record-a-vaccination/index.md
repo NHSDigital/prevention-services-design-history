@@ -19,6 +19,9 @@ screenshots:
     - Could not vaccinate – Record reason
     - Could not vaccinate – Check and confirm
     - Patient record – Could not vaccinate
+tags:
+  - pilot
+  - workflows
 ---
 
 The following images are a snapshot of the journeys used to manage vaccines and record vaccinations for the pilot that ran in March 2024.

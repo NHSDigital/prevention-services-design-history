@@ -37,6 +37,8 @@ screenshots:
       caption: If response includes answers to health questions, this email is sent instead.
     - ✉️ Email asking parent for feedback on the pilot
     - ✉️ Email reminding parent of upcoming vaccination session
+tags:
+  - pilot
 ---
 
 The following images are a snapshot of the consent and triage journeys used for the pilot that ran in March 2024.

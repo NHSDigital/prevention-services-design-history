@@ -9,6 +9,9 @@ screenshots:
     - Given vaccine
     - Check and confirm
     - Student details after vaccination
+tags:
+  - prototype
+  - HPV vaccine
 ---
 
 The journey for recording an HPV vaccination is very similar to the [flu journey](/manage-vaccinations-in-schools/2022/11/poc-flu-campaign/).

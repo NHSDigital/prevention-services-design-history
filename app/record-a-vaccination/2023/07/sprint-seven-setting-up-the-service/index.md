@@ -1,6 +1,8 @@
 ---
 title: "Sprint seven: setting up the service"
 date: 2023-07-03
+tags:
+  - workflows
 ---
 
 ## Setting up a point-of-care service
