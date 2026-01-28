@@ -67,7 +67,7 @@ Breast screening offices (BSOs) use a variety of inefficient (and potentially cl
 
 ## Basing our service on real situations
 
-When discussing the current workflow with users, it became clear that the partial mammography guidance had been developed around the system, rather than being based on best practice.
+When discussing the current workflow with users, it became clear that the partial mammography guidance had been developed around the limitations of the system, rather than being based on best practice.
 
 After talking through the various scenarios they come across during appointments we established that mammographers want a service that allows them to:
 
