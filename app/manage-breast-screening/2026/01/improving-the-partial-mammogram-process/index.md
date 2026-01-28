@@ -22,9 +22,9 @@ If an appointment stops before any images have been taken, the 'Attended not scr
 
 But as soon as one mammogram has been taken, a whole host of scenarios open up that our service needs to cater for.
 
-![Screenshot of NBSS with the partial mammography option highlighted](nbss-partial.png)
-
 The National Breast Screening System (NBSS) gives users a checkbox and a reason dropdown when they need to record a partial mammography.
+
+![Screenshot of NBSS with the partial mammography option highlighted](nbss-partial.png)
 
 [Guidance on partial or incomplete screening mammography](https://www.gov.uk/government/publications/breast-screening-guidance-on-partial-or-incomplete-screening-mammography/breast-screening-guidance-on-partial-or-incomplete-screening-mammography) explains when this should and should not be used.
 
