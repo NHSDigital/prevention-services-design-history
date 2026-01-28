@@ -91,7 +91,7 @@ The decision ultimately lies with the reader, however mammographers are keen on 
 
 One of our subject matter experts neatly summarised our goal when designing this part of the service:
 
-> "We want partial to be an outcome of what they're recording, not the decision itself."
+> We want partial to be an outcome of what they're recording, not the decision itself.
 
 To help meet their needs, we've given users various things to select within an 'Additional details' section on the [image details step of the mammogram workflow](/manage-breast-screening/2025/12/recording-images-taken/).
 
@@ -147,9 +147,9 @@ Radiologists will see the images, along with a summary of any issues encountered
 
 We've been met with positive reactions when showing this solution to both mammographers and image readers. Comments include:
 
-> "It's really useful to differentiate between whether it's a partial mammogram, full stop, or whether it's just pending and we can retry another day."
+> It's really useful to differentiate between whether it's a partial mammogram, full stop, or whether it's just pending and we can retry another day.
 
-> "I think it is really good as a mammographer to be able to have that ability to put forward your clinical opinion after spending the time performing the mammogram. You'll probably have the most knowledge as to whether that can be redone."
+> I think it is really good as a mammographer to be able to have that ability to put forward your clinical opinion after spending the time performing the mammogram. You'll probably have the most knowledge as to whether that can be redone.
 
 One area we need to look into is whether any of the options we've created could be overused.
 
@@ -158,5 +158,3 @@ For example, if mammographers are able to initiate follow-up appointments themse
 Another consideration is the messages that are sent to participants as a result of the selections made within the service. The additional structured information we're collecting can be tailored based on whether they are being recalled for more images, or for repeat images (due to a technical recall), or if their result is based on a partial mammography.
 
 And finally, we need to determine how these options relate to statuses within the service. Things get complicated when we are deciding how to handle appointments based on certain selections, particularly regarding keeping 'episodes' open when there is a potential follow-up appointment to be arranged.
-
-
