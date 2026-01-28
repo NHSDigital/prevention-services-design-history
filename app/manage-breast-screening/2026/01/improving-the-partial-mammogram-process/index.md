@@ -62,7 +62,7 @@ Our research uncovered a significant flaw in the current process. NBSS does not 
 
 Breast screening offices (BSOs) use a variety of inefficient (and potentially clinically unsafe) workarounds to record this. Mammographers may:
 
-* communicate with image reader through the 'Film Comment' text field suggesting they should report the case as a 'Technical recall' to trigger a follow-up appointment invite
+* communicate with image readers through the 'Film Comment' text field suggesting they should report the case as a 'Technical recall' to trigger a follow-up appointment invite
 * use the 'Partial mammography' checkbox and add a 'Film Comment', which means the case needs to be reopened if another appointment is scheduled
 
 ## Basing our service on real situations
