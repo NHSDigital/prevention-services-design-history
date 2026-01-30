@@ -99,7 +99,7 @@ To help meet their needs, we've given users various things to select within an '
 
 We have avoided using the term 'partial' at this stage. It comes with a lot of baggage and learned behaviour from the current system. The language used better reflects the information the mammographer needs to record.
 
-### Imperfect but best possible images
+### Imperfect, but best possible images
 
 This formalises the BPI annotation often written on screening forms.
 
