@@ -1,6 +1,6 @@
 ---
 title: Improving the partial mammogram process
-description: We've been looking into what happens when a mammographer does not get to take all the images they wanted to during a breast screening appointment.
+description: We've been looking into what happens when a mammographer does not take all the images they wanted to during a breast screening appointment.
 date: 2026-01-29
 author: Danny Chadburn
 opengraphImage:
