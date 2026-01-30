@@ -56,7 +56,7 @@ Grasping this concept is crucial to understanding the current setup. Partial mam
 
 This definition is repeated in the [Ionising Radiation (Medical Exposures) Regulations 2017 (IR(ME)R)](https://www.gov.uk/government/publications/ionising-radiation-medical-exposure-regulations-2017-guidance/guidance-to-the-ionising-radiation-medical-exposure-regulations-2017). There it provides a justification for getting enough information to assess a participant while minimising their radiation dose.
 
-### The fail point
+### The point of confusion
 
 Our research uncovered a significant flaw in the current process. NBSS does not provide mammographers with a standard way to indicate when more breast tissue needs to be scanned and the participant needs to be invited back to finish their examination.
 
