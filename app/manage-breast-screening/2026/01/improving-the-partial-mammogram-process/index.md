@@ -109,7 +109,7 @@ The 'Notes for reader' can be used to add extra context where necessary. Image r
 
 ### Not all mammograms taken
 
-Selecting this option reveals two questions.
+Selecting this option reveals several fields to collect more details.
 
 The first mirrors the options currently within NBSS covering the reasons why not all images were taken. Multiple reasons can be selected (to account for more complex scenarios), but there is just a single text box for a more detailed explanation when necessary.
 
