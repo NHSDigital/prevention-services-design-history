@@ -68,7 +68,6 @@ Official guidance is to report a technical recall for cases where participants c
 
 ## Basing our service on real situations
 
-When discussing the current workflow with users, it became clear that the partial mammography guidance had been developed around the limitations of the system, rather than being based on best practice.
 
 After talking through the various scenarios they come across during appointments we established that mammographers want a service that allows them to:
 
