@@ -16,7 +16,7 @@ We've been looking into what happens when a mammographer does not get to take al
 
 Sometimes this is known as a 'partial mammography', but in some circumstances it is not.
 
-This has to do with how much off the breast has been scanned rather than (as we wrongly assumed) the completeness of the appointment.
+This has to do with how much of the breast has been scanned rather than (as we wrongly assumed) the completeness of the appointment.
 
 ## To partial, or not to partial
 
@@ -39,7 +39,9 @@ Partial mammography **should** be recorded when the participant:
 - could not be positioned correctly (due to being in a wheelchair, or for other mobility issues)
 - had an implanted medical device that affected the ability to scan breast tissue
 
-A partial mammography **should not** be recorded when too few images were taken and another appointment could be arranged to take more. Grasping this concept was crucial for us as a design team when trying to understand the current setup.
+A partial mammography **should not** be recorded when too few images were taken and another appointment could be arranged to take more. So if one of the scenarios above does occur but the participant is willing and able to come back to try again, then it is not a partial mammography.
+
+Grasping this concept was crucial for us as a design team when trying to understand the current setup.
 
 Partial mammography also does not apply when:
 
@@ -51,7 +53,7 @@ Partial mammography also does not apply when:
 
 In everyday language, 'partial' often refers to a process you've started and intend to finish. You partially boil potatoes, partially pay off your mortgage, or have partially mowed your lawn.
 
-However the partial mammography definition in the guidance relates to the amount of breast tissue scanned, rather than the completeness of the appointment.
+However the partial mammography definition in the guidance relates to the amount of breast tissue scanned.
 
 > If the examining mammographer believes that at least half of the breast can be demonstrated on one or more views of the routine examination, these views should provide sufficient useful information to be reported as a screening mammogram.
 
@@ -69,7 +71,6 @@ Official guidance is to report a technical recall for cases where participants c
 - use the 'Partial mammography' checkbox and add a 'Film Comment', which means the case needs to be reopened if another appointment is scheduled
 
 ## Basing our service on real situations
-
 
 After talking through the various scenarios they come across during appointments we established that mammographers want a service that allows them to:
 
