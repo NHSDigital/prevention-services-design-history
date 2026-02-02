@@ -121,7 +121,7 @@ We ask users to explain why not all images were taken. Multiple reasons can be s
 
 ![Checkboxes for each of the reasons why a mammographer could not take all the images during a mammography](not-all-mammograms.png)
 
-The second question is where we remove the workaround, and empower mammographers to indicate whether or not the participant should be recalled. 
+The mammographer can then recommend whether or not the participant should be recalled.
 
 If they select yes, details can be added on timescales, such as allowing for any temporary injuries to be resolved.
 
