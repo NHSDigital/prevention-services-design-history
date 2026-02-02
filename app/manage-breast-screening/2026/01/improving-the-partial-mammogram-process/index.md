@@ -117,7 +117,7 @@ The 'Notes for reader' can be used to add extra context where necessary. Image r
 
 Selecting this option reveals several fields to collect more details.
 
-The first mirrors the options currently within NBSS covering the reasons why not all images were taken. Multiple reasons can be selected (to account for more complex scenarios), but there is just a single text box for a more detailed explanation when necessary.
+We ask users to explain why not all images were taken. Multiple reasons can be selected (to account for more complex scenarios), but there is just a single text box for a more detailed explanation when necessary.
 
 ![Checkboxes for each of the reasons why a mammographer could not take all the images during a mammography](not-all-mammograms.png)
 
