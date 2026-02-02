@@ -39,7 +39,9 @@ Partial mammography **should** be recorded when the participant:
 - could not be positioned correctly (due to being in a wheelchair, or for other mobility issues)
 - had an implanted medical device that affected the ability to scan breast tissue
 
-A partial mammography **should not** be recorded when:
+A partial mammography **should not** be recorded when too few images were taken and another appointment could be arranged to take more. Grasping this concept was crucial for us as a design team when trying to understand the current setup.
+
+Partial mammography also does not apply when:
 
 - there has been a technical failure with X-ray equipment that prematurely ended the appointment
 - there's a limited amount of tissue to be scanned (for example, if the participant has had a unilateral mastectomy)
