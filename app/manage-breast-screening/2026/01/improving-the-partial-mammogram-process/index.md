@@ -131,7 +131,11 @@ If they select no, a 'partial mammography' is recorded. We're retaining the curr
 
 ![Options asking whether a participant should be recalled, with 'no' selected](partial-mammography.png)
 
-As a fundamental change in how the screening process works, this is something we will need to put to national policy and clinical assurance teams. The initial support from the subject matter experts we work closely with suggests this is a long overdue improvement so we are hopeful these discussions will be positive.
+These new options aim to keep follow-up appointments distinct from 'technical recalls'. These are primarily used by image readers to request new images when the mammograms they are reviewing are not of sufficient quality.
+
+Technical recalls are something all breast screening offices are keen to avoid. They cause hassle, anxiety and extra radiation for participants, and undue pressure on busy screening teams. Local targets are in place that aim to keep technical recalls to a minimum.
+
+As an adjustment to how the screening process works, this is something we will need to put to national policy and clinical assurance teams. The initial support from the subject matter experts we work closely with suggests this is a long overdue improvement so we are hopeful these discussions will be positive.
 
 After continuing, the detail provided is included within the [appointment summary screen](/manage-breast-screening/2025/12/checking-information-collected-during-an-appointment/).
 
