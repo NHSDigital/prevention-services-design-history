@@ -14,7 +14,9 @@ tags:
 
 We've been looking into what happens when a mammographer does not get to take all the images they wanted to during a breast screening appointment.
 
-Sometimes this is known as a 'partial mammogram'. Sometimes it is not. This ambiguity has posed some unexpectedly complicated service and content design challenges.
+Sometimes this is known as a 'partial mammography', but in some circumstances it is not. 
+
+This has to do with how much off the breast has been scanned rather than (as we wrongly assumed) the completeness of the appointment.
 
 ## To partial, or not to partial
 
