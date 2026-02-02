@@ -30,7 +30,9 @@ The National Breast Screening System (NBSS) gives users a checkbox and a reason 
 
 [Guidance on partial or incomplete screening mammography](https://www.gov.uk/government/publications/breast-screening-guidance-on-partial-or-incomplete-screening-mammography/breast-screening-guidance-on-partial-or-incomplete-screening-mammography) explains when this should and should not be used.
 
-A partial mammography **should** be recorded when the participant:
+A partial mammography indicates that enough images have been taken and the client is not coming back for more. This is reflected in the screening results letter sent to the participant, which explains that an assessment has been made based on a 'partial' scan of their breasts.
+
+Partial mammography **should** be recorded when the participant:
 
 * withdrew their consent (after at least one mammogram is taken)
 * couldn't cooperate (usually due to learning or language difficulties)
