@@ -103,7 +103,11 @@ We have avoided using the term 'partial' at this stage. It comes with a lot of b
 
 ### Imperfect, but best possible images
 
-This formalises the BPI annotation often written on screening forms.
+Despite every effort, mammographers can sometimes struggle to adequately position participants due to their physical or mental health. 
+
+In an effort to avoid these images being marked as a technical recall, they often write "best possible images" (or "BPI") on the participant sheet to communicate to the reader that a recall may not result in any clearer views.
+
+We've formalised this with a checkbox, allowing mammographers to record their recommendation that a recall would be unproductive.
 
 The 'Notes for reader' can be used to add extra context where necessary. Image readers will still have the option to request a technical recall, but clearly presenting the opinion of the mammographer will help them to weigh up the pros and cons of doing so.
 
