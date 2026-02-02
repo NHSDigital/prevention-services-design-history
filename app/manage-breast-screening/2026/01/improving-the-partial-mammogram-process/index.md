@@ -60,7 +60,7 @@ This definition is repeated in the [Ionising Radiation (Medical Exposures) Regul
 
 ### The point of confusion
 
-Our research uncovered a significant flaw in the current process. NBSS does not provide mammographers with a standard way to indicate when more breast tissue needs to be scanned and the participant needs to be invited back to finish their examination.
+Our research uncovered a significant gap in the current process. NBSS does not provide mammographers with a standard way to indicate when more breast tissue needs to be scanned and the participant needs to be invited back to finish their examination.
 
 Breast screening offices (BSOs) use a variety of inefficient (and potentially clinically unsafe) workarounds to record this. Mammographers may:
 
