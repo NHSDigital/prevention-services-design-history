@@ -1,7 +1,7 @@
 ---
 title: Improving the partial mammogram process
 description: We've been looking into what happens when a mammographer does not take all the images they wanted to during a breast screening appointment.
-date: 2026-01-29
+date: 2026-02-02
 author: Danny Chadburn
 opengraphImage:
   src: /manage-breast-screening/2026/01/improving-the-partial-mammogram-process/additional-details.png
@@ -14,7 +14,7 @@ tags:
 
 We've been looking into what happens when a mammographer does not get to take all the images they wanted to during a breast screening appointment.
 
-Sometimes this is known as a 'partial mammography', but in some circumstances it is not. 
+Sometimes this is known as a 'partial mammography', but in some circumstances it is not.
 
 This has to do with how much off the breast has been scanned rather than (as we wrongly assumed) the completeness of the appointment.
 
@@ -34,17 +34,16 @@ A partial mammography indicates that enough images have been taken and the clien
 
 Partial mammography **should** be recorded when the participant:
 
-* withdrew their consent (after at least one mammogram is taken)
-* couldn't cooperate (usually due to learning or language difficulties)
-* could not be positioned correctly (due to being in a wheelchair, or for other mobility issues)
-* had an implanted medical device that affected the ability to scan breast tissue
+- withdrew their consent (after at least one mammogram is taken)
+- couldn't cooperate (usually due to learning or language difficulties)
+- could not be positioned correctly (due to being in a wheelchair, or for other mobility issues)
+- had an implanted medical device that affected the ability to scan breast tissue
 
 A partial mammography **should not** be recorded when:
 
-* there has been a technical failure with X-ray equipment that prematurely ended the appointment
-* there's a limited amount of tissue to be scanned (for example, if the participant has had a unilateral mastectomy)
-* all breast tissue could not be scanned due to breast implants
-
+- there has been a technical failure with X-ray equipment that prematurely ended the appointment
+- there's a limited amount of tissue to be scanned (for example, if the participant has had a unilateral mastectomy)
+- all breast tissue could not be scanned due to breast implants
 
 ### Partially mixed messages
 
@@ -64,8 +63,8 @@ Our research uncovered a significant flaw in the current process. NBSS does not 
 
 Breast screening offices (BSOs) use a variety of inefficient (and potentially clinically unsafe) workarounds to record this. Mammographers may:
 
-* communicate with image readers through the 'Film Comment' text field suggesting they should report the case as a 'Technical recall' to trigger a follow-up appointment invite
-* use the 'Partial mammography' checkbox and add a 'Film Comment', which means the case needs to be reopened if another appointment is scheduled
+- communicate with image readers through the 'Film Comment' text field suggesting they should report the case as a 'Technical recall' to trigger a follow-up appointment invite
+- use the 'Partial mammography' checkbox and add a 'Film Comment', which means the case needs to be reopened if another appointment is scheduled
 
 ## Basing our service on real situations
 
@@ -103,7 +102,7 @@ We have avoided using the term 'partial' at this stage. It comes with a lot of b
 
 ### Imperfect, but best possible images
 
-Despite every effort, mammographers can sometimes struggle to adequately position participants due to their physical or mental health. 
+Despite every effort, mammographers can sometimes struggle to adequately position participants due to their physical or mental health.
 
 In an effort to avoid these images being marked as a technical recall, they often write "best possible images" (or "BPI") on the participant sheet to communicate to the reader that a recall may not result in any clearer views.
 
@@ -145,13 +144,13 @@ After continuing, the detail provided is included within the [appointment summar
 
 As long as one image has been taken during the mammogram, the case will still be sent to image readers for review. Even when recalls are requested, images should still be reviewed within a 14 day window just in case a follow-up appointment does not take place.
 
-Radiologists will see the images, along with a summary of any issues encountered during the appointment. 
+Radiologists will see the images, along with a summary of any issues encountered during the appointment.
 
-*Note: We are in the early stages of developing the image reading side of our service and these screenshots are early drafts.*
+_Note: We are in the early stages of developing the image reading side of our service and these screenshots are early drafts._
 
-![The image reader opinion screen showing image quality details recorded by a mammographer](review-imperfect.png  "Based on the 'Image quality' note, the reader could decide they are good enough for them to give an opinion ('Normal' or 'Recall for assessment'). Or, they could choose to request a technical recall for one or more images.")
+![The image reader opinion screen showing image quality details recorded by a mammographer](review-imperfect.png "Based on the 'Image quality' note, the reader could decide they are good enough for them to give an opinion ('Normal' or 'Recall for assessment'). Or, they could choose to request a technical recall for one or more images.")
 
-![The image reader opinion screen showing details on an incomplete mammography recorded by a mammographer](review-incomplete.png  "In this scenario, the reader is asked to give their opinion on the images the mammographer was able to take, in the knowledge that more images are due to be coming from another appointment. If they deem the images that were taken to not be of good enough quality, they could still request a technical recall and specify which mammograms need to be retaken when the participant returns.")
+![The image reader opinion screen showing details on an incomplete mammography recorded by a mammographer](review-incomplete.png 'In this scenario, the reader is asked to give their opinion on the images the mammographer was able to take, in the knowledge that more images are due to be coming from another appointment. If they deem the images that were taken to not be of good enough quality, they could still request a technical recall and specify which mammograms need to be retaken when the participant returns.')
 
 ## Initial user reactions
 
