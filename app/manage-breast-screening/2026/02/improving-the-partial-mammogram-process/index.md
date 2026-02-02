@@ -95,9 +95,9 @@ We have avoided using the term 'partial' at this stage. It comes with a lot of b
 
 ### Imperfect, but best possible images
 
-Despite every effort, mammographers can sometimes struggle to adequately position participants due to their physical or mental health.
+Despite every effort, mammographers can sometimes struggle to adequately position participants with physical or mental health conditions. For example, it could take two staff members more than 30 minutes to get a set of images taken, and they may still come out as substandard.
 
-In an effort to avoid these images being marked as a technical recall, they often write "best possible images" (or "BPI") on the participant sheet to communicate to the reader that a recall may not result in any clearer views.
+To avoid these images being marked as a technical recall, they often write "best possible images" (or "BPI") on the participant sheet to communicate to the reader that a recall may not result in any clearer views.
 
 We've formalised this with a checkbox, allowing mammographers to record their recommendation that a recall would be unproductive.
 
