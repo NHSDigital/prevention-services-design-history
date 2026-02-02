@@ -43,7 +43,6 @@ A partial mammography **should not** be recorded when:
 * there's a limited amount of tissue to be scanned (for example, if the participant has had a unilateral mastectomy)
 * all breast tissue could not be scanned due to breast implants
 
-This final point is the one that has led to the most head-scratching across our service design team.
 
 ### Partially mixed messages
 
