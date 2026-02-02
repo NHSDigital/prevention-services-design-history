@@ -42,7 +42,6 @@ A partial mammography **should not** be recorded when:
 * there has been a technical failure with X-ray equipment that prematurely ended the appointment
 * there's a limited amount of tissue to be scanned (for example, if the participant has had a unilateral mastectomy)
 * all breast tissue could not be scanned due to breast implants
-* imaging was not completed, but another appointment is being arranged to finish the screening
 
 This final point is the one that has led to the most head-scratching across our service design team.
 
