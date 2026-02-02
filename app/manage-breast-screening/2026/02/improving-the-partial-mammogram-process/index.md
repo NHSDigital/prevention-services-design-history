@@ -77,15 +77,6 @@ After talking through the various scenarios they come across during appointments
 
 Achieving point 2 will allow us to negate the need for workarounds, and pass the responsibility of requesting appointments to take more images to mammographers rather than radiologists or admin staff. As the ones who were there when the images were taken, they are in the best possible position to give a professional opinion on whether this is necessary.
 
-### Removing the technical recalls conflict
-
-By creating a separate way to recommend follow-up appointments, we can keep the 'Technical recall' function to its original purpose. It should be for image readers to request new appointments when the mammograms they are reviewing are not of sufficient quality. This could be because they are blurry, have artefacts (such as hair, dust or clothing) obscuring the view, or do not show enough breast tissue for an accurate assessment to be made.
-
-Technical recalls are something all breast screening offices are keen to avoid. They cause hassle, anxiety and extra radiation for participants, and undue pressure on busy screening teams. Local targets are in place that aim to keep technical recalls to a minimum.
-
-In an effort to keep these numbers down, mammographers often write "best possible images" (or "BPI") on the participant sheet to communicate to the reader that a recall may not result in any clearer views. Despite every effort, they sometimes struggle to adequately position participants due to their physical or mental health. It can be disheartening to see them return for a 'technical recall' a few days later if a reader has not seen or agreed with their previous appointment note.
-
-The decision ultimately lies with the reader, however mammographers are keen on a better way to record their recommendation that a recall would be unproductive.
 
 ## Straightforward options, separate outcomes
 
