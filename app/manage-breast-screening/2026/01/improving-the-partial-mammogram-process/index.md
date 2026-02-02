@@ -52,7 +52,7 @@ However the partial mammography definition in the guidance relates to the amount
 
 > If the examining mammographer believes that at least half of the breast can be demonstrated on one or more views of the routine examination, these views should provide sufficient useful information to be reported as a screening mammogram.
 
-Grasping this concept is crucial to understanding the current setup. Partial mammography applies when the 'examination' is incomplete, but the 'event' has concluded.
+Partial mammography applies when the 'examination' is incomplete, but the 'event' has concluded.
 
 This definition is repeated in the [Ionising Radiation (Medical Exposures) Regulations 2017 (IR(ME)R)](https://www.gov.uk/government/publications/ionising-radiation-medical-exposure-regulations-2017-guidance/guidance-to-the-ionising-radiation-medical-exposure-regulations-2017). There it provides a justification for getting enough information to assess a participant while minimising their radiation dose.
 
