@@ -54,7 +54,7 @@ We know that some users will have relatively simple smoking histories. For examp
 We also need to design a journey that accommodates users who cannot remember exact dates or details of their smoking history. We created mindset segmentations to help us understand the needs of the users we are designing for.  The 3 mindsets we created are:  
 
 - I want to do the right thing, just don’t make me feel judged or confused 
-- My smoking life is complicated, and I want that to be reflected 
+- my smoking life is complicated, and I want that to be reflected 
 - I’ll do it if it feels worthwhile, legitimate, and joined-up 
 
 A participant could have one of these mindsets, a combination of all 3, or move between them at different points in their journey. They aren't necessarily relevant to all participants, but they provide a useful reference point when designing our questions. 
@@ -95,7 +95,7 @@ The opposite could also be true. If we consistently under-estimate the amount of
 
 Finally, someone could stop engaging with the lung cancer screening programme altogether if they feel like our service isn’t worth their time. Or if they don’t understand the benefit of completing the questionnaire. Someone might also withdraw from the service if it makes them feel judged, or if the questions are confusing. 
 
-![Diagram with orange squares outlining the impacts on users of how we ask for information about their smoking history. With subsequent impacts on the lung cancer screening programme.](mapping-impacts.png "We mapped the possible impacts on users of how we ask for information about their smoking history")
+![Diagram with 3 columns outlining the impacts on users and the lung cancer screening programme of different ways of asking participants about their smoking history.](mapping-impacts.png "We mapped the possible impacts on users of how we ask for information about their smoking history")
 
 ## Quantifying smoking is an imperfect science 
 
@@ -126,11 +126,11 @@ But we know from our user research that not everyone will recall their smoking h
 
 In our latest designs we ask users to tell us how frequently they smoke: daily, weekly, and monthly. This question allows users to give us more accurate information. For example, users who only smoke on the weekends can select ‘weekly’. In our previous designs we were overestimating the amount they smoked by assuming they smoked the same amount every day.  
 
-![Design asking users 'How often do you smoke cigars?' with 3 radio options for daily, weekly, and monthly.](Cigars-how-often.png "Design for asking users how often they smoke cigars. The options are daily, weekly, and monthly. Hint text for weekly gives an example of ‘at the weekend’. For monthly the hint text tells users to ‘select this option if you smoke cigars once a month, or once every few months.’")
+![Design asking users 'How often do you smoke cigars?' with 3 radio options for daily, weekly, and monthly.](Cigars-how-often.png "Design asking users how often they smoke cigars. The options are daily, weekly, and monthly. Hint text for weekly gives an example of ‘at the weekend’. For monthly the hint text tells users to ‘select this option if you smoke cigars once a month, or once every few months.’")
 
 We then ask users to tell us how much tobacco they normally smoke a day, week, month or year. The question will change depending on how often they told us they smoked. In our initial designs we asked users what they smoked 'on a regular basis’ but this caused a lot of confusion. Regular could mean very different things, and users were concerned that they wouldn’t answer the question correctly. Changing the language to ‘normally’ has helped reduce confusion. 
 
-![Design asking users 'Roughly how many cigarettes do you currently smoke in a normal day?'.](Cigarettes-normal-amount.png "Design for asking users a rough estimate of the number of cigarettes they smoke in a normal day. The question will change based on their previous answer. If they answered ‘weekly’ to how often they smoke, the question will ask how many cigarettes they smoke a week.")
+![Design asking users 'Roughly how many cigarettes do you currently smoke in a normal day?'.](Cigarettes-normal-amount.png "Design asking users a rough estimate of the number of cigarettes they smoke in a normal day. The question will change based on their previous answer. If they answered ‘weekly’ to how often they smoke, the question will ask how many cigarettes they smoke a week.")
 
 In previous designs we asked users to tell us the highest and the lowest amount of tobacco they smoked. These didn’t work for users because it felt too abstract. Participants didn’t often think about their smoking history in terms of the most, or least amount of tobacco they smoked.  
 
@@ -147,6 +147,6 @@ If they select either of the bottom 2 options they won’t be asked any further 
 
 We include the option for them to tell us that they stopped smoking so that they feel able to share an accurate history of their smoking. It also helps distinguish between smoking fewer cigarettes, but still smoking, and stopping smoking altogether.  
 
-![Design asking users 'Has the number of cigarettes you normally smoke changed over time?'.](Cigarettes-changed.png "Design for asking users if the number of cigarettes they smoke changed over time. The content specifying the number of cigarettes, ‘20 cigarettes a day’, is taken from their answers to previous questions. ")
+![Design asking users 'Has the number of cigarettes you normally smoke changed over time?'.](Cigarettes-changed.png "Design asking users if the number of cigarettes they smoke changed over time. The content specifying the number of cigarettes, ‘20 cigarettes a day’, is taken from their answers to previous questions. ")
 
 These designs will never be ‘done’, we’ll continue to iterate and improve them. But in the spirit of ‘perfect being the enemy of good’ we'll decide on designs that we think are good enough for pilot.  We’ll learn more from the data we collect during pilot, hearing from participants, and testing our designs with users in interviews and site visits. 
