@@ -45,7 +45,7 @@ When users are logged in, we could reduce the number of questions asked, as we a
 
 The ‘What do you need help with?’ question is there to both help the support team triage the contacts, and also to give us some data on what things people are contacting us about. We have selected categories based on what we know of previous support queries, but may change this in future as we learn more. A ‘Something else’ option is included for anything not covered by the other options.
 
-At the top of the form, we have included some links to our guidance pages. Previous research has indicated that not all users know about this content, so these links aim to help users avoid needing to contact us where possible.
+At the top of the form, we have included some links to our guidance pages. Previous research has indicated that not all users know about this content. These links aim to help users find the answer to their question without having to contact us. 
 
 ## Contacting us when logged out
 
