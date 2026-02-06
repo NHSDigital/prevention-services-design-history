@@ -1,6 +1,6 @@
 ---
 title: Changing how users can contact us
-date: 2026-02-04
+date: 2026-02-06
 description: How we are replacing a phone number and email address with a contact form.
 tags:
   - support
