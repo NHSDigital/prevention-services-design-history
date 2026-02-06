@@ -62,7 +62,7 @@ To enable this, we’ve designed a version of the same form which adds additiona
 
 ## Next steps
 
-We plan to develop our support form in time for the start of the next seasonal vaccination campaign in September 2026.
+We plan to develop our support form in time for the start of the next flu vaccination campaign in September 2026.
 
 In the meanwhile there will be a period where we link to the external form on the customer support portal instead.
 
