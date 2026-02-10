@@ -1,6 +1,6 @@
 ---
-title: Insights from the Diabetic Eye Screening programme (DESP) 
-description: Co-Design Operational Challenges and Improvement Opportunities
+title: Co-designing better diabetic eye screening - insights from frontline providers
+description: Co-Design operational challenges and improvement opportunities
 date: 2026-02-10
 author: Harleen Kaur Dhillon
 tags:
@@ -25,7 +25,7 @@ Across the sessions, discussion was structured around three core themes:
 
 - DESPs described several operational challenges that introduce friction into everyday service delivery and increase reliance on manual workarounds.
 
-- Technical issues with message excahnge for social care and health (MESH) were highlighted as a significant operational burden. These issues resulted in the need to purchase additional infrastructure, including a server, with CaaS required to investigate and support resolution. 
+- Technical issues with message exchange for social care and health (MESH) were highlighted as a significant operational burden. These issues resulted in the need to purchase additional infrastructure, including a server, with CaaS required to investigate and support resolution. 
 
 - Limited visibility of patient needs also impacts frontline delivery. DESPs do not consistently know whether a patient has learning disabilities or is wheelchair bound, making it harder to plan reasonable adjustments and deliver accessible screening services.
 
