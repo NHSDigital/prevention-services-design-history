@@ -26,13 +26,13 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.2",
-    "@x-govuk/nhsuk-eleventy-plugin": "^1.0.6",
+    "@x-govuk/nhsuk-eleventy-plugin": "^1.1.1",
     "http-server": "^14.1.1"
   },
   "devDependencies": {
     "@x-govuk/eslint-config": "^0.0.1",
-    "prettier": "^3.6.2",
-    "stylelint": "^16.25.0",
+    "prettier": "^3.8.1",
+    "stylelint": "^16.26.1",
     "stylelint-config-gds": "^2.0.0"
   },
   "private": true,

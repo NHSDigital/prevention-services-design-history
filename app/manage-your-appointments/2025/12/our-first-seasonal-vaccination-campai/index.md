@@ -1,0 +1,66 @@
+---
+title: "What we learnt from our first seasonal vaccination campaign"
+date: 2025-12-19
+tags:
+  - pharmacies
+  - appointments
+---
+
+This autumn was the first time providers used Manage your appointments (MYA) to set up their seasonal vaccination appointment slots. In both the lead-up to and during the campaign, we gathered lots of feedback. 
+
+We:
+- visited 15 sites in person
+- ran roughly 25 online research sessions
+- analysed 326 survey responses submitted via the feedback banner
+- combed through around 700 service desk tickets
+- reviewed the Q&As from 12 training webinars attended by about 1,000 MYA users
+
+We learnt a lot. Here are some of the problems we’ve found and the opportunities for improving the service.
+
+### Making it possible to edit and delete multiple sessions
+Currently users can create multiple sessions but if they want to cancel or edit those sessions, they have to go through one by one. This means that if a site makes a mistake when setting up their schedule, or needs to make a change to it during the campaign, they are faced with a time consuming and repetitive task. 
+
+For example, if a site has set up sessions running from 9.30am to 5pm every weekday from 1 October to 31 December, and needs to change them all, they would have to repeat the same process 66 times. 
+
+
+### Allowing users to edit sessions in full, not just reduce capacity
+Currently, users can remove vaccination services from sessions, reduce the capacity (number of vaccinators) and reduce the length of the session. There’s no way to add services, or increase the capacity or length of the session. 
+
+This means that if a site removes a service because they have run out of stock, they have no way of re-adding it once they receive a delivery. Their only option is to create a new session, which effectively creates an entirely new set of appointment slots in addition to what they have already. For sites with 1 vaccinator, this can result in double bookings they’re not staffed for.
+
+### Helping users get to today’s appointments more quickly
+Seeing the list of today’s appointment is a top task for our users. But at the moment users have to navigate through the month and week view to get to it, which involves lots of scrolling and clicking. 
+
+
+### Aligning with how sites manage availability by enabling them block out pockets of time
+Rather than creating individual one-off vaccination sessions, many pharmacies take the approach of ‘open for appointments by default, closed when necessary’. This means they create a schedule of vaccination sessions which roughly mirror their opening hours, and then look to remove pockets of time from the schedule when something comes up which means they’re no longer available. That could be needing the consultation room for another service, like a blood pressure check, or emergency contraception. Or, it could simply be they need to attend a meeting, catch up on other work, or have a break. Currently, there’s no way for users to block out time or add breaks to MYA, which means some sites can’t work in the way they want to.
+
+
+### Supporting vaccination providers to support the public
+Visiting providers in person highlighted the important role they play helping the public with their vaccination appointments. Often people call the site they’ve booked with to check when their appointment is. At the moment it’s very difficult for staff to give them a quick answer because there’s no way for them to search for individual appointments. 
+
+There are also many people who cannot book an appointment online. Often they call or visit their preferred location to book an appointment. Some of our users handle this by running a separate paper booking system for these appointments, but this creates the risk of double booking because they cannot block these appointments out in MYA.
+
+
+### Rethinking how sites set session capacity
+When users create a session in MYA they can set the capacity, the total vaccinators they will have for the session, at anything between 1 and 99. This then determines how many appointments run simultaneously. If they choose a capacity of 1, they will have 1 appointment at a time, if they choose a capacity of 2, they’re making 2 appointments available at the same time, and so on. 
+
+While this is useful for larger vaccination centres with multiple vaccinators, many sites only ever have capacity to do one vaccination at a time. For those sites the way we currently approach capacity can cause problems. 
+
+Some sites have accidentally created significantly more capacity than they have. Usually this is the result of mis-understanding the question ‘How many vaccinators or vaccination spaces do you have?’ and not realising your answer changes the number of appointment slots being created. 
+
+Solving this is tricky, because some sites have multiple vaccinators but only one consultation room, and others have the reverse. One option we’re investigating is limiting the capacity for a session to one, but creating a simple way for sites to copy those sessions.
+
+
+### Reducing unnecessary logins
+Currently users are logged out of MYA 60 minutes after they log in, regardless of when they last used the service. That means if they need to use MYA throughout a working day that runs from 9.30am to  6pm they need to login in 9 times each day. This is time consuming and frustrating for users.
+
+
+### Reducing double entry
+For staff working in the NHS, double entry is a fact of life, so much so users do not often bring it up unless prompted. 
+
+That said, from what we’ve seen at sites, and when we’ve asked people directly, it’s clear that asking users to provide details when booking their appointment, only for the same details to be asked for again when the vaccinator is recording the vaccination, is a poor use of time and a poor experience for the public.
+
+
+### Making vaccination service names clearer
+Vaccination services in MYA have quite different names from what the public sees when they book. One service name in MYA ‘Flu and Covid 65+’ caused a lot of confusion because the eligibility for Covid is now 75+ unless you are severely immunosuppressed. Getting these names right is surprisingly tricky given all the different permutations of co-administration, vaccine types and cohorts, but it’s something we need to look at again next year. 

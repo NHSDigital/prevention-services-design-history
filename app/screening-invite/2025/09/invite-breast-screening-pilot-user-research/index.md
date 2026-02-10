@@ -3,7 +3,7 @@ title: Testing digital breast screening invites
 description: User research findings from Team Invite’s digital-first breast screening invitations pilot December 2024 – February 2025
 date: 2025-09-04
 tags:
-  - appointmetns
+  - appointments
 ---
 
 Team Invite is working on inviting people to breast screening appointments using the NHS App notifications, a text message or a letter if both digital channels are unsuccessful.

@@ -1,7 +1,7 @@
 ---
 layout: hub
-title: Mission patches
-description: Archive of patches created to celebrate milestones in the development of our different services
+title: Mission patches and other stickers
+description: Archive of mission patches and other stickers created to celebrate the milestones and support our culture
 tags:
   - reference
 eleventyComputed:
@@ -29,7 +29,17 @@ groups:
         date: 2025-04-09
         image:
           alt: Mavis ‘doubles’ mission patch
-          src: mavis-doubles-mission-patch.png
+          src: mavis-doubles-private-beta-mission-patch.png
+      - description: The mission patch for the CHIS (child health information services) discovery features Mavis howling to notify nearby polar bears about an unvaccinated cub. She does so by standing atop a block of cheese (sounds like ‘chis’).
+        date: 2025-12-18
+        image:
+          alt: Mavis CHIS discovery mission patch
+          src: mavis-chis-discovery-mission-patch.png
+      - description: The mission patch for the release supporting seasonal flu vaccinations features Mavis and her 2 cubs getting their boosters; [one with a doughnut, another with a diamond](/manage-vaccinations-in-schools/2025/09/flu-recording/).
+        date: 2025-12-18
+        image:
+          alt: Mavis flu private beta mission patch
+          src: mavis-flu-private-beta-mission-patch.png
   - title: Record a vaccination
     description: The team chose a hare as their mascot because they’re able to make big leaps forward.
     columns: 3
@@ -68,10 +78,6 @@ groups:
         image:
           alt: Autumn/Winter 2025 mission patch
           src: vaccinations-autumn-winter-campaign-2025.png
-      - description: This sticker celebrated the VDS Ideas Summit event on 30 October 2025
-        image:
-          alt: VDS Ideas Summit 2025
-          src: vds-ideas-summit-2025.png
   - title: Breast screening programme
     description: This mission patch celebrates the breast screening programme with our two fierce hyenas. Hyenas are powerful, fierce, matriarchal and resilient, just like us.
     columns: 3
@@ -82,7 +88,7 @@ groups:
         image:
           alt: Breast screening programme mission patch
           src: hyenas-mission-patch-2025.png
-  - title: Print specifications
+  - title: Mission patch print specifications
     description: >
       We use [Diginate](http://diginate.com) to print our stickers. Recommended specifications:
 
@@ -96,4 +102,34 @@ groups:
       <h2>Templates</h2>
       [Template for Illustrator](nhs-mission-patch-template.ai)<br>
       [Template for Sketch](nhs-mission-patch-template.sketch)
+  - title: Other stickers
+    description: Stickers we’ve created for events and to show our values.
+    columns: 3
+    type: "secondary"
+    items:
+      - description: Digital prevention services winter event 2025.
+        image:
+          alt: Yellow shield with rainbow, NHS logo, syringe, heart-rate symbol, magnifying glass icons, blue heart with hands, blue ribbons reading Digital prevention services, light blue background
+          src: dpsp-shield.png
+      - description: Be bold.
+        image:
+          alt: Yellow rectangle reading 'Be bold'
+          src: dpsp-be-bold.png
+      - description: Sickness to prevention.
+        image:
+          alt: Orange rectangle reading 'Sickeess to prevention', an arrow is crossing out 'sickness' and pointing to 'prevention'
+          src: dpsp-sickness-to-prevention.png
+      - description: Digital prevention services.
+        image:
+          alt: Yellow circle reading 'Digital prevention services'
+          src: dpsp-donut.png
+      - description: Work in the open.
+        image:
+          alt: Orange square reading 'Work in the open'
+          src: dpsp-work-in-the-open.png
+      - description: This sticker celebrated the Vaccination Digital Services (VDS) Ideas Summit event on 30 October 2025
+        image:
+          alt: VDS Ideas Summit 2025
+          src: vds-ideas-summit-2025.png
+
 ---

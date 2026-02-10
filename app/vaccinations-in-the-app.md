@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: Vaccinations in the App
-description: Enabling access to vaccinations and booking via the NHS App
+title: Check and book vaccinations
+description: NHS App feature to let people see which vaccinations they need and book them
 area: vaccinations
 pagination:
   data: collections.vaccinations-in-the-app
