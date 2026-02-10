@@ -66,6 +66,7 @@ We may send some additional emails to alert users of the removal of the old inte
 
 After 30 November, we also will remove the ‘New’ tags from the header, and remove the guidance page for the old interface.
 
-
+> [!NOTE] Update
+> Removing the old interface was delayed, and took place on 27&nbsp;January&nbsp;2026.
 
 

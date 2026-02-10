@@ -1,0 +1,65 @@
+{% extends "layouts/base.njk" %}
+
+{% from "nhsuk/components/card/macro.njk" import card as nhsukCard %}
+
+{% block beforeContent %}
+  {{ nhsukBreadcrumb({
+    items: breadcrumbItems
+  }) if showBreadcrumbs }}
+{% endblock %}
+
+{% block content %}
+  {{ appDocumentHeader({
+    caption: caption,
+    title: title,
+    description: description
+  }) }}
+
+  {{ appProseScope(content) if content }}
+
+  {{ appHeading({
+    level: 2,
+    size: "l",
+    title: paginationHeading
+  }) if paginationHeading }}
+
+  {# Custom post list with team names - matching NHS card style #}
+  <div class="nhsuk-u-reading-width">
+    <ol class="nhsuk-grid-row nhsuk-card-group">
+      {% for item in pagination.items %}
+        {# Get remapped team name if available #}
+        {% set originalTeamName = item.data.eleventyNavigation.parent %}
+        {% set pathwayConfig = pathways[item.data.pathway] if item.data.pathway else null %}
+        {% set displayTeamName = pathwayConfig.teamNames[originalTeamName] if pathwayConfig and pathwayConfig.teamNames and pathwayConfig.teamNames[originalTeamName] is defined else originalTeamName %}
+        
+        {# Build metadata line - skip team name if empty string #}
+        {% if displayTeamName %}
+          {% set metadataHtml = "<p class='nhsuk-body-s nhsuk-u-secondary-text-color nhsuk-u-margin-bottom-2'>" + (item.date | govukDate) + " · " + displayTeamName + "</p>" %}
+        {% else %}
+          {% set metadataHtml = "<p class='nhsuk-body-s nhsuk-u-secondary-text-color nhsuk-u-margin-bottom-2'>" + (item.date | govukDate) + "</p>" %}
+        {% endif %}
+        
+        <li class="nhsuk-grid-column-full nhsuk-card-group__item">
+          {{ nhsukCard({
+            secondary: true,
+            heading: item.data.title,
+            headingClasses: "nhsuk-u-font-size-22 nhsuk-u-margin-bottom-2",
+            headingLevel: 3,
+            href: item.url,
+            descriptionHtml: metadataHtml + (item.data.description | markdown("inline") | safe if item.data.description else "")
+          }) | indent(6) }}
+        </li>
+      {% endfor %}
+    </ol>
+  </div>
+
+  {{ nhsukPagination({
+    classes: "nhsuk-u-reading-width",
+    previousUrl: pagination.href.previous,
+    previousPage: pagination.page.previous | length + " items",
+    nextUrl: pagination.href.next,
+    nextPage: pagination.page.next | length + " items"
+  }) if pagination.pages.length > 1 }}
+
+  {{ appRelated(related) if related }}
+{% endblock %}

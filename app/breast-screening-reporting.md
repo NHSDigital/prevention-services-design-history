@@ -1,8 +1,11 @@
 ---
 layout: collection
 title: Breast screening reporting
-description: Breast Screening Reporting is a data team, formed in July 2025. It focuses on the performance and reporting of screening services. It continues some of the work of Team Analyse.
-area: screening
+description: Improving the reporting of breast screening services with intuitive, automated dashboards
+pathway: breast-screening
+eleventyNavigation:
+  key: Breast screening reporting
+  parent: Breast screening
 pagination:
   data: collections.breast-screening-reporting
   reverse: true

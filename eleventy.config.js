@@ -57,7 +57,6 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./app/**/*.pdf')
   eleventyConfig.addPassthroughCopy('./app/**/*.sketch')
 
-
   // Nunjucks filters
   eleventyConfig.addFilter('push', (array, item) => {
     const newArray = [...array]
@@ -67,11 +66,16 @@ export default function (eleventyConfig) {
   })
 
   // Service area collections
-  for (const area of ['screening', 'vaccinations', 'personalised-prevention', 'digital-best-start']) {
+  for (const area of [
+    'screening',
+    'vaccinations',
+    'personalised-prevention',
+    'digital-best-start'
+  ]) {
     eleventyConfig.addCollection(`${area}-area`, (collection) => {
       return collection
         .getAll()
-        .filter(({ data }) => data?.area === area)
+        .filter(({ data }) => data?.area === area && !data?.pathway)
         .sort((a, b) => {
           // Promoted collection in an area should be shown first
           if (a.data.promote) return -1
@@ -81,6 +85,36 @@ export default function (eleventyConfig) {
         })
     })
   }
+
+  // Pathway collections
+  // Breast screening pathway - aggregates posts from all breast screening teams
+  eleventyConfig.addCollection('pathway-breast-screening', (collection) => {
+    return collection
+      .getFilteredByGlob([
+        'app/manage-breast-screening/**/*.md',
+        'app/breast-screening-pathway/**/*.md',
+        'app/breast-screening-reporting/**/*.md',
+        'app/explore-team/**/*.md',
+        'app/select/**/*.md',
+        'app/screening-invite/**/*.md'
+      ])
+      .sort((a, b) => a.date - b.date)
+  })
+
+  // Breast screening teams - the team index pages for this pathway
+  eleventyConfig.addCollection(
+    'pathway-breast-screening-teams',
+    (collection) => {
+      return collection
+        .getAll()
+        .filter(
+          ({ data }) =>
+            data?.pathway === 'breast-screening' &&
+            data?.layout === 'collection'
+        )
+        .sort((a, b) => a.data.title.localeCompare(b.data.title))
+    }
+  )
 
   // Service collections
   for (const service of [

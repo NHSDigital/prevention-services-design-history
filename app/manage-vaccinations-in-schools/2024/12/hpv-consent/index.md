@@ -60,4 +60,4 @@ screenshots:
         text: Confirmation (health answers need triage)
 ---
 
-The following is a snapshot of the parental consent journey as it appeared when the service launched into private beta with Coventry and Warwickshire Partnership NHS Trust on 17 December 2024.
+The following is a snapshot of the parental consent journey as it appeared when the service launched into private beta with Coventry and Warwickshire Partnership NHS Trust on 16 December 2024.

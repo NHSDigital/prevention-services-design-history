@@ -10,6 +10,12 @@ screenshots:
         text: Search for a child record
       - id: unmatched-consent-responses-link
         text: Link consent response with child record?
+  - title: "Screenshots: School moves"
+    items:
+      - id: session-with-school-moves
+        text: Session with school moves
+      - id: session-with-school-moves-out
+        text: Review children who have changed schools
   - title: "Screenshots: Session management"
     items:
       - id: sessions
@@ -82,4 +88,4 @@ screenshots:
         text: Confirmation of vaccination recorded
 ---
 
-The following is a snapshot of session management and recording HPV vaccinations when the service launched into private beta with Coventry and Warwickshire Partnership NHS Trust on 17 December 2024.
+The following is a snapshot of session management and recording HPV vaccinations when the service launched into private beta with Coventry and Warwickshire Partnership NHS Trust on 16 December 2024.

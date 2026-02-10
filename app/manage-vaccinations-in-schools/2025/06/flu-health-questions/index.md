@@ -13,7 +13,7 @@ We also provided space for parents to give teams extra information about their c
 
 ## Health questions asked for the nasal flu spray
 
-> ### Has your child been diagnosed with asthma?
+### Has your child been diagnosed with asthma?
 
 This question is used to check for any contraindications for the nasal spray.
 
@@ -29,47 +29,47 @@ Answering ‘Yes’ to this question will show the parent 2 follow up questions.
 
    Hint text: ‘This does not include visits to A&E or stays in hospital wards outside the intensive care unit’.
 
-> ### Does your child have a disease or treatment that severely affects their immune system?
+### Does your child have a disease or treatment that severely affects their immune system?
 
 This question is used to check for any contraindications for the nasal spray.
 
-> ### Is your child in regular close contact with anyone currently having treatment that severely affects their immune system?
+### Is your child in regular close contact with anyone currently having treatment that severely affects their immune system?
 
 Give details hint text: ‘Let us know if they are able to avoid contact with the immunocompromised person for 2 weeks’.
 
 This question is used to check for any contraindications for the nasal spray.
 
-> ### Does your child have a bleeding disorder or are they taking anticoagulant therapy?
+### Does your child have a bleeding disorder or are they taking anticoagulant therapy?
 
 Later in the consent journey a parent can choose to give consent for the injected vaccine if a nurse decides it should be given as an alternative.
 
 This question is used to ensure that if the injected vaccine is given, it is administered safely.
 
-> ### Has your child ever been admitted to intensive care due to a severe allergic reaction (anaphylaxis) to egg?
+### Has your child ever been admitted to intensive care due to a severe allergic reaction (anaphylaxis) to egg?
 
 This question is used to check for any contraindications for the nasal spray.
 
-> ### Has your child had a severe allergic reaction (anaphylaxis) to a previous dose of the nasal flu vaccine, or any ingredient of the vaccine?
+### Has your child had a severe allergic reaction (anaphylaxis) to a previous dose of the nasal flu vaccine, or any ingredient of the vaccine?
 
 Hint text: ‘This includes gelatine, neomycin or gentamicin’.
 
 This question is used to check for any contraindications for the nasal spray.
 
-> ### Does your child have any other medical conditions the immunisation team should be aware of?
+### Does your child have any other medical conditions the immunisation team should be aware of?
 
 This question **does not require triage**. It is used to give parents the opportunity to give any further information about the health of their child. While used for context, answers are not contraindicating.
 
-> ### Does your child take regular aspirin?
+### Does your child take regular aspirin?
 
 Hint text: ‘Also known as Salicylate therapy’
 
 This question is used to check for any contraindications for the nasal spray.
 
-> ### Has your child had a flu vaccination in the last 3 months?
+### Has your child had a flu vaccination in the last 3 months?
 
 This question is used to check or confirm whether the child needs a flu vaccination this year.
 
-> ### Does your child need extra support during vaccination sessions?
+### Does your child need extra support during vaccination sessions?
 
 The hint text is ‘For example, they’re autistic, or extremely anxious’.
 
@@ -79,23 +79,23 @@ This question **does not require triage**. It is used to help teams manage sessi
 
 ## Health questions asked for the injected flu vaccine
 
-> ### Does your child have a bleeding disorder or are they taking anticoagulant therapy?
+### Does your child have a bleeding disorder or are they taking anticoagulant therapy?
 
 This question is used to ensure that if the injected vaccine is given, it is administered safely.
 
-> ### Has your child had a severe allergic reaction (anaphylaxis) to a previous dose of the injected flu vaccine, or any component of the vaccine?
+### Has your child had a severe allergic reaction (anaphylaxis) to a previous dose of the injected flu vaccine, or any component of the vaccine?
 
 This question is used to check for any contraindications for the injected vaccine.
 
-> ### Does your child have any other medical conditions the immunisation team should be aware of?
+### Does your child have any other medical conditions the immunisation team should be aware of?
 
 This question **does not require triage**. It is used to give parents the opportunity to give any further information about the health of their child. While used for context, answers are not contraindicating.
 
-> ### Has your child had a flu vaccination in the last 3 months?
+### Has your child had a flu vaccination in the last 3 months?
 
 This question is used to check or confirm whether the child needs a flu vaccination this year.
 
-> ### Does your child need extra support during vaccination sessions?
+### Does your child need extra support during vaccination sessions?
 
 The hint text is ‘For example, they’re autistic, or extremely anxious’.
 

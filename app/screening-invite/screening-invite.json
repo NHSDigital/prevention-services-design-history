@@ -1,6 +1,6 @@
 {
   "layout": "post",
   "eleventyNavigation": {
-    "parent": "Team invite"
+    "parent": "Invite"
   }
 }
