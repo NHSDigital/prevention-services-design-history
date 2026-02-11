@@ -1,6 +1,5 @@
 ---
-title: Insights from the Diabetic Eye Screening programme (DESP)
-description: Co-Design Operational Challenges and Improvement Opportunities
+title: "Co-designing better diabetic eye screening: insights from frontline providers"
 date: 2026-02-11
 author: Harleen Kaur Dhillon
 tags:
