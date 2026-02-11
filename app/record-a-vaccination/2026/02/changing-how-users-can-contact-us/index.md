@@ -68,3 +68,5 @@ In the meanwhile there will be a period where we link to the external form on th
 
 We plan to do some research to evaluate how well the switch from the phone number and email address to the contact form works for our users.
 
+> [!NOTE] Update
+> The initial switch to the NHS national IT customer support team took place on 11 February 2026.
