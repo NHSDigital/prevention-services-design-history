@@ -1,7 +1,7 @@
 ---
 title: "Partial results"
 description: "An overview of how we improved the communication of partial or failed blood test results, focusing on clarity, reassurance, and clear next steps for users."
-date: 2026-02-04
+date: 2026-02-11
 ---
 
 ## The challenge
