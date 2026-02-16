@@ -1,6 +1,8 @@
 ---
 title: Reporting and monitoring (beta)
 date: 2023-09-18
+tags:
+  - reporting
 ---
 
 ## Bringing data and insights together

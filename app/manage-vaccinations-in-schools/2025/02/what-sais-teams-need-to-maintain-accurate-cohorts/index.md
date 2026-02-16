@@ -1,6 +1,8 @@
 ---
 title: What SAIS teams need to maintain accurate cohorts
 date: 2025-02-07
+tags:
+  - user research
 ---
 
 ## Planning school visits

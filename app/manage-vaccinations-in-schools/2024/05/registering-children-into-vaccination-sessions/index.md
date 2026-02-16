@@ -1,6 +1,8 @@
 ---
 title: Registering children’s attendance at vaccination sessions
 date: 2024-05-02
+tags:
+  - pilot
 ---
 
 When our project team observed live vaccinations in schools, we noticed that all SAIS teams registered children’s attendance at sessions before recording vaccinations. This process typically involves:

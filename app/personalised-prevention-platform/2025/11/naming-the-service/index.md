@@ -3,6 +3,8 @@ title: Naming the service (for the pilot)
 description: "How we used a structured process to choose a name for the weight management pilot."
 date: 2025-11-24
 author: Roz Strachan
+tags:
+  - service
 ---
 Before we could run a pilot, the team needed to agree on a service name that we could use in the prototype – and for things like printed materials.
 

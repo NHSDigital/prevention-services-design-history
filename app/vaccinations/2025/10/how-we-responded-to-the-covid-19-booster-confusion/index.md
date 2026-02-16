@@ -2,6 +2,9 @@
 title: How we responded to the COVID-19 booster confusion
 author: Caroline Finucane
 date: 2025-10-23
+tags:
+  - live
+  - content
 ---
 
 **This autumn, as the COVID-19 vaccination programme launched, our digital services team needed to move quickly to respond to confusion around eligibility.**

@@ -17,6 +17,9 @@ screenshots:
     - Was MenACWY given?
     - Check and confirm details
     - Record vaccinations showing vaccination
+tags:
+  - prototype
+  - MenACWY vaccine
 ---
 
 The 3-in-1 teenage booster and MenACWY vaccinations are given at the same time. We capture consent for both in the same parent journey.

@@ -1,6 +1,9 @@
 ---
 title: Notifying users about updates
 date: 2025-03-27
+tags:
+  - streamlining
+  - content
 ---
 
 We wanted to explore how we might tell RAVS users about any updates to the service which might impact them. This could include new features such as asking them to complete new fields when adding a vaccine batch, or larger scale changes such as a new streamlined journey for recording vaccinations.

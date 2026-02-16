@@ -14,6 +14,9 @@ screenshots:
     - Child details after vaccination
     - Child details after vaccination refused
     - Updated flu campaign page
+tags:
+  - prototype
+  - flu vaccine
 ---
 
 We started with a flu point of care (POC) journey because we:
