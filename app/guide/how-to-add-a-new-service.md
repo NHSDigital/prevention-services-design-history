@@ -12,6 +12,7 @@ You will need to create some files and folders based on the name of your service
 
 You’ll need to:
 
+- clone the [prevention-services-design-history](https://github.com/NHSDigital/prevention-services-design-history) repo
 - create a subfolder for the service within `app/`, for example `app/your-service-name/`.
 - inside your service’s subfolder, create a json file `your-service-name.json`, for example `app/your-service-name/your-service-name.json`. Copy an existing example for what to put in it.
 - create a Markdown file in `app/` named after the service, for example `app/your-service-name.md`. Copy an existing example and update any references to match your service. The `area` value should be set to either `screening`, `vaccinations` or `personalised-prevention`.
