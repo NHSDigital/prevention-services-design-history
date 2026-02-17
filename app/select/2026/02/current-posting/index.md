@@ -2,7 +2,6 @@
 title: "Knowing if someone lives in England or Wales matters for breast screening (and figuring that out is harder than you might think)"
 date: 2026-02-11
 tags:
-  - screening
   - breast screening
   - cohorting
   - PDS
