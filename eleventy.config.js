@@ -70,7 +70,8 @@ export default function (eleventyConfig) {
     'screening',
     'vaccinations',
     'personalised-prevention',
-    'digital-best-start'
+    'digital-best-start',
+    'managing-my-health'
   ]) {
     eleventyConfig.addCollection(`${area}-area`, (collection) => {
       return collection
@@ -148,7 +149,9 @@ export default function (eleventyConfig) {
     'smoking-cessation',
     'talking-therapies',
     // Digital best start
-    'age-related-messaging'
+    'age-related-messaging',
+    // Managing my health
+    'cohorting-as-a-service'
   ]) {
     eleventyConfig.addCollection(service, (collection) => {
       return collection.getFilteredByGlob(`app/${service}/**/*.md`)
