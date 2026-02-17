@@ -150,7 +150,7 @@ export default function (eleventyConfig) {
     'talking-therapies',
     // Digital best start
     'age-related-messaging',
-    // Managing my Health
+    // Managing my health
     'cohorting-as-a-service'
   ]) {
     eleventyConfig.addCollection(service, (collection) => {
