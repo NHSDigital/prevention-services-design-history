@@ -25,7 +25,7 @@ However, out of this workshop, we’ve come up with a first version of a glossar
 
 ### Cohorting
 
-The process of identifying a group of individuals who share specific  characteristics (be it demographic and/or clinical) at a set point in time, therefore making them eligible for a particular service. The group identified is often referred to as the ‘denominator cohort’.
+The process of identifying a group of individuals who share specific characteristics (be it demographic and/or clinical) at a set point in time, therefore making them eligible for a particular service. The group identified is often referred to as the ‘denominator cohort’.
 
 ### Segmentation
 
