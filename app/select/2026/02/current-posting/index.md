@@ -40,7 +40,7 @@ A postcode is not enough to determine where a person is resident, as postcodes c
 
 There are several pieces of underlying software that manage the selection, cohorting and data checking of those invited for screening. Many of these are being rebuilt using modern technology to use APIs (a way of sending data between software applications), and/or be cloud-based. 
 
-As part of this work, it is intended that PDS remains the single source for demographic data. However, PDS API does not show the Current Posting field (it wasn’t needed for screening use when the API was created). This means that moving to API‑only communication is not feasible unless PDS shows that field, or can provide another way to reliably identify residency (for example, by using UPRNs when they are all mapped). 
+As part of this work, it is intended that PDS remains the single source for demographic data. However, PDS API does not include the Current Posting field (it wasn’t needed for screening use when the API was created). This means that moving to API‑only communication is not feasible unless PDS includes that field, or can provide another way to reliably identify residency (for example, by using UPRNs when they are all mapped). 
 
 One of the most important things that the database does is update a person’s location information when they move house, making sure that they are invited for breast screening by the correct country if they move across the border. 
 
