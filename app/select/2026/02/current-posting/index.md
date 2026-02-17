@@ -32,7 +32,7 @@ The location information in the database currently comes in a variety of formats
 * a country code (e.g. ‘ENG’ = England) that is added when you register at a new GP surgery 
 * a GP practice code if the person is in a detained estate (e.g. prison or a mental health institution) or in the Forces and overseas  
 * some records don’t have postcodes, or have postcodes that are not valid or geographic, for example, ZZ99 
-* PDS has started mapping unique property reference numbers (UPRNs) to address records in the database and have so far reached around 80-90% of addresses – which is not a high enough percentage to be able to be used 
+* PDS has started mapping unique property reference numbers (UPRNs)[^1] to address records in the database and have so far reached around 80-90% of addresses – which is not a high enough percentage to be able to be used 
 
 A postcode is not enough to determine where a person is resident, as postcodes can serve locations in both England and Wales.  
 
