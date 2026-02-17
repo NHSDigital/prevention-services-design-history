@@ -1,6 +1,6 @@
 ---
 title: Cohort to contact in prevention – are we all talking the same language?
-description:
+description: Shared language for how we identify and contact people eligible for prevention services.
 date: 2026-02-17
 ---
 
@@ -21,7 +21,7 @@ In the workshop we explored and stress‑tested our terminology against what we 
 
 However, out of this workshop, we’ve come up with a first version of a glossary of terms for cohort to contact in prevention. Will the definitions be mutually exclusive and collectively exhaustive? Probably not, but we hope they provide a starting point for us to build a shared language and understanding upon.
 
-## Glossary of terms: cohort to contact
+## Glossary of terms – cohort to contact
 
 ### Cohorting
 
