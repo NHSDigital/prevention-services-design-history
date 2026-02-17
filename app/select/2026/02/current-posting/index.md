@@ -91,3 +91,5 @@ The Breast Screening Service cannot replace Current Posting unilaterally. Any so
 * avoid dual invitations or missed invitations 
 * support modern, API‑based screening infrastructure 
 * reduce reliance on local bespoke logic
+
+[^1]: The government has [a published standard to encourage the use of URPNs](https://www.gov.uk/government/publications/open-standards-for-government/identifying-property-and-street-information)
