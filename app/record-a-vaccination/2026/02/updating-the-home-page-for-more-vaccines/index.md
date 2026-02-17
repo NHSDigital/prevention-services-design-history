@@ -44,7 +44,7 @@ This change went live on 2 February 2026.
 
 We have since had a few users contact us to complain about no longer being able to see a detailed day by day breakdown of totals per vaccine type. Their feedback suggests that being able to see the count for ‘yesterday’ by vaccine type is particularly useful, for checking on performance and stock levels.
 
-We have also had some questions about whether the counts by day represent the date of vaccination or the date that the vaccination was recorded, which can be different if it was recorded retrospectively. Currently they are counted by date recorded, however this is not clear.
+We have also had some questions about whether the counts by day represent the date of vaccination or the date that the vaccination was recorded, which can be different if the vaccination was recorded retrospectively. Currently they are counted by date recorded, however this is not stated explicitly.
 
 ## Future considerations
 
