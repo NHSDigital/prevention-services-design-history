@@ -1,7 +1,7 @@
 ---
 layout: collection
-title: Managing my Health
-description: Managing my Health
+title: Managing my health
+description: Managing my health
 area: managing-my-health
 promote: true
 pagination:
