@@ -5,6 +5,9 @@ tags:
   - screening
   - breast screening
   - cohorting
+  - PDS
+  - residency
+  - addresses
 ---
 
 People are invited to breast screening in England based on a variety of criteria, but they must be resident in England. Wales runs its own breast screening programme, where a person must be resident in Wales to participate.  
@@ -56,7 +59,7 @@ Considerations include:
 
 * the breast screening programmes state that people must live in the country that is providing their screening service
 * transparency of logic and edge case scenario handling is crucial to minimise the clinical risk of people not being invited for screening by either country 
-* any policy change in England would need to be reflected in Wales to ensure people are not missed 
+* any policy change would need to be reflected in both countries to ensure people are not missed 
 * who is responsible for someone’s care if their residency is unknown? 
 * the ‘Current Posting’ field infers residency and also states which nation is responsible for care. Responsibility and residency could be treated independently but this needs business input across nations. 
 
