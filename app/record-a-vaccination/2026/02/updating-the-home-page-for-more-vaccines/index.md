@@ -6,17 +6,17 @@ tags:
   - reporting
 ---
 
-Around a year ago, we [introduced a new home page](/record-a-vaccination/2025/02/new-home-page/) that users see immediately after logging in to the service.
+Around a year ago, we [introduced a new home page showing vaccination totals](/record-a-vaccination/2025/02/new-home-page/) that users see immediately after logging in to the service.
 
 The home page has been well received, with users telling us that it is useful to be able to quickly see some key numbers on vaccinations recently given.
 
-As the service has grown, with more vaccines now able to be recorded, we’ve update the design to be more flexible.
+As we've added more vaccinations to the service, we’ve updated the design to make it more flexible.
 
 ## Previous design
 
 The page contained a table which showed a breakdown of the figures, with a column for each vaccine type administered by that organisation.
 
-A table below showed the same columns, but with a row per site instead.
+Another table below showed the same columns, but with a row per site instead.
 
 ![Screenshot of old home page](old-home-page.png)
 
@@ -34,7 +34,7 @@ The second tab shows totals by vaccination type, with columns for today, past 7 
 
 ![Screenshot of new home page showing 'By vaccination' tab](home-page-by-vaccination.png)
 
-The third tab shows total by site, again with columns for today, past 7 days, calendar month to date, and a total across all time. This is only shown when the organisation has recorded vaccinations at multiple sites.
+The third tab shows totals by site, again with columns for today, past 7 days, calendar month to date, and a total across all time. This is only shown when the organisation has recorded vaccinations at multiple sites.
 
 ![Screenshot of new home page showing 'By site' tab](home-page-by-site.png)
 
@@ -48,8 +48,8 @@ We have also had some questions about whether the counts by day represent the da
 
 ## Future considerations
 
-We will consider adding in columns for ‘Yesterday’ for the tables by vaccination and by site.
+We will consider adding a column for ‘Yesterday’ to the tables by vaccination and by site.
 
-We’ll also do further research to check whether or not the ‘Past 7 days’ and calendar month to date columns are definitely useful, or if these should be swapped for other time periods.
+We’ll also do further research to check whether or not the ‘Past 7 days’ and calendar month to date columns are definitely useful, or if these should be swapped for other timeframes.
 
-We’ll aim to remove the ambiguity over which date the tables are using, and may switch to counting by vaccination date instead of recording date.
+We’ll aim to remove the ambiguity over the date used in the tables, and may switch to counting by vaccination date instead of recording date.
