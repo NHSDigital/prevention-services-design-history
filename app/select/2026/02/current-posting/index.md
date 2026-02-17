@@ -46,11 +46,11 @@ One of the most important things that the database does is update a person’s l
 
 The biggest risk to consider is that a person could be missed by both nations, and so not invited to a screening appointment that they’re eligible for. Alternatively they may be invited by both nations, which goes against breast screening policy.  
 
-## Considerations for the solution  
+## How we could solve this
 
-So that the right country invites the right people for screening, a way to find out where they live is needed. 
+So that each country invites the right person for screening, we need a way to find out where people live.
 
-The considerations include: 
+Considerations include: 
 
 ### Breast screening policy 
 
