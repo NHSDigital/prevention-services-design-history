@@ -63,6 +63,46 @@ This should start with a forward slash (`/`) character:
 We previously wrote about [the pilot](/screening-invite/2025/06/invite-pilot-overview/).
 ```
 
+### Footnotes
+
+Footnotes allow you to add notes and references without interrupting the flow of your writing. When you create a footnote, a superscript number with a link appears where you added the reference.
+
+To create a footnote reference, add a caret with an identifier inside brackets `[^1]`. Identifiers can be numbers or words but they can't contain spaces or tabs.
+
+Add the footnote using another caret and number inside brackets with a colon and the associated text `[^1]: My footnote`. You don't have to put footnotes at the end of the markdown document -- that's where they will be rendered though. This can make it easier to add a footnote reference and a footnote close to each other.
+
+```md
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: This is a bigger footnote with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+```
+
+This would be displayed as:
+
+<!--
+  Breaking into HTML here and deliberately used a new namespace for the links in case someone does
+  end up using actual footnotes in this document
+-->
+Here's a simple footnote,<sup id="fnref:example:1"><a class="nhsuk-link" href="#fn:example:1" aria-describedby="footnotes-label">1</a></sup> and here's a longer one.<sup id="fnref:example:2"><a class="nhsuk-link" href="#fn:example:2" aria-describedby="footnotes-label">2</a></sup>
+
+<ol class="app-footnotes-list">
+  <li id="fn:example:1"><p class="nhsuk-body">This is the first footnote. <a class="nhsuk-link" href="#fnref:example:1" aria-label="Back to content">↩︎</a></p>
+  </li>
+  <li id="fn:example:2"><p class="nhsuk-body">This is a bigger footnote with multiple paragraphs and code.</p>
+    <p class="nhsuk-body">Indent paragraphs to include them in the footnote.</p>
+    <p class="nhsuk-body"><code class="app-code app-code--inline">{ my code }</code></p>
+    <p class="nhsuk-body">Add as many paragraphs as you like. <a class="nhsuk-link" href="#fnref:example:2" aria-label="Back to content">↩︎</a></p>
+  </li>
+</ol>
+
 ## Lists
 
 You can add bullet lists by starting each item of the list with a dash (`-`) character followed by a space. You can also use asterisks (`*`).
