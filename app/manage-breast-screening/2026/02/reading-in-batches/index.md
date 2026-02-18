@@ -133,4 +133,4 @@ Several areas remain for future work:
 - **Arbitration workflow**: The dashboard has a placeholder card for arbitration, but the workflow for resolving disagreements between readers is not yet built
 - **Viewing completed readings**: There's no way to view both readers' opinions for a single case side by side, or to see all reading activity for a participant
 - **Reporting and statistics**: No reporting pages yet
-- **Returning to sessions**: Once you leave a batch, there's no way to return to it – you'd need to create a new one - they're ephemeral
+- **Returning to sessions**: Once you leave a batch, there's no way to return to it – you'd need to create a new one - they're temporary
