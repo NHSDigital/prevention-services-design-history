@@ -40,7 +40,7 @@ We've updated the prototype to support grouping cases to read by arbitrary 'batc
 
 ## Getting users to start reading
 
-Our first prototype listed clinics in date order with a 'Start reading' shortcut to the oldest clinic. User used the 'Start reading' call to action but were then distracted while they scanned the list of clinics, making sure they were picking the oldest to read.
+Our first prototype listed clinics in date order with a 'Start reading' shortcut to the oldest clinic. In testing, users often began with the 'Start reading' call to action but were then distracted while they scanned the list of clinics, making sure they were picking the oldest to read.
 
 The new dashboard leads with a clear call to action. The primary card is 'Start reading oldest cases', which creates a batch of up to 50 cases and takes you straight in to start reading. No need to browse clinics first, or look at the list of people in the clinic. We worried in user research that users might be wary of not reading by clinic, but this clear call to action seemed to test well.
 
