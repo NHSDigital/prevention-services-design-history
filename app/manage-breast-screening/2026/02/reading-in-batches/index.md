@@ -126,7 +126,7 @@ Based on testing feedback, we made improvements to the individual case reading e
 
 Cases where prior mammograms have been requested from another screening centre are now surfaced on the dashboard. Readers can view these cases separately or include them in a custom batch.
 
-## What we're not looking at yet
+## What we've not looked at yet
 
 Several areas remain for future work:
 
