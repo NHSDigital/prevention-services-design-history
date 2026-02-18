@@ -11,7 +11,7 @@ tags:
 
 People are invited to breast screening in England based on a variety of criteria, but they must be resident in England. Wales runs its own breast screening programme, where a person must be resident in Wales to participate.  
 
-There are approximately 50 GPs on the England-Wales border that serve both countries. Someone living in Wales and someone living in England may have the same GP, but needs to be invited to separate screening programmes. 
+There are approximately 50 GPs on the England-Wales border that serve both countries. Someone living in Wales and someone living in England may have the same GP, but need to be invited to separate screening programmes. 
 
 The country responsible for a person’s care is found in a field called ‘Current posting’ in a national electronic database called [the Personal Demographics Service (PDS)](https://digital.nhs.uk/services/personal-demographics-service).
 
