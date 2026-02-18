@@ -36,6 +36,8 @@ Decoupling reading from clinics opens up lots of other future possibilities such
 
 We've updated the prototype to support grouping cases to read by arbitrary 'batches', giving us future flexibility in how cases are grouped. Batches group together a number of cases based on the criteria set - the default likely being cases where screening happened the longest ago. Fundamentally, the current process is just a batch where the cases are selected based on the criteria of which clinic they were in, so this change is just an evolution of something that already exists.
 
+(Note: 'Batch' is a temporary name we're using for this concept while we test it with users – we'll iterate on the terminology based on what resonates with them.)
+
 ## Getting users to start reading
 
 Our first prototype listed clinics in date order with a 'Start reading' shortcut to the oldest clinic. User used the 'Start reading' call to action but were then distracted while they scanned the list of clinics, making sure they were picking the oldest to read.
