@@ -111,7 +111,7 @@ The outcome column shows whether a case is waiting for a second read, whether bo
 
 ### Priority and urgency indicators
 
-We added 'due soon' and 'urgent' labels based on how long ago screening took place, shown on the dashboard and in batch lists. These are similar to existing metrics used in screening.
+We added 'due soon' and 'urgent' labels based on how long ago screening took place, shown on the dashboard and in batch lists. These are similar to existing metrics used in screening in relation to targets for providing results to participants.
 
 ### Improvements to opinion flows
 
