@@ -44,7 +44,7 @@ To help us design the questions we:
 
 Pop-up research involves conducting short informal interviews, observations or usability tests in places where the target audience typically gathers. For example, in libraries, community centres, or in our case, shisha cafes. This approach helped us get access to participants who were otherwise hard to recruit. 
 
-We observed participants smoking shisha as we spoke to them. Making it easier for them to recall details or share instances which would not have felt as natural in a planned online setting.  
+We observed participants smoking shisha as we spoke to them, making it easier for them to recall details or share instances which would not have felt as natural in a planned online setting.  
 
 Our visit to the mobile scanning unit gave us insight into the participant’s experience of their lung health check appointment. We got consent from participants to observe their appointments with the nurse, giving us a full picture of the participant’s experience.  
 
