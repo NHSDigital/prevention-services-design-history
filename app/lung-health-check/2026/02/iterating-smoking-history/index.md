@@ -52,7 +52,7 @@ Our visit to the mobile scanning unit gave us insight into the participant’s e
 
 We know that some users will have relatively simple smoking histories. For example, if someone smoked roughly the same number of cigarettes a day for most of their life. But we need to design journeys for those users with more complex smoking histories. We heard from users who might have smoked cigarettes daily for 20 years, then moved on to smoking a pipe or cigars more infrequently.  
 
-We also need to design a journey that accommodates users who cannot remember exact dates or details of their smoking history. We created mindset segmentations to help us understand the needs of the users we are designing for.  The 3 mindsets we created are:  
+We also need to design a journey that accommodates users who cannot remember exact dates or details of their smoking history. We created mindset segmentations to help us understand the needs of the users we are designing for. The 3 mindsets we created are:  
 
 - I want to do the right thing, just don’t make me feel judged or confused 
 - My smoking life is complicated, and I want that to be reflected 
