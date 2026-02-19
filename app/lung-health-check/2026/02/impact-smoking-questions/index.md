@@ -61,6 +61,4 @@ The opposite could also be true. If we consistently under-estimate the amount of
 
 Finally, someone could stop engaging with the lung cancer screening programme altogether if they feel like our service isn’t worth their time. Or if they don’t understand the benefit of completing the questionnaire. Someone might also withdraw from the service if it makes them feel judged, or if the questions are confusing.  
 
-![Diagram with orange squares outlining the impacts on users of how we ask for information about their smoking history. With subsequent impacts on the lung cancer screening programme.](mapping-impacts.png "We mapped the possible impacts on users of how we ask for information about their smoking history") 
-
 Our next design history shares how we iterated our designs based on these insights.  
