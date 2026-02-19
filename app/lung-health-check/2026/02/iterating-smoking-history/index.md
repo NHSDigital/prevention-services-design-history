@@ -21,7 +21,7 @@ Our focus has been on getting the right balance between capturing enough informa
 
 ## The information we need for the risk calculation 
 
-For the calculation, we need to know the total number of years someone has smoked tobacco. And the average number of cigarettes they currently or used to smoke a day. We also know that not everyone smokes cigarettes. We ask participants if they’ve smoked:  
+For the calculation, we need to know the total number of years someone has smoked tobacco. And the average number of cigarettes they currently smoke or used to smoke a day. We also know that not everyone smokes cigarettes. We ask participants if they’ve smoked:  
 
 - cigarettes 
 - rolling tobacco 
