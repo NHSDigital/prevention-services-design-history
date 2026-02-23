@@ -4,8 +4,8 @@ description: Looking at how we can improve our service for image readers, taking
 date: 2026-02-19
 author: Rebecca Cottrell
 opengraphImage:
-  src: /manage-breast-screening/2026/02/experimenting-with-dark-mode-for-image-readers
-  alt: tbc
+  src: /manage-breast-screening/2026/02/experimenting-with-dark-mode-for-image-readers/opinion-page.png
+  alt: The opinion page in dark mode
 tags:
   - beta
   - prototype
