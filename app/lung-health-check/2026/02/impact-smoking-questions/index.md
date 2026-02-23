@@ -13,7 +13,7 @@ For the calculation, we need to know the total number of years someone has smoke
 
 One participant told us during a research interview: “I’m always fearful of it, and I know I smoked for almost 20 years or over, the damage was done, I put junk into my body, the damage was done.” 
 
-We mapped the possible impact of different ways of asking users questions about their smoking history. We need to make sure that the questions we ask users doesn’t make someone feel judged or anxious. Not only for the obvious reason of not causing our users harm. But also because we want to keep our users engaged with our service, so they complete their lung cancer screening and can be offered a CT scan if they need one.  
+We mapped the possible impact of different ways of asking users questions about their smoking history. We need to make sure that the questions we ask users don’t make someone feel judged or anxious. Not only for the obvious reason of not causing our users harm. But also because we want to keep our users engaged with our service, so they complete their lung cancer screening and can be offered a CT scan if they need one.  
 
 We considered asking users: 
 
