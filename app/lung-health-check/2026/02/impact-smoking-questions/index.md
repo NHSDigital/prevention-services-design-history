@@ -38,7 +38,7 @@ We decided not to test questions that asked users for an average amount of tobac
 
 We learnt from our subject matter experts that trying to quantify the amount of tobacco someone has smoked is an imperfect science. The information we need for the calculation needs to be good enough to give an indication of someone’s level of risk. But it will never be perfect.  
 
-We also know that people cannot always recall their smoking history accurately. During our pop-up research with shisha smokers, we spoke to people who were smoking shisha alone. But in our questionnaire they would say they only ever smoke in a group.  
+We also know that people cannot always recall their smoking history accurately. During our pop-up research with shisha smokers, we spoke to people who were smoking shisha alone, but in our questionnaire they would say they only ever smoke in a group.  
 
 How a participant interprets questions is tied to their mental model of smoking. A user’s mental model is based on their individual background and past experiences. It can change how someone identifies. For example, as someone who ‘used to smoke’, or ‘quit smoking but still has the occasional cigarette’. A participant could answer questions honestly from memory, and still not be giving an accurate answer.  
 
