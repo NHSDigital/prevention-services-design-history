@@ -23,7 +23,7 @@ At a typical image reader’s desk, the mammograms for each participant are show
 ### Dark, light and eye strain 
 While the mammogram viewer (PACS) is on a dark background, the recording tool (NBSS) uses a light background. 
 
-To adjust to different lighting conditions, the muscles in the iris adjust the pupil size to control the amount of light entering the eye. When image readers need to look back and forth between screens, this means the eyes need to work harder to adjust to differences in brightness, which can lead to eye strain and fatigue. 
+To adjust to different lighting conditions, the muscles in the iris adjust the pupil size to control the amount of light entering the eye. When image readers need to look back and forth between screens, the eyes need to work harder to adjust to differences in brightness, which can lead to eye strain and fatigue. 
 
 ### Dark mode by default, with light mode optional
 
