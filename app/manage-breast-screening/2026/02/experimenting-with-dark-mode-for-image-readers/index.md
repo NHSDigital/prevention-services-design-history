@@ -20,7 +20,7 @@ Image readers look with great care for problems that can show up on mammograms, 
 
 At a typical image reader’s desk, the mammograms for each participant are shown in a viewer on one screen, and a tool for recording notes and opinions is shown on a separate screen. Our design history on [understanding image reading](/manage-breast-screening/2025/04/understanding-image-reading/) shows this setup and gives more context about image reading.
 
-## Dark, light and eye strain 
+### Dark, light and eye strain 
 While the mammogram viewer (PACS) is on a dark background, the recording tool (NBSS) uses a light background. 
 
 To adjust to different lighting conditions, the muscles in the iris adjust the pupil size to control the amount of light entering the eye. When image readers need to look back and forth between screens, this means the eyes need to work harder to adjust to differences in brightness, which can lead to eye strain and fatigue. 
