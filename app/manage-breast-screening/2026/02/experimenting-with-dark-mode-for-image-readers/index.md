@@ -25,7 +25,7 @@ While the mammogram viewer (PACS) is on a dark background, the recording tool (N
 
 To adjust to different lighting conditions, the muscles in the iris adjust the pupil size to control the amount of light entering the eye. When image readers need to look back and forth between screens, this means the eyes need to work harder to adjust to differences in brightness, which can lead to eye strain and fatigue. 
 
-## Dark mode by default, with light mode optional
+### Dark mode by default, with light mode optional
 
 Given the typical working environment for image readers, we’re proposing to enable dark mode by default. Consistent lighting conditions during the reading session will help to reduce eye strain and fatigue. 
 
