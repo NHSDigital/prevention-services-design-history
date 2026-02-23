@@ -18,7 +18,7 @@ We’ve been looking at how we can improve our service for image readers, taking
 
 Image readers look with great care for problems that can show up on mammograms, working in a room with the lights turned off. The darkened environment helps to increase the visibility of small details on the images on their screen. 
 
-At a typical image reader’s desk, the mammograms for each participant are shown in a viewer on one screen, and a tool for recording notes and opinions is shown on a separate screen. Our design history on [understanding image reading](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2025/04/understanding-image-reading/) shows this setup and gives more context about image reading.
+At a typical image reader’s desk, the mammograms for each participant are shown in a viewer on one screen, and a tool for recording notes and opinions is shown on a separate screen. Our design history on [understanding image reading](/manage-breast-screening/2025/04/understanding-image-reading/) shows this setup and gives more context about image reading.
 
 ## Dark, light and eye strain 
 While the mammogram viewer (PACS) is on a dark background, the recording tool (NBSS) uses a light background. 
