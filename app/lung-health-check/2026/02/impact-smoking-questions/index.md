@@ -30,7 +30,7 @@ Someone might have smoked 20 cigarettes a day for several years, tried to quit a
 If users felt like they couldn’t share an accurate history it brought into question how accurate their result would be. This risked undermining a participant’s trust in our service, and possibly whether they would complete it. As a result, one of our user needs for the service is:  
 As a user of the service, I need to be able to explain my unique health context, so that I feel accurately understood. 
 
-Additionally, small inaccuracies in a participant’s history might not post a significant clinical risk to that individual. But when we scale the service nationally, they could have a significant impact at a population level.  
+Additionally, small inaccuracies in a participant’s history might not pose a significant clinical risk to that individual. But when we scale the service nationally, they could have a significant impact at a population level.  
 
 We decided not to test questions that asked users for an average amount of tobacco they smoked because we don’t think this would be suitable for all users. Some users might find it difficult to work out the average amount of tobacco they smoked. NHS services should be designed for everyone, including people with [low health literacy](https://service-manual.nhs.uk/content/health-literacy). We can’t easily explain to users how they can work out an average amount of tobacco they smoked in their lifetime. This was particularly relevant to users with the first mindset: I want to do the right thing, just don’t make me feel judged or confused. 
 
