@@ -27,7 +27,7 @@ To adjust to different lighting conditions, the muscles in the iris adjust the p
 
 ## Dark mode by default, with light mode optional
 
-Given the typical working environment for image readers, we’re proposing to enable dark mode by default. By having consistent lighting conditions with no need to adjust during the reading session, this will help to reduce eye strain and fatigue. 
+Given the typical working environment for image readers, we’re proposing to enable dark mode by default. Consistent lighting conditions during the reading session will help to reduce eye strain and fatigue. 
 
 That said, not all image readers may prefer dark mode. We’ll provide a way for those who prefer to use light mode to set their preference. Some image readers may prefer to use light mode, but dim their screen’s brightness. 
 
