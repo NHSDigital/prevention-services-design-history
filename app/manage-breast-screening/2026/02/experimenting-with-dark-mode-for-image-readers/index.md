@@ -32,7 +32,7 @@ Given the typical working environment for image readers, we’re proposing to en
 That said, not all image readers may prefer dark mode. Some may prefer to use light mode, but dim their screen’s brightness. We’ll provide a way for users to set their preference. 
 
 ## Prototyping dark mode colours
-Dark mode was [previously explored in early image reading concepts](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2025/04/existing-image-reading-design-concepts/#image-reading-initial-1). 
+Dark mode was [previously explored in early image reading concepts](/manage-breast-screening/2025/04/existing-image-reading-design-concepts/#image-reading-initial-1). 
 
 ### Medium contrast
 Industry best practice recommends [medium contrast dark mode](https://uxmovement.com/content/why-you-should-never-use-pure-black-for-text-or-backgrounds). A pure black background prevents all light emitting from the screen, which makes the eyes work harder since they need to absorb more light. For people with astigmatism, this can lead to a blurring effect called halation. 
