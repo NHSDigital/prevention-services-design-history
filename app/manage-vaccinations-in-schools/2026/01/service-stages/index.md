@@ -1,5 +1,5 @@
 ---
-title: Why we’ve stopped breaking up school-age vaccinations into service stages
+title: Why we’ve stopped breaking up school-age vaccinations into a sequential journey
 date: 2026-01-06
 ---
 
