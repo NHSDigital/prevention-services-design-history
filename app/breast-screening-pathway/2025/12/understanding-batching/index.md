@@ -31,7 +31,7 @@ There is also an additional method of batching called the Routine Failsafe. This
 
 Once a batch has been created in BS Select, it is sent overnight to the BSO’s local instance of the National Breast Screening System (NBSS) where they can allocate appointments and send invitations.  
 
-![Diagram showing flow between BS Select and NBSS instances. It has a box on the left representing the BS Select system, which is a single, national instance. On the right are three smaller boxes, each representing a local instance of NBSS. There are 77 instances of NBSS as each BSO has their own. Two-way arrows point between the boxes to represent the two-way data flow between BS Select and NBSS](001-bsselect-nbss-data-flows.png "Data flows between BS Select and NBSS")
+![Diagram showing flow between BS Select and NBSS instances. It has a box on the left representing the BS Select system, which is a single, national instance. On the right are three smaller boxes, each representing a local instance of NBSS. There are 75 instances of NBSS as each BSO has their own. Two-way arrows point between the boxes to represent the two-way data flow between BS Select and NBSS](001-bsselect-nbss-data-flows.png "Data flows between BS Select and NBSS")
 
 ## Understanding batching methods
 
