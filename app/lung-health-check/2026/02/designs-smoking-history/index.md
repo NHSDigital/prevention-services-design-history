@@ -1,6 +1,6 @@
 ---
 title: Iterating our designs for asking users about their smoking history  
-description: Iterating our designs based on insights from research.
+description: Designing questions to help users give the best estimate of how much they smoked. 
 date: 2026-02-19
 ---
 This is the third post in a 3-part series about our approach to designing questions asking participants about their smoking history. 
@@ -9,11 +9,9 @@ We are designing a new digital service for the lung cancer screening programme. 
 
 ## Learning from what’s tested well with users 
 
-We experimented with a few different user journeys and ways of asking users about their smoking history. We considered asking users to tell us about different smoking ‘periods’. For example, if someone smoked 20 cigarettes for 10 years, and then 5 cigarettes a day for 10 years, they would be considered 2 separate smoking periods.  
+We experimented with a few different user journeys and ways of asking users about their smoking history, so that we can get a reasonable estimate of how much they smoked in their lifetime, to calculate their risk of lung cancer. We considered asking users to tell us about different smoking ‘periods’. For example, if someone smoked 20 cigarettes for 10 years, and then 5 cigarettes a day for 10 years, they would be considered 2 separate smoking periods.  
 
 But we know from our user research that not everyone will recall their smoking history accurately. There’s also the design challenge of naming a smoking period, this isn’t the language our users use.  
-
-![A zoomed-out picture of a Figma board showing 50-60 different iterations of our designs for questions about smoking.](figma-smoking.png "A zoomed-out picture of our Figma board showing the many different iterations our designs went through") 
 
 In our latest designs we ask users to tell us how frequently they smoke: daily, weekly, and monthly. This question allows users to give us more accurate information. For example, users who only smoke on the weekends can select ‘weekly’. In our previous designs we were overestimating the amount they smoked by assuming they smoked the same amount every day.  
 
@@ -25,7 +23,7 @@ We then ask users to tell us how much tobacco they normally smoke a day, week, m
 
 ## Giving users a point of comparison 
 
-In previous designs we asked users to tell us the highest and the lowest amount of tobacco they smoked. These didn’t work for users because it felt too abstract. Participants didn’t often think about their smoking history in terms of the most, or least amount of tobacco they smoked.  
+In previous designs we asked users to tell us the highest and the lowest amount of tobacco they smoked. These didn’t work for users because they felt too abstract. Participants didn’t often think about their smoking history in terms of the most, or least amount of tobacco they smoked.  
 
 We’re hoping that asking users to provide an initial amount, the amount they smoke ‘normally’, will give users something to compare to when we ask in the following question if the amount has ever changed. The next question asks users to tell us if: 
 
