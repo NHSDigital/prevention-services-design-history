@@ -1,7 +1,7 @@
 ---
 title: Iterating our designs for asking users about their smoking history  
 description: Designing questions to help users give the best estimate of how much they smoked. 
-date: 2026-02-19
+date: 2026-02-27
 ---
 This is the third post in a 3-part series about our approach to designing questions asking participants about their smoking history. 
 
