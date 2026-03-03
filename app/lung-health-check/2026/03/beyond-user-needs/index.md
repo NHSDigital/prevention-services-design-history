@@ -4,13 +4,13 @@ description: Using a new research analysis framework to think about users' goals
 date: 2026-03-03
 ---
 
-We are designing a new digital service for the [lung cancer screening](https://www.nhs.uk/tests-and-treatments/lung-cancer-screening/) programme. The purpose of the service is to work out whether someone should be offered a CT scan to check their lungs. This service already exists as a questionnaire delivered over the phone, but we are exploring whether a digital offering would be desirable to users and clinically safe. We wrote about this in more detail in a [previous design history](https://design-history.prevention-services.nhs.uk/lung-health-check/2025/08/lung-health-check-prototype/).
+We are designing a new digital service for the [lung cancer screening](https://www.nhs.uk/tests-and-treatments/lung-cancer-screening/) programme. The purpose of the service is to work out whether someone should be offered a CT scan to check their lungs. This service already exists as a questionnaire delivered over the phone, but we are exploring whether a digital offering would be desirable to users and [clinically safe](https://service-manual.nhs.uk/standards-and-technology/service-standard-points/16-make-your-service-clinically-safe). We wrote about this in more detail in a [previous design history](https://design-history.prevention-services.nhs.uk/lung-health-check/2025/08/lung-health-check-prototype/).
 
 ## Testing our new designs 
 
 We recently completed a round of user research in which we focused on testing the prototype of our service with people who have complex smoking histories. This included people who had used a variety of different tobacco products in their lives and those who had stopped and restarted smoking at various points.  
 
-We wanted to test with these users, because we had made a lot of changes to our designs, based on what we learned in previous rounds of research. In another design history, we wrote about [how we tried to find the right balance](https://design-history.prevention-services.nhs.uk/lung-health-check/2026/02/impact-smoking-questions/)in these designs, between capturing enough information for the risk calculation to be accurate, and keeping users engaged so they don't drop out of our service.  
+We wanted to test with these users, because we had made a lot of changes to our designs, based on what we learned in previous rounds of research. In another design history, we wrote about [how we tried to find the right balance](https://design-history.prevention-services.nhs.uk/lung-health-check/2026/02/impact-smoking-questions/) in these designs, between capturing enough information for the risk calculation to be accurate, and keeping users engaged so they don't drop out of our service.  
 
 The research sessions were remote, taking place on video calls, and involved a researcher guiding participants through the prototype, so they were only shown the questions which would be relevant to them.
 
