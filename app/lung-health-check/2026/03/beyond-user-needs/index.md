@@ -29,7 +29,7 @@ One major benefit of this framework was that it allowed us to look at the differ
 
 Sometimes user needs unintentionally frame users as ‘request makers’ who are making demands of the service. The ‘7 lenses’ framework shifts the conversation away from what users are asking the service to do, and towards how they are actually experiencing it. Below are some of the main things we learned about our users’ experiences in this round of research.  
 
-![A screenshot from the user research insights mural board, titled ‘7 things: an alternative framework to user needs’. The sticky notes have been colour-coded and arranged under the headings: goals, behaviours, emotions, mental models, pain points, contexts and tasks.](seven-things.pn) 
+![A screenshot from the user research insights mural board, titled ‘7 things: an alternative framework to user needs’. The sticky notes have been colour-coded and arranged under the headings: goals, behaviours, emotions, mental models, pain points, contexts and tasks.](seven-things.png) 
 
 ## Goals: what users are trying to achieve 
 
@@ -57,7 +57,7 @@ How people expect the service to work is extremely important, because we know th
 
 We saw that users expect our service to give them a result. This isn’t a problem for future versions of our service, because eventually we will be telling people whether they need to come in for a face-to-face appointment and a scan. In the pilot version of our service though, which is being introduced early in 2026, we will not be able to do that. Instead, users will have to get their result over the phone.  
 
-![A screenshot of the last page participants are shown in the pilot version of the digital service. This page thanks them for ‘testing the online service’ and explains that they will need to complete their NHS lung cancer screening by phone.](confirmation.pn) 
+![A screenshot of the last page participants are shown in the pilot version of the digital service. This page thanks them for ‘testing the online service’ and explains that they will need to complete their NHS lung cancer screening by phone.](confirmation.png) 
 
 ## Pain points: where things break down for users 
 
