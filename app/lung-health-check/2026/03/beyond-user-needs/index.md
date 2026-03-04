@@ -2,6 +2,9 @@
 title: Understanding user experience in lung cancer screening beyond user needs 
 description: Using a new research analysis framework to think about users' goals, behaviours, emotions, mental models, pain points, context and tasks.
 date: 2026-03-03
+opengraphImage:
+  src: /lung-health-check/2026/03/beyond-user-needs/confirmation.png
+  alt: A screenshot of the last page participants are shown in the pilot version of the digital service.
 ---
 
 We are designing a new digital service for the [lung cancer screening](https://www.nhs.uk/tests-and-treatments/lung-cancer-screening/) programme. The purpose of the service is to work out whether someone should be offered a CT scan to check their lungs. This service already exists as a questionnaire delivered over the phone, but we are exploring whether a digital offering would be desirable to users and [clinically safe](https://service-manual.nhs.uk/standards-and-technology/service-standard-points/16-make-your-service-clinically-safe). We wrote about this in more detail in our [previous design histories](https://design-history.prevention-services.nhs.uk/lung-health-check/).
