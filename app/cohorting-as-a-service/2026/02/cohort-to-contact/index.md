@@ -49,7 +49,7 @@ Using data and models to put individuals into groups according to their risk of 
 
 ### Targeting
 
-Varying the approach to contacting different segments of a cohort, to best achieve the desired outcome of the service e.g. sending invitations to higher risk individuals earlier in a campaign.
+Varying the approach to contacting different segments of a cohort, to best achieve the desired outcome of the service, for example, sending invitations to higher‑risk individuals earlier in a campaign.
 
 ### Personalised communication
 
