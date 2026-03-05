@@ -53,7 +53,7 @@ Varying the approach to contacting different segments of a cohort, to best achie
 
 ### Personalised communication
 
-Tailoring our communications to each individual based on their specific characteristics (demographic/clinical/behavioural) e.g. adjusting the content, channel, or frequency.
+Tailoring our communications to each individual based on their specific characteristics (demographic/clinical/behavioural), for example, adjusting the content, channel, or frequency.
 
 ### Filters
 
