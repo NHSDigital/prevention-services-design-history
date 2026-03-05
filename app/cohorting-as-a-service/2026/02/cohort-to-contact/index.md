@@ -61,7 +61,7 @@ Specific criteria which identify and remove segments of individuals who we do no
 
 ### Opt-out
 
-When an eligible individual decides temporarily, or permanently, that they no longer wish to be invited.
+When an eligible individual decides temporarily or permanently that they no longer wish to be invited.
 
 ## What’s next?
 
