@@ -41,23 +41,27 @@ Whether an individual has the specific characteristics required to be part of a 
 
 ### Manual additions
 
-A way to add individuals to a denominator cohort who meet the eligibility criteria, but who will not be cohorted based on the data held for them, for example, transgender populations for sex‑specific services.
+A way to add individuals to a denominator cohort who meet the eligibility criteria, but who will not be cohorted based on the data held for them, for example, transgender people for sex‑specific services.
 
 ### Risk stratification
 
-Using data and models to put individuals into groups according to their risk of a defined outcome,, for example, cancer diagnosis. These risk groups can form part of the eligibility criteria for a denominator cohort for a particular service and can also determine how they are segmented, for instance to determine how and in what order they are contacted.
+Using data and models to put individuals into groups according to their risk of a defined outcome; for example, cancer diagnosis. These risk groups can form part of the eligibility criteria for a denominator cohort for a particular service and can also determine how they are segmented, for instance to determine how and in what order they are contacted.
 
 ### Targeting
 
-Varying the approach to contacting individuals, based upon the segment of the cohort to which they belong, to best achieve the desired outcome of the service, for example, sending invitations to higher‑risk individuals earlier in a campaign.
+Varying the approach to contacting different segments of a cohort, to best achieve the desired outcome of the service e.g. sending invitations to higher risk individuals earlier in a campaign.
+
+### Personalised communication
+
+Tailoring our communications to each individual based on their specific characteristics (demographic/clinical/behavioural) e.g. adjusting the content, channel, or frequency.
 
 ### Filters
 
 Specific criteria which identify and remove segments of individuals who we do not wish to contact from the denominator cohort, for example, individuals who have already received the service or who are not yet due for the service.
 
-### Personalisation
+### Opt-out
 
-Tailoring our communications with individuals based on specific characteristics (demographic/clinical/behavioural), for example, adjusting the content, channel, or frequency.
+When an eligible individual decides temporarily, or permanently, that they no longer wish to be invited.
 
 ## What’s next?
 
