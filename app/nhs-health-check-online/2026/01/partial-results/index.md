@@ -6,7 +6,7 @@ date: 2026-01-15
 
 ## The challenge
 
-Blood tests are an essential component of the NHS Health Check service, with cholesterol levels playing a key role in assessing an individual’s risk of cardiovascular disease (CVD). Within the digital service, users are required to complete these tests at home using self-sampling blood test kits.
+Blood tests are essential part of the NHS Health Check service. Cholesterol levels play an important role in assessing an individual’s risk of cardiovascular disease (CVD). Within the digital service, users are required to complete these tests at home using self-sampling blood test kits.
 
 However, carrying out blood tests outside a clinical environment increases the likelihood of incomplete or inconclusive results, often due to human error. This makes it critical that we communicate clearly and effectively with users when results are invalid or partial, and that any required follow-up actions are presented in a way that is clear, accessible, and supportive.
 
