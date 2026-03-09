@@ -14,7 +14,7 @@ However, carrying out blood tests outside a clinical environment makes incomplet
 
 Before moving into design, the UCD team agreed it would be valuable to run a short discovery phase led by user research. This gave us the opportunity to better understand how people interpret incomplete or failed results, as well as how similar scenarios are handled in other healthcare services. We also reviewed external examples and best practice to ensure our approach was informed by a wider context.
 
-Key insights from this work included:
+Insights from this work included:
 
 - Users want clarity — simple language, clear next steps, and reassurance are essential.
 - Partial results cause confusion — without context, they can lead to anxiety or misinterpretation.
