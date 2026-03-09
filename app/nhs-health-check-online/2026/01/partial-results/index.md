@@ -24,7 +24,7 @@ Key insights from this work included:
 
 Based on these insights, we aimed to:
 
-- Use plain English and visual hierarchy where appropriate
+- Use plain English and clear layout where appropriate
 - Explain why tests fail and what happens next
 - Offer clear follow-up options or opt-outs where possible
 - Support users both emotionally and practically
