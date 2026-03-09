@@ -47,8 +47,6 @@ Additionally, cholesterol is a key input for calculating a user’s CVD risk sco
 
 With the problem space clearly defined, the UCD team ran a collaborative workshop to kick off the design phase. The session helped align the team on priorities and provided a shared foundation for exploring possible approaches.
 
-![Collaborative workshop](design-crit.png 'Figure 3: Screenshot of the mural board that formed the basis of the workshop')
-
 During the workshop, we explored three potential options:
 
 Option 1: Show partial or failed results directly on the main results overview page alongside other health indicators.
