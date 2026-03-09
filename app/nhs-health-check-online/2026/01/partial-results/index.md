@@ -1,6 +1,6 @@
 ---
 title: "Partial results"
-description: "An overview of how we improved the communication of partial or failed blood test results, focusing on clarity, reassurance, and clear next steps for users."
+description: "How we improved the communication of partial or failed blood test results, focusing on clarity, reassurance, and clear next steps for users."
 date: 2026-01-15
 ---
 
