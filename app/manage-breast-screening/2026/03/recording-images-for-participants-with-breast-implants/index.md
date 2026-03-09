@@ -29,7 +29,7 @@ The automatic route will label Eklund view images accordingly, appending 'ID' (I
 
 In the manual workflow, our initial designs had Eklund counters for each breast alongside standard views.
 
-![???](???.png)
+![Six counters showing different types of mammogram views](record-eklund-views.png)
 
 ## Identifying some issues
 
@@ -55,13 +55,13 @@ We've used Right Eklund and Left Eklund, while the image labels used in PACS (th
 
 We moved from permenantly visible Eklund counters to a triggered approach.
 
-![???](???.png)
+![Four standard mammogram view counters with an expandable 'Other views' details component](other-views-details.png)
 
 Putting the extra counters within a details component means they are easily available, but not intrusive to regular screenings.
 
 Implants are encountered in less than 5% of appointments. This is infrequent but important data to capture, so we wanted to avoid overwhelming the page with extra options.
 
-![???](???.png)
+![The 'Other views' component expanded showing four additional counters](other-views-expanded.png)
 
 Selecting 'Other views taken' gives users counters specific to each Eklund view on each side. The labels used mirror how images will be tagged when coming through the automatic method.
 
