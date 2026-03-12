@@ -1,7 +1,7 @@
 ---
 title: Reducing errors for image readers
 description: Exploring what we can do to improve feedback and reduce errors for image readers when moving to the next case
-date: 2026-03-11
+date: 2026-03-12
 author: Rebecca Cottrell
 opengraphImage:
   src: /manage-breast-screening/2026/03/reducing-errors-for-image-readers/toast-and-disabled-buttons.png
