@@ -23,7 +23,7 @@ We’ve decided to retain the mechanism of disabling the opinion buttons for a p
 
 ## Why not a confirmation step? 
 
-In lower-volume workflows, a confirmation step would be a conventional safeguard. But this would add too much friction given the number of cases readers need to go through. Disabling the buttons briefly is a compromise that balances efficiency with accuracy.
+In lower-volume workflows, a confirmation step would be a conventional safeguard. But this would add too much friction given the number of cases that image readers need to go through. Disabling the buttons briefly is a compromise that balances efficiency with accuracy.
 
 ## NBSS screenshots 
 
