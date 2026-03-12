@@ -4,7 +4,7 @@ description: Findings from the forecasting and planning discovery, specifically,
 date: 2026-03-12
 author: Veronika Jermolina
 opengraphImage:
-  src: /breast-screening-pathway/2026/03/iterative-planning.png
+  src: /breast-screening-pathway/2026/03/what-bsos-told-us-about-forecasting-and-planning/iterative-planning.png
   alt: Image showing a cycle of planning and updating, moving from predicting to adapting
 tags:
   - breast screening
