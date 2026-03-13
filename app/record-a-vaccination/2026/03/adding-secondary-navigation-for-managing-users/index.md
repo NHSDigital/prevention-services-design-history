@@ -6,7 +6,7 @@ tags:
   - navigation
 ---
 
-When visiting the Manage users section, lead administrators are able to all users within their organisation. Previously this was displayed as a single table ordered alphabetically by name, with a column to show the status of each user.
+When visiting the Manage users section, lead administrators can view all users within their organisation. Previously this was displayed as a single table ordered alphabetically by name, with a column to show the status of each user.
 
 We have now updated the design of this section, introducing secondary navigation to split up the list of users by their status.
 
@@ -26,7 +26,7 @@ We have adapted it to use the NHS typeface and colours. The links are also under
 
 Each item in our secondary navigation includes the number of users with that status in brackets, to give lead administrators a quick sense of how many there are.
 
-The items in the navigation is only be included if there is at least 1 user with that status. If there are no invited or deactivated users, then the secondary navigation is not included at all.
+The items in the navigation are only included if there is at least 1 user with that status. If there are no invited or deactivated users, then the secondary navigation is not included at all.
 
 ## Active users
 
@@ -58,6 +58,6 @@ An action link is included for each user which allows the lead administrator to 
 
 We have included a search field within the designs, mainly to help any organisations with very long lists of users.
 
-This feature has been de-scoped for now, any may be developed at a future date. If we introduce this we will need to make that users understand that the the search is ‘scoped’ to the current view.
+This feature has been descoped for now, and may be developed at a future date. If we introduce this we will need to make that users understand that the the search is ‘scoped’ to the current view.
 
 We will work with others in the NHS to explore how secondary navigation could become a component in the NHS design system.
