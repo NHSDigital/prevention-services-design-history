@@ -51,7 +51,7 @@ But we have added links to the new page from the service, both in the footer and
 
 ### The page itself 
 
-As for the design of the page itself, we've kept it simple, using the styles available to us within our existing github guidance site.  
+For the design of the page itself, we've kept it simple, using the styles available to us within our existing guidance site.  
  
 We've decided to keep the page relatively short and only highlight updates made in the past 3 months. We did not want it to be a detailed release note, but rather a quick guide to more significant changes to the service.
 
