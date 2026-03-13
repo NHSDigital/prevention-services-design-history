@@ -10,13 +10,9 @@ tags:
 Since Record a vaccination has been live, we've been telling users about changes to the service in different ways, including: 
 
 - emails to all users 
-
 - emails to lead administrators only, asking them to cascade the information to their teams 
-
 - emails to certain groups of users – if, for example, the change only affects users with certain permissions 
-
 - inset text and 'New' tags on specific pages within the service 
-
 - updates to the user guide 
 
 We've tried to strike a balance between making sure we inform users about significant changes whilst not emailing them every single time we make a small change or fix a bug.  
