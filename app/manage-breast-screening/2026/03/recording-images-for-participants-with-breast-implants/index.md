@@ -53,7 +53,9 @@ Our design facilitates this, but doesn't include any mechanism to prevent users 
 
 ### Inconsistent labelling
 
-We've used Right Eklund and Left Eklund, while the image labels used in PACS (the Picture Archiving and Communication System used in breast screening units) are RCCID, LCCID, RMLOID and LMLOID - the standard view codes, plus the 'ID' code appended.
+We've used the terms Right Eklund and Left Eklund, which matches the option 'EK' (for Eklund) available to users in NBSS when selecting views taken on each breast. 
+
+However, the image labels used in PACS (the Picture Archiving and Communication System used in breast screening units) are RCCID, LCCID, RMLOID and LMLOID - the standard view codes, plus the 'ID' code appended.
 
 ## A new and improved version
 
