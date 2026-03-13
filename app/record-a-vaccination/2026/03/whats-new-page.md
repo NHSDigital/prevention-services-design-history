@@ -1,11 +1,15 @@
 ---
 title: Telling users what's new
+description: How and why we decided to add a What's new page to the service.
 date: 2026-03-13
 tags:
   - communications
 ---
+To inform users about updates to the service in a more consistent way, we've decided to add a What's new page to the service.  
+ 
+The idea is that if users want to know what's changed since they last logged in, there will be somewhere they can find this information. We hope in time, that having this new page, may also reduce the need to use other channels, such as email, to notify users about changes. 
 
-## Background 
+## Background
 
 Since Record a vaccination has been live, we've been telling users about changes to the service in different ways, including: 
 
@@ -28,10 +32,6 @@ When asked to what extent they agreed with the statement, "When RAVS is updated,
 - 29% neither agreed nor disagreed 
 - 10% were not sure 
 - 5% disagreed or strongly disagreed 
-
-To inform users about changes in a more consistent way, we've decided to add a What's new page to the service.  
- 
-The idea is that if users want to know what's changed since they last logged in, there will be somewhere they can find this information. We hope in time, that having this new page, may also reduce the need to use other channels, such as email, to notify users about changes. 
 
 ## Design 
  
