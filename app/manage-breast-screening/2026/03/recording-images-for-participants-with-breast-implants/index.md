@@ -1,7 +1,7 @@
 ---
 title: Recording images for participants with breast implants
 description: We've improved how images are recorded by mammographers when a participant with breast implants attends a breast screening appointment.
-date: 2026-03-09
+date: 2026-03-13
 author: Danny Chadburn
 opengraphImage:
   src: /manage-breast-screening/2026/03/recording-images-for-participants-with-breast-implants/other-views-expanded.png
