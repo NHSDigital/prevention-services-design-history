@@ -1,55 +1,75 @@
 ---
-title: Updating the home page for more vaccines
-date: 2026-02-17
+title: Telling users what's new
+date: 2026-03-13
 tags:
-  - dashboards
-  - reporting
+  - communications
 ---
 
-Around a year ago, we [introduced a new home page showing vaccination totals](/record-a-vaccination/2025/02/new-home-page/) that users see immediately after logging in to the service.
+## Background 
 
-The home page has been well received, with users telling us that it is useful to be able to quickly see some key numbers on vaccinations recently given.
+Since Record a vaccination has been live, we've been telling users about changes to the service in different ways, including: 
 
-As we've added more vaccinations to the service, we’ve updated the design to make it more flexible.
+- emails to all users 
 
-## Previous design
+- emails to lead administrators only, asking them to cascade the information to their teams 
 
-The page contained a table which showed a breakdown of the figures, with a column for each vaccine type administered by that organisation.
+- emails to certain groups of users – if, for example, the change only affects users with certain permissions 
 
-Another table below showed the same columns, but with a row per site instead.
+- inset text and 'New' tags on specific pages within the service 
 
-![Screenshot of old home page](old-home-page.png)
+- updates to the user guide 
 
-This design worked reasonably well with a maximum of 4 vaccine types shown, but with any more than that the table would become too squashed or would no longer fit on the page.
+We've tried to strike a balance between making sure we inform users about significant changes whilst not emailing them every single time we make a small change or fix a bug.  
+ 
+But we have not always got this right. There have been times when we've decided not to get in touch about a change and users have complained that we should have told them.  
 
-## Updated design
+The results of our first customer experience survey also indicated we could do better at communicating updates about the service.  
 
-In the new design, we use the [tabs component](https://service-manual.nhs.uk/design-system/components/tabs) to show different breakdowns of the figures.
+When asked to what extent they agreed with the statement, "When RAVS is updated, the changes are clearly communicated": 
+ 
+- 25% of respondents strongly agreed 
+- 31% agreed 
+- 29% neither agreed nor disagreed 
+- 10% were not sure 
+- 5% disagreed or strongly disagreed 
 
-The default tab shows totals by day:
+To inform users about changes in a more consistent way, we've decided to add a What's new page to the service.  
+ 
+The idea is that if users want to know what's changed since they last logged in, there will be somewhere they can find this information. We hope in time, that having this new page, may also reduce the need to use other channels, such as email, to notify users about changes. 
 
-![Screenshot of new home page showing 'By day' tab](home-page-by-day.png)
+## Design 
+ 
+### Where to host the page 
+ 
+For us, a key challenge was where to host this new page.  
 
-The second tab shows totals by vaccination type, with columns for today, past 7 days, calendar month to date, and a total across all time. This is only shown when the organisation has recorded at least 2 types of vaccination.
+Ideally it would be hosted within the service, but this would mean updates to the page would always have to be published as part of a release.  
+ 
+Our concern with this option was that the contents and timings of releases can change at late notice. And it would be hard to make sure the What’s new page was always updated at the right time.  
+ 
+We therefore decided, at least for the first iteration of the page, to publish it within our user guide, which is managed as a separate website by the UCD team in github. This gives us the flexibility to update the page at any time. 
+ 
+But we have added links to the new page from the service, both in the footer and by using inset text on the home page.  
 
-![Screenshot of new home page showing 'By vaccination' tab](home-page-by-vaccination.png)
+![Screenshot of home page highlighting links to the 'What's new' page](IMAGE-NAME.png)
 
-The third tab shows totals by site, again with columns for today, past 7 days, calendar month to date, and a total across all time. This is only shown when the organisation has recorded vaccinations at multiple sites.
+### The page itself 
 
-![Screenshot of new home page showing 'By site' tab](home-page-by-site.png)
+As for the design of the page itself, we've kept it simple, using the styles available to us within our existing github guidance site.  
+ 
+We've decided to keep the page relatively short and only highlight updates made in the past 3 months. We did not want it to be a detailed release note, but rather a quick guide to more significant changes to the service.
 
-## Response
+![Screenshot of the 'What's new' page](IMAGE-NAME.png)
 
-This change went live on 2 February 2026.
+## Next steps 
 
-We have since had a few users contact us to complain about no longer being able to see a detailed day by day breakdown of totals per vaccine type. Their feedback suggests that being able to see the count for ‘yesterday’ by vaccine type is particularly useful, for checking on performance and stock levels.
+We'll decide on a case by case basis what to include on the page and whether we also need to notify users of a change via other channels, such as email. The sort of things we plan to include are: 
 
-We have also had some questions about whether the counts by day represent the date of vaccination or the date that the vaccination was recorded, which can be different if the vaccination was recorded retrospectively. Currently they are counted by date recorded, however this is not stated explicitly.
+- changes that users have requested 
+- features we have added or removed from the service 
+- seasonal updates, such as new vaccine products added for a COVID-19 or flu campaign 
 
-## Future considerations
+We do not plan to include fixes for bugs that have only affected a small number of users.  
 
-We will consider adding a column for ‘Yesterday’ to the tables by vaccination and by site.
+The page went live on 3 March 2026. We will monitor visits and ask users for direct feedback in future research sessions. 
 
-We’ll also do further research to check whether or not the ‘Past 7 days’ and calendar month to date columns are definitely useful, or if these should be swapped for other timeframes.
-
-We’ll aim to remove the ambiguity over the date used in the tables, and may switch to counting by vaccination date instead of recording date.
