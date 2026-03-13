@@ -113,6 +113,8 @@ For example, we could disable the RCCID counter until a regular RCC has been add
 
 We need to understand how best to show image information collected to image readers so they know Eklund views are included in a case.
 
-We're considering flagging when cases have Eklund views added (for example, an alert saying "This case has Eklund views"), or specifying the exact number, type and side.
+We've heard from our expert image readers that it will be obvious to them when they see the images, but there can be instances where additional images are missed as it's not clear they are available.
+
+So rather than an explicit "This case has Eklund views" alert, we need an unignorable message saying "This case has additional images". This can be applied for Eklund views as well as all the other reasons there may be more than the regular set of four images.
 
 And finally, we need to determine how these options relate to statuses within the service. Things get complicated when we are deciding how to handle appointments based on certain selections, particularly regarding keeping 'episodes' open when there is a potential follow-up appointment to be arranged.
