@@ -42,7 +42,9 @@ This page lists users who have been invited to use RAVS for the organisation, ei
 
 ![Screenshot of a page titled 'Manage users', with a horizontal secondary navigation component on it showing that 'Invited (4)' is the current page](invited.png)
 
-There is a column showing how long ago the invite was sent. If the invite was sent more than 7 days ago, we included an action link to let the lead administrator resend the invitation email. This is to help if the invited user cannot find the email in their inbox.
+There is a column showing how long ago the invite was sent. 
+
+If the invite was sent more than 7 days ago, we included an action link to let the lead administrator resend the invitation email. This feature has not yet been developed.
 
 ## Deactivated users
 
