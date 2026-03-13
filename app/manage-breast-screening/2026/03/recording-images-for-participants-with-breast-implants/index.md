@@ -87,7 +87,9 @@ There are various other reasons to take more than a standard set of 4 images, in
 
 Our system is set up to ask for a reason when a user adds more than one of any view. We looked into whether we should add 'because it was an Eklund view' to that list of reasons.
 
-This was deemed unsuitable as it did not mirror the automatic image workflow. When Eklund images are transferred from the mammogram machine they will come tagged with 'ID'. We should allow users to do the same using the manual method without going through an extra step.
+This was deemed unsuitable as it adds extra actions for users. They are used to being able to record these views alongside routine, views and we wanted to avoid something which would likely feel cumbersome.
+
+It also does not mirror the automatic image workflow in our system. When Eklund images are transferred from the mammogram machine they will come tagged with 'ID'. We should allow users to do the same using the manual method without going through an extra step.
 
 ## Showing this to users
 
