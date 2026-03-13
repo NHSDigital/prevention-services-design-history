@@ -45,7 +45,11 @@ During a review of our prototype, one of our expert radiologists said:
 
 > Eklund views are the fifth and sixth view taken effectively... they are not an adjustment of the standard views which are taken normally, but additional to them.
 
-We had allowed for Eklund views to be recorded without adding any standard images, which goes against [clinical guidance](https://www.gov.uk/government/publications/breast-screening-imaging-women-with-breast-implants/nhs-breast-screening-programme-screening-women-with-breast-implants#undertaking-the-eklund-view).
+This is backed up in [clinical guidance](https://www.gov.uk/government/publications/breast-screening-imaging-women-with-breast-implants/nhs-breast-screening-programme-screening-women-with-breast-implants#undertaking-the-eklund-view) which states:
+
+> In addition to routine views, the Eklund technique may be used to pull the breast tissue forward and away from the implant to improve breast tissue visualisation.
+
+Our design facilitates this, but doesn't include any mechanism to prevent users from adding Eklund views without first adding the routine views they should have taken.
 
 ### Inconsistent labelling
 
