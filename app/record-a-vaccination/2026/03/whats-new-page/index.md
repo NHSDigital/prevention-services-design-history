@@ -47,7 +47,7 @@ We decided, at least for the first iteration of the page, to publish it within o
  
 But we have added links to the new page from the service, both in the footer and by using inset text on the home page.  
 
-![Screenshot of home page highlighting links to the 'What's new' page](IMAGE-NAME.png)
+![Screenshot of home page highlighting links to the 'What's new' page](ravs-home-page.png)
 
 ### The page itself 
 
@@ -55,7 +55,7 @@ For the design of the page itself, we've kept it simple, using the styles availa
  
 We've decided to keep the page relatively short and only highlight updates made in the past 3 months. We did not want it to be a detailed release note, but rather a quick guide to more significant changes to the service.
 
-![Screenshot of the 'What's new' page](IMAGE-NAME.png)
+![Screenshot of the 'What's new' page](whats-new-page.png)
 
 ## Next steps 
 
