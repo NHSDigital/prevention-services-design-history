@@ -4,7 +4,7 @@ description: We've improved how images are recorded by mammographers when a part
 date: 2026-03-09
 author: Danny Chadburn
 opengraphImage:
-  src: /manage-breast-screening/2026/01/improving-the-partial-mammogram-process/additional-details.png
+  src: /manage-breast-screening/2026/03/recording-images-for-participants-with-breast-implants/other-views-expanded.png
   alt: Options for mammographers to record additional details related to the mammogram
 tags:
   - beta
