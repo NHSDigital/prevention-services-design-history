@@ -33,7 +33,7 @@ In the manual workflow, our initial designs had Eklund counters for each breast 
 
 ## Identifying some issues
 
-After showing this to mammographers in user research, a couple of flaws were highlighted:
+Our designs were based on the options currently available in NBSS, but further investigation into requirements highlighted this did not reflect all the user needs.
 
 ### Specific views could not be added
 
