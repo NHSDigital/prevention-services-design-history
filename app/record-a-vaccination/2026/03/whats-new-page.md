@@ -43,7 +43,7 @@ Ideally it would be hosted within the service, but this would mean updates to th
  
 Our concern with this option was that the contents and timings of releases can change at late notice. And it would be hard to make sure the What’s new page was always updated at the right time.  
  
-We therefore decided, at least for the first iteration of the page, to publish it within our user guide, which is managed as a separate website by the UCD team in github. This gives us the flexibility to update the page at any time. 
+We decided, at least for the first iteration of the page, to publish it within our user guide, which is managed as a separate website by the UCD team in GitHub. This gives us the flexibility to update the page at any time. 
  
 But we have added links to the new page from the service, both in the footer and by using inset text on the home page.  
 
