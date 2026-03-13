@@ -41,7 +41,7 @@ Eklund views can be CC or MLO, but our system didn't allow for any differentiati
 
 ### Eklund views are additional images, not substitutes
 
-Our prototype had been built on an incorrect assumption that Eklund views were done instead of standard views rather than in addition to. One of our expert radiologists said:
+During a review of our prototype, one of our expert radiologists said:
 
 > Eklund views are the fifth and sixth view taken effectively... they are not an adjustment of the standard views which are taken normally, but additional to them.
 
