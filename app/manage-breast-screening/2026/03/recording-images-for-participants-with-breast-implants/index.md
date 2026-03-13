@@ -69,7 +69,7 @@ Implants are encountered in less than 5% of appointments. This is infrequent but
 
 ![The 'Other views' component expanded showing four additional counters](other-views-expanded.png)
 
-Selecting 'Other views taken' gives users counters specific to each Eklund view on each side. The labels used mirror how images will be tagged when coming through the automatic method.
+Selecting 'Other views' gives users counters specific to each Eklund view on each side. The labels used mirror how images will be tagged when coming through the automatic method.
 
 ## Why we settled on this approach
 
