@@ -1,6 +1,7 @@
 ---
 title: Adding secondary navigation for managing users
 date: 2026-03-13
+description: Why we’ve introduced a new navigation component.
 tags:
   - user management
   - navigation
@@ -46,7 +47,7 @@ This page lists users who have been invited to use RAVS for the organisation, ei
 
 ![Screenshot of a page titled 'Manage users', with a horizontal secondary navigation component on it showing that 'Invited (4)' is the current page](invited.png)
 
-There is a column showing how long ago the invite was sent. 
+There is a column showing how long ago the invite was sent.
 
 If the invite was sent more than 7 days ago, we included an action link to let the lead administrator resend the invitation email. This feature has not yet been developed.
 
