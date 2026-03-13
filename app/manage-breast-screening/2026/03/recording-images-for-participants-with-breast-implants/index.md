@@ -25,6 +25,8 @@ We have two ways of getting image information into our system:
 - automatically from the mammography machine via an image transfer gateway, or
 - manually, where mammographers provide details of the images they have taken
 
+When the system is fully functional, the majority of actions will be performed automatically, with the manual method available as a backup.
+
 The automatic route will label Eklund view images accordingly, appending 'ID' (Implant Displaced) to the typical CC (Cranio-Caudal) and MLO (Medio-Lateral Oblique) views.
 
 In the manual workflow, our initial designs had Eklund counters for each breast alongside standard views.
