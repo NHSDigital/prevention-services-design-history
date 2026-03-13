@@ -19,7 +19,7 @@ We've tried to strike a balance between making sure we inform users about signif
  
 But we have not always got this right. There have been times when we've decided not to get in touch about a change and users have complained that we should have told them.  
 
-The results of our first customer experience survey also indicated we could do better at communicating updates about the service.  
+The results of our [first customer experience survey](/record-a-vaccination/2025/12/customer-experience-survey/) also indicated we could do better at communicating updates about the service.  
 
 When asked to what extent they agreed with the statement, "When RAVS is updated, the changes are clearly communicated": 
  
