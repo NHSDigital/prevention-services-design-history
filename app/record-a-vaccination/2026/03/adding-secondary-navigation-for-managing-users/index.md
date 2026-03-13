@@ -4,6 +4,10 @@ date: 2026-03-13
 tags:
   - user management
   - navigation
+image:
+  src: /record-a-vaccination/2026/03/adding-secondary-navigation-for-managing-users/manage-users-secondary-navigation.png
+  alt: Graphic with the heading 'Manage users' and then 3 horizontally arranged links titled 'Invited (4)', 'Active (2)' and 'Deactivated (3)', with the middle one having a blue border beneath it.
+  opengraphImage: true
 ---
 
 When visiting the Manage users section, lead administrators are able to all users within their organisation. Previously this was displayed as a single table ordered alphabetically by name, with a column to show the status of each user.
