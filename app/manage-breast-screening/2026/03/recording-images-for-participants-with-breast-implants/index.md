@@ -61,7 +61,7 @@ However, the image labels used in PACS (the Picture Archiving and Communication 
 
 ## A new and improved version
 
-We moved from permenantly visible Eklund counters to a triggered approach.
+We moved from permanently visible Eklund counters to a triggered approach.
 
 ![Four standard mammogram view counters with an expandable 'Other views' details component](other-views-details.png)
 
