@@ -155,4 +155,4 @@ We ran an ideation workshop with the new cohort to clinic team who will be takin
 
 ![Sketch of an idea showing screening invites aware of person's location, disabilities and GP mergers](c2c-idea-sketch-2.png)
 
-There new cohort to clinic team will be taking these, and other ideas, further.
+The new cohort to clinic team will be taking these, and other ideas, further.
