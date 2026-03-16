@@ -19,15 +19,17 @@ Users from all teams can ask us questions in MS Teams; we respond on the same da
 
 We triage anything that could be an incident within 2 working days, resolve incidents quickly based on their severity, promptly acknowledge and apologise for any problems we contribute to, and keep our users informed about the progress we’re making on known issues.
 
-We want to offer as good, or better, support with less manual overhead for the Mavis team. Our ideas include:
+### In the future
 
-- Digital training packages
-- Human in the loop AI responses to queries
+We plan to offer as good, or better, support with less manual overhead for the Mavis team. This could include:
+
+- digital training packages
+- human in the loop AI responses to queries
 - AI JIRA ticket creation
 
 We also want to tighten the feedback loop between support and design even more, to mitigate more support requests before they happen.
 
-## What we currently do for managing teams
+## Manage teams
 
 SAIS teams access Mavis via their NHS Care Identity (CIS2). Mavis has four layers of access control:
 
@@ -38,9 +40,9 @@ SAIS teams access Mavis via their NHS Care Identity (CIS2). Mavis has four layer
 
 Each team can manage the schools and clinics that they offer vaccinations in. Mavis uses DfE’s Get Information about Schools (GIAS) service to source school and year group information.
 
-## How Mavis will manage teams better in future
+### In the future
 
-We have a vision where SAIS teams can:
+We plan to allow SAIS teams to:
 
 - fully self-manage their school and clinic configuration, with no support intervention needed
 - define their cohorts by more than just school; also by GP practice and home address areas that they cover (to offer better functionality to SAIS and allow us to onboard other types of providers in the future)
@@ -68,7 +70,9 @@ Mavis automatically reports all vaccinations given to GPs and NHS England via th
 
 Teams who aren’t yet using Mavis for their end-to-end programme delivery can access Mavis national reporting to upload vaccination records in bulk, which Mavis then flows to GPs and NHS England.
 
-Our strategic goals for managing vaccination records:
+### In the future
+
+For managing vaccination records, we plan to:
 
 - support recording all children’s vaccines, including the routine and at-risk infant and pre-school vaccinations
 - have comprehensive vaccination status logic for all remaining childhood programmes
@@ -87,7 +91,9 @@ SAIS teams can upload class lists sourced directly from schools providing up-to-
 
 Mavis deduplicates children between teams and informs both teams when a child moves from one SAIS area to another.
 
-Our strategic goals for managing children:
+### In the future
+
+For managing children, we plan to:
 
 - allow school admin teams to manage children’s information themselves in Mavis, to eliminate the emailing of spreadsheets; or better yet, automate this process with schools’ student records systems
 - find a way to share information about which schools children attend nationally, via PDS or another approach, so that others who rely on this (such as CHIS and school nursing teams) can benefit from Mavis’ up to date records
@@ -110,11 +116,12 @@ SAIS teams can manage school sessions without needing any paper lists or spreads
 
 SAIS teams can record Gillick competence assessments and self-consent given by competent young people, and suppress further messages to parents about the vaccination if the young person wants that.
 
-Strategic goals for vaccinating in schools:
+### In the future
 
-- We are only planning to do continuous improvement in this area, as based on all feedback we are receiving, this seems to be working well right now
+For vaccinating in schools, we plan to:
 
-As we add support for other childhood vaccination catch-ups, these could also be supported in school sessions.
+- focus on continuous improvement, as this area seems to be working well right now based on all feedback we are receiving
+- explore adding support for other childhood vaccination catch-ups in school sessions if needed by SAIS teams
 
 ## Vaccinate in clinics and homes
 
@@ -128,6 +135,8 @@ SAIS can invite children to book into a clinic for a particular programme:
   - individually whenever needed
 
 Clinic appointments are currently arranged over the phone or in 3rd-party booking systems.
+
+### In the future
 
 We plan to:
 
@@ -148,7 +157,9 @@ If they refuse consent, they select a reason why, receive a confirmation and are
 
 Either after school sessions or independently, parents get invites to book into a clinic for one or more vaccinations for their child. They can currently book a clinic appointment over the phone or using a third party booking service, depending on the SAIS team.
 
-In future, we plan to let parents:
+### In the future
+
+We plan to let parents:
 
 - book an appointment for a clinic vaccination digitally
 - find walk-in clinics in their area
@@ -158,14 +169,14 @@ In future, we plan to let parents:
 - give consent for multiple children without having to repeat information
 - complete the consent journey in other languages
 
-We also want to:
+We also plan to:
 
 - contact parents using the contact details we hold in PDS where schools won’t provide them or the school-provided details don’t work
 - store parents’ language preferences and contact them in their preferred language
 - optimise the schedule of requests and reminders to get the most responses
 - A/B test different consent messaging to establish what works best
 
-With the recent expansion of the SAIS specification to include catch-up vaccinations for sixth form, we also want to create a bespoke offer for teenagers who are 16+ to:
+With the recent expansion of the SAIS specification to include catch-up vaccinations for sixth form, we are developing an offer for teenagers who are 16 and over to:
 
 - find out about vaccinations they are eligible for
 - consent to vaccinations themselves when SAIS visit their school
