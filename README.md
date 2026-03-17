@@ -23,7 +23,6 @@ You’ll need to:
 - create a folder for your service in `app/`, for example `app/your-service-name/`
 - inside your service’s post folder, create a JSON file `your-service-name.json`, for example `app/your-service-name/your-service-name.json`. Copy an existing example for what to put in it.
 - update `eleventy.config.js` to create a new ‘collection’ for your service (copy one of the existing examples)
-- update `app/_layouts/_product.njk` to list your new service in the sections variable
 - open a pull request with your changes
 
 See [Divide a design history into different sections](https://x-govuk.github.io/govuk-design-history/divide-a-design-history-into-sections/).
