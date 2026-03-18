@@ -150,6 +150,7 @@ export default function (eleventyConfig) {
     'talking-therapies',
     // Digital best start
     'age-related-messaging',
+    'check-childrens-vaccination-history',
     // Managing my health
     'cohorting-as-a-service'
   ]) {
