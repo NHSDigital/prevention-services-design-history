@@ -18,12 +18,10 @@ You will need to create some files and folders based on the name of your service
 
 You’ll need to:
 
-- create a Markdown file in `app/posts/`, for example `app/posts/your-service-name.md`. Copy an existing example and update any references to match your service.
-- create a folder for your service in `app/images/`, for example `app/images/your-service-name/`
-- create a folder for your service in `app/posts/`, for example `app/posts/your-service-name/`
-- inside your service’s post folder, create a JSON file `your-service-name.json`, for example `app/posts/your-service-name/your-service-name.json`. Copy an existing example for what to put in it.
+- create a Markdown file in `app/`, for example `app/your-service-name.md`. Copy an existing example and update any references to match your service.
+- create a folder for your service in `app/`, for example `app/your-service-name/`
+- inside your service’s post folder, create a JSON file `your-service-name.json`, for example `app/your-service-name/your-service-name.json`. Copy an existing example for what to put in it.
 - update `eleventy.config.js` to create a new ‘collection’ for your service (copy one of the existing examples)
-- update `app/_layouts/_product.njk` to list your new service in the sections variable
 - open a pull request with your changes
 
 See [Divide a design history into different sections](https://x-govuk.github.io/govuk-design-history/divide-a-design-history-into-sections/).
@@ -38,7 +36,7 @@ You have two choices for adding a post:
 ### Add a post manually
 
 1. Draft your design history post - it’s often easiest to do this in SharePoint
-2. Create a new markdown file in `app/posts/[service-name]/YYYY/MM/[post-name].md`
+2. Create a new markdown file in `app/[service-name]/YYYY/MM/[post-name].md`
 
    > It’s often easier to duplicate an existing post as that will have the headers you need
 
@@ -53,7 +51,7 @@ You have two choices for adding a post:
 1. Use a PNG optimiser [like TinyPNG](https://tinypng.com/) to reduce the file size of your images.
 2. Create a folder for your images and put them in `app/images/[service-name]/YYYY/MM/[post-name]/`
 3. From the terminal, run `node scripts/generate.js [path]` where `path` is the full path to the folder of images. The easiest way to do this is to type `node scripts/generate.js` and then drag the folder from Finder on to your terminal to fill in the path.
-4. The script will generate a new post linking to each image and place it in `app/posts/[service-name]/YYYY/MM/[post-name].md`.
+4. The script will generate a new post linking to each image and place it in `app/[service-name]/YYYY/MM/[post-name].md`.
 5. You should check the title text for each image and amend as needed.
 6. The script will prepend the post filename with the current date but you can delete this if you like.
 
