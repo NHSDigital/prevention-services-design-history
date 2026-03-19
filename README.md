@@ -19,7 +19,6 @@ You will need to create some files and folders based on the name of your service
 You’ll need to:
 
 - create a Markdown file in `app/`, for example `app/your-service-name.md`. Copy an existing example and update any references to match your service.
-- create a folder for your service in `app/images/`, for example `app/images/your-service-name/`
 - create a folder for your service in `app/`, for example `app/your-service-name/`
 - inside your service’s post folder, create a JSON file `your-service-name.json`, for example `app/your-service-name/your-service-name.json`. Copy an existing example for what to put in it.
 - update `eleventy.config.js` to create a new ‘collection’ for your service (copy one of the existing examples)
