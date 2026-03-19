@@ -41,7 +41,7 @@ We ran pop-up research at libraries in:
 - Leeds
 - Newcastle
 
-![image](Leeds-library-pop-up-research.jpg)
+!['photo of a table at leeds library with paper on the desk and an NHS banner in the background'](Leeds-library-pop-up-research.jpg)
 
 ### **Two-speed research sessions**
 
