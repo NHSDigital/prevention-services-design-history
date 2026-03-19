@@ -41,6 +41,8 @@ We ran pop-up research at libraries in:
 - Leeds
 - Newcastle
 
+![image](Leeds-library-pop-up-research.jpg)
+
 ### **Two-speed research sessions**
 
 We ran two types of sessions in parallel, using two research teams:
