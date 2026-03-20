@@ -53,7 +53,7 @@ This model has successfully been in operation for about 40 years.
 
 The van we visited had a staircase leading up to a door. Inside, to the left was a small reception area where participants were checked in. Behind the reception was a small staff kitchenette.  
 
-To the right of the entrance was a small waiting area for 2-4 people. Further inside there were 2 small changing rooms and a larger room with the mammography machine.
+To the right of the entrance was a small waiting area for 2 to 4 people. Further inside there were 2 small changing rooms and a larger room with the mammography machine.
 
 ![](mammo-machine-van.png 'Mammography machine in a mobile van')
 
