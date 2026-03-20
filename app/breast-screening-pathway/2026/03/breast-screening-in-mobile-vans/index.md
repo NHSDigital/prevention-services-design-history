@@ -45,7 +45,7 @@ This thinking informed the current breast screening model where:
 
 - there is a concept of a round plan that is maintained by the programme manager 
 
-- participants are sometimes invited to their nearest van location, rather than when they are due
+- participants are sometimes invited to their nearest van location rather than when they are due
 
 This model has successfully been in operation for about 40 years.
 
