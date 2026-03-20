@@ -1,16 +1,16 @@
 ---
 title: Breast screening in mobile vans
 description: Findings from a BSO survey, past findings and a mobile van visit
-date: 2026-03-19
+date: 2026-03-20
 author: Veronika Jermolina
 opengraphImage:
   src: /breast-screening-pathway/2026/03/breast-screening-in-mobile-vans/mobile-van.png
   alt: A breast screening mobile van
 tags:
-    - mobile vans
+  - mobile vans
 ---
 
-A lot of our research has so far been focused on understanding breast screening in hospitals and health centres. This kind of screening location is known as a ‘static unit’. This is in contrast to breast screening done in mobile units, or mobile vans.  
+A lot of our research has so far been focused on understanding breast screening in hospitals and health centres. This kind of screening location is known as a ‘static unit’. This is in contrast to breast screening done in mobile vans or units.  
 
 In this design history, we start to describe what we know about breast screening in mobile vans. Our understanding is based on: 
 
@@ -34,10 +34,9 @@ The key intent was to bring screening centres to where people are, reducing the 
 
 The Forrest report suggested that each screening unit should cover a general population of approximately 471,000 people, which, at the time, equated to a target screening population of 41,150 or 12,000 screening attendees per unit per year.  
 
+The [current breast screening guidance](https://www.gov.uk/government/publications/breast-screening-leading-a-service/breast-screening-best-practice-guidance-on-leading-a-breast-screening-service) suggests that a BSO should cover a general population between 500,000 and 1,000,000. In 2018, the median eligible screening population per BSO was 93,000 people. This means that annually, one third (31,000 participants) would be invited. Based on 75% uptake, 23,250 would attend.
 
-The current [guidance](https://www.gov.uk/government/publications/breast-screening-leading-a-service/breast-screening-best-practice-guidance-on-leading-a-breast-screening-service) suggests that a BSO should cover a general population between 500,000 and 1,000,000. In 2018, the median eligible screening population per BSO was 93,000 people. This means that annually, one third (31,000 participants) would be invited. Based on 75% uptake, 23,250 would attend.
-
-Historically, it was believed that for such a large population, travel distances would be too great, making mobile units a key part of service delivery.
+Historically it was believed that for such a large population, travel distances would be too great, making mobile units a key part of service delivery.
 
 This thinking informed the current breast screening model where:
 
@@ -45,19 +44,19 @@ This thinking informed the current breast screening model where:
 
 - there is a concept of a round plan that is maintained by the BSO programme manager 
 
-- participants are sometimes invited to their nearest van location, rather than when they are due
+- participants are sometimes invited to their nearest van location rather than when they are due
 
 This model has successfully been in operation for about 40 years.
 
 ## What’s inside a mobile van
 
-The van we visited had a staircase leading up to a door. Inside, to the left was a small reception area where participants were checked in and behind it, a small staff kitchenette.  
+The van we visited had a staircase leading up to a door. Inside, to the left was a small reception area where participants were checked in. Behind the reception was a small staff kitchenette.  
 
-To the right of the entrance was a small waiting area for 2-4 people. Further inside there were 2 small changing rooms and a larger room with the mammography machine.
+To the right of the entrance was a small waiting area for 2 to 4 people. Further inside there were 2 small changing rooms and a larger room with the mammography machine.
 
 ![](mammo-machine-van.png 'Mammography machine in a mobile van')
 
-Inside the van, participants followed a one-way system so that once the mammogram image was taken, the participant could change and walk out of the other end, down a staircase.
+Inside the van participants followed a one-way system so that once the mammogram image was taken, the participant could change and walk out of the other end, down a staircase.
 
 ## How much screening do we do on mobile vans nationally?
 
@@ -81,9 +80,9 @@ Most BSOs have 3 or fewer mobile units, but there are some outliers with 4, 5 an
 
 ![A bar chart showing the number of BSOs who have a certain number of mobile units: 11 have no mobile units, 12 have 1, 24 have 2, 21 have 3, 5 have 4, 3 have 5 and 1 has 6 mobile units.](number-mobile-units.png)
 
-On average, vans make their way around 8 mobile locations. The highest number of mobile locations that a BSO visits every 3 years is 37 (this BSO has 2 mobile vans).  
+On average, vans make their way around 8 mobile locations per year. The highest number of mobile locations that a BSO visits every 3 years is 37 (this BSO has 2 mobile vans).  
 
-Typically, BSOs use the same mobile screening locations and visit those locations in a predictable cycle. This is known as the round plan. 
+Typically BSOs use the same mobile screening locations and visit those locations in a predictable cycle. This is known as the round plan. 
 
 ## Most popular places to host screening facilities
 
