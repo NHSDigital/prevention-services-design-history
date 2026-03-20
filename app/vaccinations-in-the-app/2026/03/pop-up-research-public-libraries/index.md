@@ -78,7 +78,7 @@ At Newcastle library, there is a community outreach team that helps people sign 
 **We learned that libraries run digital drop-in sessions**  
 At Leeds library, our pop-up session coincided with a [digital drop-in session](https://libraries.leeds.gov.uk/find-information/digital-support) running to help people with digital devices. Several attendees were willing to participate in our research, giving us access to people at the lower end of the digital confidence spectrum.
 
-## **How this changes our approach**
+## How this changes our approach
 
 This research directly informed several changes we are making or exploring:
 
