@@ -1,6 +1,6 @@
 ---
 title: Breast screening in mobile vans
-description: Findings from a BSO survey, past findings and a mobile van visit
+description: Findings from a BSO survey, past research and a mobile van visit
 date: 2026-03-20
 author: Veronika Jermolina
 opengraphImage:
