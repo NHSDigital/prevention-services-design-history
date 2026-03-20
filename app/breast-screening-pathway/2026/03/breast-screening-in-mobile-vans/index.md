@@ -135,7 +135,7 @@ Not all locations are suitable for hosting a mobile van – locations need to ha
 
 ## Internet connection and offline working
 
-Of the 66 BSOs that had mobile vans, 77% had internet access, but of those, 83% experienced connection difficulties.
+Of the 66 BSOs that had mobile vans, 77% had internet access. Of those, 83% experienced connection difficulties.
 
 > Out in mobile units, radiographers need paper to identify ladies, as some mobile units struggle with connectivity due to rural locations. There will be situations where the service can't go paperless.
 > -- BSO programme manager
