@@ -23,7 +23,7 @@ When designing a service that millions of people may use, getting a diverse rang
 - people for whom English is not a first language
 - parents and carers
 
-## **The problem with panels**
+## The problem with panels
 
 We used NHS research panels to survey people, recruit for interviews and co-design workshops, and run online prototype testing. The panels include a large number of volunteers and are an incredibly useful resource.
 
