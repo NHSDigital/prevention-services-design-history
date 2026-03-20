@@ -83,7 +83,7 @@ Most BSOs have 3 or fewer mobile units, but there are some outliers with 4, 5 an
 
 On average, vans make their way around 8 mobile locations per year. The highest number of mobile locations that a BSO visits every 3 years is 37 (this BSO has 2 mobile vans).  
 
-Typically, BSOs use the same mobile screening locations and visit those locations in a predictable cycle. This is known as the round plan. 
+Typically BSOs use the same mobile screening locations and visit those locations in a predictable cycle. This is known as the round plan. 
 
 ## Most popular places to host screening facilities
 
