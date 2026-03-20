@@ -94,7 +94,7 @@ This research directly informed several changes we are making or exploring:
 
 One challenge was that very few participants were in our target age range of 75 to 79. Finding specific people in public spaces is difficult. We plan to visit GP practices and pharmacies as a way to speak with older adults about vaccinations in the NHS App.
 
-## **Tips for running pop-up research**
+## Tips for running pop-up research
 
 If you are considering taking your research into public spaces, here is what we learned from running these sessions:
 
