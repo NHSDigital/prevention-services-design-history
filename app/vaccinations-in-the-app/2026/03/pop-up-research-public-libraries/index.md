@@ -7,6 +7,9 @@ tags:
   - RSV vaccine
   - user research
   - NHS App
+opengraphImage:
+  src: /vaccinations-in-the-app/2026/03/pop-up-research-public-libraries/Leeds-library-pop-up-research.jpg
+  alt: Photo of a table at Leeds library with paper on the desk and an NHS banner in the background
 ---
 
 We were struggling to reach a diverse range of users through our NHS research panels. To fill the gaps, we took our research into public libraries — and learned things we would not have found any other way.
