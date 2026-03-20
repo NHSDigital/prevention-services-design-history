@@ -11,7 +11,7 @@ tags:
 
 We were struggling to reach a diverse range of users through our NHS research panels. To fill the gaps, we took our research into public libraries — and learned things we would not have found any other way.
 
-## **Background**
+## Background
 
 When designing a service that millions of people may use, getting a diverse range of research participants is essential. We formed a research plan that included people across several sub-groups, including:
 
