@@ -7,8 +7,7 @@ opengraphImage:
   src: /breast-screening-pathway/2026/03/breast-screening-in-mobile-vans/mobile-van.png
   alt: A breast screening mobile van
 tags:
-  - breast screening
-  - mobile van
+    - mobile vans
 ---
 
 A lot of our research has so far been focused on understanding breast screening in hospitals and health centres. This kind of screening location is known as a ‘static unit’. This is in contrast to breast screening done in mobile units, or mobile vans.  
@@ -33,9 +32,10 @@ The original vision for the breast screening programme was outlined in the Forre
 
 The key intent was to bring screening centres to where people are, reducing the need to travel and increasing participation.
 
-The Forrest report [suggested](https://assets.publishing.service.gov.uk/media/5be181cd40f0b604c0d235fc/Withdrawn_Organising_a_breast_screening_programme_2002.pdf) that each screening unit should cover a general population of approximately 471,000 people, which, at the time, equated to a target screening population of 41,150 or 12,000 screening attendees per unit per year.  
+The Forrest report suggested that each screening unit should cover a general population of approximately 471,000 people, which, at the time, equated to a target screening population of 41,150 or 12,000 screening attendees per unit per year.  
 
-The current [guidance](https://www.gov.uk/government/publications/breast-screening-leading-a-service/breast-screening-best-practice-guidance-on-leading-a-breast-screening-service) suggests that a BSO should cover a general population between 500,000 and 1,000,000. In 2018, the median eligible screening population per BSO was 93,000 people. This means that annually, one third, about 31,000 participants, would be invited and about 23,250 would attend (based on 75% uptake).
+
+The current [guidance](https://www.gov.uk/government/publications/breast-screening-leading-a-service/breast-screening-best-practice-guidance-on-leading-a-breast-screening-service) suggests that a BSO should cover a general population between 500,000 and 1,000,000. In 2018, the median eligible screening population per BSO was 93,000 people. This means that annually, one third (31,000 participants) would be invited. Based on 75% uptake, 23,250 would attend.
 
 Historically, it was believed that for such a large population, travel distances would be too great, making mobile units a key part of service delivery.
 
@@ -43,7 +43,7 @@ This thinking informed the current breast screening model where:
 
 - mobile vans rotate around their whole population every 3 years 
 
-- there is a concept of a round plan that is maintained by the programme manager 
+- there is a concept of a round plan that is maintained by the BSO programme manager 
 
 - participants are sometimes invited to their nearest van location, rather than when they are due
 
@@ -93,13 +93,13 @@ The most popular locations for hosting screening were:
 
 - supermarkets (176) 
 
-- GP surgeries (151)  
+- GP surgeries (155)  
 
 - community or leisure centres (69)
 
 There were also 21 ‘detained estates’, which include prisons, immigration centres and secure hospitals and 1 military location.
 
-![A bar chart showing locations of static and mobile breast screening sites: 237 hospital sites, 176 supermarket sites, 155 GP surgeries, 69 community or leisure centres, 48 retail sites, 31 civic sites, 30 medical sites, 29 car parks, 25 sports centres or grounds, 21 detained estates, 15 other.](total-number-sites.png)
+![A bar chart showing locations of static and mobile breast screening sites: 237 hospital sites, 176 supermarket sites, 155 GP surgeries, 69 community or leisure centres, 48 retail sites, 31 civic sites, 30 medical sites, 29 car parks, 25 sports centres or grounds, 21 detained estates, 15 other.](location-types.png)
 
 ## The biggest challenges with mobile locations
 
@@ -135,7 +135,7 @@ Not all locations are suitable for hosting a mobile van – locations need to ha
 
 ## Internet connection and offline working
 
-Of the 66 BSOs that had mobile vans, 77% had internet access, but of those, 83% experienced connection difficulties.
+Of the 66 BSOs that had mobile vans, 77% had internet access. Of those, 83% experienced connection difficulties.
 
 > Out in mobile units, radiographers need paper to identify ladies, as some mobile units struggle with connectivity due to rural locations. There will be situations where the service can't go paperless.
 > -- BSO programme manager
@@ -167,6 +167,8 @@ While DiMEx was the standard process for the van we visited, some other BSOs tol
 > -- BSO programme manager
 
 ## Different mobile van capacity depending on location
+
+The van we visited had 2 mammographers working together, which is the minimum number. One staffed the reception, while the other took images. They changed after a handful of participants. One of the mammographers was more experienced and could take more complex images, for example using the [Eklund technique](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2026/03/recording-images-for-participants-with-breast-implants/). They told us that during busy times they may have 3 mammographers working on the van. 
 
 Some BSOs have shared cars that staff drive between the office (static unit) and the mobile van location. 
 
