@@ -81,7 +81,7 @@ Most BSOs have 3 or fewer mobile units, but there are some outliers with 4, 5 an
 
 ![A bar chart showing the number of BSOs who have a certain number of mobile units: 11 have no mobile units, 12 have 1, 24 have 2, 21 have 3, 5 have 4, 3 have 5 and 1 has 6 mobile units.](number-mobile-units.png)
 
-On average, vans make their way around 8 mobile locations. The highest number of mobile locations that a BSO visits every 3 years is 37 (this BSO has 2 mobile vans).  
+On average, vans make their way around 8 mobile locations per year. The highest number of mobile locations that a BSO visits every 3 years is 37 (this BSO has 2 mobile vans).  
 
 Typically, BSOs use the same mobile screening locations and visit those locations in a predictable cycle. This is known as the round plan. 
 
