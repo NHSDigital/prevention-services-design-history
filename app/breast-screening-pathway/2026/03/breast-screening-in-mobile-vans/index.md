@@ -57,7 +57,7 @@ To the right of the entrance was a small waiting area for 2-4 people. Further in
 
 ![](mammo-machine-van.png 'Mammography machine in a mobile van')
 
-Inside the van, participants followed a one-way system so that once the mammogram image was taken, the participant could change and walk out of the other end, down a staircase.
+Inside the van participants followed a one-way system so that once the mammogram image was taken, the participant could change and walk out of the other end, down a staircase.
 
 ## How much screening do we do on mobile vans nationally?
 
