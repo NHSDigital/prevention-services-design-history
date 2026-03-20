@@ -37,7 +37,7 @@ The Forrest report [suggested](https://assets.publishing.service.gov.uk/media/5b
 
 The [current breast screening guidance](https://www.gov.uk/government/publications/breast-screening-leading-a-service/breast-screening-best-practice-guidance-on-leading-a-breast-screening-service) suggests that a BSO should cover a general population between 500,000 and 1,000,000. In 2018, the median eligible screening population per BSO was 93,000 people. This means that annually, one third, about 31,000 participants, would be invited and about 23,250 would attend (based on 75% uptake).
 
-Historically, it was believed that for such a large population, travel distances would be too great, making mobile units a key part of service delivery.
+Historically it was believed that for such a large population, travel distances would be too great, making mobile units a key part of service delivery.
 
 This thinking informed the current breast screening model where:
 
