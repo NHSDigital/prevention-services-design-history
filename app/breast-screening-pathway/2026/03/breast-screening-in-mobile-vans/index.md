@@ -22,6 +22,13 @@ In this design history, we start to describe what we know about breast screening
 
 ![](mobile-van.png 'A mobile breast screening van parked in a rural location')
 
+BSOs give their vans names, for example:
+- Olive, Daisy and Rosie
+- Alpha, Beta, Delta and Omega
+- Phoenix
+
+Screening in vans is optimised for throughput - screening a maximum number of participants per day, typically 40 to 50. 
+
 ## Why screen at a mobile site? 
 
 The original vision for the breast screening programme was outlined in the Forrest report (1986). The report suggested a delivery model for breast screening consisting of: 
@@ -167,7 +174,7 @@ While DiMEx was the standard process for the van we visited, some other BSOs tol
 
 ## Different mobile van capacity depending on location
 
-The van we visited had 2 mammographers working together, which is the minimum number. One staffed the reception, while the other took images. They changed after a handful of participants. One of the mammographers was more experienced and could take more complex images, for example using the [Eklund technique](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2026/03/recording-images-for-participants-with-breast-implants/). They told us that during busy times they may have 3 mammographers working on the van. 
+The van we visited had 2 mammographers working together, which is the minimum number. One staffed the reception, while the other took images. They changed after a handful of participants. One of the mammographers was more experienced and could take more complex images, for example using the [Eklund technique](/manage-breast-screening/2026/03/recording-images-for-participants-with-breast-implants/). They told us that during busy times they may have 3 mammographers working on the van. 
 
 Some BSOs have shared cars that staff drive between the office (static unit) and the mobile van location. 
 
