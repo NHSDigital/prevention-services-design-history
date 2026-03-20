@@ -82,7 +82,7 @@ At Leeds library, our pop-up session coincided with a [digital drop-in session](
 
 This research directly informed several changes we are making or exploring:
 
-**Using the eligibility "care card" pattern across all vaccines.** Participants found this pattern clear and easy to read, so we are continuing to use it beyond RSV.
+**Using the eligibility ["care card" pattern](https://service-manual.nhs.uk/design-system/patterns/help-users-decide-when-and-where-to-get-care) across all vaccines.** Participants found this pattern clear and easy to read, so we are continuing to use it beyond RSV.
 
 **Removing "catch-up" and "higher risk" vaccine categories for now.** The terms were too broad to be meaningful to people. We need to iterate on the design and content for these categories and test them further before bringing them back.
 
