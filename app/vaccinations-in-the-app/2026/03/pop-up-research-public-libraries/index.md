@@ -90,7 +90,7 @@ This research directly informed several changes we are making or exploring:
 
 **Showing all options for getting vaccinated, not just online booking.** People need to know about alternatives like walk-in clinics. We are updating the service to surface these alongside the online booking journey.
 
-## **What we would do differently**
+## What we would do differently
 
 One challenge was that very few participants were in our target age range of 75 to 79. Finding specific people in public spaces is difficult. We plan to visit GP practices and pharmacies as a way to speak with older adults about vaccinations in the NHS App.
 
