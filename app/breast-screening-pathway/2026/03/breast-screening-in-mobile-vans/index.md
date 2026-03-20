@@ -8,7 +8,7 @@ opengraphImage:
   alt: A breast screening mobile van
 tags:
   - breast screening
-  - mobile van
+  - mobile vans
 ---
 
 A lot of our research has so far been focused on understanding breast screening in hospitals and health centres. This kind of screening location is known as a ‘static unit’. This is in contrast to breast screening done in mobile units, or mobile vans.  
