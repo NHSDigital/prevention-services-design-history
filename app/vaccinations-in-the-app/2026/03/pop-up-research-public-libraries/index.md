@@ -89,9 +89,11 @@ This research directly informed several changes we are making or exploring:
 
 **Removing "catch-up" and "higher risk" vaccine categories for now.** The terms were too broad to be meaningful to people. We need to iterate on the design and content for these categories and test them further before bringing them back.
 
+**Showing all options for getting vaccinated, not just online booking.** People need to know about alternatives like walk-in clinics. We are updating the service to surface these alongside the online booking journey.
+
 **Adding RSV vaccine app notifications to our roadmap.** Most people expected the NHS to proactively tell them when they were eligible. Unlike COVID-19 and flu, RSV is available year-round, so we’ll look at how we notify people as soon as they become eligible.
 
-**Showing all options for getting vaccinated, not just online booking.** People need to know about alternatives like walk-in clinics. We are updating the service to surface these alongside the online booking journey.
+!['three screen designs of the app that we tested: care card eligibility message, catch-up and higher risk vaccines and showing all booking options'](vaccs-app-design-images.png)
 
 ## What we would do differently
 
