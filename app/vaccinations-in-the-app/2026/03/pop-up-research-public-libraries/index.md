@@ -1,7 +1,7 @@
 ---
 title: Pop-up research at public libraries
 description: Getting out of the building to research with a diversity of people. 
-date: 2026-03-19
+date: 2026-03-20
 author: Gabe Fender
 tags:
   - RSV vaccine
