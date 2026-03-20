@@ -110,7 +110,7 @@ There were also 21 ‘detained estates’, which include prisons, immigration ce
 
 - councils needing the land for other uses or wanting to start electric car charging 
 
-Some BSOs thought that there were too few incentives or budget for hosting mobile vans. There was competition for space with other screening programmes like [lung screening](https://design-history.prevention-services.nhs.uk/lung-health-check/).
+Some BSOs thought that there were too few incentives or budget for hosting mobile vans. There was competition for space with other screening programmes like [lung screening](/lung-health-check/).
 
 There are also seasonal limitations to using certain locations: 
 
