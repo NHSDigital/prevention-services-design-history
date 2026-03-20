@@ -70,7 +70,7 @@ We learned participants need:
 - simple content and messaging around vaccine information
 - to see alternative options to booking an appointment online like finding a walk-in clinic
 
-### **What else we learned**
+### What else we learned
 
 **We uncovered barriers to using the NHS App**  
 At Newcastle library, there is a community outreach team that helps people sign up for and use the NHS App. They saw our research request come through and set up a meeting with us to share the challenges people face. This was a connection we would not have made through remote research.
