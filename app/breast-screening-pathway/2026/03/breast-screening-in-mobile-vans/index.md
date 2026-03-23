@@ -1,6 +1,6 @@
 ---
 title: Breast screening in mobile vans
-description: Findings from a BSO survey, past findings and a mobile van visit
+description: Findings from a BSO survey, past research and a mobile van visit
 date: 2026-03-20
 author: Veronika Jermolina
 opengraphImage:
@@ -21,6 +21,14 @@ In this design history, we start to describe what we know about breast screening
 - visiting a mobile van  
 
 ![](mobile-van.png 'A mobile breast screening van parked in a rural location')
+
+BSOs give their vans names, for example:
+- Van Morrison, Van Halen and Van Damme
+- Olive, Daisy and Rosie
+- Alpha, Beta, Delta and Omega
+- Phoenix
+
+Screening in vans is optimised for throughput - screening a maximum number of participants per day, typically 40 to 50. 
 
 ## Why screen at a mobile site? 
 
@@ -68,7 +76,7 @@ Through the national BSO survey, we found that out of 77 BSOs:
 
 - 2 BSOs (2%) have mobile units that never move
 
-In addition to the 153 static screening sites, mobile vans rotate around 651 mobile sites nationally, along with 12 prisons, 7 immigration centres and 2 secure hospitals. So out of a total of 836 locations, 662 are mobile locations, although only a fraction of those are in use at any one time.
+There are 153 static screening sites, along with 12 prisons, 7 immigration centres and 2 secure hospital sites. In addition to that, 164 mobile vans rotate around 662 mobile sites nationally. Screening is delivered in a total of 836 locations, although only a fraction of mobile sites are in use at any one time.
 
 ![Map of England showing dots for different types of breast screening locations, including static sites, mobile sites, prisons, secure hospitals and immigration breast screening sites, with denser clusters in London, the midlands and the North West](bso-location-map.png 'Cohort to clinic team started mapping the various breast screening locations')
 
@@ -167,7 +175,7 @@ While DiMEx was the standard process for the van we visited, some other BSOs tol
 
 ## Different mobile van capacity depending on location
 
-The van we visited had 2 mammographers working together, which is the minimum number. One staffed the reception, while the other took images. They changed after a handful of participants. One of the mammographers was more experienced and could take more complex images, for example using the [Eklund technique](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2026/03/recording-images-for-participants-with-breast-implants/). They told us that during busy times they may have 3 mammographers working on the van. 
+The van we visited had 2 mammographers working together, which is the minimum number. One staffed the reception, while the other took images. They changed after a handful of participants. One of the mammographers was more experienced and could take more complex images, for example using the [Eklund technique](/manage-breast-screening/2026/03/recording-images-for-participants-with-breast-implants/). They told us that during busy times they may have 3 mammographers working on the van. 
 
 Some BSOs have shared cars that staff drive between the office (static unit) and the mobile van location. 
 
