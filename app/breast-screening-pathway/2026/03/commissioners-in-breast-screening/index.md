@@ -12,7 +12,7 @@ tags:
   - reporting
 ---
 
-The discovery into [forecasting and planning within Breast Screening](https://design-history.prevention-services.nhs.uk/breast-screening-pathway/2026/03/what-bsos-told-us-about-forecasting-and-planning/) included understanding the needs and working practices of commissioners. This helped the team understand more about the role of commissioners, the interactions they have with BSOs and the data they require from services. 
+The discovery into [forecasting and planning within Breast Screening](/breast-screening-pathway/2026/03/what-bsos-told-us-about-forecasting-and-planning/) included understanding the needs and working practices of commissioners. This helped the team understand more about the role of commissioners, the interactions they have with BSOs and the data they require from services. 
 
 **This design history will share insights on:**
 
@@ -79,7 +79,7 @@ There is some variety in how commissioners get KPI and performance data more reg
 
 ## Biggest blockers to achieving round length (from a commissioner's perspective) 
 
-BSOs must ensure they screen their entire eligible population [every 3 years](https://www.gov.uk/government/publications/breast-screening-set-and-maintain-round-length/achieving-and-maintaining-the-36-month-round-length-aug19). This is known as “round length”. You can read more about it in an [earlier design history](https://design-history.prevention-services.nhs.uk/breast-screening-pathway/2026/03/what-bsos-told-us-about-forecasting-and-planning/). 
+BSOs must ensure they screen their entire eligible population [every 3 years](https://www.gov.uk/government/publications/breast-screening-set-and-maintain-round-length/achieving-and-maintaining-the-36-month-round-length-aug19). This is known as “round length”. You can read more about it in an [earlier design history](/breast-screening-pathway/2026/03/what-bsos-told-us-about-forecasting-and-planning/). 
 
 Breast screening was noted as being more complex than other services due to: 
 
