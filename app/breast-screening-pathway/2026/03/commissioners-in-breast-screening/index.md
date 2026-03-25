@@ -25,14 +25,14 @@ The discovery into [forecasting and planning within Breast Screening](https://de
 
 ## The role of commissioners  
 
-‘Commissioner’ encompasses any role involved in commissioning services, resulting in a wide range of job titles (e.g. Screening and Immunisation Managers/Coordinators/Leads, Programme Managers, Heads of Public Health). There are roles that operate at a national level, and regional level. There is also a difference in the range of services they oversee, with some focused solely on breast screening, to others being across several screening and/or immunisation services within [Section 7A] (https://www.gov.uk/government/publications/public-health-commissioning-in-the-nhs-2023-to-2024/nhs-public-health-functions-agreement-2023-to-2024#:~:text=The%20provision%20of%20section%207A%20services%20are%20steps%20that%20the,2A%20of%20the%202006%20Act.). 
+‘Commissioner’ encompasses any role involved in commissioning services, resulting in a wide range of job titles (e.g. Screening and Immunisation Managers/Coordinators/Leads, Programme Managers, Heads of Public Health). There are roles that operate at a national level, and regional level. There is also a difference in the range of services they oversee, with some focused solely on breast screening, to others being across several screening and/or immunisation services within [Section 7A](https://www.gov.uk/government/publications/public-health-commissioning-in-the-nhs-2023-to-2024/nhs-public-health-functions-agreement-2023-to-2024#:~:text=The%20provision%20of%20section%207A%20services%20are%20steps%20that%20the,2A%20of%20the%202006%20Act). 
 
 ### Commissioners have 3 core responsibilities: 
 
 **1. Escalation and unblocking**
 Serving as an escalation point to help services unblock issues so they can meet outcomes.
 
->“Part of the job is helping things happen when they wouldn’t otherwise.” 
+>Part of the job is helping things happen when they wouldn’t otherwise. 
 
 Commissioners may support when: 
 
@@ -47,7 +47,7 @@ Commissioners may support when:
 - operational issues impact performance 
 
 **2. Monitoring and accountability**
-Monitoring outcomes and holding services accountable to delivery standards laid out in the [service specification] (https://future.nhs.uk/vaccsandscreening/view?objectId=71116816). This includes monitoring problems, vacancies, staffing, and demand to determine if additional funding is needed. 
+Monitoring outcomes and holding services accountable to delivery standards laid out in the [service specification](https://future.nhs.uk/vaccsandscreening/view?objectId=71116816). This includes monitoring problems, vacancies, staffing, and demand to determine if additional funding is needed. 
 
 **3. Funding and strategic oversight**
 
@@ -59,7 +59,7 @@ Directing funding and activities with a strategic view on overall health goals, 
 
 There is some overlap in the data needs between commissioners and Screening Quality Assurance Service (SQAS), but their responsibilities differ. Commissioners rely on expert clinical advice from SQAS for service evaluation and to directly manage incidents. However, both roles require similar data on service performance and outcomes through KPI reports. 
 
-![] (commissioner-sqas-tasks-table.png 'The table describes some of the activities commissioners and SQAS are responsible for in breast screening.')
+![](commissioner-sqas-tasks-table.png 'The table describes some of the activities commissioners and SQAS are responsible for in breast screening.')
 
 ![](commissioning-actors-in-the-system.png 'Image shows how commissioners, programme team and quality assurance work together to support BSOs, Trusts and other neighbourhood health partners with achieving intended health outcomes.')
 
@@ -79,7 +79,7 @@ There is some variety in how commissioners get KPI and performance data more reg
 
 ## Biggest blockers to achieving round length (from a commissioner's perspective) 
 
-BSOs must ensure they screen their entire eligible population [every 3 years] (https://www.gov.uk/government/publications/breast-screening-set-and-maintain-round-length/achieving-and-maintaining-the-36-month-round-length-aug19). This is known as “round length”. You can read more about it in an [earlier design history] (https://design-history.prevention-services.nhs.uk/breast-screening-pathway/2026/03/what-bsos-told-us-about-forecasting-and-planning/). 
+BSOs must ensure they screen their entire eligible population [every 3 years](https://www.gov.uk/government/publications/breast-screening-set-and-maintain-round-length/achieving-and-maintaining-the-36-month-round-length-aug19). This is known as “round length”. You can read more about it in an [earlier design history](https://design-history.prevention-services.nhs.uk/breast-screening-pathway/2026/03/what-bsos-told-us-about-forecasting-and-planning/). 
 
 Breast screening was noted as being more complex than other services due to: 
 
@@ -146,7 +146,7 @@ Commissioners were keen to have staffing level recommendations, similar to other
 
 Currently it is difficult to share staff between BSOs due to differences in standards between trusts such as mandatory training, which means staff who may be qualified to the same level and in the same role cannot operate equipment at another trust. 
 
->“Could we do this on a wider basis, agreeing on an SLA between trusts? Having this ready to go if that capacity is needed? We are keen to do this but nationally we might have spare capacity, we just can't get it into the right place at the right time.”  
+>Could we do this on a wider basis, agreeing on an SLA between trusts? Having this ready to go if that capacity is needed? We are keen to do this but nationally we might have spare capacity, we just can't get it into the right place at the right time.  
 
 
 ## How we’ll use this insight in digital screening 
