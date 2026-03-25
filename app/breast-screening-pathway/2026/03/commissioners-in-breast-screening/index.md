@@ -25,7 +25,7 @@ The discovery into [forecasting and planning within Breast Screening](/breast-sc
 
 ## The role of commissioners  
 
-‘Commissioner’ encompasses any role involved in commissioning services, resulting in a wide range of job titles (e.g. Screening and Immunisation Managers/Coordinators/Leads, Programme Managers, Heads of Public Health). There are roles that operate at a national level, and regional level. There is also a difference in the range of services they oversee, with some focused solely on breast screening, to others being across several screening and/or immunisation services within [Section 7A](https://www.gov.uk/government/publications/public-health-commissioning-in-the-nhs-2023-to-2024/nhs-public-health-functions-agreement-2023-to-2024#:~:text=The%20provision%20of%20section%207A%20services%20are%20steps%20that%20the,2A%20of%20the%202006%20Act). 
+‘Commissioner’ encompasses any role involved in commissioning services, resulting in a wide range of job titles (e.g. Screening and Immunisation Managers/ Coordinators/ Leads, Programme Managers, Heads of Public Health). There are roles that operate at a national level, and regional level. There is also a difference in the range of services they oversee, with some focused solely on breast screening, to others being across several screening and/or immunisation services within [Section 7A](https://www.gov.uk/government/publications/public-health-commissioning-in-the-nhs-2023-to-2024/nhs-public-health-functions-agreement-2023-to-2024#:~:text=The%20provision%20of%20section%207A%20services%20are%20steps%20that%20the,2A%20of%20the%202006%20Act). 
 
 ### Commissioners have 3 core responsibilities: 
 
@@ -140,7 +140,7 @@ Commissioners know how overstretched BSOs are. Some have already taken steps to 
 
 Alongside planning methods, commissioners were interested in recommendations for minimum staffing levels for a good service. Breast screening is ['block funded’](https://www.bma.org.uk/advice-and-support/nhs-delivery-and-workforce/funding/models-for-paying-providers-of-nhs-services#:~:text=become%20more%20dominant.-,Block%20contracts,-A%20block%20contract), which means funding isn’t linked to performance or activity, but based on historical data linked to the population the service provides for. This can mean over time, as populations in an area change, that BSOs become underfunded. One benchmarking exercise in a region highlighted this disparity between services, resulting in a 40% increase in funding for one provider.  
 
-Commissioners were keen to have staffing level recommendations, similar to other services such as [AAA](https://www.gov.uk/government/publications/aaa-screening-standard-operating-procedures/aaa-screening-programme-guidance#:~:text=Director/clinical%20lead%20(0.2%20WTE%20per%20800%2C000%20total%20population). 
+Commissioners were keen to have staffing level recommendations, similar to other services such as [AAA](https://shorturl.at/2euTs). 
 
 ### Easier sharing of resources between trusts 
 
