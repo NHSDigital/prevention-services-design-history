@@ -12,7 +12,7 @@ tags:
   - reporting
 ---
 
-The discovery into [forecasting and planning within Breast Screening](/breast-screening-pathway/2026/03/what-bsos-told-us-about-forecasting-and-planning/) included understanding the needs and working practices of commissioners. This helped the team understand more about the role of commissioners, the interactions they have with BSOs and the data they require from services. 
+The discovery into [forecasting and planning within Breast Screening](../what-bsos-told-us-about-forecasting-and-planning/) included understanding the needs and working practices of commissioners. This helped the team understand more about the role of commissioners, the interactions they have with BSOs and the data they require from services. 
 
 **This design history will share insights on:**
 
