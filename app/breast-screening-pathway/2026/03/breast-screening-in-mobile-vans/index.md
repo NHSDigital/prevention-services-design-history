@@ -76,7 +76,7 @@ Through the national BSO survey, we found that out of 77 BSOs:
 
 - 2 BSOs (2%) have mobile units that never move
 
-There are 153 static screening sites, along with 12 prisons, 7 immigration centres and 2 secure hospital sites. In addition to that, 164 mobile vans rotate around 662 mobile sites nationally. Screening is delivered in a total of 836 locations, although only a fraction of mobile sites are in use at any one time.
+164 mobile vans rotate around 653 mobile sites nationally. There are 151 static screening sites - mostly in hospitals, medical centres or GP surgeries. Additionally, there is a special category of sites, known as detained estates, which includes 12 prisons, 7 immigration centres and 2 secure hospitals. There are a total of 836 locations nationally, although only a fraction of those are in use at any one time because of van movement.
 
 ![Map of England showing dots for different types of breast screening locations, including static sites, mobile sites, prisons, secure hospitals and immigration breast screening sites, with denser clusters in London, the midlands and the North West](bso-location-map.png 'Cohort to clinic team started mapping the various breast screening locations')
 
