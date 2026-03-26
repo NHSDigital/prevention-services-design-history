@@ -65,17 +65,11 @@ Our initial experiments with ways to display these elements included making choi
 ## Our preferred design
 The side-by-side design with final opinion buttons will be tested with users from BSOs.
 
-![Six counters showing different types of mammogram views](record-eklund-views.png)
+![The image reader opinion screen showing image quality details recorded by a mammographer](review-imperfect.png "If a second reader says 'Normal' after the first has asked for a recall, they can keep their opinion but will be asked to add details to clarify why they do not agree. If they change to the first reader's opinion, they will be asked to add their own annotations to there is a full record of their read.")
 
-![Six counters showing different types of mammogram views](record-eklund-views.png)
+![The image reader opinion screen showing image quality details recorded by a mammographer](review-imperfect.png "If both readers ask for a recall, the second reader will be shown the first reader's opinion next to theirs. They may have spotted the same thing on the images, but have slightly different interpretations of what it is. If the second reader thinks they are talking about the same thing, they may choose to go with the first reader's annotations, or they may decide to keep their opinion and send all annotations through to the assessment stage.")
 
-![Six counters showing different types of mammogram views](record-eklund-views.png)
-
-If a second reader says 'Normal' after the first has asked for a recall, they can keep their opinion but will be asked to add details to clarify why they do not agree. If they change to the first reader's opinion, they will be asked to add their own annotations to there is a full record of their read.
-
-If both readers ask for a recall, the second reader will be shown the first reader's opinion next to theirs. They may have spotted the same thing on the images, but have slightly different interpretations of what it is. If the second reader thinks they are talking about the same thing, they may choose to go with the first reader's annotations, or they may decide to keep their opinion and send all annotations through to the assessment stage.
-
-Differences of opinion can also relate to technical recalls. In this instance, the second reader has asked for the participant to return so they can have one of the views retaken. However, if they see that the first reader was satisfied with the images and able to make a judgement, they may decide to go with their opinion. It's up to them if they believe the recall is necessary, but this could result in an reduction in unnecessary return visits for participants.
+![The image reader opinion screen showing image quality details recorded by a mammographer](review-imperfect.png "Differences of opinion can also relate to technical recalls. In this instance, the second reader has asked for the participant to return so they can have one of the views retaken. However, if they see that the first reader was satisfied with the images and able to make a judgement, they may decide to go with their opinion. It's up to them if they believe the recall is necessary, but this could result in an reduction in unnecessary return visits for participants.")
 
 ## Deciding when to show this
 
