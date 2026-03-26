@@ -91,7 +91,7 @@ The alternative option would be for users to give their opinion, fill in the rel
 
 This would be a truer interpretation of blind reading. Readers would be required to give a complete read before seeing what their colleagues said which would mean a more comprehensive assessment.
 
-The major drawback would be a duplication of information. If the second reader identifies the same issues as the first reader, this would create multiple annotations which may then need a separate action to merge and reconcile.
+The drawback would be a duplication of information. If the second reader identifies the same issues as the first reader, this would create multiple annotations which may then need a separate action to merge and reconcile.
 
 ### A delayed post-opinion screen
 
