@@ -77,7 +77,7 @@ As well as the design of this screen, we are also reviewing the best time to dis
 
 ### An early post-opinion screen
 
-We could present the first readers opinion to second readers immediately after they have given their opinion.
+We could present the first reader's opinion to second readers immediately after they have given their opinion.
 
 The main benefit of this is saving duplicate effort. Users can 'adopt' the details that the first reader provided so they don't need to add the same information again if they've seen the same thing.
 
