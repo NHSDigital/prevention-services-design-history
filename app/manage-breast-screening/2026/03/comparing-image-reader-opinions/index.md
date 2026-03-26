@@ -29,7 +29,7 @@ In our prototype, readers have four opinions they can give:
 3. Technical recall (the participant needs to come back for more mammograms)
 4. Recall for assessment (a sign of cancer is detected that needs further investigation)
 
-They may also request images from prior mammograms or skip a case, but we'll be looking at those action in a separate task.
+They may also request images from prior mammograms or skip a case, but we'll be looking at those actions in a separate task.
 
 We assessed the various opinion combinations and the relevant next steps. For example:
 
