@@ -1,20 +1,22 @@
 ---
 layout: page
-title: A post template
-description: Use this template to get you started.
+title: A sample post template
+description: You can use this template to get you started.
 eleventyNavigation:
   parent: Guide
 ---
 
-Create a new subfolder for your post.
+This template contains all the possible metadata you can add to a post, and some sample markdown for the content (see [full markdown guide](/guide/using-markdown/)).
 
-Add an `index.md` file in the subfolder and copy in the markdown below.
+You don’t have to use this template, but it may be helpful.
 
-Delete the lines for any features you don’t need.
+To use it, create a new subfolder for your post, add an `index.md` file in the subfolder and copy in template below.
+
+For any metadata not needed, you can delete those lines.
 
 ```markdown
 ---
-title: "Post title: try to keep it short!"
+title: This is the title of the post
 date: 2025-12-01
 description: This description will appear on index pages.
 tags:
@@ -23,7 +25,7 @@ tags:
   - to help group
   - related posts
 author:
-  - Your Name
+  - Your Name (optional)
   - Another Name
 opengraphImage:
   src: /your-service/2025/12/post-title/image-name.png
