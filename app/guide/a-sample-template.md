@@ -17,8 +17,8 @@ For any metadata not needed, you can delete those lines.
 ```markdown
 ---
 title: This is the title of the post
-date: 2025-12-01
 description: This description will appear on index pages.
+date: 2025-12-01
 tags:
   - add
   - tags
