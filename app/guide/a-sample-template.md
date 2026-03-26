@@ -12,7 +12,7 @@ You don’t have to use this template, but it may be helpful.
 
 To use it, create a new subfolder for your post, add an `index.md` file in the subfolder and copy in template below.
 
-For any metadata not needed, you can delete those lines.
+All metadata is optional except for the title and date. Delete any lines you do not need.
 
 ```markdown
 ---
@@ -25,7 +25,7 @@ tags:
   - to help group
   - related posts
 author:
-  - Your Name (optional)
+  - Your Name
   - Another Name
 opengraphImage:
   src: /your-service/2025/12/post-title/image-name.png
