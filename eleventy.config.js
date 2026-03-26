@@ -151,6 +151,7 @@ export default function (eleventyConfig) {
     // Digital best start
     'age-related-messaging',
     'check-childrens-vaccination-history',
+    'antenatal-screening',
     // Managing my health
     'cohorting-as-a-service'
   ]) {
