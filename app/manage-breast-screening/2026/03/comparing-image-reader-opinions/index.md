@@ -33,9 +33,9 @@ They may also request images from prior mammograms or skip a case, but we'll be 
 
 We assessed the various opinion combinations and the relevant next steps. For example:
 
-* IF 1st read IS Normal AND 2nd read IS Normal THEN go to next case
-* IF 1st read IS Normal AND 2nd read IS Recall for assessment THEN review difference of opinion
-* IF 1st read IS Technical recall AND 2nd read = Technical recall THEN review image requirements
+* `IF` 1st read `IS` Normal `AND` 2nd read `IS` Normal `THEN` go to next case
+* `IF` 1st read `IS` Normal `AND` 2nd read `IS` Recall for assessment `THEN` review difference of opinion
+* `IF` 1st read `IS` Technical recall `AND` 2nd read `IS` Technical recall `THEN` review recall image requirements
 * etc, for 13 other scenarios
 
 Our proposed solution to handle these is to present a post-opinion screen after second reads that changes based on the combination.
