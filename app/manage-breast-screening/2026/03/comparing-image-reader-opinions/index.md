@@ -65,7 +65,7 @@ Our initial experiments with ways to display these elements included making choi
 ## Our preferred design
 The side-by-side design with final opinion buttons will be tested with users from BSOs.
 
-![A 'Recall for assessment' first read shown next to a 'Normal' second read with buttons to keep or change opinion](compare-recall-normal.png "If a second reader says 'Normal' after the first has asked for a recall, they can keep their opinion but will be asked to add details to clarify why they do not agree. If they change to the first reader's opinion, they will be asked to add their own annotations to there is a full record of their read.")
+![A 'Recall for assessment' first read shown next to a 'Normal' second read with buttons to keep or change opinion](compare-recall-normal.png "If a second reader says 'Normal' after the first has asked for a recall, they can keep their opinion but will be asked to add details to clarify why they do not agree.")
 
 ![Two 'Recall for assessment' reads with opinions per breast and related annotations](compare-recalls.png "If both readers ask for a recall, the second reader will be shown the first reader's opinion next to theirs. They may have spotted the same thing on the images, but have slightly different interpretations of what it is. If the second reader thinks they are talking about the same thing, they may choose to go with the first reader's annotations, or they may decide to keep their opinion and send all annotations through to the assessment stage.")
 
