@@ -4,8 +4,8 @@ description: We've been looking at the steps we need second readers to take when
 date: 2026-03-27
 author: Danny Chadburn
 opengraphImage:
-  src: /manage-breast-screening/2026/03/comparing-image-reader-opinions/???.png
-  alt: ???
+  src: /manage-breast-screening/2026/03/comparing-image-reader-opinions/compare-recalls.png
+  alt: A 'Recall for assessment' first read shown next to a 'Normal' second read with buttons to keep or change opinion
 tags:
   - beta
   - prototype
@@ -56,20 +56,20 @@ Our initial experiments with ways to display these elements included making choi
 
 ### A few examples
 
-![Six counters showing different types of mammogram views](record-eklund-views.png)
+![A yellow alert componet telling the second reader that their opinion was different to the first](compare-alert.png)
 
-![Six counters showing different types of mammogram views](record-eklund-views.png)
+![The opinions of the first and second reader presented on top of each other with an option form](compare-top-bottom.png)
 
-![Six counters showing different types of mammogram views](record-eklund-views.png)
+![Different opinions presented side-by-side with buttons to keep or change opinion](compare-buttons.png)
 
 ## Our preferred design
 The side-by-side design with final opinion buttons will be tested with users from BSOs.
 
-![The image reader opinion screen showing image quality details recorded by a mammographer](review-imperfect.png "If a second reader says 'Normal' after the first has asked for a recall, they can keep their opinion but will be asked to add details to clarify why they do not agree. If they change to the first reader's opinion, they will be asked to add their own annotations to there is a full record of their read.")
+![A 'Recall for assessment' first read shown next to a 'Normal' second read with buttons to keep or change opinion](compare-recall-normal.png "If a second reader says 'Normal' after the first has asked for a recall, they can keep their opinion but will be asked to add details to clarify why they do not agree. If they change to the first reader's opinion, they will be asked to add their own annotations to there is a full record of their read.")
 
-![The image reader opinion screen showing image quality details recorded by a mammographer](review-imperfect.png "If both readers ask for a recall, the second reader will be shown the first reader's opinion next to theirs. They may have spotted the same thing on the images, but have slightly different interpretations of what it is. If the second reader thinks they are talking about the same thing, they may choose to go with the first reader's annotations, or they may decide to keep their opinion and send all annotations through to the assessment stage.")
+![Two 'Recall for assessment' reads with opinions per breast and related annotations](compare-recalls.png "If both readers ask for a recall, the second reader will be shown the first reader's opinion next to theirs. They may have spotted the same thing on the images, but have slightly different interpretations of what it is. If the second reader thinks they are talking about the same thing, they may choose to go with the first reader's annotations, or they may decide to keep their opinion and send all annotations through to the assessment stage.")
 
-![The image reader opinion screen showing image quality details recorded by a mammographer](review-imperfect.png "Differences of opinion can also relate to technical recalls. In this instance, the second reader has asked for the participant to return so they can have one of the views retaken. However, if they see that the first reader was satisfied with the images and able to make a judgement, they may decide to go with their opinion. It's up to them if they believe the recall is necessary, but this could result in an reduction in unnecessary return visits for participants.")
+![A 'Normal' first read and a 'Technical recall' second read with buttons to keep or change opinion](compare-normal-tech.png "Differences of opinion can also relate to technical recalls. In this instance, the second reader has asked for the participant to return so they can have one of the views retaken. However, if they see that the first reader was satisfied with the images and able to make a judgement, they may decide to go with their opinion. It's up to them if they believe the recall is necessary, but this could result in an reduction in unnecessary return visits for participants.")
 
 ## Deciding when to show this
 
