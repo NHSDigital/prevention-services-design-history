@@ -111,7 +111,7 @@ They may not be influenced by the first read and stick with their original opini
 
 ### Reducing the arbitration queue
 
-Different opinions that are reconsidered by the second reader will decrease the number that are sent for a third read (either by an individual or group).
+Different opinions that are reconsidered by the second reader will decrease the number that are sent to arbitration.
 
 This may be a good or a bad thing. An extra opinion on a case is often valuable and we wouldn't want this new process to result in too many second readers changing their mind, just to avoid the arbitration step.
 
