@@ -43,7 +43,7 @@ Commissioners may support when:
 #### 2. Monitoring and accountability
 Monitoring outcomes and holding services accountable to delivery standards laid out in the [service specification (NHS Futures)](https://future.nhs.uk/vaccsandscreening/view?objectId=71116816). This includes monitoring problems, vacancies, staffing, and demand to determine if additional funding is needed. 
 
-**3. Funding and strategic oversight**
+#### 3. Funding and strategic oversight
 
 Directing funding and activities with a strategic view on overall health goals, for example, initiating a review of screening sites for accessibility or advising cancer charities where best to focus effort for an area. 
 
