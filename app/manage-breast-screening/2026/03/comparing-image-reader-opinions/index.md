@@ -9,7 +9,7 @@ opengraphImage:
 tags:
   - beta
   - prototype
-  - breast screening
+  - image reading
 ---
 
 We've been looking at the steps we need second readers to take when reviewing breast screening images before they move on to the next case.
