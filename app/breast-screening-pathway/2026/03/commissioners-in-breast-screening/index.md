@@ -78,7 +78,6 @@ There is some overlap in the data needs between commissioners and Screening Qual
     <tr><th scope="row">Sign off on exceptions reports</th><td>Yes</td><td>Yes</td></tr>
   </tbody>
 </table>
-``
 
 ![](commissioning-actors-in-the-system.png 'Image shows how commissioners, programme team and quality assurance work together to support BSOs, Trusts and other neighbourhood health partners with achieving intended health outcomes.')
 
@@ -104,7 +103,7 @@ Breast screening was noted as being more complex than other services due to:
 
 - the service delivering the whole pathway; invitation, screening, assessment and outcome 
 
-- staffing issues such as unfilled posts, long term sick leave and retirement, and the impact this has on screening capacity 
+- staffing issues such as unfilled posts, long term sick leave and retirement, sharing staff with symptomatic services and the impact this has on screening capacity 
 
 - delivery challenges such as finding mobile unit locations 
 
@@ -153,7 +152,7 @@ Commissioners know how overstretched BSOs are. Some have already taken steps to 
 
 - combined data (across years, not in quarters) 
 
-- status reports/RAG for KPIs 
+- status reports for KPIs 
 
 ### Clearer guidance on the ‘right’ approach  
 
