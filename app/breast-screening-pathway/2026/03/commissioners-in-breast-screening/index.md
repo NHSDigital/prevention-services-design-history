@@ -1,7 +1,7 @@
 ---
 title: What we learned about commissioners in breast screening
 description: Findings from interviews with screening and immunisation commissioners in England
-date: 2026-03-25
+date: 2026-03-27
 author: Marianne Brierley
 opengraphImage:
   src: /breast-screening-pathway/2026/03/commissioners-in-breast-screening/commissioning-actors-in-the-system.png
