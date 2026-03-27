@@ -35,13 +35,9 @@ Serving as an escalation point to help services unblock issues so they can meet 
 Commissioners may support when: 
 
 - Trusts are blocking them from performing at the expected level  
-
 - BSOs are struggling to find new mobile unit locations, and need buy in from landowners  
-
 - BSOs need support with negotiations with local authorities on screening sites 
-
 - BSOs feel understaffed and underfunded 
-
 - operational issues impact performance 
 
 **2. Monitoring and accountability**
