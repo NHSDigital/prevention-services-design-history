@@ -40,7 +40,7 @@ Commissioners may support when:
 - BSOs feel understaffed and underfunded 
 - operational issues impact performance 
 
-**2. Monitoring and accountability**
+#### 2. Monitoring and accountability
 Monitoring outcomes and holding services accountable to delivery standards laid out in the [service specification (NHS Futures)](https://future.nhs.uk/vaccsandscreening/view?objectId=71116816). This includes monitoring problems, vacancies, staffing, and demand to determine if additional funding is needed. 
 
 **3. Funding and strategic oversight**
