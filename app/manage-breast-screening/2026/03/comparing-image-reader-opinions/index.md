@@ -4,7 +4,7 @@ description: We've been looking at the steps we need second readers to take when
 date: 2026-03-27
 author: Danny Chadburn
 opengraphImage:
-  src: /manage-breast-screening/2026/03/comparing-image-reader-opinions/compare-recalls.png
+  src: /manage-breast-screening/2026/03/comparing-image-reader-opinions/compare-recall-normal.png
   alt: A 'Recall for assessment' first read shown next to a 'Normal' second read with buttons to keep or change opinion
 tags:
   - beta
@@ -16,11 +16,13 @@ We've been looking at the steps we need second readers to take when reviewing br
 
 In breast screening, each set of mammograms taken is reviewed independently by two image readers. They each give their opinion on whether any further assessment is necessary. This process is usually conducted 'blind' so the reader who looks at the images second can't see what opinion the first reader gave. The other way of reading is 'open' where the second reader sees what the first said prior to giving their own opinion.
 
-There's no statistical evidence to prove that blind reading is a more effective way to identify breast cancer, but it's generally seen by breast screening offices (BSOs) as the preferred method so the second opinion given is unprejudiced by the first. 
+While studies have been done that suggest blind reading is a more effective cancer detection method, there's no conclusive evidence to prove it is better than open reading.  It's generally used in breast screening offices (BSOs) so the second opinion given is unprejudiced by the first.
 
-What happens next in the reading process largely depends on whether the opinions of the two readers match, or are different.
+In the current breast screening system the second reader does not get a chance to ever see the first reader's opinion when blind reading is in operation. The experts we work with have suggested that even when a second read is initially given blind, there may be value in showing the first read to help spot obvious mistakes and avoid unnecessary arbitration.
 
 ## Laying out each scenario
+
+What happens next in the reading process largely depends on whether the opinions of the two readers match, or are different.
 
 In our prototype, readers have four opinions they can give:
 
@@ -36,7 +38,6 @@ We assessed the various opinion combinations and the relevant next steps. For ex
 * `IF` 1st read `IS` Normal `AND` 2nd read `IS` Normal `THEN` go to next case
 * `IF` 1st read `IS` Normal `AND` 2nd read `IS` Recall for assessment `THEN` review difference of opinion
 * `IF` 1st read `IS` Technical recall `AND` 2nd read `IS` Technical recall `THEN` review recall image requirements
-* etc, for 13 other scenarios
 
 Our proposed solution to handle these is to present a post-opinion screen after second reads that changes based on the combination.
 
@@ -77,13 +78,13 @@ As well as the design of this screen, we are also reviewing the best time to dis
 
 ### An early post-opinion screen
 
-We could present the first reader's opinion to second readers immediately after they have given their opinion.
+We could present the first reader's opinion to second readers immediately after they have given an opinion, but before they are asked to provide any further details.
 
 The main benefit of this is saving duplicate effort. Users can 'adopt' the details that the first reader provided so they don't need to add the same information again if they've seen the same thing.
 
 However, this means only the general opinion is given blind, not the full details. We would need to discuss with clinical assurance and policy teams if this satisfies the requirements of guidance around double reading.
 
-There is also potential that users could 'game' the system. If they select an unlikely opinion, they could see the first read and then change their mind to match it. We can mitigate this by logging each time users switch opinions to identify any users doing this.
+There is also potential that users could 'game' the system. If they select an unlikely opinion, they could see the first read and then change their mind to match it. We can mitigate this by basing performance statistics on blind reads only.
 
 ### A late post-opinion screen
 
@@ -97,7 +98,7 @@ The drawback would be a duplication of information. If the second reader identif
 
 We also considered building a 'review list' that could be completed following a reading session.
 
-This would allow readers to stay in the 'reading flow' state where they can concentrate on reviewing images and giving opinions. This is unlikely to be developed further as we suspect it's better to interrupt this process and ask them to make an immediate decision rather than requiring them to re-familiarise themselves with cases later on.
+This would allow readers to stay in the 'reading flow' state where they can concentrate on reviewing images and giving opinions. We suspect it's better to interrupt this process and ask them to make an immediate decision rather than requiring them to re-familiarise themselves with cases later on, but we will seek further input from users regarding this workflow.
 
 ## The long-term benefits of change
 
