@@ -1,6 +1,9 @@
 import fs from 'node:fs/promises'
+import path from 'node:path'
 
 import { nhsukEleventyPlugin } from '@x-govuk/nhsuk-eleventy-plugin'
+
+import { findFileWithoutExtension } from './lib/find-file-without-extension.js'
 
 const serviceName = 'Digital prevention services design history'
 
@@ -174,6 +177,17 @@ export default function (eleventyConfig) {
 
   // Reset contents of output directory before each build
   eleventyConfig.on('eleventy.before', async ({ directories, runMode }) => {
+    // Check for files without extensions in the app directory
+    const fileWithoutExtension = await findFileWithoutExtension(
+      directories.input
+    )
+
+    if (fileWithoutExtension) {
+      throw new Error(
+        `Found file called '${path.basename(fileWithoutExtension)}' without an extension. Did you forget to add .md to it?\nFile path: ${fileWithoutExtension}`
+      )
+    }
+
     if (runMode === 'build') {
       await fs.rm(directories.output, {
         force: true,
