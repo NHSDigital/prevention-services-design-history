@@ -17,9 +17,7 @@ The discovery into [forecasting and planning within breast screening](../what-bs
 **This design history will share insights on:**
 
 - the definition and variable nature of the commissioner role 
-
 - their experience and understanding of breast screening planning 
-
 - things that would help support more strategic commissioning 
 
 
