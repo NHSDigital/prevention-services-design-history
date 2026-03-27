@@ -1,4 +1,5 @@
 import fs from 'node:fs/promises'
+import path from 'node:path'
 
 import { nhsukEleventyPlugin } from '@x-govuk/nhsuk-eleventy-plugin'
 
@@ -183,7 +184,7 @@ export default function (eleventyConfig) {
 
     if (fileWithoutExtension) {
       throw new Error(
-        `Found file without extension: ${fileWithoutExtension}\n\nDid you forget to add an .md to it?`
+        `Found file called '${path.basename(fileWithoutExtension)}' without an extension. Did you forget to add .md to it?\nFile path: ${fileWithoutExtension}`
       )
     }
 
