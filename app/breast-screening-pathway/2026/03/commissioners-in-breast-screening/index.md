@@ -47,7 +47,7 @@ Commissioners may support when:
 - operational issues impact performance 
 
 **2. Monitoring and accountability**
-Monitoring outcomes and holding services accountable to delivery standards laid out in the [service specification](https://future.nhs.uk/vaccsandscreening/view?objectId=71116816). This includes monitoring problems, vacancies, staffing, and demand to determine if additional funding is needed. 
+Monitoring outcomes and holding services accountable to delivery standards laid out in the [service specification (NHS Futures)](https://future.nhs.uk/vaccsandscreening/view?objectId=71116816). This includes monitoring problems, vacancies, staffing, and demand to determine if additional funding is needed. 
 
 **3. Funding and strategic oversight**
 
@@ -59,7 +59,26 @@ Directing funding and activities with a strategic view on overall health goals, 
 
 There is some overlap in the data needs between commissioners and Screening Quality Assurance Service (SQAS), but their responsibilities differ. Commissioners rely on expert clinical advice from SQAS for service evaluation and to directly manage incidents. However, both roles require similar data on service performance and outcomes through KPI reports. 
 
-![](commissioner-sqas-tasks-table.png 'The table describes some of the activities commissioners and SQAS are responsible for in breast screening.')
+<table>
+  <caption>Roles and responsibilities of Commissioners and SQAS</caption>
+  <thead>
+    <tr>
+      <th scope="col">Task</th>
+      <th scope="col">Commissioners</th>
+      <th scope="col">SQAS</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><th scope="row">Monitor performance (round length, uptake etc)</th><td>Yes</td><td>Yes</td></tr>
+    <tr><th scope="row">Conduct site visits</th><td>Yes</td><td>Yes</td></tr>
+    <tr><th scope="row">Manage incidents</th><td>No</td><td>Yes</td></tr>
+    <tr><th scope="row">Operational support</th><td>Yes</td><td>Yes</td></tr>
+    <tr><th scope="row">Clinical oversight and advice</th><td>No</td><td>Yes</td></tr>
+    <tr><th scope="row">Provide additional funding/manage contracts</th><td>Yes</td><td>No</td></tr>
+    <tr><th scope="row">Sign off on exceptions reports</th><td>Yes</td><td>Yes</td></tr>
+  </tbody>
+</table>
+``
 
 ![](commissioning-actors-in-the-system.png 'Image shows how commissioners, programme team and quality assurance work together to support BSOs, Trusts and other neighbourhood health partners with achieving intended health outcomes.')
 
