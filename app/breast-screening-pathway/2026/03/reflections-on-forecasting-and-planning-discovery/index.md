@@ -45,9 +45,9 @@ We created a clear picture of [how BSOs approach planning](../what-bsos-told-us-
 
 Forecasting and planning within BSOs is a complex area. In hindsight, our scope may have been too ambitious as we were trying to do 2 things:  
 
-give the delivery team a clear focus  
+* give the delivery team a clear focus  
 
-understand the full complexity of forecasting from the perspectives of BSOs, commissioners, policy and quality assurance 
+* understand the full complexity of forecasting from the perspectives of BSOs, commissioners, policy and quality assurance 
 
 Building in clear reflection points about our scope, our roles and what we were learning would have helped us adapt and welcome feedback that could have helped us see things sooner.
 
