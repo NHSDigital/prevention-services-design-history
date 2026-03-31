@@ -36,7 +36,7 @@ You have two choices for adding a post:
 ### Add a post manually
 
 1. Draft your design history post - it’s often easiest to do this in SharePoint
-2. Create a new markdown file in `app/[service-name]/YYYY/MM/[post-name].md`
+2. Create a new markdown file in `app/[service-name]/YYYY/MM/[post-name]/index.md`
 
    > It’s often easier to duplicate an existing post as that will have the headers you need
 
