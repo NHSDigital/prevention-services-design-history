@@ -1,5 +1,5 @@
 ---
-title: Antenatal Screening Data Discovery
+title: Antenatal screening data discovery
 description: Investigating the screening pathways and their complexities, to improve the end-to-end antenatal journey.
 date: 2026-03-27
 tags:
@@ -11,58 +11,35 @@ author:
 ---
 
 
-## Antenatal Screening Data Issues 
+## Antenatal screening data issues 
 
-### The Problem
+Every year, thousands of pregnant women undergo antenatal screening, including tests for infectious diseases, sickle cell and thalassaemia, and fetal anomalies. While these pathways largely function well in practice, the data that supports national oversight is fragmented. 
 
-Antenatal data is currently collected and reported through multiple systems and processes, which means national oversight is largely based on aggregate rather than personal level views. The data today is fragmented across various local systems and rooted in heavy reliance on manual processes. As a result, the process of producing reports which provide an oversight of screening activities and enable programme teams to monitor standards and trends, is very manual and time consuming for both maternity teams and analytics teams.  
+Screening data is captured across multiple systems used by maternity services, laboratories, ultrasound and child health teams, which do not reliably share information. As a result, monitoring screening activity and standards is heavily reliant on manual processes and aggregate reporting. 
 
-This discovery hopes to establish a clear, evidence-based understanding of how antenatal screening data is currently captured, reported and used, and where improvements could be realised, to help the analytics teams produce their reports in more efficient ways. The discovery will identify where data breaks down, what drives delay and duplication, and where common pain points are found within the workflows.  
+This discovery seeks to understand how antenatal screening data is currently captured, reported and used, and where improvements could reduce manual effort and improve the way national reporting is produced. 
 
-The overall approach comprises three related stands of work, of which this discovery is one. The discovery focuses on building evidence to assess the potential value of a failsafe-type approach, rather than assuming a solution upfront. To address the issues outlined above, the three focus areas are: 
+### What we wanted to learn 
 
-- First, Immediate Improvements: What immediate improvements could be made to the current processes used to collect data and create reports. 
+This discovery has set out to establish a clear, evidence‑based understanding of the current state of antenatal screening data, in order to inform future decisions and investment appropriately. 
 
-- Second, Medium Term Improvements: How might the data required, to monitor antenatal screening, be collected using the Maternity Data Set? 
+Specifically, we wanted to understand: 
 
-- Third, Long Term Solution - Discovery to understand the value of developing a solution dedicated to collecting the relevant data, supporting the management of antenatal screening and resulting in more consistent and automated ways of collecting data and reporting on the programme's delivery.  
+- How antenatal screening data is currently captured, reported and used across FASP, IDPS and Sickle Cell and Thalassaemia pathways 
+- How current screening pathways operate end‑to‑end, including key decision points, handovers and dependencies 
+- Where data breaks down across capture, transfer, reconciliation and reporting 
+- What drives delay, duplication and manual effort, and which issues are systemic rather than local 
+- Which problems are primarily rooted in process design, data standards, technology constraints, governance or workforce capacity 
 
-The intent is to build an evidence-based understanding of feasibility, value and risk, to ensure decisions about changes are informed, appropriate and future proofed. 
+The overall approach to addressing these issues includes three related strands of work, of which this discovery is one. The discovery focuses on building the evidence needed to assess the potential long‑term value of a failsafe‑type approach, rather than assuming a solution upfront. Alongside this, we also sought to identify opportunities for: 
 
+1. Immediate improvements to existing processes 
+2. Medium‑term improvements in how data could be collected using the Maternity Data Set 
+3. Longer‑term options for more automated and interoperable data collection to support screening delivery and reporting 
 
+### What we have learnt so far 
 
-## Discovery so far
-
-This is our current‑state learning from early antenatal screening data discovery work. Right now, we are focused on the near term and immediate improvement phase, but these valuable insights will help support later stages of this work. 
-
-It brings together evidence from workshops, existing documentation and early mapping to describe how data is currently captured, reported and used for the antenatal pathways.
-
-### Why now:
-
-Continued service pressure and workforce fragility mean the risks of poor data visibility are growing, all while decisions on future investments and commissioning require a solid evidence base.
-
-### If we don’t do this:
-
-There is a high risk of investing in the wrong solutions and increasing the burden on maternity and analytics teams without resolving the underlying problems.
-
-### The scope for our discovery to date
-
-- Data captured across maternity services, laboratories, ultrasound and supporting systems
-- Data reporting for quarterly and annual programme standards
-- Data usage for programme assurance, analytics and insights
-
-### What we have not scoped for initial discovery, but what will be investigated going forward
-
-- Defining short and mid-term solutions
-- Long-term design or commissioning of a specific digital solution or failsafe system (how we future proof a solution)
-- End‑to‑end maternity transformation
-- Redefinition of national clinical standards
-- Patient‑facing product design
-
-
-## Our Methods
-
-### Evidence has been gathered through
+Evidence to date has been gathered through: 
 
 - Antenatal Screening Systems Workshop (04 Feb 2026), including SWOT capture and group discussion
 - Review of antenatal screening data landscape and analytics insight documentation
@@ -72,133 +49,96 @@ There is a high risk of investing in the wrong solutions and increasing the burd
 
 You can review our initial evidence gathered here: [Discovery Artefacts](https://nhs.sharepoint.com/:f:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts?csf=1&web=1&e=lLpb4t)
 
+### Current state and flows
 
-## Current state & flows
+Across the antenatal screening pathways mapped so far, we observe a broadly consistent journey: 
 
-What we know and have observed so far…
+1. Entry into maternity care and pathway 
+2. Offer of screening 
+3. Sample or test collection 
+4. Laboratory processing and result generation 
+5. Result receipt and interpretation 
+6. Follow‑up actions and referrals 
+7. Aggregate reporting and submission 
+8. National analysis and publication 
 
-1. Entry into maternity care and pathway
-2. Offer of screening
-3. Sample or test collection
-4. Laboratory processing and result generation
-5. Result receipt and interpretation
-6. Follow‑up actions and referrals
-7. Aggregate reporting and submission
-8. National analysis and publication
+High‑level workflows have been mapped for IDPS, Sickle Cell and Thalassaemia, and FASP, demonstrating the complexity of each pathway, the volume of decisions involved, and the number of handovers between teams.  
 
-![](IDPS-process.png 'Screenshot of process flow in Mural of Infectious Diseases in Pregnancy Screening') 
+[Infectious diseases in pregnancy screening process](https://nhs.sharepoint.com/:b:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts/IDPS%20screening%20flow.pdf?csf=1&web=1&e=QnlnWx)
 
-![](SCTS-process.png 'Screenshot of process flow in Mural of Sickle Cell and Thalassaemia Screening')
+[Sickle cell and thalassaemia screening process](https://nhs.sharepoint.com/:b:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts/SCT%20screening%20flow.pdf?csf=1&web=1&e=m8wxsr)
 
-![](FASP-process.png 'Screenshot of process flow in Mural of FASP Screening')
+[Fetal anomaly screening programme process](https://nhs.sharepoint.com/:b:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts/FASP%20screening%20flow.pdf?csf=1&web=1&e=iBKsHw)
 
-These are the Infectious Diseases in Pregnancy, Sickle Cell and Thalassaemia and FASP Screening top level workflows. These capture, even at a high-level view, the complexities of each pathway, volume of decisions and handovers between teams. Below is what we’ve dubbed ‘the happiest of happy paths’. This shows that if all processes are followed as expected and it’s a standard full-term pregnancy, how simple it should appear for the expectant parent.
+Even when considering the “happiest of happy paths”, where all processes occur as expected for a standard full‑term pregnancy, the end‑to‑end journey relies on multiple systems and manual coordination to appear simple to the expectant parent. 
 
-![](HappyPath-process.png 'Screenshot of process flow in Mural of Happiest of Happy paths for full pregnancy screening journey')
+[Happy path process](https://nhs.sharepoint.com/:b:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts/Happiest%20of%20Happy%20Paths.pdf?csf=1&web=1&e=x3teDC)
 
+ 
 
-## What we know
+### What we know about the data 
 
-Currently there is no single source of truth for antenatal screening data. Data is distributed across multiple systems and manual artefacts.
+At present, there is no single source of truth for antenatal screening data. Data is distributed across: 
 
-### How
+- Maternity EPRs 
+- Laboratory Information Management Systems (LIMS) 
+- Ultrasound systems 
+- Child Health Information Systems (CHIS) 
+- Spreadsheets and reporting templates 
 
-- Data sources: Maternity EPRs, laboratory systems (LIMS), ultrasound systems, CHIS, spreadsheets and templates
-- Key data objects: patient identifier, pregnancy episode, screening offer, sample, result, follow‑up action, reporting aggregates
-- Data movement: manual email submission, file exports, partial feeds or no automated movement
-- Data quality risks: missing fields, inconsistent SNOMED capture, delayed availability and duplication
+Key data objects include patient identifiers, pregnancy episodes, screening offers, samples, results, follow‑up actions and reporting aggregates. Data movement relies on manual email submissions, file exports and partial feeds, with limited automation and validation. 
 
-![](DataCollectionVolume.png 'Screenshot of the volume of data collected across the pregnancy journey broken down by screening pathways IDPS, SCT and FASP')
+This creates known data quality risks, including missing fields, inconsistent SNOMED capture, delayed availability and duplication. The overall dataset reflects a significant volume of testing, diagnostics, interventions and referrals across a single pregnancy journey. 
 
-This captures the volume of data collected across testing, diagnostics, interventions, or treatments and referrals during a pregnancy journey.
+ 
+### Findings so far and known truths 
 
+The facts:
 
-## Findings so far and known truths
+- Reporting relies heavily on manual Excel templates and email submissions 
+- Data is predominantly collected at aggregate rather than person level 
+- Systems do not interoperate reliably end‑to‑end 
+- Screening SNOMED codes and MSDS screening fields are inconsistently populated 
+- Analytics capacity is dominated by data collection and cleansing activities 
 
-### The Facts
+The impacts:
 
-- Reporting relies heavily on manual Excel templates and email submissions
-- Data is primarily collected at aggregate rather than person level
-- Systems do not interoperate reliably end‑to‑end
-- Screening SNOMED codes and MSDS screening fields are inconsistently populated
-- Analytics capacity is dominated by collection and cleansing activities 
+- Significant manual reconciliation effort across maternity and national teams 
+- Delays to insight, assurance and response 
+- Limited ability to reliably track individual screening journeys or transfers between services 
+- Reduced confidence in the timeliness and completeness of national reporting 
 
-### The Impacts
+ 
 
-- Significant manual reconciliation effort
-- Delays in insight, assurance and response
-- Inability to reliably track individual screening journeys or transfers
-- Reduced confidence in the timeliness and completeness of reporting
+### The causes of what is happening 
 
-### Initial Hypothesis
+Initial root cause hypotheses are grouped below. The understanding levels indicate the maturity of our understanding, not the importance of an issue. They will be refined as discovery progresses: 
 
-- Fragmented ownership between data collection and analysis
-- Inconsistent adoption of standards and coding practices
-- Supplier and interface constraints across systems
-- Workflow design and workforce capacity pressures
+- People: workforce fragility and varying confidence in digital solutions (Our Understanding: High–Medium) 
+- Process: manual submission model and multiple data entry points (Our Understanding: High) 
+- Technology: multi‑system landscape with limited interoperability (Our Understanding: High) 
+- Data: aggregate reporting and inconsistent coding (Our Understanding: Medium–High) 
+- Governance: unclear ownership and slow dataset change cycles (Our Understanding: Medium) 
 
+### What we are doing next 
 
-## Provisional Pain Points and User Needs
+The next phase of discovery will focus on strengthening and validating our understanding through further evidence gathering and analysis. Planned activities include: 
 
-The user needs listed below are indicative only and require further validation and prioritisation.
+- Validating key failure points through interviews and service shadowing with maternity, screening, laboratory and analytics teams 
+- Profiling sample data extracts to quantify data quality, completeness and timeliness issues 
+- Confirming the minimum dataset required to support programme assurance and standards reporting 
+- Testing non‑technical improvements, including process changes, reporting templates and validation rules 
+- Continuing weekly discovery playbacks and fortnightly steering to review evidence, manage risks and maintain governance 
 
-- As a screening coordinator, I need a reliable way to see who is due or overdue for screening, so that women are not lost and can be followed‑up
-- As a maternity team member, I need screening information captured once and to be visible across teams to reduce duplication, re-keying and chasing
-- As a laboratory team, I need clear linkage between results and maternity services to reduce reconciliation delays
-- As an analytics team, I need timely and structured data so efforts can focus on insights rather than data collection
+This approach will allow us to build a more robust, evidence‑based understanding of feasibility, value and risk, ensuring that any future decisions are proportionate, appropriate and focused on addressing the real underlying causes of the issues observed. 
+ 
 
+### Further reading 
 
-## Root Cause Starting Points
+The full picture known by us to date is captured in the Mural below. This covered the key screening pathways detailed earlier in this page, as well as a breakdown per trimester of what tests and screening is conducted at each stage. 
 
-Initial root cause hypotheses are grouped below. The understanding levels indicate the maturity of our understanding, not the importance of an issue. They will be refined as discovery progresses:
+[Full view of the antenatal screening pathways, including a breakdown by trimester](ttps://nhs.sharepoint.com/:b:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts/Antenatal%20Pathway%20by%20Trimester_Full%20View.pdf?csf=1&web=1&e=S99rEU) 
 
-- People: workforce fragility and varying confidence in digital solutions (Our Understanding: High–Medium)
-- Process: manual submission model and multiple data entry points (Our Understanding: High)
-- Technology: multi‑system landscape with limited interoperability (Our Understanding: High)
-- Data: aggregate reporting and inconsistent coding (Our Understanding: Medium–High)
-- Governance: unclear ownership and slow dataset change cycles (Our Understanding: Medium)
+You can also review the outputs from our SWOT workshop either through the links below or on this Mural board. This incredibly insightful session allowed us to understand the breadth of the issues at hand. 
 
-
-## Decisions Made & Deferred
-
-### Decisions Made:
-
-- Maintain a solution‑agnostic discovery approach
-- Use weekly discovery touchpoints and fortnightly steering for governance
-- Require evidence and validation before any option selection
-
-### Decisions Deferred:
-
-- Whether a failsafe system is required
-- Whether MSDS enhancement, integration or new capability is the preferred route
-- Any procurement or build decisions
-
-
-## Risks, Constraints & Dependencies
-
-- Stakeholder access and capacity constraints across maternity and screening services
-- IG and DPIA requirements for ability to share detailed data
-- Vendor interoperability and extract limitations
-- Workforce change fatigue and organisational uncertainty
-
-Mitigations focus on early engagement, scoped discovery, collaborative evidence gathering and clear governance.
-
-
-## What we plan to do next
-
-- Validate key failure points through interviews and service shadowing
-- Profile sample data extracts to quantify data quality and timeliness issues
-- Confirm the minimum dataset required for programme assurance and standards reporting
-- Test non‑technical improvements (process changes, templates, validation rules)
-- Maintain weekly discovery playbacks and fortnightly steering checkpoints
-
-
-## Further Reading
-
-The full picture known by us to date is captured in the Mural below. This covered the key screening pathways detailed earlier in this page, as well as a breakdown per trimester of what tests and screening is conducted at each stage.
-
-![](FullPicture-mural.png 'Screenshot of the collection of all screening process flows and additional content captured in Mural showing breadth of fact finding so far')
-
-You can also review the outputs from our SWOT workshop either through the links below or on this Mural board. This incredibly insightful session allowed us to understand the breadth of the issues at hand.
-
-![](SWOTAnalysis-mural.png 'Screenshot of SWOT analysis output, digital sticky notes on a mural board to capture strengths, weaknesses, opportunities and threats')
+[Full view of the data captured during the SWOT analysis workshop](https://nhs.sharepoint.com/:b:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts/SWOT%20Analysis.pdf?csf=1&web=1&e=3ynqCR)
