@@ -27,7 +27,7 @@ A significant outcome of this discovery was that the two teams started working m
 
 ### Self-organising to visit breast screening offices
 
-To understand as wide a range of BSO experiences as possible, we needed to visit geographically dispersed locations in a short time. Once an approach was established, the team organised itself into small multi-disciplinary groups of up to 3 people with clear responsibilities: leading the visit, note taking and observing.  
+To ensure we included a wide range of BSOs in the discovery, we needed to visit geographically dispersed locations in a short time. The team did this by organising itself into small multi-disciplinary groups of up to 3 people with clear responsibilities: leading the visit, note taking and observing.
 
 Because we are based across the country, this reduced travel time and costs. It allowed people with different job roles to learn directly from frontline users and meant the team was learning together.  
 
