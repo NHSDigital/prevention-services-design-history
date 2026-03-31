@@ -4,7 +4,7 @@ description: What worked well and what we would do differently to help future di
 date: 2026-03-31
 author: Veronika Jermolina
 opengraphImage:
-  src: /breast-screening-pathway/2026/03/breast-screening-in-mobile-vans/retro.png
+  src: /breast-screening-pathway/2026/03/reflections-on-forecasting-and-planning-discovery/retro.png
   alt: Some of the retro comments
 tags:
   - discovery
