@@ -45,32 +45,30 @@ Evidence to date has been gathered through:
 - ACE discovery commissioning requirements
 - Early discovery planning, stakeholder identification and mapping activity
 
-You can review our initial evidence gathered here: [Discovery Artefacts](https://nhs.sharepoint.com/:f:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts?csf=1&web=1&e=lLpb4t)
-
 ### Current state and flows
 
 Across the antenatal screening pathways mapped so far, we observe a broadly consistent journey: 
 
-1. Entry into maternity care and pathway 
-2. Offer of screening 
-3. Sample or test collection 
-4. Laboratory processing and result generation 
-5. Result receipt and interpretation 
-6. Follow‑up actions and referrals 
-7. Aggregate reporting and submission 
-8. National analysis and publication 
+1. entry into maternity care and pathway 
+2. offer of screening 
+3. sample or test collection 
+4. laboratory processing and result generation 
+5. result receipt and interpretation 
+6. follow‑up actions and referrals 
+7. aggregate reporting and submission 
+8. national analysis and publication 
 
 High‑level workflows have been mapped for IDPS, Sickle Cell and Thalassaemia, and FASP, demonstrating the complexity of each pathway, the volume of decisions involved, and the number of handovers between teams.  
 
-[View infectious diseases in pregnancy screening process PDF](https://nhs.sharepoint.com/:b:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts/IDPS%20screening%20flow.pdf?csf=1&web=1&e=QnlnWx)
+[View infectious diseases in pregnancy screening process (PDF)](IDPS.pdf)
 
-[View sickle cell and thalassaemia screening process PDF](https://nhs.sharepoint.com/:b:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts/SCT%20screening%20flow.pdf?csf=1&web=1&e=m8wxsr)
+[View sickle cell and thalassaemia screening process (PDF)](SCT.pdf)
 
-[View fetal anomaly screening programme process PDF](https://nhs.sharepoint.com/:b:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts/FASP%20screening%20flow.pdf?csf=1&web=1&e=iBKsHw)
+[View fetal anomaly screening programme process (PDF)](FASP.pdf)
 
 Even when considering the “happiest of happy paths”, where all processes occur as expected for a standard full‑term pregnancy, the end‑to‑end journey relies on multiple systems and manual coordination to appear simple to the expectant parent. 
 
-[View happy path process PDF](https://nhs.sharepoint.com/:b:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts/Happiest%20of%20Happy%20Paths.pdf?csf=1&web=1&e=x3teDC)
+[View happy path process (PDF)](Happiest of Happy Paths.pdf)
 
  
 
@@ -135,8 +133,8 @@ This approach will allow us to build a more robust, evidence‑based understandi
 
 The full picture known by us to date is captured in the Mural below. This covered the key screening pathways detailed earlier in this page, as well as a breakdown per trimester of what tests and screening is conducted at each stage. 
 
-[Full view of the antenatal screening pathways, including a breakdown by trimester](ttps://nhs.sharepoint.com/:b:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts/Antenatal%20Pathway%20by%20Trimester_Full%20View.pdf?csf=1&web=1&e=S99rEU) 
+[Full view of the antenatal screening pathways, including a breakdown by trimester](Antenatal Pathway by Trimester_Full View.pdf) 
 
 You can also review the outputs from our SWOT workshop either through the links below or on this Mural board. This incredibly insightful session allowed us to understand the breadth of the issues at hand. 
 
-[Full view of the data captured during the SWOT analysis workshop](https://nhs.sharepoint.com/:b:/r/sites/X26_Digital_Prevention_Service/Shared%20Documents/DPSP%20Children%27s%20Digital%20Health%20Services/ANNB/Antenatal%20Screening/Discovery%20Artefacts/SWOT%20Analysis.pdf?csf=1&web=1&e=3ynqCR)
+[Full view of the data captured during the SWOT analysis workshop](SWOT Analysis.pdf)
