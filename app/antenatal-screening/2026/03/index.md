@@ -68,7 +68,7 @@ High‑level workflows have been mapped for IDPS, Sickle Cell and Thalassaemia, 
 
 Even when considering the “happiest of happy paths”, where all processes occur as expected for a standard full‑term pregnancy, the end‑to‑end journey relies on multiple systems and manual coordination to appear simple to the expectant parent. 
 
-[View happy path process (PDF)](Happiest of Happy Paths.pdf)
+[View happy path process (PDF)](HappiestofHappyPaths.pdf)
 
  
 
@@ -137,4 +137,4 @@ The full picture known by us to date is captured in the Mural below. This covere
 
 You can also review the outputs from our SWOT workshop either through the links below or on this Mural board. This incredibly insightful session allowed us to understand the breadth of the issues at hand. 
 
-[Full view of the data captured during the SWOT analysis workshop](SWOT Analysis.pdf)
+[Full view of the data captured during the SWOT analysis workshop](SWOTAnalysis.pdf)
