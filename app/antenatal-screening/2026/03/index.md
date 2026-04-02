@@ -133,7 +133,7 @@ This approach will allow us to build a more robust, evidence‑based understandi
 
 The full picture known by us to date is captured in the Mural below. This covered the key screening pathways detailed earlier in this page, as well as a breakdown per trimester of what tests and screening is conducted at each stage. 
 
-[Full view of the antenatal screening pathways, including a breakdown by trimester](AntenatalPathwaybyTrimesterFull View.pdf) 
+[Full view of the antenatal screening pathways, including a breakdown by trimester](AntenatalPathwaybyTrimesterFullView.pdf) 
 
 You can also review the outputs from our SWOT workshop either through the links below or on this Mural board. This incredibly insightful session allowed us to understand the breadth of the issues at hand. 
 
