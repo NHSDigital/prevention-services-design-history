@@ -1,7 +1,7 @@
 ---
 title: Finding the patient first
 description: Why we’ve changed the order of questions when recording vaccinations
-date: 2026-03-26
+date: 2026-04-09
 tags:
   - questions
   - ordering
