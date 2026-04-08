@@ -14,7 +14,7 @@ To use it, create a new subfolder for your post, add an `index.md` file in the s
 
 All metadata is optional except for the title and date. Delete any lines you do not need.
 
-```markdown
+```markdown { .nhsuk-code--button }
 ---
 title: This is the title of the post
 description: This description will appear on index pages.
