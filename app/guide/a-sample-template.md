@@ -29,7 +29,7 @@ author:
   - Another Name
 opengraphImage:
   src: /your-service/2025/12/post-title/image-name.png
-  alt: Alternative text for the lead image (appears when sharing)
+  alt: Alternative text for the lead image
 ---
 
 An intro paragraph which summarises the whole thing.
