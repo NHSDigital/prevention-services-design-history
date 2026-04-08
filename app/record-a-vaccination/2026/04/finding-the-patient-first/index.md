@@ -11,7 +11,7 @@ When we redesigned the interface for recording vaccinations to [ask fewer, bette
 
 We’ve since learnt from our [customer experience survey](/record-a-vaccination/2025/03/asking-fewer-better-questions/) and from [visiting London pharmacies](/record-a-vaccination/2025/12/london-pharmacy-research/) that some users have found one aspect of the new order to be frustrating.
 
-To address this, we have now reordered the new interface, so that the patient search and vaccination now come first.
+To address this, we have now reordered the new interface, so that the patient’s details and vaccination history are shown earlier.
 
 ## Background
 
