@@ -14,7 +14,7 @@ Posts within this design history website are written using [Markdown](https://en
 
 You don’t have to do anything special for paragraphs, except for making sure that there is an empty line between each one.
 
-```md
+```md { .nhsuk-code--button }
 This is a paragraph.
 
 This is another paragraph.
@@ -31,7 +31,7 @@ Do not include a post title (h1) as this will be generated automatically from th
 
 You do not need to create a heading before the introductory paragraph.
 
-```md
+```md { .nhsuk-code--button }
 This is an introductory paragraph.
 
 ## Heading
@@ -49,7 +49,7 @@ To create links, you have to use a combination of square brackets and round brac
 
 The square brackets come first, and contain the link text. This must be immediately followed by round brackets which contain the URL.
 
-```md
+```md { .nhsuk-code--button }
 For more information, see [vaccinations on the NHS website](https://www.nhs.uk/vaccinations/).
 ```
 
@@ -59,7 +59,7 @@ If you are linking to another post on this design history site, you should not i
 
 This should start with a forward slash (`/`) character:
 
-```md
+```md { .nhsuk-code--button }
 We previously wrote about [the pilot](/screening-invite/2025/06/invite-pilot-overview/).
 ```
 
@@ -71,7 +71,7 @@ To create a footnote reference, add a caret with an identifier inside brackets `
 
 Add the footnote using another caret and number inside brackets with a colon and the associated text `[^1]: My footnote`. You don't have to put footnotes at the end of the markdown document -- that's where they will be rendered though. This can make it easier to add a footnote reference and a footnote close to each other.
 
-```md
+```md { .nhsuk-code--button }
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.
@@ -109,7 +109,7 @@ You can add bullet lists by starting each item of the list with a dash (`-`) cha
 
 There should be a blank line before and after each list.
 
-```md
+```md { .nhsuk-code--button }
 We have 3 user types:
 
 - administrators
@@ -123,7 +123,7 @@ If the order of items in your list is significant, use a numbered list.
 
 Each item in the list should start with a number, a full stop and then a space.
 
-```md
+```md { .nhsuk-code--button }
 This was our design process:
 
 1. Desk research
@@ -138,7 +138,7 @@ You can add quotations by starting each line of the quote using a greater than (
 
 If you are quoting a user taking part in research, they should not be identifiable.
 
-```md
+```md { .nhsuk-code--button }
 As the NHS vaccination strategy says:
 
 > Vaccination services and activities should be holistic.
@@ -156,7 +156,7 @@ This is shown like this:
 
 You can attribute a quote to its author by adding two hyphens (`--`) before the attribution you want to add.
 
-```md
+```md { .nhsuk-code--button }
 > No society can legitimately call itself civilised if a sick person is denied aid because of lack of means.
 > -- Nye Bevan, 1952
 ```
@@ -176,7 +176,7 @@ The alt text should contain the key information within the image that is being d
 
 Within the round brackets you must include the exact name of the image file, which is case sensitive.
 
-```md
+```md { .nhsuk-code--button }
 We redesigned the homepage to clearly list the different services within our portfolio:
 
 ![Screenshot of a website with the title 'Digital prevention design history'. Beneath this are 3 headings labelled 'Screening', 'Vaccinations' and 'Personalised prevention', and underneath these headings are linked service names in a two column grid.](homepage-redesign.png)
@@ -190,7 +190,7 @@ The caption is in addition to alt text. Unlike the alt text, the caption cab be 
 
 The caption is added inside the round brackets, after the file name, within double quotes (`"`).
 
-```md
+```md { .nhsuk-code--button }
 This is our brand:
 
 ![Blue rectangle containing 'NHS' as white slanted letters](nhs-logo.png "The NHS logo")
@@ -208,7 +208,7 @@ To add tables, use the pipe (`|`) character to separate the columns and at the s
 
 The table should start with a row that contains headings for each column. After this heading row, add a row using dash (`-`) characters in each column to separate the column headings from the table data.
 
-```md
+```md { .nhsuk-code--button }
 These are the questions we included in the survey:
 
 | Field                      | Format  | Type     |
@@ -225,7 +225,7 @@ Notes can be used emphasise important information or to highlight content that h
 
 To add a note, start each line with a `>` character, and add `> [!NOTE]` on the line immediately above:
 
-```markdown
+```markdown { .nhsuk-code--button }
 > [!NOTE]
 > In the UK, 1 in 5 people is disabled.
 >
@@ -241,7 +241,7 @@ This will display as:
 
 You can also include a title:
 
-```markdown
+```markdown { .nhsuk-code--button }
 > [!NOTE] Help take part in research
 > We’d like to spend 20 minutes talking to you about your experiences.
 ```
@@ -255,7 +255,7 @@ The rendered output looks like this:
 
 Alerts are rendered as [warning callouts](https://service-manual.nhs.uk/design-system/components/warning-callout):
 
-```markdown
+```markdown { .nhsuk-code--button }
 > [!IMPORTANT]
 > This assumption has not yet been validated.
 ```
@@ -267,7 +267,7 @@ This displays as:
 
 If you include a title, this will be shown in the heading instead:
 
-```markdown
+```markdown { .nhsuk-code--button }
 > [!IMPORTANT] Clinical note
 > This guidance was based on information in the Patient Group Direction (PGD).
 ```
