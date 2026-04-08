@@ -1,6 +1,8 @@
 ---
 title: Iterating our offline designs after research
 date: 2023-03-02
+tags:
+  - prototype
 ---
 
 We knew we needed to iterate our offline designs after testing them with just three SAIS nurses because they were fundamentally confused about the syncing process.

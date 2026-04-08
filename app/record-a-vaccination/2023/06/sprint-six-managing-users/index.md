@@ -1,6 +1,9 @@
 ---
 title: "Sprint six: managing users"
 date: 2023-06-19
+tags:
+  - users
+  - permissions
 ---
 
 ## Solving problems for users

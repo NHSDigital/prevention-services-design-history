@@ -8,6 +8,8 @@ screenshots:
     - src: printed.jpg
       text: When printed in black and white
       caption: On a low toner printer
+tags:
+  - HPV vaccine
 ---
 
 We know some parents and SAIS teams have a need to deal with consent requests offline.

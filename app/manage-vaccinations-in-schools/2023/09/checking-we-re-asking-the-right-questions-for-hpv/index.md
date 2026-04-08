@@ -1,6 +1,10 @@
 ---
 title: Checking we’re asking the right questions
 date: 2023-09-11
+tags:
+  - content
+  - user research
+  - HPV vaccine
 ---
 
 To make sure we’re asking the right questions when requesting consent for vaccinations, and not burdening users unnecessarily, we’ve created something called a [question protocol](https://www.uxmatters.com/mt/archives/2010/06/the-question-protocol-how-to-make-sure-every-form-field-is-necessary.php).

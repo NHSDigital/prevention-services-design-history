@@ -9,6 +9,8 @@ screenshots:
       caption: In this example, a nurse has manually checked all pre-screening questions prior to administering the first vaccination in the session.
     - text: Updated design with checkboxes (for Td/IPV)
       caption: In this example, a nurse is now ready to administer the second vaccination. The first question appears pre-selected because it was checked for the previous MenACWY vaccination.
+tags:
+  - user research
 ---
 
 Before administering a vaccine, a nurse needs to ask the child a number of pre-screening questions.

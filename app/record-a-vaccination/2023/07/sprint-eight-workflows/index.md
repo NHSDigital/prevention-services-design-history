@@ -1,6 +1,8 @@
 ---
 title: "Sprint eight: workflows"
 date: 2023-07-14
+tags:
+  - workflows
 ---
 
 ## Common ways vaccination clinics run

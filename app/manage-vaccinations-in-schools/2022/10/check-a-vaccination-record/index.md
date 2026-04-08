@@ -16,6 +16,8 @@ screenshots:
     - Australian record – not up to date example
     - NHS app – vaccinations showing in medicines
     - NHS covid pass – COVID-19 vaccinations
+tags:
+  - prototype
 ---
 
 When we were [mapping service design ideas for a measles outbreak](https://app.mural.co/invitation/mural/nhsdigital8118/1665477929936?sender=u4f2227392499e7dce8f43480&key=6d3efeb2-b59f-4bd1-be39-88a01bbc0db8) in Mural, we identified a need for viewing a vaccination record.

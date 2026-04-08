@@ -6,6 +6,8 @@ image:
   src: /record-a-vaccination/2025/12/customer-experience-survey/free-text-feedback.jpg
   alt: 100s of strips of paper with comments from users laid out on a table
   opengraphImage: true
+tags:
+  - user feedback
 ---
 
 On 26 November 2025, we emailed all users of our service, around 16,500 people, asking them to take part in a short customer experience survey.

@@ -1,6 +1,7 @@
 ---
 title: "Designing for change: how we’re managing live updates in our service"
 date: 2025-11-18
+
 ---
 
 The NHS Digital Health Check online service is currently in its private beta phase. It is at this stage that we are slowly beginning to observe how real users interact with our platform, and how they respond to the information and guidance they receive. This is a critical moment for any digital health product: the transition from static design to dynamic, real-world use. One of the most important challenges we’ve tackled during this phase is how to ‘manage change once live’ - especially when those changes affect users mid-journey.

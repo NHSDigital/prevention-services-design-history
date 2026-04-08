@@ -23,6 +23,9 @@ screenshots:
     - Anything else?
     - Check answers and confirm
     - Confirmation page
+tags:
+  - prototype
+  - HPV vaccine
 ---
 
 Based on user research, we iterated [our initial consent journey for parents](/manage-vaccinations-in-schools/2023/03/consent-for-an-hpv-vaccine/).

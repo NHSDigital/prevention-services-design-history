@@ -39,6 +39,8 @@ screenshots:
       - Patient session (vaccinated for all programmes)
       - text: Patient session (not vaccinated)
         caption: We updated the design to ensure that it’s still possible to vaccinate a child if a previous attempt was unsuccessful.
+tags:
+  - MenACWY vaccine
 ---
 
 The first SAIS team to use our service was Coventry and Warwickshire Partnership NHS Trust (CWPT). They run HPV vaccination sessions for year 8 students at the start of the Spring term, before turning their attention to MenACWY and Td/IPV sessions at the start of the Summer term.

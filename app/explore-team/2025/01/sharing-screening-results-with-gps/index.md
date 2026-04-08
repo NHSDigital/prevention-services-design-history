@@ -2,6 +2,9 @@
 title: Sharing screening results with GPs
 description: How we kicked off the next round of discovery
 date: 2025-01-07
+tags:
+  - GP results
+  - screening
 ---
 
 The Explore team has kicked off our next round of work on the theme of sharing screening results with GPs, focussing on the sharing of normal and abnormal results with GPs for Breast screening and Bowel screening programmes.

@@ -1,6 +1,8 @@
 ---
 title: Making sure everyone can use the service
 date: 2023-03-31
+tags:
+  - accessibility
 ---
 
 To design and build a record a vaccination service that works across different healthcare settings, we must meet the needs of various user groups and staff with diverse roles or permissions, like system administrators and vaccinators.

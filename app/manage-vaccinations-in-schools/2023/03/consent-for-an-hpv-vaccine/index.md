@@ -57,6 +57,9 @@ screenshots:
     - Can we contact you about a catch-up?
     - Check answers and confirm
     - Confirmation page
+tags:
+  - prototype
+  - HPV vaccine
 ---
 
 An overview of the journey for parents who are giving consent for their child to receive the HPV vaccine. These are the designs as we built them before our first round of research with parents.

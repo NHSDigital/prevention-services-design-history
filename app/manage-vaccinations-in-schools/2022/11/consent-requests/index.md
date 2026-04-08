@@ -9,6 +9,8 @@ screenshots:
     - The letter attached to the email
     - The FAQ attached to the email
     - Another consent request letter from a school
+tags:
+  - prototype
 ---
 
 Current requests for consent from schools can be really bad. They can be waffly with no call to action, meaning they are not effective in gathering consent from parents.
