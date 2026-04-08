@@ -46,5 +46,8 @@ More content
 
 ![Alt text for an image](/your-service/2025/12/post-title/image.jpg)
 
+This image has a visible caption:
+
+![Alt text for an image](nhs-logo.png "Caption for the image")
 
 ```
