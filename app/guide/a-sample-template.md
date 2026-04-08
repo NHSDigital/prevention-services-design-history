@@ -17,7 +17,7 @@ All metadata is optional except for the title and date. Delete any lines you do 
 ```markdown { .nhsuk-code--button }
 ---
 title: This is the title of the post
-description: This description will appear on index pages.
+description: This description will appear on index pages and when sharing on social media.
 date: 2025-12-01
 tags:
   - add
