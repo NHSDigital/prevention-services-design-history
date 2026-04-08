@@ -11,6 +11,8 @@ updates:
           - 7.0.0
           - 7.0.1
           - 7.0.2
+    cooldown:
+      default-days: 7
   - package-ecosystem: 'github-actions'
     directory: '/'
     schedule:
