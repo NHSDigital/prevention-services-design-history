@@ -1,10 +1,14 @@
 ---
 title: Finding the patient first
 description: Why we’ve changed the order of questions when recording vaccinations
-date: 2026-04-09
+date: 2026-04-10
 tags:
   - questions
   - ordering
+image:
+  src: /record-a-vaccination/2026/04/finding-the-patient-first/question-order-changes.png
+  alt: Diagram showing two pages in a flow being moved to the start
+  opengraphImage: true
 ---
 
 When we redesigned the interface for recording vaccinations to [ask fewer, better questions](/record-a-vaccination/2025/03/asking-fewer-better-questions/), we also changed the order in which the questions were asked.
@@ -54,6 +58,8 @@ We also discovered that some users are using RAVS to proactively check whether a
 ## What we changed
 
 In response to the feedback, we’ve changed the order so that the step of finding the patient and seeing their details now comes first, followed by the other questions.
+
+This diagram shows the new flow:
 
 ![Diagram showing a flow with a first set of questions labelled ‘Vaccination date, location, vaccinator, vaccine type and batch’, followed by another set labelled ‘Find a patient and review history’, followed by ‘Estimated due date (pregnancy), consent, injection site’, then followed by a screen labelled ‘Check’ and one labelled ‘Done’. Then an arrow leads from the ‘Done’ screen to the group labelled ‘Find a patient’.](question-order-after.png "The new question order")
 
