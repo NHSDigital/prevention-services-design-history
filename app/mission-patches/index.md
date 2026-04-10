@@ -88,6 +88,11 @@ groups:
         image:
           alt: Breast screening programme mission patch
           src: hyenas-mission-patch-2025.png
+      - description: Celebrating the first gateway, a virtual machine inside a trust firewall to access mammograms from a PACS.
+        date: 2026-02-27
+        image:
+          alt: Mission patch celebrating the Manage team's first gateway
+          src: manage-first-gateway-2026-mission-patch.png
   - title: Manage breast screening
     description: Bats use echolocation to navigate and find things, especially in dark environments. Just like how radiographers sit in dark rooms hunting for signs of cancer.
     columns: 3
