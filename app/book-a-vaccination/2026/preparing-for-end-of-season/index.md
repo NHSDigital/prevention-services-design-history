@@ -1,5 +1,5 @@
 ---
-title: Preparing for the end of the Autumn-winter 2025 season
+title: Preparing for the end of the autumn-winter 2025 season
 date: 2026-04-10
 tags:
   - appointments
