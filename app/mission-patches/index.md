@@ -96,7 +96,7 @@ groups:
       - description: Mission patch for team manage alpha
         date: 2025-05-08
         image:
-          alt: Mission patch for team manage alpha
+          alt: Mission patch for alpha phase of Manage breast screening
           src: manage-alpha-bat-mission-patch.png
   - title: Mission patch print specifications
     description: >
