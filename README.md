@@ -2,58 +2,29 @@
 
 A place for services within digital prevention services to document their design decisions and research learnings.
 
-## Installation and getting started
+## Contributing
+
+See [the guide](https://design-history.prevention-services.nhs.uk/guide/) for details on how to contribute.
+
+There are posts on:
+
+* [why we write design histories](https://design-history.prevention-services.nhs.uk/guide/why-we-write-design-histories/)
+* [what to include in a design history](https://design-history.prevention-services.nhs.uk/guide/what-to-include-in-a-design-history/)
+* [how to publish a design history entry](https://design-history.prevention-services.nhs.uk/guide/how-to-publish/)
+
+There is also a [sample post template](https://design-history.prevention-services.nhs.uk/guide/a-sample-template/) and a [guide to using Markdown](https://design-history.prevention-services.nhs.uk/guide/using-markdown/).
+
+If you need to add a new service, follow [how to add a new service](https://design-history.prevention-services.nhs.uk/guide/how-to-add-a-new-service/).
+
+## Running the site locally
+
+You don’t have to do this to contribute, you can use GitHub or Codespaces, but if you want to you can.
 
 1. Clone the repo to a folder on your computer
 2. In your terminal, `cd` to the folder
 3. Run `npm install` to install pre-requisites
 4. Run `npm start` to build the design history site and serve it
 5. View the site locally at `localhost:8080`
-
-## Adding a new service
-
-To add a new service, there is some set up involved.
-
-You will need to create some files and folders based on the name of your service, using lowercase and hyphens. For example `your-service-name`.
-
-You’ll need to:
-
-- create a Markdown file in `app/`, for example `app/your-service-name.md`. Copy an existing example and update any references to match your service.
-- create a folder for your service in `app/`, for example `app/your-service-name/`
-- inside your service’s post folder, create a JSON file `your-service-name.json`, for example `app/your-service-name/your-service-name.json`. Copy an existing example for what to put in it.
-- update `eleventy.config.js` to create a new ‘collection’ for your service (copy one of the existing examples)
-- open a pull request with your changes
-
-See [Divide a design history into different sections](https://x-govuk.github.io/govuk-design-history/divide-a-design-history-into-sections/).
-
-## Adding a new post
-
-You have two choices for adding a post:
-
-- [Add a post manually](#add-a-post-manually)
-- [Use the post generation scripts](https://x-govuk.github.io/govuk-design-history/generate-a-page-of-screenshots/)
-
-### Add a post manually
-
-1. Draft your design history post - it’s often easiest to do this in SharePoint
-2. Create a new markdown file in `app/[service-name]/YYYY/MM/[post-name]/index.md`
-
-   > It’s often easier to duplicate an existing post as that will have the headers you need
-
-3. Edit the post with your content - make sure it has a title, subtitle, and date
-4. If you have images, add them to a folder in `app/images/[service-name]/YYYY/MM/[post-name]/`
-5. Make a pull request with your changes and get it reviewed
-
-### Add a post using the generation scripts
-
-[View more details on the scripts here.](https://x-govuk.github.io/govuk-design-history/generate-a-page-of-screenshots/)
-
-1. Use a PNG optimiser [like TinyPNG](https://tinypng.com/) to reduce the file size of your images.
-2. Create a folder for your images and put them in `app/images/[service-name]/YYYY/MM/[post-name]/`
-3. From the terminal, run `node scripts/generate.js [path]` where `path` is the full path to the folder of images. The easiest way to do this is to type `node scripts/generate.js` and then drag the folder from Finder on to your terminal to fill in the path.
-4. The script will generate a new post linking to each image and place it in `app/[service-name]/YYYY/MM/[post-name].md`.
-5. You should check the title text for each image and amend as needed.
-6. The script will prepend the post filename with the current date but you can delete this if you like.
 
 ## Deploying and publishing
 
@@ -65,10 +36,8 @@ Once it is merged the updated design history will automatically deploy with your
 
 For issues relating to the NHS Digital prevention services design history, contact [Ed Horsford](https://github.com/edwardhorsford), [Frankie Roberto](https://github.com/frankieroberto) or [Ralph Hawkins](https://github.com/ralph-hawkins).
 
-The [GOV.UK design history project](https://x-govuk.github.io/govuk-design-history/) is maintained by a small number of volunteers working across government.
-
-For questions about using a design history for your service, bug reports or feedback, [submit a new issue](https://github.com/x-govuk/govuk-design-history-template/issues/new).
+For bug reports, feedback or suggestions you can [submit a new issue](https://github.com/NHSDigital/prevention-services-design-history/issues/new).
 
 ## Technical notes
 
-The design history uses the [GOV.UK Design System](https://design-system.service.gov.uk) and the [Eleventy](https://www.11ty.dev) static site generator with the [GOV.UK Eleventy Plugin](https://x-govuk.github.io/govuk-eleventy-plugin/).
+The design history uses the [NHS Design System](https://service-manual.nhs.uk/design-system) and the [Eleventy](https://www.11ty.dev) static site generator with the [NHS.UK Eleventy Plugin](https://nhsuk-eleventy-plugin.x-govuk.org/).
