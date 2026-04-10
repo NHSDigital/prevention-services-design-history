@@ -63,3 +63,5 @@ Because COVID-19 and flu are seasonal vaccinations, the campaigns open and close
 - understand when and why vaccines won’t be available when the service closes 
 
 We’ll use the checklist every time there’s a seasonal change. We’ll also document changes that we make each season, to make it easier for the team to open and close the seasonal campaigns in the future. 
+
+![screenshot showing the checklist in confluence](closure-checklist.png) 
