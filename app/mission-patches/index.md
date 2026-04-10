@@ -88,6 +88,16 @@ groups:
         image:
           alt: Breast screening programme mission patch
           src: hyenas-mission-patch-2025.png
+  - title: Manage breast screening
+    description: Bats use echolocation to navigate and find things, especially in dark environments. Just like how radiographers sit in dark rooms hunting for signs of cancer.
+    columns: 3
+    type: "secondary"
+    items:
+      - description: Mission patch for team manage alpha
+        date: 2026-01-10
+        image:
+          alt: Mission patch for team manage alpha
+          src: manage-alpha-bat-mission-patch.png
   - title: Mission patch print specifications
     description: >
       We use [Diginate](http://diginate.com) to print our stickers. Recommended specifications:
