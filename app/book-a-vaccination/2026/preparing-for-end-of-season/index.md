@@ -12,7 +12,7 @@ Each season, we make some changes to the service, to help users understand when 
 
 ## Staggered Closure 
 
-Because COVID-19 closes before flu, people will not be able to book the 2 vaccines in one appointment(co-administration) after 30 January 2026.   
+Because COVID-19 closes before flu, people will not be able to book the 2 vaccines in one appointment (co-administration) after 30 January 2026.   
 
 To help people who are trying to book co-administration appointments on the flu journey, we’ve added some content to the service.  It explains that co-administration appointments are not available after a certain date and offers the user the option to switch to a single jab if they can’t find a suitable site or date. 
 
