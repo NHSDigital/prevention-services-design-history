@@ -7,7 +7,7 @@ tags:
   - seasonal changes
 ---
 
-The beginning of 2026 saw the flu and COVID-19 services close for the Autumn-winter season.  COVID-19 closed on 31 January 2026, and flu closed on 31 March 2026. 
+The beginning of 2026 saw the flu and COVID-19 services close for the autumn-winter season.  COVID-19 closed on 31 January 2026, and flu closed on 31 March 2026. 
 
 Each season, we make some changes to the service, to help users understand when and why they will no longer be able to get COVID-19 and flu vaccines. 
 
