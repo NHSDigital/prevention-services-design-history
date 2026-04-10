@@ -1,6 +1,7 @@
 ---
 title: Preparing for the end of the autumn-winter 2025 season
 date: 2026-04-10
+description: How we got ready to close the flu and COVID services
 tags:
   - appointments
   - seasonal changes
