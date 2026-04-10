@@ -58,8 +58,7 @@ During the A/W25 season, we added some links to the end of our flu and COVID-19 
 
 Because COVID-19 and flu are seasonal vaccinations, the campaigns open and close at different times of year.  We know we need to make sure that the things we’ve talked about in this post are done at the start and end of each campaign, so we’ve created a checklist for season start and end.  This should help us to make sure our users:  
 
-can find their way into our service when it opens 
-
-understand when and why vaccines won’t be available when the service closes 
+- can find their way into our service when it opens 
+- understand when and why vaccines won’t be available when the service closes 
 
 We’ll use the checklist every time there’s a seasonal change. We’ll also document changes that we make each season, to make it easier for the team to open and close the seasonal campaigns in the future. 
