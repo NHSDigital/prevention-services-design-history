@@ -79,7 +79,7 @@ groups:
           alt: Autumn/Winter 2025 mission patch
           src: vaccinations-autumn-winter-campaign-2025.png
   - title: Breast screening programme
-    description: This mission patch celebrates the breast screening programme with our two fierce hyenas. Hyenas are powerful, fierce, matriarchal and resilient, just like us.
+    description: The breast screening programme is represented by our two fierce hyenas. Hyenas are powerful, fierce, matriarchal and resilient, just like us.
     columns: 3
     type: "secondary"
     items:
