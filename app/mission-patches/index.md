@@ -88,7 +88,7 @@ groups:
         image:
           alt: Breast screening programme mission patch
           src: hyenas-mission-patch-2025.png
-      - description: Celebrating the first gateway, a virtual machine inside a trust firewall to access mammograms from a PACS.
+      - description: Celebrating the Manage team's first gateway, a virtual machine inside a trust firewall to access mammograms from a PACS.
         date: 2026-02-27
         image:
           alt: Mission patch celebrating the Manage team's first gateway
