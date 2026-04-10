@@ -94,7 +94,7 @@ groups:
     type: "secondary"
     items:
       - description: Mission patch for team manage alpha
-        date: 2026-01-10
+        date: 2025-05-08
         image:
           alt: Mission patch for team manage alpha
           src: manage-alpha-bat-mission-patch.png
