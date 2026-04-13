@@ -61,6 +61,8 @@ During the sprint, we prioritised the needs of image readers, screening director
 
 For QA users, we focused on recreating the most complex FRQA infographics with improved interactivity through technical exploration.
 
+Below is an example of a visual concept that we tested with screening directors and image readers.
+
 ![Weekly reading tally concept used in the design sprint](./visual-concept-testing.png)
 
 ## A common data model
@@ -68,6 +70,8 @@ For QA users, we focused on recreating the most complex FRQA infographics with i
 Identifying KPIs for each user group helped us create an early data model for future image reading reporting. This helped confirm the fields and formats required, the identifiers needed, and the synthetic data needed to test platforms and visualisation tools.
 
 It also helped us think through how future dashboards might use critical data such as when image reading took place and the decisions taken during arbitration.
+
+Below is an initial pass at modelling the data needed for image reading.
 
 ![Overview of the image reading data model](./data-model-drafting.png)
 
@@ -78,6 +82,8 @@ We drafted a data flow diagram to review feasibility with Information Governance
 ![Comparison of data flow options across different platforms and tenants](./data-flow-drafting.png)
 
 We compared FDP’s visualisation tools with Azure-based options, including default dashboarding tools, open-source options and custom web builds. We also explored whether data processed in one platform could serve dashboards both within the image reader workflow and in a separate location for QA users who need to review multiple dashboards in one place.
+
+Below is an example of a chart found in the current BSIS FRQA report, re-created using a python program.
 
 ![Elliptical chart used to identify services outside the expected range](./infographic-recreation.png)
 
