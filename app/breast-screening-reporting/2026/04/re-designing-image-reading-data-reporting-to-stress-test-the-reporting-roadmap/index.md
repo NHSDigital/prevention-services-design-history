@@ -10,6 +10,8 @@ tags:
   - FRQA
   - dashboards
   - design sprint
+author:
+  - Laboni Paul
 ---
 
 ## Introduction
