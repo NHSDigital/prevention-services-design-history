@@ -21,7 +21,7 @@ This work is helping us rethink image reading data reporting so that we can repl
 
 ## Finding the right platform
 
-As part of early testing, we explored using FDP (Federated Data Platform) for breast screening reporting. This helped us better understand how it supports our needs, particularly for user-facing dashboards.
+As part of early testing, we explored using Federated Data Platform (FDP) for breast screening reporting. This helped us better understand how it supports our needs, particularly for user-facing dashboards.
 
 We are now exploring where and how data should be presented so that it best meets the needs of screening users, including usability, accessibility and delivery speed.
 
