@@ -62,7 +62,7 @@ For QA users, we focused on recreating the most complex FRQA infographics with i
 
 Below is an example of a visual concept that we tested with screening directors and image readers.
 
-![Weekly reading tally concept used in the design sprint](./visual-concept-testing.png)
+![Weekly reading tally concept used in the design sprint](visual-concept-testing.png)
 
 ## A common data model
 
