@@ -100,7 +100,7 @@ This is because they better support:
 
 We are now testing some of the riskiest assumptions in the proposed architecture and plan of work. This includes reviewing the direction with stakeholders and QA, working with teams building the new Breast Screening service, and evaluating the critical needs for a secure and scalable data platform.
 
-The next major step is developing the Performance Viewer dashboard. This is a prototype designed in an earlier sprint that uses fields from BS Select to show higher-level metrics and demographic breakdowns in one dashboard. It is intended to replace invitation monitoring, KC63, deprivation reports in BSIS and other platforms, while also helping establish our ways of working in Azure.
+The next major step is developing the performance viewer dashboard. This is a prototype designed in an earlier sprint that uses fields from BS Select to show higher-level metrics and demographic breakdowns in one dashboard. It is intended to replace invitation monitoring, KC63, deprivation reports in BSIS and other platforms, while also helping establish our ways of working in Azure.
 
 ## Looking further ahead
 
