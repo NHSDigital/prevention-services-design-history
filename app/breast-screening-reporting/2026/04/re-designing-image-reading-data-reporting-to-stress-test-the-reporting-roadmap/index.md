@@ -84,7 +84,7 @@ We compared FDP’s visualisation tools with Azure-based options, including defa
 
 Below is an example of a chart found in the current BSIS FRQA report, re-created using a python program.
 
-![Elliptical chart used to identify services outside the expected range](./infographic-recreation.png)
+![Elliptical chart used to identify services outside the expected range](infographic-recreation.png)
 
 ## What we found
 
