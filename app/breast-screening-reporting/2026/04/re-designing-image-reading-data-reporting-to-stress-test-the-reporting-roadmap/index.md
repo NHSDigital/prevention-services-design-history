@@ -78,7 +78,7 @@ Below is an initial pass at modelling the data needed for image reading.
 
 We drafted a data flow diagram to review feasibility with Information Governance and architects. Using synthetic data, we tested visualisation tools to recreate KPIs and complex QA charts while refining the data model.
 
-![Comparison of data flow options across different platforms and tenants](./data-flow-drafting.png)
+![Comparison of data flow options across different platforms and tenants](data-flow-drafting.png)
 
 We compared FDP’s visualisation tools with Azure-based options, including default dashboarding tools, open-source options and custom web builds. We also explored whether data processed in one platform could serve dashboards both within the image reader workflow and in a separate location for QA users who need to review multiple dashboards in one place.
 
