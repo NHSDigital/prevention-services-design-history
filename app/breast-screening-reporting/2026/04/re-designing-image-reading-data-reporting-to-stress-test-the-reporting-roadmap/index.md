@@ -106,4 +106,4 @@ The next major step is developing the Performance Viewer dashboard. This is a pr
 
 The image reading dashboards will require a clearer understanding of the fields we can extract from NBSS, how we extract them and how we calculate the required measures. We expect to begin with pilot dashboards for a small number of services, then expand incrementally as more NBSS data can be integrated and automated.
 
-Over time, this work will help us replace FRQA for QA, improve reporting for services, and create better principles and standards for image reading data across the future Breast Screening service.
+Over time, this work will help us replace FRQA for QA, improve reporting for services, and create better principles and standards for image reading data across the future breast screening service.
