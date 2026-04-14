@@ -15,7 +15,7 @@ author:
 ---
 
 
-BSIS (Breast Screening Information Systems) primarily enables QA staff to monitor the safety of breast screening services. The FRQA (Film Reading Quality Assurance) report in BSIS, alongside the Interval Cancer report, is used mainly by image readers, unit directors and QA to understand image reading performance across services.
+Breast Screening Information Systems (BSIS) primarily enables QA staff to monitor the safety of breast screening services. The Film Reading Quality Assurance (FRQA) report in BSIS, alongside the Interval Cancer report, is used mainly by image readers, unit directors and QA to understand image reading performance across services.
 
 This work is helping us rethink image reading data reporting so that we can replace BSIS’ FRQA report and prepare for the future Breast Screening service. It also gives us a way to test the platform and tooling needed to replace other breast screening reports over time.
 
