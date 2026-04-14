@@ -72,7 +72,7 @@ It also helped us think through how future dashboards might use critical data su
 
 Below is an initial pass at modelling the data needed for image reading.
 
-![Overview of the image reading data model](./data-model-drafting.png)
+![Overview of the image reading data model](data-model-drafting.png)
 
 ## Technical exploration
 
