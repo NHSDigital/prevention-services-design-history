@@ -16,7 +16,7 @@ We've been looking at the steps we need second readers to take when reviewing br
 
 In breast screening, each set of mammograms taken is reviewed independently by two image readers. They each give their opinion on whether any further assessment is necessary. This process is usually conducted 'blind' so the reader who looks at the images second can't see what opinion the first reader gave. The other way of reading is 'open' where the second reader sees what the first said prior to giving their own opinion.
 
-While studies have been done that suggest blind reading is a more effective cancer detection method, there's no conclusive evidence to prove it is better than open reading.  The milind method is generally used in breast screening offices (BSOs) so the second opinion given is unprejudiced by the first.
+While studies have been done that suggest blind reading is a more effective cancer detection method, there's no conclusive evidence to prove it is better than open reading.  The blind method is generally used in breast screening offices (BSOs) so the second opinion given is unprejudiced by the first.
 
 In the current breast screening system the second reader does not get a chance to ever see the first reader's opinion when blind reading is in operation. The experts we work with have suggested that even when a second read is initially given blind, there may be value in showing the first read to help spot obvious mistakes and avoid unnecessary arbitration.
 
