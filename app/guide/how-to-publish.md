@@ -50,6 +50,7 @@ Before uploading, compress your images using [TinyPNG](https://tinypng.com/) to 
 1. Click 'Add file' then 'Upload files'
 1. Drag and drop your files or click 'Choose your files'
 1. Click 'Commit changes'
+1. Open your `index.md` file and add a reference to each image – [see the markdown guide for images](/guide/using-markdown/#images)
 
 ### Create a pull request
 
@@ -58,7 +59,7 @@ A pull request asks someone to review your changes before they go live on the ma
 1. Go to the [DPSP design history repository on GitHub](https://github.com/NHSDigital/prevention-services-design-history)
 1. Click 'Pull requests' and find yours
 1. Click 'Compare & pull request'
-1. Update the title and description if needed – they should summarise your post
+1. Update the title and description if needed – for example `Lung health check – designing a new service`
 1. Click 'Create pull request'
 
 ### Preview your post
