@@ -26,7 +26,7 @@ Our discovery exposed the limitations of NBSS and helped inform a [decision to r
 
 ## New breast screening service pilot
 
-Almost a year since then, team [Manage breast screening](../../../../manage-breast-screening/) launched a live pilot of the first slice of the new breast service in Humberside - our pilot partners. We are months away from being able to generate results in the new breast screening service.
+Since the discovery, team [Manage breast screening](../../../../manage-breast-screening/) have launched a live pilot of the first slice of the new breast service in Humberside - our pilot partners. We are months away from being able to generate results in the new breast screening service.
 
 This means we are no longer held back by getting data out of NBSS and in theory, can move forward. However, before integration work can start, we need to work through some challenges. 
 
