@@ -28,8 +28,8 @@ Our discovery exposed the limitations of NBSS and helped inform a decision to re
 
 Almost a year since then, team [Manage breast screening](../../../../manage-breast-screening/) launched a live pilot of the first slice of the new breast service in Humberside - our pilot partners. We are months away from being able to generate results in the new breast screening service.
 
-This means we are no longer held back by getting data out of NBSS. We can move forward but some challenges remain.
-ß
+This means we are no longer held back by getting data out of NBSS and in theory, can move forward. However, before integration work can start, we need to work through some challenges. 
+
 ## Decide what outcomes to record
 
 We already know that we need to record the following outcomes, or screening results:
@@ -76,7 +76,7 @@ And that the results come from a test (now replaced by a FIT test):
 
 We may decide to use one of the existing SNOMED CT codes or apply for new ones. Applying for new SNOMED CT codes depends on deciding what results we will need to record.
 
-New SNOMED CT codes are released twice a year – in April and November and can take several months to approve.
+New SNOMED CT codes are released twice a year – in April and October and can take several months to approve.
 
 ## Understand policy implications
 
@@ -86,4 +86,4 @@ Importantly, we need to understand the legal basis for processing and exchanging
 
 Each of these 4 steps is complex and dependent on others. Our choices will be driven by getting a solution to a small number of BSO partners and GP administrators as safely and as quickly as possible, so we can start learning from their feedback.
 
-Next, we will describe the detail of each of the 4 challenge areas.
+We will share an update on each of the 4 challenge areas as we progress.
