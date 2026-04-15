@@ -52,7 +52,7 @@ As this work relies on GP IT systems, there are various approval steps and gatew
 
 We need to confirm if these are still the right steps and the order in which we should go through them, and if there are any dependencies.
 
-We are speaking to other teams who we can collaborate with and learn from. One of those is the PDM (Patient data manager) team, who are simplifying integration with GP IT systems. Another is the [Health check online team](../../../../nhs-health-check-online/), who are piloting a solution with [PDM](https://digital.nhs.uk/services/patient-data-manager).
+We are speaking to other teams who we can collaborate with and learn from. One of those is the [Patient data manager](https://digital.nhs.uk/services/patient-data-manager) (PDM) team, who are simplifying integration with GP IT systems. Another is the [Health check online team](../../../../nhs-health-check-online/), who are piloting a solution with PDM.
 
 ## Choose SNOMED CT codes
 
