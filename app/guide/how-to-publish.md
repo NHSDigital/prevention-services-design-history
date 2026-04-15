@@ -181,35 +181,4 @@ Run `npm start` and visit `http://localhost:8080` at any point to preview locall
 
 ### Publish your post
 
-1. In your terminal, create a new branch – a separate copy of the files where you can make changes without affecting the main site:
-
-```
-git checkout -b your-username/your-post-title
-```
-
-1. Stage your changes – this tells Git which files you want to save:
-
-```
-git add .
-```
-
-1. Commit your changes – this saves a snapshot of your work:
-
-```
-git commit -m "Add post: your post title"
-```
-
-1. Push your branch to GitHub – this uploads your changes:
-
-```
-git push origin your-username/your-post-title
-```
-
-1. Go to the [DPSP design history repository on GitHub](https://github.com/NHSDigital/prevention-services-design-history) and click the prompt to open a pull request – a pull request asks someone to review your changes before they go live
-1. Give your pull request a title and description that briefly explain your post
-1. Click 'Create pull request'
-1. Automated checks will run – you will see 'merging is blocked', this is expected
-1. Scroll down to 'This branch was successfully deployed' and click 'Show environments'. If there is an error, it is likely to be in the frontmatter or how you have named or organised your files
-1. Click 'View deployment' to preview the deployed version and check your post appears in your team's section
-1. Paste the pull request URL into [#dpsp-design-histories](https://nhsdigitalcorporate.enterprise.slack.com/archives/C08JN2TJH2P) and ask for a review
-1. Once approved, click 'Merge pull request' or 'Squash and merge' – this adds your changes to the main site and publishes your post
+1. Create a branch with your changes and open a pull request on GitHub
