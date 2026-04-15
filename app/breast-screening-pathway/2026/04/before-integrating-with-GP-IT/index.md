@@ -59,7 +59,7 @@ We are speaking to other teams who we can collaborate with and learn from. One o
 If we wanted to automate the processing of breast screening results, we'd need to tag them with machine-readable codes that GP IT systems can understand and act upon. For example:
 
 - a normal breast screening result can be automatically filed to the patient record
-- an abnormal result can be flagged to GPs, who can decide what action to take - such as offering the person support while they go through the assessment
+- an abnormal result can be flagged to GPs, who can decide what action to take, such as offering the person support while they go through the assessment
 
 There are already SNOMED CT (Systematised Nomenclature of Medicine - Clinical Terms) codes to denote breast screening outcomes, the most used codes being:
 
