@@ -37,7 +37,7 @@ Before you start writing, read the [sample template](/guide/a-sample-template/) 
 
     For example: `lung-health-check/2026/03/designing-new-service/index.md`
 
-1. Write your post in [Markdown](/guide/using-markdown/) in the 'Enter file contents here' box – add the [frontmatter](/guide/a-sample-template/) at the top
+1. Write your post in [Markdown](/guide/using-markdown/) in the 'Enter file contents here' box – if your content does not already include frontmatter, copy the [sample template](/guide/a-sample-template/) and update the title, date, and any other fields you need
 1. Click 'Commit changes' – committing saves your changes. Select 'Create a new branch', and update the suggested name if you want something more descriptive, then click 'Propose changes'
 
 ### Add images (optional)
@@ -96,7 +96,7 @@ You only need to create a Codespace once. After that, reopen it from the same 'C
 1. In the file explorer, find the `app` folder and your team's subfolder, for example `app/lung-health-check/`
 1. Create a new folder for your post using the year, month, and a short title, for example `app/lung-health-check/2026/03/designing-new-service/`
 1. Inside that folder, create a file called `index.md`
-1. Add the [frontmatter](/guide/a-sample-template/) at the top of the file
+1. If your content does not already include frontmatter, copy the [sample template](/guide/a-sample-template/) into your file and update the title, date, and any other fields you need
 1. Write your post content below the frontmatter
 1. Save the file – the preview will update automatically
 
@@ -160,7 +160,7 @@ You only need to do this once.
 1. In the `app` folder, find your team's subfolder, for example `app/lung-health-check/`
 1. Create a new folder for your post using the year, month, and a short title, for example `app/lung-health-check/2026/03/designing-new-service/`
 1. Inside that folder, create a file called `index.md`
-1. Add the [frontmatter](/guide/a-sample-template/) at the top of the file
+1. If your content does not already include frontmatter, copy the [sample template](/guide/a-sample-template/) into your file and update the title, date, and any other fields you need
 1. Write your post content below the frontmatter
 1. Save the file – your local site will update automatically
 
