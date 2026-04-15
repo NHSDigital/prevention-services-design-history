@@ -16,9 +16,7 @@ You need:
 2. Join NHS Digital on GitHub – [see how to request NHS Digital access](https://nhs.sharepoint.com/sites/X26_EngineeringCOE/SitePages/GitHub-User---how-to-request-access.aspx)
 3. Contributor access to this project on GitHub – ask on the Slack channel – [#dpsp-design-histories](https://nhsdigitalcorporate.enterprise.slack.com/archives/C08JN2TJH2P)
 
-## Choose a method
-
-Pick the method that suits you:
+## Choose a how you want to create and publish your design history entry
 
 - **GitHub in a browser** – no software needed, good if you're new to GitHub or on a locked-down device
 - **GitHub Codespaces** – edit in a code editor in your browser, no installation needed
