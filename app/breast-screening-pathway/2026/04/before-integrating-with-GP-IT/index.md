@@ -61,7 +61,7 @@ If we wanted to automate the processing of breast screening results, we'd need t
 - a normal breast screening result can be automatically filed to the patient record
 - an abnormal result can be flagged to GPs, who can decide what action to take, such as offering the person support while they go through the assessment
 
-There are already SNOMED CT (Systematised Nomenclature of Medicine - Clinical Terms) codes to denote breast screening outcomes, the most used codes being:
+There are already [SNOMED CT](https://digital.nhs.uk/services/terminology-and-classifications/snomed-ct) (Systematised Nomenclature of Medicine - Clinical Terms) codes to denote breast screening outcomes, the most used codes being:
 
 - Mammography normal (finding) [`168749009`](https://termbrowser.nhs.uk/?perspective=full&conceptId1=168749009&edition=uk-edition&release=v20260311&server=https://termbrowser.nhs.uk/sct-browser-api/snomed&langRefset=999001261000000100,999000691000001104)
 - Breast neoplasm screening normal (finding) [`171175005`](https://termbrowser.nhs.uk/?perspective=full&conceptId1=171175005&edition=uk-edition&release=v20260311&server=https://termbrowser.nhs.uk/sct-browser-api/snomed&langRefset=999001261000000100,999000691000001104)
