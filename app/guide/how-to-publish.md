@@ -18,60 +18,27 @@ You need:
 
 ## Choose a how you want to create and publish your design history entry
 
-- **GitHub in a browser** – no software needed, good if you're new to GitHub or on a locked-down device
-- **GitHub Codespaces** – edit in a code editor in your browser, no installation needed
-- **Local setup** – best if you have some experience with GitHub and are comfortable running things from the terminal
+- [**GitHub in a browser**](#using-github-in-a-browser) – no software needed, good if you're new to GitHub or on a locked-down device
+- [**GitHub Codespaces**](#using-github-codespaces) – edit in a code editor in your browser, no installation needed
+- [**Local setup**](#using-a-local-version-on-your-computer) – best if you have some experience with GitHub and are comfortable running things from the terminal
 
 You also need to add your service before you can publish posts. You only need to do this once – [follow the guide on how to add a new service](/guide/how-to-add-a-new-service/).
 
-## Frontmatter
-
-All posts need frontmatter at the top of the file. Frontmatter is a configuration block that tells the site how to present your post – things like the title, date, and author.
-
-Only the title and date are required. Delete anything else you do not need. Make sure the date is the day you publish so posts appear in the correct order.
-
-```
----
-title: "The title of the post"
-date: 2026-03-15
-description: "A short summary of the post"
-tags:
-  - appointments
-  - accessibility
-author:
-  - Author name
-  - Another author
-screenshots:
-  items:
-    - text: "Screenshot description"
-      src: screenshot-filename.png
-      caption: "Optional caption"
-opengraphImage:
-  src: /path/to/image.png
-  alt: "Alternative text for the image"
-related:
-  items:
-    - text: "Related post title"
-      href: https://example.com/link
----
-```
+Before you start writing, read the [sample template](/guide/a-sample-template/) to understand how to structure your post.
 
 ## Using GitHub in a browser
 
 ### Create your post
 
-1. Write your post in [Markdown](/guide/using-markdown/) and add the frontmatter at the top
-1. Save your file as `index.md`
 1. Go to the [DPSP design history repository on GitHub](https://github.com/NHSDigital/prevention-services-design-history) – this is the project folder where all the files are stored
-1. Click the `app` folder and find your team's folder – note down the folder name, for example `lung-health-check`
+1. Click on the `app` folder and find your team's folder – note down the folder name, for example `lung-health-check`
 1. Go back to the repository root, click `app`, then `Add file` and `Create new file`
 1. In the 'name your file' box, type the folder path for your post. Include your team name, year, month, a short title, and end with `index.md`. Use hyphens instead of spaces and forward slashes to separate each part – GitHub will create a new text box when you type a forward slash
 
     For example: `lung-health-check/2026/03/designing-new-service/index.md`
 
-1. Paste your Markdown file into the 'Enter file contents here' box
-1. Click 'Commit changes' – committing saves your changes
-1. Give your commit a name, for example a short version of your post title, then click 'Propose changes'
+1. Write your post in [Markdown](/guide/using-markdown/) in the 'Enter file contents here' box – add the [frontmatter](/guide/a-sample-template/) at the top
+1. Click 'Commit changes' – committing saves your changes. Select 'Create a new branch', and update the suggested name if you want something more descriptive, then click 'Propose changes'
 
 ### Add images (optional)
 
@@ -125,7 +92,7 @@ You only need to create a Codespace once. After that, reopen it from the same 'C
 1. In the file explorer, find the `app` folder and your team's subfolder, for example `app/lung-health-check/`
 1. Create a new folder for your post using the year, month, and a short title, for example `app/lung-health-check/2026/03/designing-new-service/`
 1. Inside that folder, create a file called `index.md`
-1. Add the [frontmatter](#frontmatter) at the top of the file
+1. Add the [frontmatter](/guide/a-sample-template/) at the top of the file
 1. Write your post content below the frontmatter
 1. Save the file – the preview will update automatically
 
@@ -164,7 +131,7 @@ The preview opens automatically when your Codespace starts. You can find it agai
 
 ## Using a local version on your computer
 
-This method assumes you are comfortable using a terminal and have some experience with GitHub. If you are not sure, use the GitHub in a browser or Codespaces method instead.
+This method assumes you have some experience with GitHub and are comfortable running things from the terminal. If you are not sure, use the GitHub in a browser or Codespaces method instead.
 
 You also need:
 
@@ -186,7 +153,7 @@ You only need to do this once.
 1. In the `app` folder, find your team's subfolder, for example `app/lung-health-check/`
 1. Create a new folder for your post using the year, month, and a short title, for example `app/lung-health-check/2026/03/designing-new-service/`
 1. Inside that folder, create a file called `index.md`
-1. Add the [frontmatter](#frontmatter) at the top of the file
+1. Add the [frontmatter](/guide/a-sample-template/) at the top of the file
 1. Write your post content below the frontmatter
 1. Save the file – your local site will update automatically
 
