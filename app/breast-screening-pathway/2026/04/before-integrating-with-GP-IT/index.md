@@ -39,7 +39,7 @@ We already know that we need to record the following outcomes, or screening resu
 - technical recall: mammogram not of sufficient quality, participant invited back
 - recall for assessment (abnormal result): further investigation needed
 
-We still need to consider whether new outcomes, like [partial mammography](../../../../manage-breast-screening/2026/02/improving-the-partial-mammogram-process/), are needed and agree the full list with the delivery teams. We should also consider what action, if any, should GPs take on receiving them.
+We still need to consider whether new outcomes, like [partial mammography](../../../../manage-breast-screening/2026/02/improving-the-partial-mammogram-process/), are needed and agree the full list with the delivery teams. We should also consider what action, if any, should GPs take when receiving the information.
 
 ## Describe and sequence approval steps
 
