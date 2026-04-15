@@ -66,6 +66,9 @@ A pull request asks someone to review your changes before they go live on the ma
 
 1. Scroll down to 'This branch was successfully deployed' and click 'Show environments'. If there is an error, it is likely to be in the frontmatter or how you have named or organised your files
 1. Click 'View deployment' to preview the site and check your post appears in your team's section
+1. To make changes, navigate to your file – click the branch button, select your branch, find your file and click the `...` menu, then 'Edit file'
+1. Make your changes and click 'Commit changes'
+1. Your entry will redeploy and you can preview the changes
 
 ### Get your post merged
 
@@ -125,6 +128,9 @@ The preview opens automatically when your Codespace starts. You can find it agai
 1. Automated checks will run – you will see 'merging is blocked', this is expected
 1. Scroll down to 'This branch was successfully deployed' and click 'Show environments'. If there is an error, it is likely to be in the frontmatter or how you have named or organised your files
 1. Click 'View deployment' to preview the deployed version and check your post appears in your team's section
+1. To make changes, find your file in the file explorer and click to open it
+1. Make your changes and save the file
+1. Your entry will redeploy and you can preview the changes
 1. Paste the pull request URL into [#dpsp-design-histories](https://nhsdigitalcorporate.enterprise.slack.com/archives/C08JN2TJH2P) and ask for a review
 1. Once approved, click 'Merge pull request' or 'Squash and merge' – this adds your changes to the main site and publishes your post
 
