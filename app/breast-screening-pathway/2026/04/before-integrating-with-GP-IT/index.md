@@ -12,7 +12,7 @@ opengraphImage:
   alt: 4 steps to consider before integrating with GPs
 ---
 
-Each year 3 million paper result letters are sent from breast screening offices (BSOs) to general practices (GPs) to update patient records. About a year ago we ran a discovery to [understand if we could solve this problem nationally](https://design-history.prevention-services.nhs.uk/explore-team/2025/06/insights-and-opportunities-for-sharing-breast-screening-results-with-gp-surgeries/).
+3 million paper result letters are sent by breast screening offices (BSOs) to general practices (GPs) every year. A year ago we ran a discovery to [understand if we could solve this problem nationally](https://design-history.prevention-services.nhs.uk/explore-team/2025/06/insights-and-opportunities-for-sharing-breast-screening-results-with-gp-surgeries/).
 
 The reality was more complex than we imagined.
 
