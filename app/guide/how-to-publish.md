@@ -6,23 +6,238 @@ eleventyNavigation:
   parent: Guide
 ---
 
-To publish a design history post, you need to use [GitHub](https://github.com) and [Markdown](/guide/using-markdown/).
+If you need any help with this guidance, ask on the Slack channel – [#dpsp-design-histories](https://nhsdigitalcorporate.enterprise.slack.com/archives/C08JN2TJH2P).
 
-If you need any help with this, ask on the Slack channel – [#dpsp-design-histories](https://nhsdigitalcorporate.enterprise.slack.com/archives/C08JN2TJH2P).
+## Before you start
 
-## How to become a contributor
+You need:
 
-You need three things to contribute:
+1. A free [GitHub](https://github.com/) account
+2. Join NHS Digital on GitHub – [see how to request NHS Digital access](https://nhs.sharepoint.com/sites/X26_EngineeringCOE/SitePages/GitHub-User---how-to-request-access.aspx)
+3. Contributor access to this project on GitHub – ask on the Slack channel – [#dpsp-design-histories](https://nhsdigitalcorporate.enterprise.slack.com/archives/C08JN2TJH2P)
 
-1. Create a free [GitHub](https://github.com) account
-2. Join NHS Digital on GitHub – see [how to request access](https://nhs.sharepoint.com/sites/X26_EngineeringCOE/SitePages/GitHub-User---how-to-request-access.aspx)
-3. Get contributor access to [this project on GitHub](http://github.com/NHSDigital/prevention-services-design-history/) – ask an existing team member to add you
+## Choose a method
 
-## How to publish a post
+Pick the method that suits you:
 
-1. Create a branch. The name of the branch doesn’t matter too much but you could name it after your post title.
-2. Add a new markdown file in `app/[service-name]/YYYY/MM/[post-name]/index.md`. It’s often easier to duplicate an existing post. That way, you will have the headers that contain basic information that all posts need.
-3. Edit the post with your content – make sure it has a title and date.
-4. If you have images or PDFs, add them to the same subfolder containing the post, for example `app/[service-name]/YYYY/MM/[post-name]/`.
-5. Open a pull request with your changes and ask for someone to review it. A preview will be available linked from the pull request.
-6. Once it’s reviewed, you can merge the pull request and the post will appear live within a minute or so.
+- **GitHub in a browser** – no software needed, good if you're new to GitHub or on a locked-down device
+- **GitHub Codespaces** – edit in a code editor in your browser, no installation needed
+- **Local setup** – best if you already use the prototype kit and are comfortable with the terminal
+
+You also need to add your service before you can publish posts. You only need to do this once – [follow the guide on how to add a new service](/guide/how-to-add-a-new-service/).
+
+## Frontmatter
+
+All posts need frontmatter at the top of the file. Frontmatter is a configuration block that tells the site how to present your post – things like the title, date, and author.
+
+Only the title and date are required. Delete anything else you do not need. Make sure the date is the day you publish so posts appear in the correct order.
+
+```
+---
+title: "The title of the post"
+date: 2026-03-15
+description: "A short summary of the post"
+tags:
+  - appointments
+  - accessibility
+author:
+  - Author name
+  - Another author
+screenshots:
+  items:
+    - text: "Screenshot description"
+      src: screenshot-filename.png
+      caption: "Optional caption"
+opengraphImage:
+  src: /path/to/image.png
+  alt: "Alternative text for the image"
+related:
+  items:
+    - text: "Related post title"
+      href: https://example.com/link
+---
+```
+
+## Using GitHub in a browser
+
+### Create your post
+
+1. Write your post in [Markdown](/guide/using-markdown/) and add the frontmatter at the top
+2. Save your file as `index.md`
+3. Go to the [DPSP design history repository on GitHub](https://github.com/NHSDigital/prevention-services-design-history) – this is the project folder where all the files are stored
+4. Click the `app` folder and find your team's folder – note down the folder name, for example `lung-health-check`
+5. Go back to the repository root, click `app`, then `Add file` and `Create new file`
+6. In the 'name your file' box, type the folder path for your post. Include your team name, year, month, a short title, and end with `index.md`. Use hyphens instead of spaces and forward slashes to separate each part – GitHub will create a new text box when you type a forward slash
+
+    For example: `lung-health-check/2026/03/designing-new-service/index.md`
+
+7. Paste your Markdown file into the 'Enter file contents here' box
+8. Click 'Commit changes' – committing saves your changes
+9. Give your commit a name, for example a short version of your post title, then click 'Propose changes'
+
+### Add images (optional)
+
+Before uploading, compress your images using [TinyPNG](https://tinypng.com/) to reduce file size.
+
+10. Go to the [DPSP design history repository on GitHub](https://github.com/NHSDigital/prevention-services-design-history)
+11. Click the 'main' button and select your branch – a branch is a separate copy of the files where you can make changes without affecting the main site. If you did not change the name, it should include your GitHub username
+12. Navigate to your team's folder and then your new post folder
+13. Click 'Add file' then 'Upload files'
+14. Drag and drop your files or click 'Choose your files'
+15. Click 'Commit changes'
+
+### Create a pull request
+
+A pull request asks someone to review your changes before they go live on the main site.
+
+16. Go to the [DPSP design history repository on GitHub](https://github.com/NHSDigital/prevention-services-design-history)
+17. Click 'Pull requests' and find yours
+18. Click 'Compare & pull request'
+19. Update the title and description if needed – they should summarise your post
+20. Click 'Create pull request'
+
+### Preview your post
+
+21. Scroll down to 'This branch was successfully deployed' and click 'Show environments'. If there is an error, it is likely to be in the frontmatter or how you have named or organised your files
+22. Click 'View deployment' to preview the site and check your post appears in your team's section
+
+### Get your post merged
+
+Merging adds your changes to the main site and publishes your post.
+
+23. Paste the URL of your pull request into [#dpsp-design-histories](https://nhsdigitalcorporate.enterprise.slack.com/archives/C08JN2TJH2P) and ask for a review
+24. Once approved, click 'Merge pull request' or 'Squash and merge'
+
+---
+
+## Using GitHub Codespaces
+
+### Set up your Codespace
+
+1. Go to the [DPSP design history repository on GitHub](https://github.com/NHSDigital/prevention-services-design-history)
+2. Click the green 'Code' button, then click the 'Codespaces' tab
+3. Click 'Create codespace on main'
+4. Wait for the editor to finish setting up – this may take a minute or two
+5. A preview of the design history site will open automatically in a new browser tab
+
+You only need to create a Codespace once. After that, reopen it from the same 'Codespaces' tab.
+
+### Create your post
+
+1. In the file explorer, find the `app` folder and your team's subfolder, for example `app/lung-health-check/`
+2. Create a new folder for your post using the year, month, and a short title, for example `app/lung-health-check/2026/03/designing-new-service/`
+3. Inside that folder, create a file called `index.md`
+4. Add the [frontmatter](#frontmatter) at the top of the file
+5. Write your post content below the frontmatter
+6. Save the file – the preview will update automatically
+
+### Add images (optional)
+
+Before adding images, compress them using [TinyPNG](https://tinypng.com/) to reduce file size.
+
+1. Drag and drop your images into the same folder as your `index.md` file
+2. Reference them in your Markdown using a relative path, for example:
+
+```
+![Alt text describing the image](image-name.png)
+```
+
+### Preview your post
+
+The preview opens automatically when your Codespace starts. You can find it again in the 'Ports' tab at the bottom of the screen – click the link next to port 8080.
+
+### Publish your post
+
+1. Click the 'Source Control' icon in the left sidebar
+2. Click the `...` menu, select 'Branch', then 'Create branch' – a branch is a separate copy of the files where you can make changes without affecting the main site
+3. Give your branch a name, for example `your-username/your-post-title`, and press Enter
+4. Type a short commit message, for example `Add post: your post title` – a commit saves a snapshot of your changes
+5. Click 'Commit', then 'Publish branch'
+6. Go to the [DPSP design history repository on GitHub](https://github.com/NHSDigital/prevention-services-design-history) and click the prompt to open a pull request – a pull request asks someone to review your changes before they go live
+7. Give your pull request a title and description that briefly explain your post
+8. Click 'Create pull request'
+9. Automated checks will run – you will see 'merging is blocked', this is expected
+10. Scroll down to 'This branch was successfully deployed' and click 'Show environments'. If there is an error, it is likely to be in the frontmatter or how you have named or organised your files
+11. Click 'View deployment' to preview the deployed version and check your post appears in your team's section
+12. Paste the pull request URL into [#dpsp-design-histories](https://nhsdigitalcorporate.enterprise.slack.com/archives/C08JN2TJH2P) and ask for a review
+13. Once approved, click 'Merge pull request' or 'Squash and merge' – this adds your changes to the main site and publishes your post
+
+---
+
+## Using a local version on your computer
+
+This method assumes you are comfortable using a terminal and have some experience with GitHub. If you are not sure, use the GitHub in a browser or Codespaces method instead.
+
+You also need:
+
+- Git installed on your computer
+- Node.js installed on your computer
+- A code editor, for example VS Code or Sublime
+
+### Set up the project
+
+You only need to do this once.
+
+1. Download a copy of the [DPSP design history project](https://github.com/NHSDigital/prevention-services-design-history) to your computer by cloning the repository
+2. Open your terminal and open the project folder
+3. Run `npm install` to install dependencies – the software packages the project needs to run
+4. Run `npm start` to run the site locally at `http://localhost:8080`
+
+### Create your post
+
+1. In the `app` folder, find your team's subfolder, for example `app/lung-health-check/`
+2. Create a new folder for your post using the year, month, and a short title, for example `app/lung-health-check/2026/03/designing-new-service/`
+3. Inside that folder, create a file called `index.md`
+4. Add the [frontmatter](#frontmatter) at the top of the file
+5. Write your post content below the frontmatter
+6. Save the file – your local site will update automatically
+
+### Add images (optional)
+
+Before adding images, compress them using [TinyPNG](https://tinypng.com/) to reduce file size.
+
+1. Save your images into the same folder as your `index.md` file
+2. Reference them in your Markdown using a relative path, for example:
+
+```
+![Alt text describing the image](image-name.png)
+```
+
+### Preview your post
+
+Run `npm start` and visit `http://localhost:8080` at any point to preview locally.
+
+### Publish your post
+
+1. In your terminal, create a new branch – a separate copy of the files where you can make changes without affecting the main site:
+
+```
+git checkout -b your-username/your-post-title
+```
+
+2. Stage your changes – this tells Git which files you want to save:
+
+```
+git add .
+```
+
+3. Commit your changes – this saves a snapshot of your work:
+
+```
+git commit -m "Add post: your post title"
+```
+
+4. Push your branch to GitHub – this uploads your changes:
+
+```
+git push origin your-username/your-post-title
+```
+
+5. Go to the [DPSP design history repository on GitHub](https://github.com/NHSDigital/prevention-services-design-history) and click the prompt to open a pull request – a pull request asks someone to review your changes before they go live
+6. Give your pull request a title and description that briefly explain your post
+7. Click 'Create pull request'
+8. Automated checks will run – you will see 'merging is blocked', this is expected
+9. Scroll down to 'This branch was successfully deployed' and click 'Show environments'. If there is an error, it is likely to be in the frontmatter or how you have named or organised your files
+10. Click 'View deployment' to preview the deployed version and check your post appears in your team's section
+11. Paste the pull request URL into [#dpsp-design-histories](https://nhsdigitalcorporate.enterprise.slack.com/archives/C08JN2TJH2P) and ask for a review
+12. Once approved, click 'Merge pull request' or 'Squash and merge' – this adds your changes to the main site and publishes your post
