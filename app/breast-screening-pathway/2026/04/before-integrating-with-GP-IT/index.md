@@ -20,7 +20,7 @@ The legacy NBSS system runs in 75 local instances - we'd need to implement a sol
 
 So even a medium-term solution would be unpredictable, costly and time-consuming.
 
-Our discovery exposed the limitations of NBSS and helped inform a decision to replace it with a modern breast screening service.
+Our discovery exposed the limitations of NBSS and helped inform a [decision to replace](../../../../manage-breast-screening/2025/07/the-future-of-nbss/) it with a modern breast screening service.
 
 ![4 steps to consider before integrating with GPs](GP-IT-plan.png)
 
