@@ -30,9 +30,9 @@ Before you start writing, read the [sample template](/guide/a-sample-template/) 
 
 ### Create your post
 
-1. Go to the [DPSP design history repository on GitHub](https://github.com/NHSDigital/prevention-services-design-history) – this is the project folder where all the files are stored
+1. Go to the [DPSP design history repository on GitHub](https://github.com/NHSDigital/prevention-services-design-history) – this is the main project folder where all the files are stored
 1. Click on the `app` folder and find your team's folder – note down the folder name, for example `lung-health-check`
-1. Go back to the repository root, click `app`, then `Add file` and `Create new file`
+1. Go back to the main project folder, click `app`, then `Add file` and `Create new file`
 1. In the 'name your file' box, type the folder path for your post. Include your team name, year, month, a short title, and end with `index.md`. Use hyphens instead of spaces and forward slashes to separate each part – GitHub will create a new text box when you type a forward slash
 
     For example: `lung-health-check/2026/03/designing-new-service/index.md`
