@@ -105,7 +105,7 @@ You only need to create a Codespace once. After that, reopen it from the same 'C
 Before adding images, compress them using [TinyPNG](https://tinypng.com/) to reduce file size.
 
 1. Drag and drop your images into the same folder as your `index.md` file
-1. Reference them in your Markdown using a relative path, for example:
+1. Reference each image in your Markdown using the filename, for example:
 
 ```
 ![Alt text describing the image](image-name.png)
@@ -169,7 +169,7 @@ You only need to do this once.
 Before adding images, compress them using [TinyPNG](https://tinypng.com/) to reduce file size.
 
 1. Save your images into the same folder as your `index.md` file
-1. Reference them in your Markdown using a relative path, for example:
+1. Reference each image in your Markdown using the filename, for example:
 
 ```
 ![Alt text describing the image](image-name.png)
