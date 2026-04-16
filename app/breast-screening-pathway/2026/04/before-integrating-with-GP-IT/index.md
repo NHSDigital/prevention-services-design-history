@@ -1,5 +1,5 @@
 ---
-title: Before we can build an integration with GP patient records
+title: 4 things to do before integrating breast screening with GP records
 description: We want to send breast screening results directly to GP patient records. Here's what we need to work through first.
 date: 2026-04-16
 tags:
