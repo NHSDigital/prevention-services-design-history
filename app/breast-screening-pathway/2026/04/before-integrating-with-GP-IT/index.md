@@ -12,7 +12,7 @@ opengraphImage:
   alt: 4 steps to consider before integrating with GPs
 ---
 
-3 million paper result letters are sent by breast screening offices (BSOs) to general practices (GPs) every year. A year ago we ran a discovery to [understand if we could solve this problem nationally](https://design-history.prevention-services.nhs.uk/explore-team/2025/06/insights-and-opportunities-for-sharing-breast-screening-results-with-gp-surgeries/).
+3 million paper result letters are sent by breast screening offices (BSOs) to GPs every year. A year ago we ran a discovery to [understand if we could solve this problem nationally](https://design-history.prevention-services.nhs.uk/explore-team/2025/06/insights-and-opportunities-for-sharing-breast-screening-results-with-gp-surgeries/). Our task was to determine what it would take to automatically write breast screening results to the patient record, replacing paper with fast, modern, secure digital data transfer. 
 
 The reality was more complex than we imagined.
 
@@ -29,8 +29,8 @@ Our discovery exposed the limitations of NBSS and helped inform a [decision to r
 Since the discovery, team [Manage breast screening](../../../../manage-breast-screening/) have launched a live pilot of the first slice of the new breast service in Humberside - our pilot partners. We are months away from being able to generate results in the new breast screening service.
 
 This means we are no longer held back by getting data out of NBSS. We can move forward but some challenges remain.
-ß
-## Decide what outcomes to record
+
+## Decide what outcomes to record and how to act on them
 
 We already know that we need to record the following outcomes, or screening results:
 
@@ -41,21 +41,9 @@ We already know that we need to record the following outcomes, or screening resu
 
 We still need to consider whether new outcomes, like [partial mammography](../../../../manage-breast-screening/2026/02/improving-the-partial-mammogram-process/), are needed and agree the full list with the delivery teams. We should also consider what action, if any, should GPs take when receiving the information.
 
-## Describe and sequence approval steps
-
-As this work relies on GP IT systems, there are various approval steps and gateways that we'll need to go through. Last time we looked into this problem, some of these steps were:
-
-- [Digital services for integrated care]((https://digital.nhs.uk/services/digital-services-for-integrated-care)) (DSIC) front door
-- [Joint GP IT Committee](https://www.rcgp.org.uk/about/communities-groups/health-informatics) (JGPITC)
-- GP IT roadmap
-
-We need to confirm if these are still the right steps and the order in which we should go through them, and if there are any dependencies.
-
-We are speaking to other teams who we can collaborate with and learn from. One of those is the [Patient data manager](https://digital.nhs.uk/services/patient-data-manager) (PDM) team, who are simplifying integration with GP IT systems. Another is the [Health check online team](../../../../nhs-health-check-online/), who are piloting a solution with PDM.
-
 ## Choose SNOMED CT codes
 
-If we wanted to automate the processing of breast screening results, we'd need to tag them with machine-readable codes that GP IT systems can understand and act upon. For example:
+To help GP systems decide how to process each of the received breast screening results, we'd need to tag them with machine-readable codes that GP IT systems can understand and act upon. For example:
 
 - a normal breast screening result can be automatically filed to the patient record
 - an abnormal result can be flagged to GPs, who can decide what action to take, such as offering the person support while they go through the assessment
@@ -75,7 +63,19 @@ And that the results come from a test (now replaced by a FIT test):
 
 We may decide to use one of the existing SNOMED CT codes or apply for new ones. Applying for new SNOMED CT codes depends on deciding what results we will need to record.
 
-New SNOMED CT codes are released twice a year – in April and November and can take several months to approve.
+New SNOMED CT codes are [released twice a year](https://www.england.nhs.uk/long-read/clinical-coding-snomed-ct/#:~:text=The%20UK%20version%20of%20SNOMED,or%20more%20frequently%20when%20needed.), or more frequently when needed, and can take several months to approve.
+
+## Describe and sequence approval steps
+
+As this work relies on GP IT systems, there are various approval steps and gateways that we'll need to go through. Last time we looked into this problem, some of these steps were:
+
+- [Digital services for integrated care]((https://digital.nhs.uk/services/digital-services-for-integrated-care)) (DSIC) front door
+- [Joint GP IT Committee](https://www.rcgp.org.uk/about/communities-groups/health-informatics) (JGPITC)
+- GP IT roadmap
+
+We need to confirm if these are still the right steps and the order in which we should go through them, and if there are any dependencies.
+
+We are speaking to other teams who we can collaborate with and learn from. One of those is the [Patient data manager](https://digital.nhs.uk/services/patient-data-manager) (PDM) team, who are simplifying integration with GP IT systems. Another is the [Health check online team](../../../../nhs-health-check-online/), who are piloting a solution with PDM.
 
 ## Understand policy implications
 
@@ -83,6 +83,6 @@ Importantly, we need to understand the legal basis for processing and exchanging
 
 ## Conclusion
 
-Each of these 4 steps is complex and dependent on others. Our choices will be driven by getting a solution to a small number of BSO partners and GP administrators as safely and as quickly as possible, so we can start learning from their feedback.
+Digital transformation is constrained by governance and approval processes as much as by software engineering - both need our attention. The 4 things we described are complex and dependent on others. Our choices will be driven by getting a solution to a small number of BSO partners and GP administrators as safely and as quickly as possible, so we can start learning from their feedback.
 
 Next, we will describe the detail of each of the 4 challenge areas.
