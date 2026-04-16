@@ -43,7 +43,7 @@ We still need to consider whether new outcomes, like [partial mammography](../..
 
 ## Choose SNOMED CT codes
 
-To help GP systems decide how to process each of the received breast screening results, we'd need to tag them with machine-readable codes that GP IT systems can understand and act upon. For example:
+To help GP systems decide how to process breast screening results, we'd need to tag them with machine-readable codes that GP IT systems can understand and act upon. For example:
 
 - a normal breast screening result can be automatically filed to the patient record
 - an abnormal result can be flagged to GPs, who can decide what action to take, such as offering the person support while they go through the assessment
@@ -67,7 +67,7 @@ New SNOMED CT codes are [released twice a year](https://www.england.nhs.uk/long-
 
 ## Describe and sequence approval steps
 
-As this work relies on GP IT systems, there are various approval steps and gateways that we'll need to go through. Last time we looked into this problem, some of these steps were:
+As this work relies on GP IT systems, there are various approval steps and gateways that we'll need to go through. When we last looked into this problem, some of these steps were:
 
 - [Digital services for integrated care]((https://digital.nhs.uk/services/digital-services-for-integrated-care)) (DSIC) front door
 - [Joint GP IT Committee](https://www.rcgp.org.uk/about/communities-groups/health-informatics) (JGPITC)
