@@ -45,9 +45,8 @@ We still need to consider whether new outcomes, like [partial mammography](../..
 
 As this work relies on GP IT systems, there are various approval steps and gateways that we'll need to go through. Last time we looked into this problem, some of these steps were:
 
-- Digital services for integrated care (DSIC) front door
-- Joint GP IT Liaison (JGPITL)
-- Joint GP IT Committee (JGPITC)
+- [Digital services for integrated care]((https://digital.nhs.uk/services/digital-services-for-integrated-care)) (DSIC) front door
+- [Joint GP IT Committee](https://www.rcgp.org.uk/about/communities-groups/health-informatics) (JGPITC)
 - GP IT roadmap
 
 We need to confirm if these are still the right steps and the order in which we should go through them, and if there are any dependencies.
