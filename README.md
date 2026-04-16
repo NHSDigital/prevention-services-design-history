@@ -20,11 +20,8 @@ If you need to add a new service, follow [how to add a new service](https://desi
 
 You don’t have to do this to contribute, you can use GitHub or Codespaces, but if you want to you can.
 
-1. Clone the repo to a folder on your computer
-2. In your terminal, `cd` to the folder
-3. Run `npm install` to install pre-requisites
-4. Run `npm start` to build the design history site and serve it
-5. View the site locally at `localhost:8080`
+1. Run `npm install` to install pre-requisites
+2. Run `npm start` to build the design history site and serve it
 
 ## Deploying and publishing
 
