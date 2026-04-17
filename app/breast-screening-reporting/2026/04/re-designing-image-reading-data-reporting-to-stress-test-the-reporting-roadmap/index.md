@@ -1,7 +1,7 @@
 ---
 title: Re-designing image reading data reporting to stress-test the reporting roadmap
 description: Using a design sprint to better define the future of image reading insight and validate the platform and tooling needed for dashboards going forward
-date: 2026-04-13
+date: 2026-04-17
 tags:
   - breast screening
   - reporting
