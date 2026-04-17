@@ -35,7 +35,7 @@ For example: 2 records for the same child on the same date, showing the same vac
 
 **Resolvable duplicates.** 2 or more vaccination records that may describe the same vaccination event, where the available data is suggestive but not sufficient for a confident programmatic decision. Resolvable duplicates require human decisions, drawing on context outside the vaccination record such as clinical knowledge, local records, or direct enquiry.
 
-For example: 2 records for the same child showing the same vaccine, a few days apart, with different locations recorded. The locations may reflect where the vaccination actually happened, or they may be artefacts of how each system records provenance. A clinician or local team weighs up what the records show, alongside what they know about how those systems behave, to reach a judgement.
+For example: 2 records for the same child showing the same vaccine, recorded a few days apart. The different dates may reflect two vaccinations, or it may be an artefact of how the records were added or shared between systems. A clinician or local team weighs up what the records show, alongside what they know about how those systems behave, to reach a judgement.
 
 **Unresolvable duplicates.** 2 or more vaccination records that may describe the same vaccination event, where the available data is insufficient to confirm or rule it out. These cannot be resolved by machine or human.
 
