@@ -15,26 +15,26 @@ author:
 ---
 
 
-Breast Screening Information Systems (BSIS) primarily enables QA staff to monitor the safety of breast screening services. The Film Reading Quality Assurance (FRQA) report in BSIS, alongside the Interval Cancer report, is used mainly by image readers, unit directors and QA to understand image reading performance across services.
+Breast Screening Information Systems (BSIS) primarily enables Quality Assurance (QA) staff to monitor and ensure the safety of breast screening services by identifying any failures to comply with performance standards. The Film Reading Quality Assurance (FRQA) report in BSIS, alongside the Interval Cancer report, is used mainly by image readers, unit directors and QA to understand image reading performance across services. QA use this report to find instances where image reading may be poorer than expected and follow up with services to understand why.
 
-This work is helping us rethink image reading data reporting so that we can replace BSIS’ FRQA report and prepare for the future Breast Screening service. It also gives us a way to test the platform and tooling needed to replace other breast screening reports over time.
+This work is helping us rethink image reading data reporting so that we can improve and replace BSIS’ FRQA report and prepare for the future breast screening service. It also gives us a way to test the platform and tooling needed to replace other breast screening reports over time.
 
 ## Finding the right platform
 
-As part of early testing, we explored using Federated Data Platform (FDP) for breast screening reporting. This helped us better understand how it supports our needs, particularly for user-facing dashboards.
+As part of our early dashboard testing, we explored using Federated Data Platform (FDP) for breast screening reporting. This helped us better understand how it supports our needs, particularly for user-facing dashboards.
 
 We are now exploring where and how data should be presented so that it best meets the needs of screening users, including usability, accessibility and delivery speed.
 
 ## Why image reading is a useful stress test
 
-FRQA represents the most complex reporting domain within BSIS, so it gave us a deliberate stress test for our future reporting approach. It involves complex logic and visualisations, the need to reconcile different instances of NBSS data, and 5 different user groups with different views of the data.
+FRQA represents the most complex reporting domain within BSIS, so it gave us a deliberate stress test for our future reporting approach. It involves complex logic and visualisations, the need to reconcile different instances of NBSS data, and 5 different user groups with different views of the data. Having dashboards across different platforms is hard to maintain and creates a frustrating experience for users, so we are using FRQA as the most demanding reporting domain to help us define out dashboard strategy going forward.
 
 The new breast screening service also introduces additional needs. It is creating a dedicated digital workflow for image readers, including structured recording of image quality, batch reading and enhanced reader interfaces. The data generated will be richer, more timely and more structured than under NBSS, which creates an opportunity and a responsibility to rethink how image reading analysis is improved and replaced.
 
 This work helps answer 2 connected questions:
 
-- how do we safely replace FRQA for QA
-- how can we redesign image reading data analysis in preparation for the new Breast Screening service
+- how do we safely replace FRQA for QA?
+- how can we redesign image reading data analysis in preparation for the new breast screening service?
 
 By tackling these questions early, we can better understand the platforms and tools needed for this use case, and de-risk the roadmap for replacing other BSIS reports.
 
@@ -76,19 +76,19 @@ Below is an initial pass at modelling the data needed for image reading.
 
 ## Technical exploration
 
-We drafted a data flow diagram to review feasibility with Information Governance and architects. Using synthetic data, we tested visualisation tools to recreate KPIs and complex QA charts while refining the data model.
+We drafted a data flow diagram to review feasibility with Information Governance and architects. Then, using dummy data that represents the real thing, we tested visualisation tools to recreate KPIs and complex charts for QA - feedback on this helped refine the data model further.
 
 ![Comparison of data flow options across different platforms and tenants](data-flow-drafting.png)
 
-We compared FDP’s visualisation tools with Azure-based options, including default dashboarding tools, open-source options and custom web builds. We also explored whether data processed in one platform could serve dashboards both within the image reader workflow and in a separate location for QA users who need to review multiple dashboards in one place.
+We compared FDP’s visualisation tools with other options, including default dashboarding tools, open-source options and custom web builds. We also explored whether data processed in one platform could serve dashboards both within the image reader workflow and in a separate location for QA users who need to review multiple dashboards in one place.
 
-Below is an example of a chart found in the current BSIS FRQA report, re-created using a python program.
+Below is an example of a chart found in the current BSIS FRQA report, re-created using open source tooling.
 
 ![Elliptical chart used to identify services outside the expected range](infographic-recreation.png)
 
 ## What we found
 
-Based on our testing so far, Azure-based platforms and code-driven visualisation tools better supported the requirements of image reading analysis.
+Data for the new breast screening will reside in Azure. Based on our testing so far, Azure-based platforms and code-driven visualisation tools better supported the requirements of image reading analysis. 
 
 This is because they better support:
 
@@ -98,12 +98,10 @@ This is because they better support:
 
 ## What happens next
 
-We are now testing some of the riskiest assumptions in the proposed architecture and plan of work. This includes reviewing the direction with stakeholders and QA, working with teams building the new Breast Screening service, and evaluating the critical needs for a secure and scalable data platform.
-
-The next major step is developing the performance viewer dashboard. This is a prototype designed in an earlier sprint that uses fields from BS Select to show higher-level metrics and demographic breakdowns in one dashboard. It is intended to replace invitation monitoring, KC63, deprivation reports in BSIS and other platforms, while also helping establish our ways of working in Azure.
+We have been testing some of the riskiest assumptions in the proposed architecture and plan of work. Some of these assumptions include the ability to obscure identifiable data and provide role-based access to users - these are some of the critical needs for a secure and scalable data platform. On achieving this, we are now demonstrating the core set-up of the data platform that provides a workspace for ad-hoc analysis and can automate data dashboards. 
 
 ## Looking further ahead
 
-The image reading dashboards will require a clearer understanding of the fields we can extract from NBSS, how we extract them and how we calculate the required measures. We expect to begin with pilot dashboards for a small number of services, then expand incrementally as more NBSS data can be integrated and automated.
+In future, we will be developing the performance viewer dashboard that shows oversight metrics, like coverage and uptake, in one place. This is a prototype designed in an earlier sprint that shows higher-level metrics and demographic breakdowns in one dashboard. It is intended to replace simpler BSIS reports like invitation monitoring, KC63, deprivation reports in BSIS and other platforms, while also helping establish our ways of working in Azure.
 
-Over time, this work will help us replace FRQA for QA, improve reporting for services, and create better principles and standards for image reading data across the future breast screening service.
+The image reading dashboards will require further understanding of the fields we can extract from NBSS, how we extract them and how we calculate the required measures. We expect to begin with pilot dashboards for a small number of services, then expand incrementally as more NBSS data can be integrated and automated. Over time, this work will help us replace FRQA for QA, improve reporting for services, and create better principles and standards for image reading data across the future breast screening service.
