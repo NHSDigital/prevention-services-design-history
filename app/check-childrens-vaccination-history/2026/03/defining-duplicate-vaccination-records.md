@@ -4,7 +4,7 @@ description: Working definitions for what we mean by duplicate vaccination recor
 date: 2026-04-17
 ---
 
-Check children's vaccination history draws on vaccine records from multiple systems. We know from our work with Manage vaccinations in schools (Mavis) that when you bring data together from different sources, you encounter duplicates – multiple records that may describe the same vaccination event.
+Check children's vaccination history draws on vaccination records from multiple systems. We know from our work with Manage vaccinations in schools (Mavis) that when you bring data together from different sources, you encounter duplicates – multiple records that may describe the same vaccination event.
 
 Resolving duplicates accurately is important: having multiple redundant records can add friction when making sense of vaccination history, and an incorrect resolution could affect clinical decisions about whether a child needs vaccination.
 
@@ -31,9 +31,15 @@ Those problems require research, clinical input, and design exploration. Getting
 
 **Simple duplicates.** 2 or more vaccination records describing the same vaccination event, with a sufficient number of corroborating data fields. Simple duplicates can be confidently resolved by a programmatic decision, without human intervention.
 
+For example: 2 records for the same child on the same date, showing the same vaccine, from the same provider. The records agree on enough core details that they can only plausibly describe 1 event.
+
 **Resolvable duplicates.** 2 or more vaccination records that may describe the same vaccination event, where the available data is suggestive but not sufficient for a confident programmatic decision. Resolvable duplicates require human decisions, drawing on context outside the vaccination record such as clinical knowledge, local records, or direct enquiry.
 
+For example: 2 records for the same child showing the same vaccine, a few days apart, with different locations recorded. The locations may reflect where the vaccination actually happened, or they may be artefacts of how each system records provenance. A clinician or local team weighs up what the records show, alongside what they know about how those systems behave, to reach a judgement.
+
 **Unresolvable duplicates.** 2 or more vaccination records that may describe the same vaccination event, where the available data is insufficient to confirm or rule it out. These cannot be resolved by machine or human.
+
+For example: 2 records for the same child showing the same vaccine in the same year, both labelled as dose 1. Each system has recorded what it saw as a first dose, but neither has visibility of the other. The records cannot settle whether this is 1 event recorded twice or 2 separate doses.
 
 ## Additional concepts
 
