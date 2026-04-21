@@ -1,7 +1,7 @@
 ---
-title: Image reading part 1: what we learned about data and performance
+title: "Image reading part 1: what we learned about data and performance"
 date: 2026-04-21
-description: Before thinking about the future of image reading reporting, we looked at how it works today.
+description: "Before thinking about the future of image reading reporting, we looked at how it works today."
 tags:
   - breast screening
   - image reading
