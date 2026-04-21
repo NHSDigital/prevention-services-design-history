@@ -10,11 +10,7 @@ tags:
 author: Alex Crowfoot
 ---
 
-For our thoughts on supporting QA, read [part 2](insert-URL-here).
-
-For our thoughts on supporting image readers and Directors of Breast Screening, read [part 3](insert-URL-here).
-
-For more information on the design sprint and our data infrastructure choices, read [this introduction](insert-URL-here).
+For more information on the design sprint and our data infrastructure choices, read [this introduction](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2026/04/re-designing-image-reading-data-reporting-to-stress-test-the-reporting-roadmap/).
 
 ## What we did
 
