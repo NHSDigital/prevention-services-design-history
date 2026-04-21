@@ -3,6 +3,7 @@ title: Enabling users to book for other people
 date: 2025-06-30
 tags:
   - appointments
+author: Jo Lumley
 ---
 
 For the autumn/winter 2025 campaign, the team was asked to include flu vaccinations for 2 and 3 year olds.

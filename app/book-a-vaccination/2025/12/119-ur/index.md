@@ -6,6 +6,7 @@ tags:
   - appointments
   - assisted digital routes
   - telephone booking
+author: Jo Lumley
 ---
 
 The Book a vaccination service (NBS) offers a telephone booking service, via 119. Users who cannot or do not want to book using the online service can call to book an appointment. 119 call handlers use a version of the online booking system to book appointments for callers.

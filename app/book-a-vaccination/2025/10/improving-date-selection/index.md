@@ -4,6 +4,7 @@ date: 2025-10-02
 tags:
   - appointments
   - continuous improvement
+author: Jo Lumley
 ---
 
 Our analytics on the National Booking Service (NBS) showed that 25% of users were clicking ‘show later dates’ when trying to find a suitable date for their appointment in NBS. 

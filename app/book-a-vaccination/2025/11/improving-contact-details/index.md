@@ -4,6 +4,7 @@ date: 2025-11-03
 tags:
   - appointments
   - accessibility
+author: Jo Lumley
 ---
 
 The feedback from an accessibility audit on the National Booking Service (NBS) told us the way we collect contact details on NBS was not very accessible.

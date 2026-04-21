@@ -6,6 +6,7 @@ tags:
   - appointments
   - research
   - in person research
+author: Jo Lumley
 ---
 
 During summer 2025 we ran some pop-up, in-person user research sessions. We wanted to reach and test the Book a vaccination service (NBS) with groups who are often under-represented, including:
