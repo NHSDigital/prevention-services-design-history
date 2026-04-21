@@ -55,7 +55,7 @@ Here are just a few of the variables that someone interpreting the data must con
 - whether they have seen the other reader’s decision before recording their own
 - how quickly they are reading cases
 
-![Diagram showing some of the variables that need to be considered and balanced when assessing and understanding performance](Example performance factors.png)
+![Diagram showing some of the variables that need to be considered and balanced when assessing and understanding performance](Example-performance-factors.png)
 
 > [!NOTE]
 > **Example**
