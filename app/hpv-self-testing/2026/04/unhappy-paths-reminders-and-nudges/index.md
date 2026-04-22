@@ -94,6 +94,8 @@ We tested the following journey points:
 
 ### Invitation (letter)
 
+![The invitation letter shown to participants, detailing that they are being invited to complete a HPV test at home. It explains what HPV is, why the participant is being invited, what HPV self-testing is, how to order a kit, why HPV testing matters, how the participant will get their results, other ways the participant can get tested and how to order a kit via telephone.](letter-invitation.png)
+
 Most participants had questions after reading the letter invitation.
 
 4 out of 5 participants raised queries, particularly around whether HPV self-testing replaces traditional cervical screening.
@@ -108,6 +110,10 @@ When questions were unanswered, most participants said they would search online 
 
 ### Reminder (second invitation)
 
+![The NHS app reminder shown to participants. It explains that the participant was recently invited to to a HPV test at home, but that they haven't ordered a kit yet. There are further details on why the participant is being invited, what HPV self testing is, what HPV is, how the test works, how to get your results and other ways to get tested.](app-reminder.png) ![The SMS reminder shown to participants. It explains that the participant was recently invited to to a HPV test at home, but that they haven't ordered a kit yet. There are further brief details on why the participant is being invited, what HPV self testing is, how the test works and how to order a kit.](sms-reminder.png) ![The email reminder shown to participants. It explains that the participant was recently invited to to a HPV test at home, but that they haven't ordered a kit yet. There are further details on why the participant is being invited, what HPV self testing is, what HPV is, how the test works, how to get your results and other ways to get tested.](email-reminder.png)
+
+![The reminder letter shown to participants, detailing that they haven't yet ordered a kit to complete a HPV test at home. It explains what HPV is, why the participant is being invited, what HPV self-testing is, how to order a kit, why HPV testing matters, how the participant will get their results, other ways the participant can get tested and how to order a kit via telephone.](letter-reminder.png)
+
 Participants responded positively to reminder messages.
 
 All participants said they would be willing to engage with a text message reminder, particularly when told it would be sent alongside an email.
@@ -120,6 +126,8 @@ Participants expected reminders to be timely:
 -	delays longer than this risk users forgetting due to busy lifestyles
 
 ### Nudge to complete order
+
+![The NHS app nudge message shown to participants, explaining that they started an order for an HPV self testing kit, but haven't completed it yet. It also provides a link for them to order a kit.](app-nudge-to-complete.png) ![The SMS nudge message shown to participants, explaining that they started an order for an HPV self testing kit, but haven't completed it yet. It also provides a link for them to order a kit.](sms-nudge-to-complete.png)
 
 Participants found nudge messages clear and easy to understand.
 
@@ -135,11 +143,17 @@ However, some participants wanted additional support:
 
 ### Nudge to return sample
 
+![The NHS app nudge message shown to participants, explaining that they were sent an HPV self testing kit but it hasn't been returned yet. It asks participants to return the kit as soon as they can, and explains that if the participant has already sent it then they don't need to do anything else. There is also a contact phone number if the participant requires help.](app-nudge-to-return.png) ![The SMS nudge message shown to participants, explaining that they were sent an HPV self testing kit but it hasn't been returned yet. It asks participants to return the kit as soon as they can, and explains that if the participant has already sent it then they don't need to do anything else. There is also a contact phone number if the participant requires help.](sms-nudge-to-return.png)
+
 Participants understood the purpose of the reminder to return their sample after receiving the kit.
 
 The timing (72 hours after kit receipt) was generally considered appropriate, though some participants indicated that flexibility or additional reminders may be helpful depending on personal circumstances.
 
 ### Error screens
+
+![The NHS app error message shown to participants who have already ordered a kit. It explains that the participant can not order another kit because they have already ordered one. It also provides a contact phone number if the participant believes this to be incorrect.](app-error-already-ordered.png) ![The NHS app error message shown to participants who have not been invited to take part in HPV self testing. It explains that the service is being tested with a small number of people, and can only be used by those who have been invited. It also explains that anybody who has recently attended a cervical screening appointment is not eligible for this service. There is some information on what to do if the participant thinks this information is incorrect, as well as some guidance that HPV self testing is not recommended whilst pregnant.](app-error-cant-use-service.png)
+
+![The NHS app error message shown to participants when the service is unavailable. It explains that the participant is currently not able to order a kit, and to try again later or speak to their GP](app-error-service-unavailable.png) ![The NHS app error message shown to participants who are having issues with their internet connection. It advises the participant to try using WiFi or to move to a place with a better connection. It advises users to call 1 1 1 if they still cannot connect to the internet and need urgent medical advice](app-error-internet-connection.png)
 
 Error screens were included in testing to assess clarity and recovery.
 
