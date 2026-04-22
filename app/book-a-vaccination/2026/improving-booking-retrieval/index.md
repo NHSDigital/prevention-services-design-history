@@ -4,6 +4,7 @@ date: 2026-04-21
 tags:
   - appointments
   - managing appointments
+description: How we used feedback from users to improve how they find and manage their bookings
 author: Jo Lumley
 ---
 
@@ -78,7 +79,7 @@ We also added some post-input formatting, where we can insert the hyphens in the
 
 ## Next steps
 
-We implemented the improved booking matching using only reference number and date of birth in February.  The booking reference validation was released in December 20256.  We’re planning to release the cancelled and expired booking screens later in 2026.
+We implemented the improved booking matching using only reference number and date of birth in February.  The booking reference validation was released in December 2025.  We’re planning to release the cancelled and expired booking screens later in 2026.
 
 We plan to monitor our survey feedback, and we expect to see a reduction in negative feedback relating to finding existing bookings.  We also plan to use our analytics data to determine how many users are seeing the cancelled and expired booking screens.
 
