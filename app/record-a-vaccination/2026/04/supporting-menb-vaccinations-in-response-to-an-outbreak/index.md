@@ -56,7 +56,9 @@ The other questions remained unchanged and are:
 
 ## SNOMED codes
 
-We include these SNOMED codes for the procedure:
+When we record vaccinations and send the record to GPs via the [immunisation API](https://digital.nhs.uk/developer/api-catalogue/immunisation-fhir-api), we use the codes from the [Systematized Nomenclature of Medicine Clinical Terms](https://digital.nhs.uk/services/terminology-and-classifications/snomed-ct) (SNOMED CT).
+
+We include these codes for the procedure:
 
 - First dose: [`720539004`](https://termbrowser.nhs.uk/?perspective=full&conceptId1=720539004)
 - Second dose: [`720540002`](https://termbrowser.nhs.uk/?perspective=full&conceptId1=720540002)
