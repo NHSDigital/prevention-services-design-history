@@ -7,7 +7,7 @@ tags:
 author: Jo Lumley
 ---
 
-During the autumn/ winter 2025 season, we got feedback from our users that finding their bookings when they wanted to change or cancel them was difficult and frustrating.  Users were frustrated that they had to give us all their personal information again, when they had provided this when initially making their booking.
+During the autumn/winter 2025 season, we got feedback from our users that finding their bookings when they wanted to change or cancel them was difficult and frustrating.  Users were frustrated that they had to give us all their personal information again, when they had provided this when initially making their booking.
 
 Often when users were searching for bookings in NBS, they saw this screen:
 
