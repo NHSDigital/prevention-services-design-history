@@ -5,6 +5,7 @@ description: How we got ready to close the flu and COVID services
 tags:
   - appointments
   - seasonal changes
+author: Jo Lumley
 ---
 
 The beginning of 2026 saw the flu and COVID-19 services close for the autumn-winter season.  COVID-19 closed on 31 January 2026, and flu closed on 31 March 2026. 

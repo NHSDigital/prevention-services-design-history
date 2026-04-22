@@ -3,6 +3,7 @@ title: Making it easier for users to find somewhere to book an appointment
 date: 2025-05-22
 tags:
   - appointments
+author: Jo Lumley
 ---
 
 We spent some time during early 2025 exploring how to improve the site search feature within NBS.

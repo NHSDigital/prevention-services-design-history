@@ -4,6 +4,7 @@ date: 2025-11-26
 tags:
   - appointments
   - continuous improvement
+author: Jo Lumley
 ---
 
 As part of our preparation for the Autumn-winter 2025 flu and COVID campaigns, we’ve added some new features and made some improvements to the Book a vaccination journey.

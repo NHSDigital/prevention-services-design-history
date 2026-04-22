@@ -1,6 +1,7 @@
 ---
 title: Improving the booking complete screen
 date: 2025-04-24
+author: Jo Lumley
 ---
 
 After the introduction of the panel component to the NHS design system, we took the opportunity to make improvements to our booking complete screens.

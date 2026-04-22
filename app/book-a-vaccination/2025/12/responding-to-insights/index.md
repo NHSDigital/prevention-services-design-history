@@ -12,6 +12,7 @@ tags:
   - user feedback
   - content
   - iterations
+author: Jo Lumley
 ---
 
 The autumn-winter 2025 season for Flu and COVID-19 saw more than 5 million appointments booked using the online booking service. We've used analytics data, survey feedback and user research to identify ways to help people use the Book a vaccination service (NBS).

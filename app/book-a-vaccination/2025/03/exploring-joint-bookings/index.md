@@ -4,6 +4,7 @@ date: 2025-03-03
 tags:
   - appointments
   - joint bookings
+author: Jo Lumley
 ---
 
 Based on feedback from NBS public users, and requirements for expansion to the service to drive increased uptake of vaccines, we explored options for enabling booking for 2 people for spring 2025.

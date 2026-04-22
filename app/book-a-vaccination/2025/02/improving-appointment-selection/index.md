@@ -1,6 +1,7 @@
 ---
 title: Making the appointment selection process clearer for users
 date: 2025-02-18
+author: Jo Lumley
 ---
 
 Our research with National Booking Service (NBS) users had shown that some of our users found the appointment selection process difficult.
