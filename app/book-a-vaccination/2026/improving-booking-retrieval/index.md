@@ -70,7 +70,7 @@ We’ll show a dynamic screen for expired bookings, with slightly different cont
 
 We looked at multiple methods to help users enter reference numbers correctly.
 
-We added hint text to help users understand how to enter the reference number correctly, including an example of the reference number format.  We talked about that change in a [previous post about responding to insights]([link to the prev post](https://design-history.prevention-services.nhs.uk/book-a-vaccination/2025/12/responding-to-insights/)). We added an error message to help users enter the number in the correct format.
+We added hint text to help users understand how to enter the reference number correctly, including an example of the reference number format.  We talked about that change in a [previous post about responding to insights]([link to the prev post](/book-a-vaccination/2025/12/responding-to-insights/)). We added an error message to help users enter the number in the correct format.
 
 ![screenshot showing the reference number screen with error message for incorrect format](ref-no-error.png)
 
