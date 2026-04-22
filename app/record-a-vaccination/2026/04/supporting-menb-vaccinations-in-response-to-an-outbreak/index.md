@@ -52,7 +52,7 @@ The other questions remained unchanged and are:
 - vaccinator
 - batch number
 - consent
-- injection site.
+- injection site
 
 ## SNOMED codes
 
