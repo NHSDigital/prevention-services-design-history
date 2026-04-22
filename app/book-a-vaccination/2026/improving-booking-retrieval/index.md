@@ -4,6 +4,7 @@ date: 2026-04-21
 tags:
   - appointments
   - managing appointments
+description: How we used feedback from users to improve how they find and manage their bookings
 author: Jo Lumley
 ---
 
