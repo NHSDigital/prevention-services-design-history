@@ -70,6 +70,6 @@ For the product, [`23584211000001109`](https://termbrowser.nhs.uk/?perspective=f
 
 These changes were made to the service on 2 April 2026.
 
-As of 12 April 2026, over 8,000 MenB vaccinations have been recorded in the service by the team in Kent. These were originally recorded on paper (before 2 April) and have been transcribed into the service.  The [same vaccination for another patient](/record-a-vaccination/2025/09/making-it-easier-to-record-next-vaccination/) feature has made this easier.
+As of 12 April 2026, the team in Kent had recorded over 8,000 MenB vaccinations in the service. These were originally recorded on paper (before 2 April) and then transcribed into the service.  The [same vaccination for another patient](/record-a-vaccination/2025/09/making-it-easier-to-record-next-vaccination/) feature has made this easier.
 
 As the patients get their second dose, these will be recorded directly into the service avoiding the need for a paper record.
