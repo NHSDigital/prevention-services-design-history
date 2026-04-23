@@ -56,7 +56,7 @@ The other questions remained unchanged and are:
 
 ## SNOMED codes
 
-When we record vaccinations and send the record to GPs via the [immunisation API](https://digital.nhs.uk/developer/api-catalogue/immunisation-fhir-api), we use the codes from the [Systematized Nomenclature of Medicine Clinical Terms](https://digital.nhs.uk/services/terminology-and-classifications/snomed-ct) (SNOMED CT).
+When we record vaccinations and send the record to GPs via the [immunisation API](https://digital.nhs.uk/developer/api-catalogue/immunisation-fhir-api), we use [SNOMED CT](https://digital.nhs.uk/services/terminology-and-classifications/snomed-ct) codes.
 
 We include these codes for the procedure:
 
