@@ -1,7 +1,7 @@
 ---
 title: Supporting MenB vaccinations in response to an outbreak
 description: Changes we made to enable recording of the MenB vaccine
-date: 2026-04-22
+date: 2026-04-23
 tags:
   - MenB
   - dose sequence
