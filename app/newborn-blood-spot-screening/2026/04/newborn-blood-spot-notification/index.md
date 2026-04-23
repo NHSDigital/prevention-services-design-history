@@ -7,9 +7,10 @@ tags:
   - Digital Child Health
   - Digital Best Start
   - infants
+author:
+  - Luke Blacklock
+
 ---
-
-
 
 ## The scope
 
@@ -69,6 +70,7 @@ We carried out research with 7 parents of infants under 12 months old to underst
 
 We explored three formats:
 
+
 - The existing printed letter
 - A digital version of the letter (message format)
 - A results page within the child’s record in the NHS App
@@ -85,6 +87,11 @@ These prototypes were tested side by side in research sessions. This allowed us 
 - Understand what information parents look for first
 
 We used these insights to iterate the digital designs and make evidence-based recommendations for improving the existing letter. Content and layouts will continue to be tested in future rounds.
+
+
+![Sample NHS letter template for newborn blood spot screening results. The document includes placeholder fields for a baby’s details (name, NHS number, date of birth, address) and a date. A large box on the right reads “Sample copy for user research purposes only – does not contain any clinical information.” The letter explains that the baby is not thought to have any of the screened conditions and reminds readers that screening is not 100% accurate. It lists conditions tested for, including congenital hypothyroidism, cystic fibrosis, phenylketonuria, sickle cell disease, and others. The letter advises keeping the result in the child health record (“red book”), provides space for contact details of a health visitor, and includes links to NHS and GOV.UK websites for more information.](example-newborn-blood-spot-results-letter.png "The existing printed letter.")
+
+![NHS app screen showing newborn blood spot screening results for a baby. Test date 21 September 2025, with overall result “No conditions suspected.” A summary explains the baby is not thought to have any of the screened conditions and notes tests are not 100% accurate. A list of conditions (including cystic fibrosis, sickle cell disease, and PKU) all show “Not suspected.” Bottom navigation shows Home, Messages, and Profile.](newborn-blood-spot-results-in-app.png "A screenshot of the mockup used for testing.")
 
 ---
 
