@@ -1,6 +1,9 @@
 ---
 title: Recording COVID-19 and flu together
 date: 2024-06-17
+tags:
+  - flu vaccine
+  - COVID-19 vaccine
 ---
 
 ## Supporting co-administration

@@ -13,8 +13,8 @@ author:
 tags:
   - pharmacies
   - onboarding
-  - flu
-  - COVID-19
+  - flu vaccine
+  - COVID-19 vaccine
 ---
 
 In a cold and snowy November 2025, we visited 13 community pharmacies in London that had recently started using Record a vaccination for the autumn-winter flu and COVID-19 vaccinations campaigns.
