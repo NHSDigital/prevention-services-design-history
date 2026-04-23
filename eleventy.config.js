@@ -155,6 +155,7 @@ export default function (eleventyConfig) {
     'age-related-messaging',
     'check-childrens-vaccination-history',
     'antenatal-screening',
+    'newborn-blood-spot-screening',
     // Managing my health
     'cohorting-as-a-service'
   ]) {
