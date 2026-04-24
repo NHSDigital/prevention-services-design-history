@@ -5,6 +5,8 @@ description: How we got ready to close the flu and COVID services
 tags:
   - appointments
   - seasonal changes
+  - COVID-19 vaccine
+  - flu vaccine
 author: Jo Lumley
 ---
 

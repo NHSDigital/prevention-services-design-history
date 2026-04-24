@@ -113,6 +113,8 @@ screenshots:
         text: Confirmation (alternative injection)
       - id: confirmation-consent-given-alternative-and-needs-triage
         text: Confirmation (alternative injection, health answers need triage)
+tags:
+  - flu vaccine
 ---
 
 The children’s flu vaccine is offered yearly to all school-aged children (Reception to Year 11). Sessions run from the beginning of September every year.
