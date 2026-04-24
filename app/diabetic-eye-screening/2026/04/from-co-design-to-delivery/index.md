@@ -7,7 +7,7 @@ tags: cascade
   
 ---
 
-To ensure a safe, effective, and practical approach to identifying patients for diabetic eye screening, the Diabetic Eye Screening programme and Cohorting as a Service (CaaS) are working with screening providers (DESPs), alongside system suppliers and other stakeholders, through a phased approach.
+To ensure a safe, effective, and practical approach to identifying patients for diabetic eye screening, the Diabetic Eye Screening programme and Cohorting as a Service (CaaS) are working with screening providers, alongside system suppliers and other stakeholders, through a phased approach.
 
 A core principle of the programme is simple: avoid large-scale change without evidence. Instead, incremental improvements are introduced through a controlled pilot model. This ensures system behaviour, workflows, and clinical safety are fully understood before wider rollout. Clinical assurance is embedded from the outset, with cohorts validated in the first phase rather than later in delivery
 
@@ -29,13 +29,13 @@ Delivery Plan Overview
 
 ### Phase 1. cohort definition and validation
 
-This phase focuses on defining and validating cohorts to ensure the right patients are identified for screening at the right time, in collaboration with screening providers (DESPs).
+This phase focuses on defining and validating cohorts to ensure the right patients are identified for screening at the right time, in collaboration with screening providers.
 
 Outputs are reviewed to ensure they meet clinical and operational requirements, including resolving discrepancies between GP and PDS data.
 
 Daily cohort refreshes provide timely updates on patient eligibility.
 
-The phase concludes when the cohort is clinically assured and accepted by pilot DESPs.
+The phase concludes when the cohort is clinically assured and accepted by pilot service providers.
 
 ### Phase 2. technical integration
 
@@ -43,13 +43,13 @@ This phase establishes the technical foundation for the cohorting model. It focu
 
 Collaborative workshops define integration requirements across NHS England systems, suppliers, and services such as the Personal Demographic Service (PDS).
 
-While diabetic eye screening providers (DESPs) do not directly interact with cohort data at this stage, their input ensures operational needs are met.
+While diabetic eye screening providers do not directly interact with cohort data at this stage, their input ensures operational needs are met.
 
 The phase concludes when systems can reliably exchange data end to end.
 
-### Phase 3. controlled pilot testing with DESPs
+### Phase 3. controlled pilot testing with service providers
 
-A controlled pilot involving four DESPs evaluates the cohorting process using production-level data.
+A controlled pilot involving four service providers evaluates the cohorting process using production-level data.
 
 The pilot assesses system behaviour in real-world conditions, including frequent changes in patient eligibility, their impact on the system, and related workflow adaptations.
 
@@ -61,13 +61,13 @@ The phase concludes once an end-to-end solution is proven to be viable and accep
 
 This phase focuses on preparing for national rollout following successful pilot completion.
 
-NHS England works with screening providers (DESPs) and suppliers to define the rollout approach, incorporating local variations in processes and system configurations. Insights from the CASCADE working group support a clear and actionable rollout plan.
+NHS England works with screening providers and suppliers to define the rollout approach, incorporating local variations in processes and system configurations. Insights from the CASCADE working group support a clear and actionable rollout plan.
 
 The phase concludes when a national rollout plan is agreed with all stakeholders.
 
 ### Phase 5. full implementation and transition
 
-This phase delivers national implementation of the cohorting model across all screening providers (DESPs).
+This phase delivers national implementation of the cohorting model across all screening providers.
 
 Automated cohort updates replace manual processes and legacy systems, enabling consistent and timely updates across services. The approach has been validated through pilot sites, supporting national adoption.
 
@@ -83,7 +83,7 @@ Clinical safety leads from key suppliers, including NEC (OptoMize Software provi
 
 Initial alignment discussions are underway to establish a shared understanding of the cohorting approach, associated risks, and safety responsibilities.
 
-## Key improvements enabled by DESP collaboration and pilot approach
+## Key improvements enabled by service providers collaboration and pilot approach
 
 Collaboration with screening providers ensures the cohorting model reflects real-world service delivery. The pilot approach enables:
 
@@ -98,5 +98,5 @@ Collaboration with screening providers ensures the cohorting model reflects real
 - Finalise pilot onboarding and success criteria
 - Run controlled pilot and capture feedback
 - Prepare for transition ahead of March 2027
-- Continue engagement with DESPs via the CASCADE Operational Working Group
+- Continue engagement with service providers via the CASCADE Operational Working Group
 - Work with key suppliers, including NEC (OptoMize software provider) and InHealth Intelligence, to progress technical integration following Phase 2 planning
