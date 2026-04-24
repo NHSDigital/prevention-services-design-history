@@ -6,6 +6,7 @@ tags:
   - appointments
   - seasonal changes
   - COVID-19 vaccine
+  - flu vaccine
 author: Jo Lumley
 ---
 
