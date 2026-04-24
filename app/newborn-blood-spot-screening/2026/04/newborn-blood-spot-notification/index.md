@@ -14,7 +14,7 @@ author:
 
 ## The scope
 
-Digital Best Start in Life supports the wider vision for improving children’s health by making it easier for families to access information and use digital services.
+Digital Best Start in Life aims to provide joined up information and resources connected with each child's health record (in the NHS App) to help parents and carers access the support they need, and the wider vision for improving children’s health by making it easier for families to access information and use digital services. 
 
 As part of this, the Blood Spot Notifications pilot focuses on improving how parents receive newborn screening results. It aims to create a more accessible, timely and user-friendly experience, while reducing reliance on existing manual and paper-based processes.
 
@@ -53,14 +53,13 @@ From research and stakeholder feedback, we found that:
 
 During Alpha, we recommend making screening results available directly in the NHS App, within the child’s profile.
 
-Parents would receive a simple notification when a “not suspected” result is ready to view.
+Parents would receive a simple notification when a “not suspected” result is ready to view, allowing them to benefit from a digitial first approach. 
 
 This approach:
 
-- Supports the Digital Red Book ambition to digitise child health information
-- Provides a more consistent and joined-up experience for families
-- Allows delivery to progress without dependency on more complex national proxy services
 - Enables value to be delivered sooner
+- Reduces the reliance on paper copies
+- Provides a more consistent and joined-up digital experience for families inline with other NHS App features
 
 ---
 
