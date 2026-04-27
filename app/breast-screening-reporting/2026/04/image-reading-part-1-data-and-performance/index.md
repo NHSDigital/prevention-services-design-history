@@ -97,7 +97,7 @@ We expect to be able to speed up their work and, if we can source the data, deep
 
 As well as improving on the slow data feedback already mentioned, Directors of Breast Screening would be supported by the ability to more easily monitor, compare and cross-check the performance of their team.
 
-Also important is the role Directors of Breast Screening play in helping readers interpret their performance data and put it into context. New data tools need to support these conversations, not replace them.
+Also important is the role directors of breast screening play in helping readers interpret their performance data and put it into context. New data tools need to support these conversations, not replace them.
 
 ### Image readers rely on others for data
 
