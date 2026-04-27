@@ -101,7 +101,7 @@ Also important is the role directors of breast screening play in helping readers
 
 ### Image readers rely on others for data
 
-When it comes to performance data, readers currently rely on their Director of Breast Screening to download the report from BSIS annually, share it with them, and help them interpret it and take the right action.
+When it comes to performance data, readers currently rely on their director of breast screening to download the report from BSIS annually, share it with them, and help them interpret it and take the right action.
 
 They also do not have easy access to useful operational data such as progress towards reading targets. This is important because, to retain accreditation, they must read a minimum of 5,000 images per year, of which 1,500 must be first reads. Currently, they keep a rough tally in their heads because we cannot get the data out of the system in a timely way using current methods.
 
