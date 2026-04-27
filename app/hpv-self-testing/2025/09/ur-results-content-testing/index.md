@@ -66,15 +66,35 @@ All participants were shown all result types:
 
 ### HPV positive
 
+![An NHS app message explaining that the participant's HPV test returned a positive result. It explains that HPV is a common virus that most people will come into contact with and that in many cases the body's immune system can clear the virus, but in some instances, it can causes abnormal cell changes in the cervix. It explains that, as a next step, the participant should undergo a follow-up cervical screening test, also known as a smear test, at their GP practice. It also tells the participant that their GP has been notified of this result. Alternatively, the participant is advised they could visit a sexual health clinic for their cervical screening test, and to find more information by visiting the included link. There is some information about why cervical screening matters, as it reduces the risk of cervical cancer developing. There is also some further information that the participant can read on the NHS.UK website.](results-positive-app.png)
+
+![A letter explaining that the participant's HPV test returned a positive result. It explains that HPV is a common virus that most people will come into contact with and that in many cases the body's immune system can clear the virus, but in some instances, it can causes abnormal cell changes in the cervix. It explains that, as a next step, the participant should undergo a follow-up cervical screening test, also known as a smear test, at their GP practice. It also tells the participant that their GP has been notified of this result. Alternatively, the participant is advised they could visit a sexual health clinic for their cervical screening test, and to find more information by visiting the included link. There is some information about why cervical screening matters, as it reduces the risk of cervical cancer developing. There is some further information that the participant can read on the NHS.UK website.](results-positive-letter.png)
+
 ### HPV negative
+
+![An NHS app message explaining that the participant's HPV test returned a negative result and that they do not need to do anything further. There is a section detailing next steps, which advises the participant that their GP has been told the result, and the date of their next routine cervical screening appointment, which the NHS will invite the participant to nearer the time. The participant is also directed to the NHS.UK web page for cervical screening if they would like any further information.](results-negative-app.png)
+
+![A letter explaining that the participant's HPV test returned a negative result and that they do not need to do anything further. There is a section detailing next steps, which advises the participant that their GP has been told the result, and the date of their next routine cervical screening appointment, which the NHS will invite the participant to nearer the time. The participant is also directed to the NHS.UK web page for cervical screening if they would like any further information.](results-negative-letter.png)
 
 ### HPV unavailable (first)
 
+![An NHS app message explaining that the participant's first HPV test did not provide any results. It is explained that this is nothing to worry about, and does not mean the test was abnormal, but that it is important the participant has a repeat test, and that this test has already been sent to the participant. There are some instructions on how to take the test again, and a reminder to refer to the instructions provided with the kit.](results-unavailable-1-app.png)
+
+![A letter explaining that the participant's first HPV test did not provide any results. It is explained that this is nothing to worry about, and does not mean the test was abnormal, but that it is important the participant has a repeat test, and that this test has already been sent to the participant. There are some instructions on how to take the test again, and a reminder to refer to the instructions provided with the kit.](results-unavailable-1-letter.png)
+
 ### HPV unavailable (second)
+
+![An NHS app message explaining that the participant's second HPV test did not provide any results. It is explained that this is nothing to worry about, and does not mean the test was abnormal, but that it is important the participant has a repeat test, recommending that they have a cervical screening test at their GP or a sexual health clinic. It lets the participant that the results have been sent to their GP to update them. ](results-unavailable-2-app.png)
+
+![A letter explaining that the participant's second HPV test did not provide any results. It is explained that this is nothing to worry about, and does not mean the test was abnormal, but that it is important the participant has a repeat test, recommending that they have a cervical screening test at their GP or a sexual health clinic. It lets the participant that the results have been sent to their GP to update them.](results-unavailable-2-letter.png)
 
 ### Rejected sample
 
+![An NHS app message explaining that the participant's HPV test could not be processed as they have recently had a cervical screening test, making them inelligible for HPV self-testing. It advises the participant to follow the advice given with their cervical screening test result, and to speak with their GP if they have any symptoms such as vaginal bleeding, changes to vaginal discharge, pain during sex or pain in their lower back. There is a link to the NHS.UK web page for cervical screening if the participant wants further information. ](rejected-sample-app.png)
+
 ### HPV negative aged 60+
+
+![An NHS app message explaining that the participant, who is over 60 years of age, received a negative result in their HPV test and that the results have been sent to their GP. It is explained that, because they will be over the age of 65 when their next cervical screening test is due, they will no longer be invited for cervical screening. The participant is told that they are highly unlikely to develop cervical cancer if they are over 65 and do not have a recent history of abnormal screening results. They are asked to speak to their GP if they notice any symptoms such as vaginal bleeding, changes to vaginal discharge, pain during sex or pain in their lower back. There is a link to the NHS.UK web page for cervical screening if the participant wants further information.](results-negative-60-plus-app.png)
 
 ## What we learned
 
