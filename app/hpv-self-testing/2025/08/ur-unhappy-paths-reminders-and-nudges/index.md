@@ -1,7 +1,7 @@
 ---
 title: August User Research - Unhappy paths, reminders and nudges
 description: Highlighting findings from the user research sessions conducted on unhappy paths, reminders and nudges.
-date: 2026-04-22
+date: 2025-08-31
 tags:
   - hpv self testing
   - cervical screening
