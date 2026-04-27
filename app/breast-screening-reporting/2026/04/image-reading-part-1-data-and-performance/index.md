@@ -115,6 +115,6 @@ The current programme already works well in terms of identifying cancer, but the
 - offer better insight
 - offer easier oversight
 
-Instead of using a one-size-fits-all FRQA for readers, Directors of Breast Screening and SQAS, we will consider different solutions to meet these different needs.
+Instead of using a one-size-fits-all FRQA for readers, directors of breast screening and SQAS, we will consider different solutions to meet these different needs.
 
 We’ll explore these options in our next posts, which will focus on distinct user groups.
