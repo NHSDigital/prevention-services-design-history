@@ -8,6 +8,9 @@ tags:
   - FRQA
   - data
 author: Alex Crowfoot
+opengraphImage:
+  src: /breast-screening-reporting/2026/04/image-reading-part-1-data-and-performance/Example-performance-factors.png
+  alt: Diagram showing some of the variables that need to be considered and balanced when assessing and understanding performance
 ---
 
 For more information on the design sprint and our data infrastructure choices, read [this introduction](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2026/04/re-designing-image-reading-data-reporting-to-stress-test-the-reporting-roadmap/).
