@@ -17,7 +17,7 @@ Results are a critical part of the HPV self-testing journey, as they determine n
 We ran:
 
 -	one unmoderated round in September
--	one moderated round in October, following content iterations
+-	one moderated round in October, following minor content iterations to improve the clarity of clinical terminology used
 
 ## Research aims
 
@@ -106,7 +106,7 @@ However, some users wanted more information to feel fully informed, particularly
 
 ### HPV negative results needed more clarity
 
-Some participants were unsure what a negative result meant long term.
+Some participants were unsure what a negative result meant for their long term health.
 
 We improved this by:
 
@@ -139,7 +139,7 @@ This suggests the association between cervical screening and sexual health clini
 
 Following the research, we held a collaborative session with clinical safety officers and the communications team to review findings and agree content changes.
 
-We used a Mural board with each results screen laid out. As a group, we worked through each result message and added suggested updates using digital sticky notes.
+We used a Mural board with each results screen laid out. The Product and UCD teams worked through each result message and added suggested updates using digital sticky notes.
 
 This allowed us to:
 
