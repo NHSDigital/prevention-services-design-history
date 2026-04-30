@@ -23,9 +23,9 @@ We think this works in 2 ways – by reaching people who don't engage with preve
 
 ## Outcomes
 
-1. The app can reach people who currently face the biggest barriers to prevention, not just those already engaged
-2. People can sustain the changes they make, with support that adapts as their needs change.
-3. More prevention services are available in the NHS App, with a consistent experience across them. Teams can deliver faster, without duplicating effort.
+1. More people use prevention services
+2. More people make sustained behaviour change
+3. More prevention services are available in the NHS app
 
 ## Framing prevention in the app
 
