@@ -175,7 +175,7 @@ Enhance nudge content with optional support:
 -	a way to provide feedback on why they have not completed the journey
 -	a clear opt-out option
 
-Sending SMS alongside email increases trust and engagement. Maintaining consistency across channels will help reduce perceptions of messages being scams.
+Sending an SMS alongside email increases trust and engagement. Maintaining consistency across channels will help reduce perceptions of messages being scams.
 
 Error screens should provide clearer guidance on what went wrong and how users can resolve the issue to continue their journey.
 
