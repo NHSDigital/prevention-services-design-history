@@ -7,7 +7,7 @@ author:
   - Ralph Hawkins
 ---
 
-The NHS App is changing from a digital front door to a lifelong companion. The app will meet people where they are, on demand. Managing my health shapes and supports Digital Prevention Services' role in that future.
+The NHS App is changing from a digital front door to a lifelong companion. The app will meet people where they are, on demand. Managing my health is a team that will shape and support Digital Prevention Services' role in that future.
 
 We sit between prevention services and the app so it is easy for people to stay healthy – for themselves and the people they care for. To do this, we:
 * work with the app team as it shifts to federated model
