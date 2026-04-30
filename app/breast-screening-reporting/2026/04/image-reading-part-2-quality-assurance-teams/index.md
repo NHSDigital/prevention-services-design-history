@@ -15,7 +15,7 @@ opengraphImage:
 
 For more information on image reading data and performance, read [part 1](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2026/04/image-reading-part-1-data-and-performance/).
 
-For our thoughts on supporting image readers and Directors of Breast Screening, read part 3.
+Part 3 will share our thoughts on supporting image readers and Directors of Breast Screening.
 
 ## Quality Assurance and film reading
 
