@@ -50,7 +50,7 @@ Out of 5 participants:
 ### Previous screening attendance
 
 - Never attended - 60%
-- Has attended some - 40%
+- Has attended screening previously - 40%
 
 ### Disability or condition
 
@@ -66,7 +66,7 @@ Out of 5 participants:
 
 ### Gender
 
-All participants identified as female
+All participants identified as female.
 
 ### Sexuality
 
