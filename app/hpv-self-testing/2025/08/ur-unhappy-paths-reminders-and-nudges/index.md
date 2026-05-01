@@ -1,7 +1,7 @@
 ---
 title: August User Research - Unhappy paths, reminders and nudges
 description: Highlighting findings from the user research sessions conducted on unhappy paths, reminders and nudges.
-date: 2025-08-31
+date: 2026-05-01
 tags:
   - hpv self testing
   - cervical screening
@@ -41,11 +41,11 @@ Out of 5 participants:
 
 ### Ethnicity
 
-- Asian/British Indian - 20%
-- Asian/British Pakistani - 20%
-- Black/British Caribbean - 20%
-- White British, Irish - 20%
-- Another white background, Romanian - 20%
+- Asian, Asian British or Asian Welsh: Indian - 20%
+- Asian, Asian British or Asian Welsh: Pakistani - 20%
+- Black, Black British, Black Welsh, Caribbean or African: Caribbean - 20%
+- White British or White Irish - 20%
+- White: Romanian - 20%
 
 ### Previous screening attendance
 
@@ -86,8 +86,8 @@ We tested the following journey points:
 
 - Letter invitation to take part in HPV self-testing
 - Reminder (second invitation, sent 28 days after initial invite)
-- 1st nudge (24 hours after starting but not completing the journey)
-- 3rd nudge (72 hours after receiving the kit, prompting sample return)
+- First nudge (24 hours after starting but not completing the journey)
+- Third nudge (72 hours after receiving the kit, prompting sample return)
 - Error screens
 
 ## Research findings
