@@ -66,7 +66,7 @@ The NHS Health Check, heart health check, AI health coach, and Healthy Choices Q
 
 One participant described the distinction as they saw it:
 
-> Maybe you don't look for quit smoking advice where you book your shingles vaccine, just in terms of the mentality with which you're clicking on it." – Participant 3
+> Maybe you don't look for quit smoking advice where you book your shingles vaccine, just in terms of the mentality with which you're clicking on it.
 
 ## What's next
 
