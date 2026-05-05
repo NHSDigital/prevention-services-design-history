@@ -1,9 +1,8 @@
 ---
 layout: collection
 title: Managing my health
-description: Managing my health
-area: managing-my-health
-promote: true
+description: "Supporting prevention services in the app so it is easy for people to prevent ill health – for themselves and the people they care for"
+area: cross-digital-prevention-services
 pagination:
   data: collections.managing-my-health
   reverse: true

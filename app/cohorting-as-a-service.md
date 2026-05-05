@@ -2,7 +2,7 @@
 layout: collection
 title: Cohorting as a Service (CaaS)
 description: Using national health data to find groups of people with shared characteristics
-area: managing-my-health
+area: cross-digital-prevention-services
 pagination:
   data: collections.cohorting-as-a-service
   reverse: true

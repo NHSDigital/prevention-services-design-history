@@ -74,7 +74,7 @@ export default function (eleventyConfig) {
     'vaccinations',
     'personalised-prevention',
     'digital-best-start',
-    'managing-my-health'
+    'cross-digital-prevention-services'
   ]) {
     eleventyConfig.addCollection(`${area}-area`, (collection) => {
       return collection
@@ -156,8 +156,9 @@ export default function (eleventyConfig) {
     'check-childrens-vaccination-history',
     'antenatal-screening',
     'newborn-blood-spot-screening',
-    // Managing my health
-    'cohorting-as-a-service'
+    // Cross digital prevention services
+    'cohorting-as-a-service',
+    'managing-my-health'
   ]) {
     eleventyConfig.addCollection(service, (collection) => {
       return collection.getFilteredByGlob(`app/${service}/**/*.md`)
