@@ -58,7 +58,7 @@ Vaccines and screening were consistently grouped together as things the NHS cont
 
 #### Self-help services
 
-Weight management, stop smoking, alcohol reduction, and Talking Therapies grouped together. Participants saw these as issue‑specific things you go to when you have a particular problem to fix. Multiple participants used the phrase "self‑help" without being prompted.
+Weight Management, stop smoking, alcohol reduction, and Talking Therapies grouped together. Participants saw these as issue‑specific things you go to when you have a particular problem to fix. Multiple participants used the phrase "self‑help" without being prompted.
 
 #### Lifestyle tools
 
