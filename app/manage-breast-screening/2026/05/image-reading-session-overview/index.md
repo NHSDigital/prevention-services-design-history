@@ -1,0 +1,47 @@
+---
+title: Helping image readers see their progress during a session
+description: Designing a clear image reading session overview for image readers
+date: 2026-05-07
+author: Rebecca Cottrell
+opengraphImage:
+  src: /manage-breast-screening/2026/05/image-reading-session-overview/mid-session.png
+  alt: 
+tags:
+  - beta
+  - prototype
+  - image reading
+---
+
+We've been looking at how to give image readers an overview of their reading session so they can review their opinions, and how the session 'container' should work. We've also settled on 'session' as the preferred term for reading a selection of cases, rather than batch, list, or similar.
+
+For more about the image reading process, see our previous design histories: [understanding image reading](/manage-breast-screening/2025/04/understanding-image-reading/), and [reading in batches](/manage-breast-screening/2026/02/reading-in-batches/). 
+
+
+## Populating sessions with cases 
+
+The image reading session is a container for a number of cases that the image reader intends to read, for example 25 cases. During the session, the image reader looks at each case and gives an opinion. 
+
+If cases were assigned to a reader all at once, any reader who walked away mid-session could leave a block of cases locked and unavailable to others. To prevent this, we're proposing that cases are added to a session one case at a time, assigned to the image reader at the point it's being read. This means the full session list isn't set in advance, which keeps cases available to other readers.
+
+## Session in progress
+
+While a session is active, the image reader can see an overview of cases they've read in that session so far, and the opinion they've given on each case. 
+
+The image reader can see cases represented as a list containing previously read, current, and future cases. The future cases are implied graphically using numbered blocks. The current case (meaning no opinion has been given yet) is indicated with a different colour background, and the image reader can resume from this place in the list. 
+
+
+![The in-progress session page shows a list of cases, with two previously read out of 8. The current case has a resume reading button.](mid-session.png)
+
+## Session complete page 
+
+When the image reader has read all cases in their session, they're taken to the completed session page. This allows the image reader to see a list of their opinions for each case and a tab where they can see all case opinions, along with an outcome if available.  
+
+![The session complete page shows a banner with options to finalise opinions, start a new session, and return to reading dashboard, and beneath this there is a mini statistics dashboard showing percent normal, technical recall, recall for assessment, and priors requested. Below this is the start of the session list..](completed-session.png)
+
+
+When image readers provide an opinion, they're able to change their mind for a fixed period of time (we'll find out how long this should be) before the opinion is finalised. The image reader can also choose to finalise their opinions early, meaning they can't change their mind. Once finalised, the case can be read by a second reader. They can also start a new image reading session from this point. 
+
+
+## Next steps 
+
+We'll need to do user research to see how well the designs meet user needs. We're particularly keen to understand how image readers respond to the new approach of sessions, which is quite different from how their current clinic-based reading process. 
