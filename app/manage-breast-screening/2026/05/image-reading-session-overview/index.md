@@ -44,4 +44,4 @@ The image reader can also choose to 'finalise' their opinions early – meaning 
 
 ## Next steps 
 
-We'll need to do user research to see how well the designs meet user needs, and if any further iteration is needed. 
+We'll need to do user research to see how well the designs meet user needs. We're particularly keen to understand how image readers respond to the new approach of sessions, which is quite different from how their current clinic-based reading process. 
