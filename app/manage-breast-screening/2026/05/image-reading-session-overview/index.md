@@ -14,7 +14,7 @@ tags:
 
 We've been looking at how to give image readers an overview of their reading session so they can review their opinions, and how the session 'container' should work. We've also settled on 'session' as the preferred term for reading a selection of cases, rather than batch, list, or similar.
 
-For more about the image reading process, see our previous design histories: [understanding image reading](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2025/04/understanding-image-reading/), and [reading in batches](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2026/02/reading-in-batches/). 
+For more about the image reading process, see our previous design histories: [understanding image reading](/manage-breast-screening/2025/04/understanding-image-reading/), and [reading in batches](/manage-breast-screening/2026/02/reading-in-batches/). 
 
 
 ## Populating sessions with cases 
