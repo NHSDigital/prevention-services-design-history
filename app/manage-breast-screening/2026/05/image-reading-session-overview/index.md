@@ -1,7 +1,7 @@
 ---
 title: Helping image readers see their progress during a session
 description: Designing a clear image reading session overview for image readers
-date: 2026-05-06
+date: 2026-05-07
 author: Rebecca Cottrell
 opengraphImage:
   src: /manage-breast-screening/2026/05/image-reading-session-overview/mid-session.png
@@ -39,7 +39,7 @@ When the image reader has read all cases in their session, they're taken to the 
 ![The session complete page shows a banner with options to finalise opinions, start a new session, and return to reading dashboard, and beneath this there is a mini statistics dashboard showing percent normal, technical recall, recall for assessment, and priors requested. Below this is the start of the session list..](completed-session.png)
 
 
-The image reader can also choose to 'finalise' their opinions early – meaning they can't change their mind. Once finalised, the case can be read by a second reader. They can also start a new image reading session from this point. 
+When image readers provide an opinion, they're able to change their mind for a fixed period of time (we'll find out how long this should be) before the opinion is finalised. The image reader can also choose to finalise their opinions early, meaning they can't change their mind. Once finalised, the case can be read by a second reader. They can also start a new image reading session from this point. 
 
 
 ## Next steps 
