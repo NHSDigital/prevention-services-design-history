@@ -17,7 +17,7 @@ We've been looking at how to give image readers an overview of their reading ses
 For more about the image reading process, see our previous design histories: [understanding image reading](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2025/04/understanding-image-reading/), and [reading in batches](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2026/02/reading-in-batches/). 
 
 
-## Sessions and the in-progress session 
+## Populating sessions with cases 
 
 The image reading session is a container for a number of cases that the image reader intends to read, for example 25 cases. During the session, the image reader looks at each case and gives an opinion. 
 
