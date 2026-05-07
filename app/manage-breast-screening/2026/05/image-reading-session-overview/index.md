@@ -34,7 +34,7 @@ The image reader can see cases represented as a list containing previously read,
 
 ## Session complete page 
 
-When the image reader has read all cases in their session, they're taken to the completed session page. This allows the image reader to see a list of their opinions for each case, along with the screening date and a tab where they can see opinions given for first and second read, along with a case outcome, if available.  
+When the image reader has read all cases in their session, they're taken to the completed session page. This allows the image reader to see a list of their opinions for each case and a tab where they can see all case opinions, along with an outcome if available.  
 
 ![The session complete page shows a banner with options to finalise opinions, start a new session, and return to reading dashboard, and beneath this there is a mini statistics dashboard showing percent normal, technical recall, recall for assessment, and priors requested. Below this is the start of the session list..](completed-session.png)
 
