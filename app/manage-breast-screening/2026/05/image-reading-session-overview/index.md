@@ -27,7 +27,7 @@ If cases were assigned to a reader all at once, any reader who walked away mid-s
 
 While a session is active, the image reader can see an overview of cases they've read in that session so far, and the opinion they've given on each case. 
 
-The image reader can see cases represented as a list: previously read, current, and future cases. The future cases are implied graphically using numbered blocks. The current case (meaning no opinion has been given yet) is indicated with a different colour background, and the image reader can resume from this place in the list. 
+The image reader can see cases represented as a list containing previously read, current, and future cases. The future cases are implied graphically using numbered blocks. The current case (meaning no opinion has been given yet) is indicated with a different colour background, and the image reader can resume from this place in the list. 
 
 
 ![The in-progress session page shows a list of cases, with two previously read out of 8. The current case has a resume reading button.](mid-session.png)
