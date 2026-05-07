@@ -21,7 +21,7 @@ For more about the image reading process, see our previous design histories: [un
 
 The image reading session is a container for a number of cases that the image reader intends to read, for example 25 cases. During the session, the image reader looks at each case and gives an opinion. 
 
-If cases were assigned to a reader all at once, any reader who walked away mid-session could leave a block of cases locked and unavailable to others. To prevent this, only one case is locked at a time, assigned to the image reader at the point it's needed. This means the full session list isn't known in advance, but ensures cases remain available to other readers until the moment they're being read.
+If cases were assigned to a reader all at once, any reader who walked away mid-session could leave a block of cases locked and unavailable to others. To prevent this, we're proposing that cases are added to a session one case at a time, assigned to the image reader at the point it's being read. This means the full session list isn't set in advance, which keeps cases available to other readers.
 
 ## Session in progress
 
