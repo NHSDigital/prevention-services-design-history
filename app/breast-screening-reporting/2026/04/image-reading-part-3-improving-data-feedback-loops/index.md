@@ -29,7 +29,7 @@ In our design sprint, we learned about what is currently working well and where 
 
 > “Most of us know, ‘Oh, my God, I missed that one’.”
 >
-> — Image reader
+> -- Image reader
 
 Image readers are highly aware that data represents people, and they feel it if they miss a cancer that another reader picked up, even though this is normal and to be expected sometimes. We need to be aware of the emotional impact of data and give them easier access to tools to help them improve. The challenge is to find the right balance.
 
