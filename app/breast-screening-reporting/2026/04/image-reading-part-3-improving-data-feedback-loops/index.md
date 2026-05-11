@@ -13,13 +13,15 @@ opengraphImage:
   alt: Storyboard showing how image readers could get earlier feedback and easier access to learning opportunities
 ---
 
+This entry describes opportunities to improve image reading data reporting for image readers and directors.
+
 For more information on image reading data and performance, read [part 1](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2026/04/image-reading-part-1-data-and-performance/).
 
-For our thoughts on supporting Screening Quality Assurance Service teams, read [part 2](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2026/04/image-reading-part-2-quality-assurance-teams/).
+For our thoughts on supporting quality assurance teams, read [part 2](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2026/04/image-reading-part-2-quality-assurance-teams/).
 
 ## The core users of image reading data
 
-Image readers and Directors of Breast Screening use data to help them monitor performance and take action to improve. Currently, they mostly use the annual Film Reading Quality Assurance (FRQA) report in the Breast Screening Information System (BSIS), which has limitations and challenges.
+Image readers and directors of breast screening use data to help them monitor performance and take action to improve. Currently, they mostly use the annual Film Reading Quality Assurance (FRQA) report in the Breast Screening Information System (BSIS), which has limitations and challenges.
 
 In our design sprint, we learned about what is currently working well and where there are gaps and opportunities.
 
@@ -27,7 +29,7 @@ In our design sprint, we learned about what is currently working well and where 
 
 ### Numbers are people
 
-> “Most of us know, ‘Oh, my God, I missed that one’.”
+> Most of us know, ‘Oh, my God, I missed that one’.
 >
 > -- Image reader
 
@@ -35,39 +37,39 @@ Image readers are highly aware that data represents people, and they feel it if 
 
 ### There are opportunities to reduce low-value manual work
 
-Outside the annual FRQA reports in BSIS, some Directors of Breast Screening currently get data from their admin team via manual export from the National Breast Screening System (NBSS). We expect this data to be self-serve for Directors of Breast Screening in future. This is just one of many examples of the low-value manual processes we hope to alleviate.
+Outside the annual FRQA reports in BSIS, some directors of breast screening currently get data from their admin team via manual export from the National Breast Screening System (NBSS). We expect this data to be self-serve for Directors of Breast Screening in future. This is just one of many examples of the low-value manual processes we hope to alleviate.
 
-> “People can’t access BSIS themselves so I have to go in and download it and email it to every reader.”
+> People can’t access BSIS themselves so I have to go in and download it and email it to every reader.
 >
-> — Director of Breast Screening 1
+> -- Director of Breast Screening 1
 
 ### There’s a difference between seeing data and comprehending it
 
 For data to inform decision-making and drive improvement as intended, users must understand the data and its implications.
 
-As mentioned in part 1, understanding performance is not straightforward because so many variables need to be considered. Image readers may misinterpret data if they are not supported to understand it in a conversation with the Director of Breast Screening.
+As mentioned in part 1, understanding performance is not straightforward because so many variables need to be considered. Image readers may misinterpret data if they are not supported to understand it in a conversation with the director of Breast Screening.
 
-> “Even as radiologists we don’t see specificity, sensitivity and PPV data that often. Then it’s for us to explain it to our teams, but I find myself looking it up.”
+> Even as radiologists we don’t see specificity, sensitivity and PPV data that often. Then it’s for us to explain it to our teams, but I find myself looking it up.
 >
-> -- Director of Breast Screening 2
+> -- Director of breast screening 2
 
-In addition, concepts and terminology used in breast screening are often derived from fields such as research and epidemiology and, in the case of FRQA, data users may not have encountered them for 12 months. It is not surprising that Directors of Breast Screening feel they need a refresher, but there is no obvious place to obtain this.
+In addition, concepts and terminology used in breast screening are often derived from fields such as research and epidemiology and, in the case of FRQA, data users may not have encountered them for 12 months. It is not surprising that directors of breast screening feel they need a refresher, but there is no obvious place to obtain this.
 
 ### More timely data is needed, but only if it is statistically reliable
 
-While there is a thirst for more timely data to help understand performance and enable corrective action sooner, it would be wrong to simply supply all the data we will have access to. This is because:
+While there is a thirst for more timely data to help understand performance and enable corrective action sooner, it can be risky to simply supply all the data we will have access to, potentially providing inaccurate insights. This is because:
 
 - some data is only meaningful when we have a representative sample
-- data from a small number of cases would be wildly inaccurate as an indicator of performance because it would be skewed by variation in the population screened
-- if we automate the highlighting of exceptions with a small sample size, it would result in false alarms
+- data from a small number of cases could provide an inaccurate indicator of performance because it would be skewed by variation in the population screened within that sample
+- if we automate the highlighting of exceptions with a small sample size, it could result in false alarms
 
 One suggestion has been for a ‘per 1,000 reads’ measure, but only for certain metrics. Other metrics would require higher volumes of cases to become reliable.
 
 There is also a risk of creating cognitive overload in a busy environment that should be focused on image reading. We need to consider the right location for data that is retrospective and focused on reflection and improvement.
 
-> “Data is 18 months old sometimes by the time it’s validated and you’re able to act on it. So if you have issues and blips, you’re looking at it a long way down the line.”
+> Data is 18 months old sometimes by the time it’s validated and you’re able to act on it. So if you have issues and blips, you’re looking at it a long way down the line.
 >
-> -- Director of Breast Screening 1
+> -- Director of breast screening 1
 
 We need to establish clearly, between breast screening and a professional statistician, how much of a deviation from the norm matters for each metric and what is statistically stable to play back at what volume of reads.
 
@@ -79,11 +81,11 @@ This is one of the key areas of value we can create over the current state.
 
 ### Easier access to data would enable more proactivity
 
-Directors of Breast Screening currently have to request data from admin to check a team member’s performance if they suspect something is not right. More readily available data would enable them to be self-serve and proactive, ideally intervening sooner if needed.
+Directors of breast screening currently have to request data from admin to check a team member’s performance if they suspect something is not right. More readily available data would enable them to be self-serve and proactive, ideally intervening sooner if needed.
 
 ### Directors of Breast Screening need data in different forms to readers
 
-Directors of Breast Screening are interested in much of the same data as image readers, but they also need to keep an eye on demand and capacity, which requires a different view of the data.
+Directors of breast screening are interested in much of the same data as image readers, but they also need to keep an eye on demand and capacity, which requires a different view of the data.
 
 They also have an interest in being able to compare:
 
@@ -94,7 +96,7 @@ They also have an interest in being able to compare:
 
 Performance of the whole team needs to be taken into account because it is never just one person reading an image. Having a clearer understanding of each reader’s strengths enables Directors of Breast Screening to better assess the work and for the team to learn from each other’s strengths. Readers themselves also need to view their performance in the context of the team.
 
-> “When I’ve had data and it was dreadful, I rang my previous Director of Screening and said, ‘should I be doing this job?’ And they’ve said, ‘you are fine, we’re a team.’”
+> When I’ve had data and it was dreadful, I rang my previous Director of screening and said, ‘should I be doing this job?’ And they’ve said, ‘you are fine, we’re a team.’
 >
 > -- Director of Breast Screening 1
 
@@ -106,7 +108,7 @@ We will investigate options for displaying reporting data somewhere in the new s
 
 ## What might the future look like?
 
-We learned a lot about the specific metrics that image readers and Directors of Breast Screening would like to see. We’ll save those details for when we start developing new tools, but for now we have developed storyboards that bring multiple ideas together and imagine a more data-enabled future.
+We learned a lot about the specific metrics that image readers and directors of breast screening would like to see. We’ll save those details for when we start developing new tools, but for now we have developed storyboards that bring multiple ideas together and imagine a more data-enabled future.
 
 ![Storyboard showing how image readers could get earlier feedback and an easier way to follow up on anything they missed](Image-reader-storyboard.png "Giving image readers earlier feedback and an easier way to follow up on anything they missed would be a valuable enhancement of the programme")
 
@@ -121,7 +123,7 @@ We learned a lot about the specific metrics that image readers and Directors of 
 
 ### Directors of Breast Screening storyboard: what’s different?
 
-- **Frame 1:** Directors of Breast Screening do not currently have an easy way to get an overview of their team’s performance beyond the annual FRQA report. This idea would give them an easy overview and, if there had been a statistically significant drift for a reader, they would be alerted.
+- **Frame 1:** Directors of breast screening do not currently have an easy way to get an overview of their team’s performance beyond the annual FRQA report. This idea would give them an easy overview and, if there had been a statistically significant drift for a reader, they would be alerted.
 - **Frame 2 and 3:** These frames show the issue being highlighted in a summary table that gives the Director an easy way to dig deeper into an individual’s performance metrics if needed.
 - **Frame 4:** This shows how, in future, extra information may be layered into charts and graphs to help users interpret the data more easily.
 - **Frame 5:** This is an example of giving in-context support to help users interpret the data more easily.
@@ -131,7 +133,7 @@ We learned a lot about the specific metrics that image readers and Directors of 
 
 ## Our next steps
 
-While readers and Directors of Breast Screening need better access to data, they do their jobs without it at the moment, so there is a balance to be achieved. We need more clarity on:
+While readers and directors of breast screening need better access to data, they do their jobs without it at the moment, so there is a balance to be achieved. We need more clarity on:
 
 - the right type of data, rather than assuming ‘more is more’
 - how and where to display day-to-day data versus data for performance reflection and learning
