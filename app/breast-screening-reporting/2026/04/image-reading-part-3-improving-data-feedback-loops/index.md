@@ -67,7 +67,7 @@ There is also a risk of creating cognitive overload in a busy environment that s
 
 > “Data is 18 months old sometimes by the time it’s validated and you’re able to act on it. So if you have issues and blips, you’re looking at it a long way down the line.”
 >
-> — Director of Breast Screening 1
+> -- Director of Breast Screening 1
 
 We need to establish clearly, between breast screening and a professional statistician, how much of a deviation from the norm matters for each metric and what is statistically stable to play back at what volume of reads.
 
