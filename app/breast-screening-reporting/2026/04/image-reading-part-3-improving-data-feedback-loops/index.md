@@ -110,7 +110,7 @@ We will investigate options for displaying reporting data somewhere in the new s
 
 We learned a lot about the specific metrics that image readers and directors of breast screening would like to see. We’ll save those details for when we start developing new tools, but for now we have developed storyboards that bring multiple ideas together and imagine a more data-enabled future.
 
-![Storyboard showing how image readers could get earlier feedback and an easier way to follow up on anything they missed](Image-reader-storyboard.png "Giving image readers earlier feedback and an easier way to follow up on anything they missed would be a valuable enhancement of the programme")
+![Storyboard showing how image readers could get earlier feedback and an easier way to follow up on anything they missed](Story_Image_reader.jpeg "Giving image readers earlier feedback and an easier way to follow up on anything they missed would be a valuable enhancement of the programme")
 
 ### Image reader storyboard: what’s different?
 
@@ -119,7 +119,7 @@ We learned a lot about the specific metrics that image readers and directors of 
 - **Frame 5:** Looking at performance data and then moving straight into learning by revisiting images where something was missed is currently not possible. This would be very valuable.
 - **Frame 8:** The idea shown here is that, with better access to data and learning opportunities, a reader may be able to take corrective action and measure the results, reducing the likelihood of their performance going off track.
 
-![Storyboard showing how easier ways to gain a view of team performance could support Directors of Breast Screening and save time](DoBS-storyboard.png "Easier ways to gain a view of team performance will support Directors of Breast Screening and save time")
+![Storyboard showing how easier ways to gain a view of team performance could support Directors of Breast Screening and save time](Story_DoBS.jpeg "Easier ways to gain a view of team performance will support Directors of Breast Screening and save time")
 
 ### Directors of Breast Screening storyboard: what’s different?
 
