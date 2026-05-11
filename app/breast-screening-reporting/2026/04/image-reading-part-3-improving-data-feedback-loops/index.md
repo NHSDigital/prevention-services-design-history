@@ -96,7 +96,7 @@ Performance of the whole team needs to be taken into account because it is never
 
 > “When I’ve had data and it was dreadful, I rang my previous Director of Screening and said, ‘should I be doing this job?’ And they’ve said, ‘you are fine, we’re a team.’”
 >
-> — Director of Breast Screening 1
+> -- Director of Breast Screening 1
 
 ### The mental model of ‘How am I doing?’ includes different data types
 
