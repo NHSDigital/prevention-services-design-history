@@ -49,7 +49,7 @@ As mentioned in part 1, understanding performance is not straightforward because
 
 > “Even as radiologists we don’t see specificity, sensitivity and PPV data that often. Then it’s for us to explain it to our teams, but I find myself looking it up.”
 >
-> — Director of Breast Screening 2
+> -- Director of Breast Screening 2
 
 In addition, concepts and terminology used in breast screening are often derived from fields such as research and epidemiology and, in the case of FRQA, data users may not have encountered them for 12 months. It is not surprising that Directors of Breast Screening feel they need a refresher, but there is no obvious place to obtain this.
 
