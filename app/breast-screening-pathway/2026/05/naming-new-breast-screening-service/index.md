@@ -25,7 +25,7 @@ We figured that people would probably call it 'the new NBSS' and while that's...
 
 ## We started at the beginning - where else? 
 
-As the [GDS guidance on naming a service](https://www.gov.uk/service-manual/design/naming-your-service) will tell you, you should start by describing what the service does. So we did.  
+As the [government guidance on naming a service](https://www.gov.uk/service-manual/design/naming-your-service) will tell you, you should start by describing what the service does. So we did.  
 
 A small group of people who were good with words and ideas, all working on the service and led by [Liz Lutgendorff](https://www.linkedin.com/in/elizabethlutgendorff/), brainstormed nouns and verbs associated with breast screening.  
 
