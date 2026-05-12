@@ -1,6 +1,6 @@
 ---
-title: How we named the new digital breast screening service Rubie
-description: How and why we settled on the name Rubie
+title: Naming the new digital breast screening service
+description: Rubie - how and we named the new digital breast screening service
 date: 2026-05-13
 tags:
   - naming
