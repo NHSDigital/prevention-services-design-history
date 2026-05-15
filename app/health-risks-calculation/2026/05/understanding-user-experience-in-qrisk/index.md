@@ -41,7 +41,7 @@ To make sense of this complexity without losing richness, we adopted an analysis
 - contexts
 - tasks
 
-We wrote about the benefits of using this approach in [a previous design history](https://design-history.prevention-services.nhs.uk/lung-health-check/2026/03/beyond-user-needs/).
+We wrote about the benefits of using this approach in [a previous design history](/lung-health-check/2026/03/beyond-user-needs/).
 
 ## What we learned about clinicians’ experiences
 
