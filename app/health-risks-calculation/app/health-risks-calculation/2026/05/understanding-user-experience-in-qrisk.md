@@ -16,7 +16,7 @@ We are working on the future of QRISK, a cardiovascular risk calculator that pre
 
 Although QRISK is critical clinical infrastructure, its current provision is fragile. QRISK2 is embedded across GP systems but is no longer recommended for use by NICE. QRISK3 is recommended but not integrated in GP IT, which leaves clinicians reliant on manual, error prone workarounds. Our work set out to understand how QRISK is actually used in practice today, and whether there is a valuable role for NHS England in enabling safe, sustainable access to risk calculation nationally.
 
-This design history focuses on what we learned about users’ lived experience of QRISK, and how that shaped our approach to designing a future operating model for QRISK3. [A more detailed research report](https://nhs.sharepoint.com/:p:/r/sites/X26_URPG/URFinder/QRISK%20User%20Research%20insights.pptx?d=w7d4e3db84b564b7d9cea81c5f4f58fe6&csf=1&web=1&e=lfw9zb) from this discovery can be found in NHS England’s user research repository.
+This design history focuses on what we learned about users’ lived experience of QRISK, and how that shaped our approach to designing a future operating model for QRISK3.
 
 ## Understanding the users of QRISK
 
