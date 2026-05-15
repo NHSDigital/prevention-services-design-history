@@ -159,8 +159,7 @@ export default function (eleventyConfig) {
     'newborn-blood-spot-screening',
     // Cross digital prevention services
     'cohorting-as-a-service',
-    'managing-my-health',
-    'policy-and-communications'
+    'managing-my-health'
   ]) {
     eleventyConfig.addCollection(service, (collection) => {
       return collection.getFilteredByGlob(`app/${service}/**/*.md`)
