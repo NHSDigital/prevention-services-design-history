@@ -145,6 +145,7 @@ export default function (eleventyConfig) {
     'vaccinations-in-the-app',
     // Personalised prevention service collections
     'ai-health-coach',
+    'health-risks-calculation',
     'personalised-prevention',
     'lung-health-check',
     'nhs-health-check-online',
