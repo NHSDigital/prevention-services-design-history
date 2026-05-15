@@ -29,7 +29,7 @@ We learned that QRISK is used:
 - under medico legal scrutiny
 - in conversations that can influence behaviour change
 
-![A diagram showing the main use cases for QRISK, including 1) results return from Lipid Profile and check needed for statins, 2) NHS Health Check, 3) Patient presents with symptoms, 4) NHS Health Check online, 5) Checking a cohort.](QRISK-use-cases.png)
+![A diagram showing the main use cases for QRISK, including 1) results return from Lipid Profile and check needed for statins, 2) NHS Health Check, 3) Patient presents with symptoms, 4) NHS Health Check online, 5) Checking a cohort.](QRISK-use-cases.png "A diagram showing the main use cases for QRISK")
 
 To make sense of this complexity without losing richness, we adopted an analysis framework structured around 7 lenses:
 
@@ -61,7 +61,7 @@ Pharmacists, nurses and admin teams absorb much of the manual and follow up work
 
 Although QRISK can be used opportunistically in consultations, this tends to happen only when clinicians have capacity. Browser based QRISK3 is avoided unless absolutely necessary.
 
-![A screenshot of the browser based QRISK3 calculator, which is currently not embedded in GP IT systems.](QRISK3-calculator.png)
+![A screenshot of the browser based QRISK3 calculator](QRISK3-calculator.png "A screenshot of the browser based QRISK3 calculator, which is currently not embedded in GP IT systems.")
 
 ### Emotions: what users feel throughout the journey
 
