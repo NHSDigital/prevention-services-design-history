@@ -7,7 +7,7 @@ author:
   - Hannah Elliot
 ---
 
-We ran a discovery across the Digital Prevention Services Portfolio (DPSP) to understand how our products work – or don’t – with the NHS’s new [neighbourhood health](https://www.kingsfund.org.uk/insight-and-analysis/long-reads/what-is-neighbourhood-health) model.
+We ran a discovery across the Digital Prevention Services Portfolio (DPSP) to understand how our products work with the NHS’s new [neighbourhood health](https://www.kingsfund.org.uk/insight-and-analysis/long-reads/what-is-neighbourhood-health) model.
 
 Neighbourhood health is central to the [10‑year plan](https://www.gov.uk/government/publications/10-year-health-plan-for-england-fit-for-the-future), with digital positioned as an enabler. Neighbourhood health services will become the main way people access care, organised around defined populations and local priorities, integrating funding and delivery at place, and tailoring interventions to specific cohorts.
 
@@ -43,26 +43,6 @@ DPSP tracks partner engagement through a central tracker and open weekly notes, 
 ### Teams want more cross‑DPSP visibility
 
 Teams already work in the open through portfolio show‑and‑tells and All Hands calls. But there's appetite for more cross‑DPSP visibility, particularly to coordinate neighbourhood health work with partners.
-
-## What’s next
-
-### DPSP offer
-
-Clarify the DPSP neighbourhood offer, including what can be flexed locally and what remains nationally defined.
-
-Establish a clear, consistent governance approach to support safe and effective use of national DPSP products within neighbourhood settings.
-
-### Partners
-
-Take a more strategic and coordinated approach to partner selection and engagement across DPSP.
-
-Align internally to share learning, coordinate planning and identify opportunities to test and scale a neighbourhood offer.
-
-### Data
-
-Provide a clearer, more consistent approach to how national and local data can support neighbourhood delivery.
-
-Improve alignment across products to enable shared learning and comparability between neighbourhoods.
 
 ## Recommendations
 
