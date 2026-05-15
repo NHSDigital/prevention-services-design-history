@@ -4,10 +4,8 @@ description: Insights from user research exploring how QRISK is used in practice
 date: 2026-05-15
 tags:
   - QRISK
-  - User research
-  - Primary care
-  - Prevention
-  - NHS
+  - user research
+  - primary care
 author:
   - Michael Watson
 ---
@@ -24,24 +22,24 @@ As well as reviewing a large body of existing literature, we conducted in depth 
 
 We learned that QRISK is used:
 
-- opportunistically and proactively  
-- one by one and in batches during blood and lipid results processing  
-- across multiple roles  
-- inside practice-managed recall and follow-up processes  
-- under medico legal scrutiny  
-- in conversations that can influence behaviour change  
+- opportunistically and proactively
+- one by one and in batches during blood and lipid results processing
+- across multiple roles
+- inside practice-managed recall and follow-up processes
+- under medico legal scrutiny
+- in conversations that can influence behaviour change
 
-![A diagram showing the main use cases for QRISK, including 1) results return from Lipid Profile and check needed for statins, 2) NHS Health Check, 3) Patient presents with symptoms, 4) NHS Health Check online, 5) Checking a cohort.](app/health-risks-calculation/app/health-risks-calculation/2026/05/QRISK-use-cases.png)
+![A diagram showing the main use cases for QRISK, including 1) results return from Lipid Profile and check needed for statins, 2) NHS Health Check, 3) Patient presents with symptoms, 4) NHS Health Check online, 5) Checking a cohort.](QRISK-use-cases.png)
 
 To make sense of this complexity without losing richness, we adopted an analysis framework structured around 7 lenses:
 
-- goals  
-- behaviours  
-- emotions  
-- mental models  
-- pain points  
-- contexts  
-- tasks  
+- goals
+- behaviours
+- emotions
+- mental models
+- pain points
+- contexts
+- tasks
 
 We wrote about the benefits of using this approach in [a previous design history](https://design-history.prevention-services.nhs.uk/lung-health-check/2026/03/beyond-user-needs/).
 
@@ -63,7 +61,7 @@ Pharmacists, nurses and admin teams absorb much of the manual and follow up work
 
 Although QRISK can be used opportunistically in consultations, this tends to happen only when clinicians have capacity. Browser based QRISK3 is avoided unless absolutely necessary.
 
-![A screenshot of the browser based QRISK3 calculator, which is currently not embedded in GP IT systems.](app/health-risks-calculation/app/health-risks-calculation/2026/05/QRISK3-calculator.png)
+![A screenshot of the browser based QRISK3 calculator, which is currently not embedded in GP IT systems.](QRISK3-calculator.png)
 
 ### Emotions: what users feel throughout the journey
 
@@ -103,14 +101,14 @@ Admin recalls, searches and local initiatives strongly shape how QRISK is used, 
 
 On a practical level, users are trying to:
 
-- identify patients who may need cardiovascular prevention  
-- quickly judge whether risk is high enough to act on  
-- decide whether more data is worth collecting  
-- translate risk into conversations patients can engage with  
-- have nuanced, trust building conversations about statins  
-- discussing lifestyle changes with patients  
-- move patients into appropriate follow up pathways  
-- document decisions clearly so others can pick them up  
+- identify patients who may need cardiovascular prevention
+- quickly judge whether risk is high enough to act on
+- decide whether more data is worth collecting
+- translate risk into conversations patients can engage with
+- have nuanced, trust building conversations about statins
+- discussing lifestyle changes with patients
+- move patients into appropriate follow up pathways
+- document decisions clearly so others can pick them up
 
 ## How this research shapes our next steps
 
