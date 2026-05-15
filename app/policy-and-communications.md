@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Policy and communications
-description: Policy and communications
+description: Shaping the decisions that affect prevention services and working with partners across the NHS.
 area: cross-digital-prevention-services
 pagination:
   data: collections.policy-and-communications
