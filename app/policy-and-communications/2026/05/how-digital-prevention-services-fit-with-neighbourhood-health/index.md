@@ -15,7 +15,7 @@ But DPSP products are largely built as national programmes – designed centrall
 
 ## What we did
 
-The Innovation and Analysis team undertook an internal discovery to understand how existing DPSP products and services interact with neighbourhood health models and what this looks like in practice. This included engagement with teams across [Cohorting as a Service (CaaS)](https://digital.nhs.uk/services/cohorting-as-a-service-caas), [Select People for Invitation (SPI)](https://digital.nhs.uk/services/select-people-for-invitation-spi), [Managing My Health](/managing-my-health/), [breast screening](https://digital.nhs.uk/services/screening-services/breast-screening-services) and home testing. We wanted to understand:
+The Innovation and Analysis team undertook an internal discovery to understand how existing DPSP products and services interact with neighbourhood health models and what this looks like in practice. This included engagement with teams across [Cohorting as a Service (CaaS)](https://digital.nhs.uk/services/cohorting-as-a-service-caas), [Select People for Invitation (SPI)](https://digital.nhs.uk/services/select-people-for-invitation-spi), [Managing My Health](/managing-my-health/), [breast screening](https://www.digital-prevention-services.nhs.uk/screening/breast/) and home testing. We wanted to understand:
 
 - how products are currently deployed locally
 - what local partners experience when engaging with DPSP
