@@ -135,6 +135,7 @@ export default function (eleventyConfig) {
     'manage-your-screening',
     'hpv-self-testing',
     'screening-invite',
+    'lung-health-check',
     // Vaccination service collections
     'vaccinations',
     'book-a-vaccination',
@@ -147,7 +148,6 @@ export default function (eleventyConfig) {
     'ai-health-coach',
     'health-risks-calculation',
     'personalised-prevention',
-    'lung-health-check',
     'nhs-health-check-online',
     'personalised-prevention-platform',
     'smoking-cessation',
