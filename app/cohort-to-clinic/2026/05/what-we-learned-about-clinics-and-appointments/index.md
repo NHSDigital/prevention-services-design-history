@@ -8,7 +8,7 @@ tags:
   - discovery
 author:
   - Kathryn Murphy-Wright
-  opengraphImage:
+opengraphImage:
   src: /cohort-to-clinic/2026/05/what-we-learned-about-clinics-and-appointments/clinic-creation-high-level-process-v4.png
   alt: Diagram illustrating the high-level process of clinic creation, starting with defining the key details, then setting the broad schedule for the day, then the capacity becomes available in a calendar view, then finally users can zoom into a particular day to make changes to individual slots within the schedule
 ---
