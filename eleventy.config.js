@@ -98,6 +98,7 @@ export default function (eleventyConfig) {
         'app/manage-breast-screening/**/*.md',
         'app/breast-screening-pathway/**/*.md',
         'app/breast-screening-reporting/**/*.md',
+        'app/cohort-to-clinic/**/*.md',
         'app/explore-team/**/*.md',
         'app/select/**/*.md',
         'app/screening-invite/**/*.md'
