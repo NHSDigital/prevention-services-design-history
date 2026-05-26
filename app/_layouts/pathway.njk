@@ -15,7 +15,13 @@
     description: description
   }) }}
 
-  {{ appProseScope(content) if content }}
+  {# Full-width prose: keeps prose typography but drops the reading-width
+     constraint so the "Service areas and teams" card grid spans the container #}
+  {% if content %}
+  <div class="app-prose-scope">
+    {{ content | safe }}
+  </div>
+  {% endif %}
 
   {{ appHeading({
     level: 2,
