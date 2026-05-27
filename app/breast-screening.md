@@ -47,7 +47,7 @@ permalink: "breast-screening/{% if pagination.pageNumber > 0 %}page/{{ paginatio
     secondary: true,
     headingLevel: 5,
     heading: displayName,
-    headingClasses: "nhsuk-heading-xs",
+    headingClasses: "nhsuk-heading-s",
     description: area.data.description
   }) }}
 </li>

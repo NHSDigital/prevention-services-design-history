@@ -15,7 +15,12 @@
     description: description
   }) }}
 
-  {{ appProseScope(content) if content }}
+  {# Full-width container for "Service areas and teams" cards #}
+  {% if content %}
+  <div class="app-prose-scope">
+    {{ content | safe }}
+  </div>
+  {% endif %}
 
   {{ appHeading({
     level: 2,

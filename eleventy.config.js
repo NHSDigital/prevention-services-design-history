@@ -91,16 +91,20 @@ export default function (eleventyConfig) {
   }
 
   // Pathway collections
-  // Breast screening pathway - aggregates posts from all breast screening teams
+
+  // Breast screening pathway – aggregates posts from all breast screening teams.
+  // Globs are ordered by team’s display name in the UI (see teamNames in app/_data/pathways.json).
+
   eleventyConfig.addCollection('pathway-breast-screening', (collection) => {
     return collection
       .getFilteredByGlob([
-        'app/manage-breast-screening/**/*.md',
-        'app/breast-screening-pathway/**/*.md',
-        'app/breast-screening-reporting/**/*.md',
-        'app/explore-team/**/*.md',
-        'app/select/**/*.md',
-        'app/screening-invite/**/*.md'
+        'app/cohort-to-clinic/**/*.md', // Cohort to clinic
+        'app/explore-team/**/*.md', // Explore
+        'app/screening-invite/**/*.md', // Invite people
+        'app/manage-breast-screening/**/*.md', // Manage breast screening
+        'app/breast-screening-pathway/**/*.md', // Pathway
+        'app/breast-screening-reporting/**/*.md', // Reporting
+        'app/select/**/*.md' // Select cohorts
       ])
       .sort((a, b) => a.date - b.date)
   })
