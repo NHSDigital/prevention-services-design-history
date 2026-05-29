@@ -25,7 +25,7 @@ This post captures key stages of the breast screening reporting team’s journey
 
 Turning pre-aggregated data tables into new insights is like making a Victoria sponge by mashing up cupcakes – it doesn’t really work. Participant-level data provides the raw ingredients needed to mix up new metrics and visualisations from scratch.
 
-We planned automated pipelines and dashboards to extract and analyse granular data to replace the manual shifting of multiple data extracts from source systems. However, we first had to address some strategic challenges:
+We planned [automated pipelines](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2025/05/moving-source-system-event-data-through-nsp-and-into-fdp/) and dashboards to extract and analyse granular data to replace the manual shifting of multiple data extracts from source systems. However, we first had to address some strategic challenges:
 
 ### Establishing ways of working
 
@@ -35,13 +35,13 @@ The teams extracting data were separate from those analysing the data and workin
 
 We visited breast screening offices to understand which automated insights would be most valuable. We found that, across screening units, commissioners, and digital teams, there is a shared need for easier-to-interpret oversight metrics that make it possible to assess the equity of breast screening.
 
-We also uncovered more complex problems to address in the future, such as the more accurate and scalable capture of Pathology BQA data.
+We also uncovered more complex problems to address in the future, such as the more accurate and scalable capture of [Pathology BQA data](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2025/07/).
 
 ### Access to participant-level data and governance
 
 We planned to join participant-level data with other attributes, such as ethnicity data, to create datasets that could be queried to better understand inequalities and variation across services.
 
-To do this well, a data platform was required. However, we discovered a lack of clear legal basis to move participant-level data into modern analytical platforms. Our proposal supported a change in legal basis, unlocking the ability for all adult screening programmes to use record-level data for insights.
+To do this well, a data platform was required. However, we discovered a lack of clear legal basis to move participant-level data into modern analytical platforms. Our proposal supported a [change in legal basis](https://digital.nhs.uk/about-nhs-digital/corporate-information-and-documents/directions-and-data-provision-notices/secretary-of-state-directions/nhs-vaccination-and-screening-directions-2026), unlocking the ability for all adult screening programmes to use record-level data for insights.
 
 ## Prototyping the downstream reports
 
@@ -51,13 +51,13 @@ While we waited for access to real participant-level data, we used synthetic dat
 
 ### Exploring reporting domains
 
-Ownership of BSIS provided an opportunity to gain a deeper understanding of the business logic underpinning key reports. We used short design sprints to explore each reporting domain and understand how it could be improved.
+Ownership of BSIS provided an opportunity to gain a deeper understanding of the business logic underpinning key reports. We used short [design sprints](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2025/12/using-design-sprints-to-help-us-learn-quickly/) to explore each reporting domain and understand how it could be improved.
 
 We started with the simplest reports and found that improvements to infographics and metrics could replace and improve multiple BSIS reports with a single automated dashboard that offered better comparisons, visualisations, and user experience.
 
 ### Testing data platforms
 
-Starting with an MVP was a useful way to learn how different data platforms worked, understand their tooling and processes, and test how users would interact with dashboards. Once we understood the basics, we explored the most complex reporting domain — image reading QA — as a stress test for the reporting roadmap.
+Starting with an MVP was a useful way to learn how different data platforms worked, understand their tooling and processes, and test how users would interact with dashboards. Once we understood the basics, we explored the most complex reporting domain — image reading QA — as a [stress test](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2026/04/re-designing-image-reading-data-reporting-to-stress-test-the-reporting-roadmap/) for the reporting roadmap.
 
 ### Running and maintaining BSIS
 
@@ -77,8 +77,6 @@ We explored role-based access controls, approaches to pseudonymising data, and b
 
 ### NBSS data extraction
 
-The team is initially using dummy data to understand how data from different NBSS instances may need to be combined, reconciled, and standardised.
+The team is initially using dummy data to understand how data from different NBSS instances may need to be combined, reconciled, and standardised as a warm-up before bringing NBSS data from multiple services into Databricks. This will allow them to explore how the data works across service boundaries. For example, 'can we identify one participant’s journey across multiple services, and understand how that journey is recorded in each system?'
 
-The next step is to bring NBSS data from multiple services into Databricks, so the team can explore how the data works across service boundaries. For example, can we identify one participant’s journey across multiple services, and understand how that journey is recorded in each system?
-
-This work lays the foundations for the original reporting vision: intuitive, automated reporting built on a trusted understanding of the underlying data.
+This work allows critical operations to take place and helps bring to life the original reporting vision of intuitive, automated reporting built on a trusted understanding of the underlying data.
