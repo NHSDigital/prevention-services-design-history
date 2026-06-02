@@ -18,7 +18,7 @@ To understand connectivity issues more deeply, we ran 8 interviews with 7 breast
 
 This post focuses on two things: the connectivity spectrum and the role of fallbacks in maintaining a resilient service.
 
-![Fallback diagram](fallback3.png "A spectrum from 'no service' to 'better service' showing the concept of falling back from expected connectivity to the next best option")
+![Fallback diagram](fallback4.png "A spectrum from 'no service' to 'better service' showing the concept of falling back from expected connectivity to the next best option")
 
 ## A connection is needed for several different tasks
 
@@ -42,7 +42,7 @@ When connection fails for a task, it reverts to the more manual version. While s
 
 > Signal drops never brings us to a halt, does it? At the end of the day, we can continue with it as it is
 
-![Resilient service](resilient-service2.png "Each task has a well-defined progression of fallbacks")
+![Resilient service](resilient-service3.png "Each task has a well-defined progression of fallbacks")
 
 So for each task there is a connectivity spectrum:
 
@@ -51,10 +51,11 @@ So for each task there is a connectivity spectrum:
 
 Fallback progression by task (from best to worst): 
 
-- Image transfer: satellite (Starlink), 4G (sometimes with more than 1 SIM for more resilience), hard disk, no service
-- Participant list: live list, hard disk, manual entry, no service
-- Communication with base: live access, texting or calling, no service
-- Getting priors: live access, contact base, paper (prepared at base), no information (taking participant's word)
+- image transfer: satellite (Starlink), 4G (sometimes with more than 1 SIM for more resilience), hard disk, no service
+- participant list: live list, hard disk, manual entry
+- communication with base: live access, texting or calling
+- getting priors: live access, contact base, paper (prepared at base), no information (taking participant's word)
+- recording information about screening: live access, live access after appointment, NBSS daybook, paper and manual entry at base
 
 ## Paper is seen as a security blanket
 
@@ -82,7 +83,7 @@ A connectivity profile (the extent to which a van is connected in a location) co
 
 One BSO might mostly work online, while another BSO might mostly work offline. 
 
-![Connection profile](connection-profile2.png "Connectivity profile: a service working as expected compared to a service that is falling back")
+![Connection profile](connection-profile3.png "Connectivity profile: a service working as expected compared to a service that is falling back")
 
 The well-connected van will fall back to less desirable ways of working that are another BSO’s standard way of working:
 
