@@ -8,7 +8,7 @@ tags:
 author:
   - Veronika Jermolina
 opengraphImage:
-  src: /breast-screening-pathway/2026/06/connectivity-fallbacks-mobile-vans/fallback.png
+  src: /breast-screening-pathway/2026/06/connectivity-fallbacks-mobile-vans/fallback3.png
   alt: A 4-point connection spectrum from offline to connected, showing how a connected service falls back on the next best option
 ---
 
@@ -18,7 +18,7 @@ To understand connectivity issues more deeply, we ran 8 interviews with 7 breast
 
 This post focuses on two things: the connectivity spectrum and the role of fallbacks in maintaining a resilient service.
 
-![A 4-point connection spectrum from offline to connected, showing how a connected service falls back on the next best option](fallback.png)
+![Fallback diagram](fallback3.png "A spectrum from 'no service' to 'better service' showing the concept of falling back from expected connectivity to the next best option")
 
 ## A connection is needed for several different tasks
 
@@ -36,18 +36,25 @@ Printing was mentioned as a task that could be useful for fallback paperwork but
 
 ## Each of the tasks has a well-defined progression of fallbacks
 
-Stopping screening and cancelling clinics is seen as the worst-case scenario which they want to avoid. For that reason, BSOs have defined what each task falls back to when connection is lost. They designed their operating procedures around failing safely, not around avoiding failure.
+Stopping screening and cancelling clinics is seen as the worst-case scenario, which they want to avoid. For that reason, BSOs have defined what each task falls back to when connection is lost. They designed their operating procedures around failing safely, not around avoiding failure.
 
-When connection fails for a task, it reverts to the more offline version. While staff show adaptability, this is also a source of stress. 
+When connection fails for a task, it reverts to the more manual version. While staff show adaptability, this is also a source of stress. 
 
 > Signal drops never brings us to a halt, does it? At the end of the day, we can continue with it as it is
 
-![When connection drops for a task like image transfer, service falls back on a more offline workaround and continues](resilient-service.png "Running a resilient breast screening service on mobile vans requires fallbacks")
+![Resilient service](resilient-service2.png "Each task has a well-defined progression of fallbacks")
 
 So for each task there is a connectivity spectrum:
 
-- on the right: more automated, less error-prone and closer to real-time
+- on the right: more automated, less error-prone, more reliable
 - on the left: more manual, requiring physical transportation 
+
+Fallback progression by task (from best to worst): 
+
+- Image transfer: satellite (Starlink), 4G (sometimes with more than 1 SIM for more resilience), hard disk, no service
+- Participant list: live list, hard disk, manual entry, no service
+- Communication with base: live access, texting or calling, no service
+- Getting priors: live access, contact base, paper (prepared at base), no information (taking participant's word)
 
 ## Paper is seen as a security blanket
 
@@ -75,13 +82,13 @@ A connectivity profile (the extent to which a van is connected in a location) co
 
 One BSO might mostly work online, while another BSO might mostly work offline. 
 
-![Comparing 2 connection profiles for tasks like images, worklists, communications and priors](connection-profile.png)
+![Connection profile](connection-profile2.png "Connectivity profile: a service working as expected compared to a service that is falling back")
 
-The well-connected van will fall back to more offline ways of working that are another BSO’s standard way of working:
+The well-connected van will fall back to less desirable ways of working that are another BSO’s standard way of working:
 
 > Fall back is going back to olden times of paper and transferring via a hard disk
 
-A connectivity profile is also context-dependent. Bad weather, moving to another location or even school holidays (when 'all the kids are on their phones') can require a van to fall back to a more offline way of working for a given task. 
+A connectivity profile is also context-dependent. Bad weather, moving to another location or even school holidays (when 'all the kids are on their phones') can require a van to fall back to a less desirable way of working for a given task. 
 
 > Let’s say that you come to work and the signal on that morning because of rain, because of thunder or something is particularly bad
 
