@@ -8,7 +8,7 @@ tags:
 author:
   - Veronika Jermolina
 opengraphImage:
-  src: /breast-screening-pathway/2026/06/connectivity-fallbacks-mobile-vans/fallback3.png
+  src: /breast-screening-pathway/2026/06/connectivity-fallbacks-mobile-vans/fallback4.png
   alt: A 4-point connection spectrum from offline to connected, showing how a connected service falls back on the next best option
 ---
 
