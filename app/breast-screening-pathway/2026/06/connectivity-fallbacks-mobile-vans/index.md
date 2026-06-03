@@ -32,6 +32,8 @@ The first important learning is that internet connection is not a single capabil
 
 - communicating with the base (the BSO at the static unit)
 
+- recording information about screening on participants records
+
 Printing was mentioned as a task that could be useful for fallback paperwork but often not possible, because printers require a working network and space. Both in short supply on mobile vans. 
 
 ## Each of the tasks has a well-defined progression of fallbacks
@@ -77,6 +79,12 @@ A particular frustration is the lack of access to systems like PACS and RIS (Rad
 
 One BSO told us that when they can’t access PACS history, they either call the office or take the participant’s word for not having had a recent mammogram (to stay within IRMER requirements). Calling base for every participant is impractical, as staff are under time pressure to screen in 6 to 8 minutes. But asking participants isn’t always accurate and has led to incidents in the past. 
 
+## Dealing with technical issues adds pressure on staff
+
+One BSO helped us realise that clinicians like mammographers and radiologists have not historically had to deal with so much technology. Their job was to take mammograms and read them (originally on film). These days not only are they expected to use many different IT systems, but also to troubleshoot them when things break. 
+
+> Some of our mammographers were working with wet films, now they work with digital films. They are faced with so much technology, VPN in the van. If you ask them what this means, they don’t know but have to engage with it. Not only modality scanners, but on top of Seno Iris! Applications that help format 2D into 3D. They deal with a lot of IT, they still only have 6 minutes to treat a patient. They still have to troubleshoot in that time.
+
 ## Different vans have different connectivity profiles
 
 A connectivity profile (the extent to which a van is connected in a location) could be a helpful framework for understanding the scale of variation. 
@@ -94,12 +102,6 @@ A connectivity profile is also context-dependent. Bad weather, moving to another
 > Let’s say that you come to work and the signal on that morning because of rain, because of thunder or something is particularly bad
 
 Waiting until connection is restored is also a form of fallback (to upload the images). 
-
-## Dealing with technical issues adds pressure on staff
-
-One BSO helped us realise that clinicians like mammographers and radiologists have not historically had to deal with so much technology. Their job was to take mammograms and read them (originally on film). These days not only are they expected to use many different IT systems, but also to troubleshoot them when things break. 
-
-> Some of our mammographers were working with wet films, now they work with digital films. They are faced with so much technology, VPN in the van. If you ask them what this means, they don’t know but have to engage with it. Not only modality scanners, but on top of Seno Iris! Applications that help format 2D into 3D. They deal with a lot of IT, they still only have 6 minutes to treat a patient. They still have to troubleshoot in that time.
 
 ## Summarising connectivity needs at BSOs
 
