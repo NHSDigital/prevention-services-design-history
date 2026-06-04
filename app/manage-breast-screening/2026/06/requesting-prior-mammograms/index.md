@@ -22,7 +22,7 @@ Thus having access to prior mammograms is important for reducing unnecessary rec
 
 ## Accessing prior mammograms
 
-Prior mammograms taken at the same Breast screening unit (BSU) are easy to access. If they were taken by a different BSU, or privately or abroad they can be quite tricky to access. In those cases during screening the mammographer [record details of the prior mammograms](/manage-breast-screening/2025/06/recording-previous-mammograms/).
+Prior mammograms taken at the same Breast screening unit (BSU) are easy to access. If they were taken by a different BSU, or privately or abroad they can be quite tricky to access. In those cases during screening the mammographer [records details of the prior mammograms](/manage-breast-screening/2025/06/recording-previous-mammograms/).
 
 We currently refer to these as ‘reported’ mammograms, though this name is likely to change. We consider them a bit different to mammograms taken by the BSU - they’re unverified, and we don’t have data for them (yet).
 
@@ -52,7 +52,7 @@ Once requested, the UI moves on to the next case to read. Behind the scenes we b
 
 ### Once priors have been received
 
-As soon as the priors have been received, the case can go back to image reading. If had already been read once, that read will still count. If it hadn’t, then it will still need two reads.
+As soon as the priors have been received, the case can go back to image reading. If it had already been read once, that read will still count. If it hadn’t, then it will still need two reads.
 
 ![Opinion page showing inset text with details of the received priors](opinion-with-received-priors.png)
 
