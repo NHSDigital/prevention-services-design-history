@@ -53,6 +53,7 @@ Once requested, the UI moves on to the next case to read. Behind the scenes we b
 ### Once priors have been received
 
 As soon as the priors have been received, the case can go back to image reading. If had already been read once, that read will still count. If it hadn’t, then it will still need two reads.
+
 ![Opinion page showing inset text with details of the received priors](opinion-with-received-priors.png)
 
 The opinion page will show that priors were recently received along with the reason for request (if there was one). The case can be read by any reader, so it may not be the same user reading it now as did the original request.
@@ -100,6 +101,7 @@ When there are multiple priors reported we’ll list all of them, but with a sin
 ![When requesting priors and multiple are known about, image readers are given checkboxes for each to say which they want.](opinions-request-priors-multiple.png)
 
 Our request priors page shows details of each of the reported priors and lets the image reader tell us which they’d like to see. As work will need to be done for each set requested, they may choose to just request the most recent ones, or ones they think are more likely to be available.
+
 ![Multiple prior mammograms show as separate rows in our management UI](priors-multiple-needs-requesting.png)
 
 Each request is currently shown as a separate item for admin staff to action. We may later want to review whether this should be combined in to a single item.
