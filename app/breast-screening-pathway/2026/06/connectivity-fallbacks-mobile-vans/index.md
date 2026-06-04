@@ -1,7 +1,7 @@
 ---
 title: Connectivity and fallbacks in mobile breast screening
 description: Connectivity spectrum and the role of fallbacks in maintaining a resilient service.
-date: 2026-06-01
+date: 2026-06-04
 tags:
   - breast screening
   - mobile vans
