@@ -18,7 +18,7 @@ We've been looking into how to let users know if the connection between our serv
 
 Our team of developers have been busily building the [Rubie](/breast-screening-pathway/2026/05/naming-new-breast-screening-service/) gateway, a technology that will perform a crucial role in our service.
 
-It allows the transfer of participant details and mammogram images between our system and the imaging machines in breast screening units (BSUs).
+It allows the efficient transfer of data between the imaging machines in breast screening units (BSUs) and our service. That means we can send things like appointment statuses, and receive back details of mammogram images and any other associated info.
 
 The general plan is:
 
