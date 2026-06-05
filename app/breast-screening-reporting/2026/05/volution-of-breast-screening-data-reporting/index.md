@@ -13,8 +13,6 @@ author:
   - Laboni Paul
 ---
 
-# The evolution of breast screening reporting
-
 ## Introduction
 
 Analysing breast screening performance has been difficult, relying on manually created, backdated data tables pulled from multiple systems that made it hard to get useful insights.
