@@ -33,7 +33,7 @@ The general plan is:
 
 Our aim is for the gateway to automate various manual processes.
 
-BSUs typically export and upload their daily clinic lists from NBSS to a shared worklist on their Radiology Information System (RIS). This worklist can be viewed on local modality machines.
+BSUs typically export and upload their daily clinic lists from NBSS to a shared worklist on their Radiology Information System (RIS). This worklist is then synced to local modality machines where it can be viewed.
 
 As there is no direct connection between NBSS and RIS, human intervention is required to let the system to know when a participant is ready to be scanned and when an appointment has been completed.
 
