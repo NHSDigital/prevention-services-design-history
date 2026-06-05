@@ -49,7 +49,7 @@ While we waited for access to real participant-level data, we used synthetic dat
 
 ### Exploring reporting domains
 
-Ownership of BSIS provided an opportunity to gain a deeper understanding of the business logic underpinning key reports. We used short [design sprints](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2025/12/using-design-sprints-to-help-us-learn-quickly/) to explore each reporting domain and understand how it could be improved.
+Ownership of BSIS provided an opportunity to gain a deeper understanding of the business logic underpinning key reports. We used short [design sprints](/breast-screening-reporting/2025/12/using-design-sprints-to-help-us-learn-quickly/) to explore each reporting domain and understand how it could be improved.
 
 We started with the simplest reports and found that improvements to infographics and metrics could replace and improve multiple BSIS reports with a single automated dashboard that offered better comparisons, visualisations, and user experience.
 
