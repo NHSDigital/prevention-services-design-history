@@ -1,48 +1,49 @@
 ---
-title: Telling users if the system is working
+title: Informing users about the gateway connection status
 description: Creating connection status messages and steps to follow when things are broken
-date: 2026-05-18
+date: 2026-06-09
 author: Danny Chadburn
 opengraphImage:
   src: /manage-breast-screening/2026/05/image-reading-session-overview/added-to-worklist.png
-  alt: 
+  alt: A green tick with a message indicating that the system is working as it should be.
 tags:
   - beta
   - prototype
-  - image reading
+  - breast screening
 ---
 
-We've been looking into how to let our users know if the connection between mammogram services is working as it should be, and what to do if it's not.
+We've been looking into how to let our users know if the connection between our service and the technology used in mammography rooms is working as it should be, and what to do if it's not.
 
 ## Getting technology talking
 
 Our team of developers have been busily building the [Rubie](/breast-screening-pathway/2026/05/naming-new-breast-screening-service/) gateway, a technology that will perform a crucial role in our service.
 
-It allows the transfer of participant details and mammogram images between our system and the modality machines in breast screening units (BSUs).
+It allows the transfer of participant details and mammogram images between our system and the imaging machines in breast screening units (BSUs).
 
 The general plan is:
 
-* when a user starts (or resumes) an appointment on Rubie, the gateway adds the participant details to a 'worklist'
+* when a user starts (or resumes) an appointment on our service, the gateway adds the participant details to a 'worklist'
 * the worklist syncs with the BSU's modality machine(s), showing which participants are ready to be scanned
 * the mammographer selects the person from the modality worklist, and begins taking images
-* as soon as the first image has been taken, the gateway starts sending image data to Rubie
-* information is transferred live, so image thumbnails and any associated metadata will display on Rubie almost instantly
-* once the appointment is complete (either fully concluded or prematurely stopped), the gateway tells the modality machine that the participant can be removed from the worklist.
+* as soon as the first image has been taken, the gateway starts sending image data to our service
+* information is transferred live, so image thumbnails and any associated metadata will display on our service almost instantly
+* once the appointment is complete (either fully concluded or prematurely stopped), the gateway tells the modality machine that the participant can be removed from the worklist
 
 ### Improvements to the current setup
 
-The gateway will automate various manual processes.
+Our aim is for the gateway to automate various manual processes.
 
-BSUs currently export and upload their daily clinic lists from NBSS to a shared worklist on their Radiology Information System (RIS). This worklist can be viewed on local modality machines.
+BSUs will typically export and upload their daily clinic lists from NBSS to a shared worklist on their Radiology Information System (RIS). This worklist can be viewed on local modality machines.
 
-As there is no direct connection between NBSS and the RIS, there is no way for the system to know when appointments are completed. This leads to a bulky worklist that stays on the machines until they are cleared at the end of each day.
+As there is no direct connection between NBSS and RIS, human intervention is required to let the system to know when a participant is ready to be scanned and when their appointment has been completed.
 
-After an appointment, images are sent straight from the modality to the Picture Archiving and Communication System (PACS) ready for radiologist review. Mammographers need to enter details of the views they have taken into NBSS.
+Automating these relatively minor tasks could turn into a significant time saving when applied across the 2 million mammogram appointments that take place in England each year.
 
-By transmitting details as they happen, we are:
+By transmitting details between our service and the modality, we are:
 
-* making it easier for mammographers to pick the right participant on the modality machine
-* showing users details of the images they have just taken so they can confirm them, add details or immediately correct any errors
+* removing the need to pre-upload clinic lists
+* making it quicker for mammographers to pick the right participant from the worklist (by only showing active appointmnets)
+* displaying information on our service of the images that have been taken so users can confirm they are OK, add extra details, or immediately correct any errors
 
 ## What our users need to know
 
@@ -58,39 +59,39 @@ To help things run smoothly, we should tell them:
 
 ## The 'everything is OK' status
 
-An 'Added to worklist' message accompanied by a green tick lets users know that the data transfer has taken place as intended.
-
-It gives them confidence that once they have completed steps 1 and 2 in the appointment workflow, they can move from Rubie to the modality machine and the participant will be there.
-
-As this action was triggered by starting the appointment, we figured that the best place for this to go was next to the appointment time details. This status would be visible throughout the various stages of the appointment.
-
 ![A green tick icon next to 'Added to worklist' text displayed in the main infomration bar of a mammogram appointment.](added-to-worklist.png)
+
+One an appointment has started, an 'On worklist' message accompanied by a green tick lets users know that the data transfer has taken place as intended. This is displayed alongside the appointment date and time, and the 'Accn' - an accession number, which is a unique ID assigned to each mammogram appointment. 
+
+This status gives them confidence that once they have completed steps 1 and 2 in the appointment workflow, they can move from looking at our service to the modality machine and the participant will be there.
 
 ## The 'everything is not OK' status
 
+![A red cross icon next to 'Not added to worklist' text and a 'Retry' link displayed in the main infomration bar of a mammogram appointment.](not-added-to-worklist.png)
+
 While we hope that the system is reliable, no service can guarantee 100% uptime.
 
-So if something fails, we display a 'Not added to worklist' message. This is accompanied by a red cross (to help users notice there is a problem) and a link to 'retry' the connection. 
-
-![A red cross icon next to 'Not added to worklist' text and a 'Retry' link displayed in the main infomration bar of a mammogram appointment.](not-added-to-worklist.png)
+So if something fails, we display a 'Not on worklist' message. This is accompanied by a red cross (to help users notice there is a problem) and a link to 'retry' the connection. 
 
 Our users have told us that they don't want to be doing anything complicated in the middle of a mammogram appointment to resolve issues. With that in mind, we've built a simple screen that either appears when they hit the retry link, or before they get to the 'Take images' appointment stage. 
 
-![A modal window giving users options of what to do when the participant is not on the worklist (retry connection or switch to manual mode).](retry-connection.png)
+![A page giving users options of what to do when the participant is not on the worklist (retry connection or switch to manual mode).](retry-connection.png)
 
-If their attempt to reconnect fails, the 'Last attempt time' is updated. They can keep trying, or choose to switch to the backup 'manual image mode' where users can tell us what images have been taken, rather than us taking this automatically from the mammogram machine.
-
-If the connection is restored, the users is returned to where they left off (or moved on to the imaging step) with a success message.
+If the connection is restored, the user is returned to where they left off (or moved on to the imaging step) with an updated status and a success message.
 
 ![A success banner telling users that the connection has been successfuly restored.](retry-success.png)
 
 ### How the backup option works
 
-If the participant can't be added to the worklist, the fallback is for the mammographer to take images as an 'unscheduled procedure'.
+If their attempt to reconnect fails, the 'Last attempt time' is updated. They can keep trying, or choose to switch to 'manual image mode'.
 
-They would need to add identifying info (such as the participant's name, date of birth and NHS number) into the mammogram machine then [manually record image info](/manage-breast-screening/2025/12/recording-images-taken/#manual-image-flow-backup-workflow#manual-image-flow-backup-workflow) on Rubie. 
+![A success banner telling users that the user has switched to manual mode alongside instructions of how to add the participant to the worklist.](retry-fail.png)
 
-The data would be need to be merged with the participant record later on (in a yet-to-be-determined process).
+After they have switched to manual, a 'Worklist issue, manual mode enabled' status appears for the remainder of this appointment. We have removed the link to retry as we want users to move forward and get the appointment completed, rather than returning to make further attempts to restore the connection.
+
+As this status means the participant is not on the worklist, we've included instructions on how to proceed. This requires the mammographer to set up an 'unscheduled procedure' on the imaging machine with details of the participant and appointment then [manually record details of images taken](/manage-breast-screening/2025/12/recording-images-taken/#manual-image-flow-backup-workflow#manual-image-flow-backup-workflow) on our service. 
+
+The data would be need to be merged with the participant record later on (in a yet-to-be-determined admin process).
 
 ## The 'everything seems OK, but it's actually not' workflow
 
@@ -112,13 +113,15 @@ These expandable components were placed at the bottom of the page where image in
 
 We showed these to some users, with a heavy caveat that we didn't yet have the full details of how things would work. 
 
-The feedback was that these steps were far too complicated to follow during a mammogram appointment. This was not the time to be following 'if this then that' type options.
+The feedback was that these steps were far too complicated to follow during a mammogram appointment. This was not the time or place to be following complicated workflows.
 
 ### Proposed revisions
 
-Our updated troubleshooting guide is much more route one.
+Our updated troubleshooting guide is much more straightforward.
 
 ![Updated troubleshooting steps to follow for three things that may go wrong with the gateway connection when transferring images.](new-troubleshooting.png)
+
+All of these options encourage the user to switch to manual image mode which is the quickest and easiest way of continuing the appointment. If this option is selected from the first troubleshooting tip, details for adding the participant to the worklist will be included. If they switch from the links in tip 2 or 3, it is assumed that the initial worklist connection was successful so this information is not shown.
 
 We're working under the assumption that the gateway will remain open and keep transmitting image data while the appointment is active - any changes made on the mammogram machine (new images or changes to image metadata) will be transferred without the need for any user actions.
 
@@ -136,5 +139,7 @@ They Rubie gateway is still under active development. We're working closely with
 The ideal scenario is that our failure messages and guidance will never be seen. While our best minds are working on making that happen, we will keep iterating our designs and content just in case they're needed.
 
 One big unanswered question is what happens if the connection fails mid-way through the appointment. The patterns used so far relate to things either working or failing as the process begins, but in an average 8 minute screening appointment there's a lot that might go wrong.
+
+We're also looking into the best place for users to give more info on why they switched over to manual mode. Any feedback will help to ensure issues do not reoccur, but we need to be conscious of asking mammographers to complete extra data fields when they're in teh middle of an appointment.
 
 We also need to think about whether we need to collect more info from users about why they switched to manual image mode. The gateway will hopefully record any faults, but it would also be useful to get users to tell us whey they had to switch.
