@@ -33,7 +33,7 @@ The teams extracting data were separate from those analysing the data and workin
 
 We visited breast screening offices to understand which automated insights would be most valuable. We found that, across screening units, commissioners, and digital teams, there is a shared need for easier-to-interpret oversight metrics that make it possible to assess the equity of breast screening.
 
-We also uncovered more complex problems to address in the future, such as the more accurate and scalable capture of [Pathology BQA data](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2025/07/).
+We also uncovered more complex problems to address in the future, such as the more accurate and scalable capture of [Pathology BQA data](/breast-screening-reporting/2025/07/).
 
 ### Access to participant-level data and governance
 
