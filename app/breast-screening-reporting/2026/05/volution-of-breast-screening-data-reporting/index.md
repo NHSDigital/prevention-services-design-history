@@ -58,7 +58,7 @@ Starting with an MVP was a useful way to learn how different data platforms work
 
 ### Running and maintaining BSIS
 
-KC62 helps provide a national picture of breast screening activity and performance. The introduction of very high risk participants requires updates to the KC62 tables in BSIS. This work deepened our understanding of how breast screening services operate and the complexity of NBSS business logic.
+The [KC62 statutory report](https://archive.datadictionary.nhs.uk/DD%20Release%20May%202024/data_sets/central_return_data_sets/nhs_breast_screening_programme_central_return_data_set__kc62_.html) helps provide a national picture of breast screening activity and performance. The introduction of very high risk participants requires updates to the KC62 tables in BSIS. This work deepened our understanding of how breast screening services operate and the complexity of NBSS business logic.
 
 ## Reconciling data upstream
 
