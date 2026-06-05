@@ -55,7 +55,7 @@ We started with the simplest reports and found that improvements to infographics
 
 ### Testing data platforms
 
-Starting with an MVP was a useful way to learn how different data platforms worked, understand their tooling and processes, and test how users would interact with dashboards. Once we understood the basics, we explored the most complex reporting domain, image reading quality assurance, as a [stress test](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2026/04/re-designing-image-reading-data-reporting-to-stress-test-the-reporting-roadmap/) for the reporting roadmap.
+Starting with an MVP was a useful way to learn how different data platforms worked, understand their tooling and processes, and test how users would interact with dashboards. Once we understood the basics, we explored the most complex reporting domain, image reading quality assurance, as a [stress test](/breast-screening-reporting/2026/04/re-designing-image-reading-data-reporting-to-stress-test-the-reporting-roadmap/) for the reporting roadmap.
 
 ### Running and maintaining BSIS
 
