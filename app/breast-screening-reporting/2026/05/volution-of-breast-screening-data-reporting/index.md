@@ -23,7 +23,7 @@ This post captures key stages of the breast screening reporting team’s journey
 
 Turning pre-aggregated data tables into new insights is like making a Victoria sponge by mashing up cupcakes - it doesn’t really work. Participant-level data provides the raw ingredients needed to mix up new metrics and visualisations from scratch.
 
-We planned [automated pipelines](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2025/05/moving-source-system-event-data-through-nsp-and-into-fdp/) and dashboards to extract and analyse granular data to replace the manual shifting of multiple data extracts from source systems. However, we first had to address some strategic challenges:
+We planned [automated pipelines](/breast-screening-reporting/2025/05/moving-source-system-event-data-through-nsp-and-into-fdp/) and dashboards to extract and analyse granular data to replace the manual shifting of multiple data extracts from source systems. However, we first had to address some strategic challenges:
 
 ### Establishing ways of working
 
