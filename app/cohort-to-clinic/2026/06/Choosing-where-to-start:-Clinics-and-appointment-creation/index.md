@@ -1,18 +1,17 @@
 
-# Choosing where to start: Clinics and appointment creation
-
-## Date  
-24 February 2026  
-
-## Author  
-Elliot Hunter (Product Manager)  
-
-## Status  
-Decision made  
+---
+title: Choosing where to start: Clinics and appointment creation
+description: The programme needs a safe way to create clinics and book breast screening appointments, for breast screening offices (BSOs) across the country to use.
+date: 2026-06-08
+tags:
+  - clinics
+  - appointments
+  - product direction
+  - Rubie
+author:
+  - Elliot Hunter
 
 ---
-
-## What we’re trying to do
 
 We’re working on the clinic and appointment creation capability as part of the overall National Breast Screening System (NBSS) replacement.
 
@@ -20,7 +19,7 @@ The programme needs a safe way to create clinics and book breast screening appoi
 
 ### The complexity of clinic creation
 
-Breast screening appointment planning is complex. Services need to run different types of clinics across static sites, mobile units and assessment settings, each with its own rules and operational constraints. Planning must also account for where mobile units will be, so the right people can be invited at the right point in their screening cycle.
+Breast screening appointment planning is complex. Services need to run different types of clinics across static sites, mobile units and assessment clinics, each with its own rules and operational constraints. Planning must also account for where mobile units will be, so the right people can be invited at the right point in their screening cycle.
 
 ### Creating real appointments
 
@@ -78,7 +77,6 @@ A reliable, national record of clinics and attendance supports better forecastin
 - **Early-stage population forecasting or policy-led upstream planning:** these remain in analysis and discovery while the service specification and policy landscape evolve.  
 - **Changing the main digital communication channels:** such as invitation letters, to avoid introducing operational risk at this stage.  
 - **Changing how batches are generated:** these workflows will be revisited once the system becomes fully national.  
-- **Redesigning the full participant-facing journey:** including invitations, reminders and rescheduling.  
 - **Eliminating all local variation in BSO processes:** focus remains on supporting the core common workflow first.  
 - **Designing for all appointment types beyond mammography:** expansion may follow later, but the immediate focus is core screening appointments.  
 
