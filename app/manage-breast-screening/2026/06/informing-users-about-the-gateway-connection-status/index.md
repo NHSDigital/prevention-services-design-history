@@ -33,9 +33,9 @@ The general plan is:
 
 Our aim is for the gateway to automate various manual processes.
 
-BSUs typically export and upload their daily clinic lists from NBSS to a shared worklist on their Radiology Information System (RIS). This worklist is then synced to local modality machines where it can be viewed.
+BSUs typically export and upload their daily clinic lists from NBSS to a shared worklist that can also accept data from their local Radiology Information System (RIS). This worklist is then synced to local modality machines where it can be viewed.
 
-As there is no direct connection between NBSS and RIS, human intervention is required to let the system to know when a participant is ready to be scanned and when an appointment has been completed.
+As there is no direct connection between NBSS and the modality machines, human intervention is required to let the system to know when a participant is ready to be scanned and when an appointment has been completed.
 
 Automating these relatively minor tasks could turn into a significant time saving when applied across the 2 million mammogram appointments that take place in England each year.
 
@@ -61,7 +61,7 @@ To help things run smoothly, we should tell them:
 
 ![A green tick icon next to 'Added to worklist' text displayed in the main infomration bar of a mammogram appointment.](added-to-worklist.png)
 
-One an appointment has started, an 'On worklist' message accompanied by a green tick lets users know that the data transfer has taken place as intended. This is displayed alongside the appointment date and time, and the 'Accn' - an accession number, which is a unique ID assigned to each mammogram appointment. 
+Once an appointment has started, an 'On worklist' message accompanied by a green tick lets users know that the data transfer has taken place as intended. This is displayed alongside the appointment date and time, and the 'Accn' - an accession number, which is a unique ID assigned to each mammogram appointment. 
 
 This status gives them confidence that once they have completed steps 1 and 2 in the appointment workflow, they can move from looking at our service to the modality machine and the participant will be there.
 
@@ -140,4 +140,4 @@ The ideal scenario is that our failure messages and guidance will never be seen.
 
 One big unanswered question is what happens if the connection fails mid-way through the appointment. The patterns used so far relate to things either working or failing as the process begins, but in an average 8 minute screening appointment there's a lot that might go wrong.
 
-We're also looking into the best place for users to give more info on why they switched over to manual mode. Any feedback will help to ensure issues do not reoccur, but we need to be conscious of asking mammographers to complete extra data fields when they're in teh middle of an appointment.
+We're also looking into the best place for users to give more info on why they switched over to manual mode. Any feedback will help to ensure issues do not reoccur, but we need to be conscious of asking mammographers to complete extra data fields when they're in the middle of an appointment.
