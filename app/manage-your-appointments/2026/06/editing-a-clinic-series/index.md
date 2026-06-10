@@ -97,7 +97,7 @@ To resolve this confusion we renamed 'Clinics list' to 'Create and manage clinic
 
 ### Before
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](old-change.png '')
+![Screenshot of the MYA “Change availability” page for a single day. The page shows clinic time, services and booking status, with options to reduce session length or capacity, cancel the session, or remove services.](old-change.png '')
 
 Previously users who went to update an individual clinic in MYA were presented with this screen.
 
@@ -105,17 +105,17 @@ While this approach made sense when users had limited editing options once it be
 
 ### Iteration 1
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](clinic-overview.png 'The overview screen for a clinic series and individual clinic')
+![Screenshot showing overview screens for a clinic series and an individual clinic. Each screen summarises details such as dates, days, times, capacity and services, with links to change each section](clinic-overview.png 'The overview screen for a clinic series and individual clinic')
 
 We introduced overview screens for both individual clinics and each clinic series. In our first iteration, this screen acted as a hub that users could make multiple changes from before applying them:
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](edit-clinics-1.png '')
+![Diagram showing an overview screen used as a central hub, with links to multiple edit screens. Users can make several changes from the overview before moving through a sequence of screens to review and confirm all changes together](edit-clinics-1.png '')
 
  In research we found that users thought changes had been saved and applied after each individual edit was made. They did not realise they needed to click 'Save changes' and continue through some additional screens to confirm the changes.
 
 ### First release
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](edit-clinics-2.png '')
+![Diagram showing an overview screen leading to separate, linear edit journeys. Each change is made in its own flow, with users completing and confirming one change before returning to the overview to start another](edit-clinics-2.png '')
 
 In the vast majority of cases users only want to make one change at a time, so in our second iteration we treated the overview screen purely as the entry point into several linear edit journeys.
 
@@ -137,7 +137,7 @@ These rules were based on our understanding of how our users work, but we still 
 
 ### Iteration 1
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](affected-clinics.png '')
+![Screenshot of the MYA “Edit clinic series” page showing a warning that some clinics will not be updated because their times were edited individually. The page explains the reason, includes a link to view affected clinics, and provides a button to continue.](affected-clinics.png '')
 
 In our first iteration we tried to communicate a conflict between a change to a clinic series and the individual clinics within it via a screen in the change series flow. 
 
@@ -147,11 +147,11 @@ Although participants did manage (with some concerted effort) to understand what
 
 In our second iteration we showed individual clinics in the series with edits in the series overview screen:
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](affected-clinics-1.png '')
+![Screenshot of a clinic series overview showing closures and individual clinics with changes. The page lists closure dates and highlights a specific clinic with edited times, with options to change each section.](affected-clinics-1.png '')
 
 We also listed any clinics that hadn't been updated due to a conflict on the success screen:
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](affected-clinics-2.png '')
+![Screenshot of a confirmation page showing a clinic series has been updated, with a message explaining that 2 clinics were not updated due to previous changes. The page lists the affected clinic dates and provides options to make another change or return to the clinics list](affected-clinics-2.png '')
 
 This approach was much more successful. Participants grasped why some sessions hadn't been updated and were able to confirm their interpretation by viewing the clinics with changes listed in the clinic series overview.
 
