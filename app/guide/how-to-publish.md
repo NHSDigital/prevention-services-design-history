@@ -18,8 +18,8 @@ You need:
 
 ## Choose a how you want to create and publish your design history entry
 
-- [**GitHub in a browser**](#using-github-in-a-browser) – no software needed, good if you're new to GitHub or on a locked-down device
-- [**GitHub Codespaces**](#using-github-codespaces) – edit in a code editor in your browser, no installation needed
+- [**GitHub in a browser**](#using-git-hub-in-a-browser) – no software needed, good if you're new to GitHub or on a locked-down device
+- [**GitHub Codespaces**](#using-git-hub-codespaces) – edit in a code editor in your browser, no installation needed
 - [**Local setup**](#using-a-local-version-on-your-computer) – best if you have some experience with GitHub and are comfortable running things from the terminal
 
 You also need to add your service before you can publish posts. You only need to do this once – [follow the guide on how to add a new service](/guide/how-to-add-a-new-service/).
