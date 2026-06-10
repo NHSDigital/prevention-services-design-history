@@ -1,5 +1,5 @@
 ---
-title: "A pithy, descriptive title"
+title: "Making it easier to manage clinics"
 author: Joe Julier
 date: 2026-06-01
 tags:
@@ -19,7 +19,7 @@ This was made possible by the decision to implement recurrence rules in MYA. Cho
 
 ### Before
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](create-availability.png)
+![Screenshot of the Manage Your Appointments (MYA) “Create availability” page. The page shows buttons to create new availability or change availability, and a table listing previously created sessions. Each row includes dates, days of the week, services offered (such as COVID and flu vaccinations), and indicates that the sessions repeat weekly](create-availability.png)
 
 Previously you could set up multiple sessions in one go, but had to edit and delete them one by one. This was really time consuming and a big pain point for our users.
 
@@ -27,7 +27,7 @@ And, although technically users could also see a record of the availability they
 
 ### After
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](manage-clinics.png)
+![Screenshot of the new MYA “Manage clinics” page showing options to create or cancel clinics and a table of active single clinics and clinic series with details and actions.](manage-clinics.png)
 
 Now users can view, edit and delete the availability they create. 
 
@@ -37,7 +37,7 @@ Although, on the face of it, these are simple changes, making them work for user
 
 ## Simplified language
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](updated-language.png '')
+![Diagram showing 'Availability' and 'Sessions' combining into a single concept labelled 'Clinics'.](updated-language.png '')
 
 MYA previously used 'availability' and 'sessions' interchangeably to refer to the periods of time that the public could book into.
 
@@ -49,7 +49,7 @@ We decided to test this change in language alongside everything else and see how
 
 ## Introducing clinic series
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](clinic-series.png '')
+![Diagram showing multiple possible terms for repeating clinics including “Diary”, “Schedule”, “Calendar”, “Block”, “Campaign”, “Repeating”, and “Period” all pointing to a single chosen label, “Clinic series”](clinic-series.png '')
 
 As part of introducing recurrence rules we needed to find a clear way of referring to the repeating set of clinics users create. 
 
@@ -63,7 +63,7 @@ In usability testing this worked well, without being perfect. Users understood i
 
 ### Before
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](old-nav.png '')
+![Screenshot of MYA navigation showing separate top-level sections for “View appointments” and “Manage clinics”, with sub-navigation for Day, Week and Month views.](old-nav.png '')
 
 Previously there were two areas in the top-level navigation: 'Create Availability' and 'View Availability'. 
 
@@ -71,15 +71,15 @@ Previously there were two areas in the top-level navigation: 'Create Availabilit
 
 ### Iteration 1
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](nav-iteration-1.png '')
+![Screenshot of MYA navigation showing separate top-level sections for “View appointments” and “Manage clinics”, with sub-navigation for Day, Week and Month views.](nav-iteration-1.png '')
 
 In our new approach, where you can edit and delete clinic series, 'Create Availability' was no longer accurate. 
 
-We tried replcing is with 'Manage clinics' to capture the wider range of actions now possible. But in our first round of usability testing this resulted in users expecting all clinic management to live in this section. Whereas to change individual clinics users still needed to go to the week view within 'View apppointments'.
+We tried replacing is with 'Manage clinics' to capture the wider range of actions now possible. But in our first round of usability testing this resulted in users expecting all clinic management to live in this section. Whereas to change individual clinics users still needed to go to the week view within 'View apppointments'.
 
 ### Iteration 2
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](nav-iteration-2.png '')
+![Screenshot of MYA navigation showing a single “Clinics” section with sub-navigation options: Day view, Week view, Month view, and “Clinics list”](nav-iteration-2.png '')
 
 In our second iteration we combined the two sections into a single area called Clinics, and what was previously 'Manage clinics' became 'Clinics list' in the sub-navigation. 
 
@@ -89,9 +89,9 @@ However the name 'Clinics list' caused some confusion. Users expected to see eve
 
 ### First release
 
-![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](nav-first-release.png '')
+![Screenshot of MYA navigation showing a single “Clinics” section with sub-navigation options: Day view, Week view, Month view, and “Create and manage clinics”](nav-first-release.png '')
 
-To resolve this confusion we renamed 'Clinics list' to 'Create and manage clinics'. We think this signals to users what you can do there more clearly, but we will be checking in future research to make sure.
+To resolve this confusion we renamed 'Clinics list' to 'Create and manage clinics'. We think this signals to users what you can do there more clearly, but we will be checking this in future research to make sure.
 
 ## Overview screens
 
@@ -111,7 +111,7 @@ We introduced overview screens for both individual clinics and each clinic serie
 
 ![Screenshot of a MYA webpage showing individual sessions as they appear on the week overview](edit-clinics-1.png '')
 
- In research we found that users thought changes had been saved and applied after each individual edit was made. The did not realise they needed to click 'Save changes' and continue through some additional screens to confirm the changes.
+ In research we found that users thought changes had been saved and applied after each individual edit was made. They did not realise they needed to click 'Save changes' and continue through some additional screens to confirm the changes.
 
 ### First release
 
