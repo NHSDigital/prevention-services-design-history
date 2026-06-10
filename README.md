@@ -1,6 +1,6 @@
 # Digital prevention services design history
 
-A place for services within digital prevention services to document their design decisions and research learnings.
+A place for services in digital prevention services to document their design decisions and research learnings.
 
 ## Contributing
 
