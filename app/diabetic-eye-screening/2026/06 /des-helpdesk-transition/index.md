@@ -1,7 +1,7 @@
 ---
 title: DES helpdesk transition to National Service Desk strengthens service resilience and supports future change
 description:
-date: 2026-06-08
+date: 2026-06-10
 author: Harleen Kaur Dhillon
 tags: cascade
   
@@ -11,8 +11,17 @@ The programme successfully reached a significant milestone last week with the tr
 
 The DES Helpdesk provides specialist support for organisations and users involved in the delivery of national screening and cohorting services. The team manages a range of enquiries, including user access requests, operational queries, incident resolution, process guidance, and support for service users across the programme. Maintaining continuity of this support function is essential to ensuring users can access timely assistance and guidance when required.
 
-Since the service was established, the DES Helpdesk has been delivered by HIC as part of the wider supplier-led operating model. As the programme continues to mature and NHS teams build capability and expertise internally, responsibility for key support services is progressively transferring into NHS operations. This approach is designed to strengthen organisational resilience, reduce dependency on third-party suppliers, and support the long-term sustainability of national services.
+Since the service was established, the DES Helpdesk has been delivered by HIC as part of the wider supplier-led operating model. While this model successfully supported the initial delivery of the service, it also resulted in specialist operational knowledge being concentrated within supplier teams and created a degree of dependency on third-party support. 
 
+As the programme continues to mature and NHS teams build capability and expertise internally, responsibility for key support services is progressively transferring into NHS operations. This approach is designed to strengthen organisational resilience, reduce dependency on third-party suppliers, improve knowledge retention within NHS teams, and support the long-term sustainability of national services.
+
+Before proceeding with the transition, the programme considered a range of options for the future delivery of the DES Helpdesk function.
+
+These included continuing with the existing supplier-led model, introducing additional supplier support to increase resilience, and transferring responsibility into an NHS-managed service. Each option was assessed against key criteria including service continuity, organisational resilience, knowledge retention, long-term sustainability, and the ability to support future service changes.
+
+While the supplier-led model had successfully supported the service since its introduction, the review identified opportunities to strengthen resilience by embedding specialist knowledge and operational expertise within NHS teams. The National Service Desk was already providing nationally managed support services through established service management processes and governance arrangements, making it well placed to take on the DES Helpdesk function.
+
+The transfer to NSD was therefore selected as the preferred option because it offered the best balance of service continuity, operational resilience, knowledge retention, and long-term sustainability, while also supporting the programme's wider objective of bringing key operational capabilities into NHS-managed services.
 
 ### Building capability and resilience 
 
