@@ -75,7 +75,7 @@ Previously there were two areas in the top-level navigation: 'Create availabilit
 
 In our new approach, where you can edit and delete clinic series, 'Create availability' was no longer accurate. 
 
-We tried replacing is with 'Manage clinics' to capture the wider range of actions now possible. But in our first round of usability testing this resulted in users expecting all clinic management to live in this section. Whereas to change individual clinics users still needed to go to the week view within 'View apppointments'.
+We tried replacing is with 'Manage clinics' to capture the wider range of actions now possible. But in our first round of usability testing this resulted in users expecting all clinic management to live in this section. Whereas to change individual clinics users still needed to go to the week view within 'View appointments'.
 
 ### Iteration 2: a single clinics section, but 'Clinics list' caused confusion
 
@@ -85,7 +85,7 @@ In our second iteration we combined the two sections into a single area called C
 
 Putting all four views of clinics (from a single day up to a summary of everything) in the same sub-navigation made it easier for users to switch between them. In the second round of testing that people had far less trouble changing individual clinics. 
 
-However the name 'Clinics list' caused some confusion. Users expected to see every single clinic listed separately when in fact the clinic series users create are shown as a single row. 
+However, the name 'Clinics list' caused some confusion. Users expected to see every single clinic listed separately when in fact the clinic series users create are shown as a single row. 
 
 ### First release: 'Clinics list' becomes 'Create and manage clinics'
 
@@ -103,7 +103,7 @@ Previously users who went to update an individual clinic in MYA were presented w
 
 While this approach made sense when users had limited editing options once it becomes possible to edit any property of a clinic series the pattern starts to break.
 
-### Iteration 1: a hub model resulting in incompleted journeys
+### Iteration 1: a hub model that resulted in incompleted journeys
 
 ![Screenshot showing overview screens for a clinic series and an individual clinic. Each screen summarises details such as dates, days, times, capacity and services, with links to change each section](clinic-overview.png 'The overview screen for a clinic series and individual clinic')
 
