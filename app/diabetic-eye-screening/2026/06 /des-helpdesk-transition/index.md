@@ -23,7 +23,7 @@ While the supplier-led model had successfully supported the service since its in
 
 The transfer to NSD was therefore selected as the preferred option because it offered the best balance of service continuity, operational resilience, knowledge retention, and long-term sustainability, while also supporting the programme's wider objective of bringing key operational capabilities into NHS-managed services.
 
-### Building capability and resilience 
+## Building capability and resilience 
 
 A key objective of the transition has been to develop knowledge and capability within NHS teams while maintaining service continuity for users.
 
@@ -34,7 +34,7 @@ Through onboarding the DES Helpdesk function, National Service Desk colleagues h
 The transition has also created additional capacity within supplier organisations, including HIC, enabling them to focus on ongoing cohorting activities and preparations for future service transfers.
 
 
-### Maintaining a seamless service 
+## Maintaining a seamless service 
 
 The transition was carefully planned to ensure minimal disruption to users. Existing support channels have been maintained, allowing organisations and service users to continue accessing assistance through familiar routes.
 
@@ -54,7 +54,7 @@ The transition has enabled:
 -	A strong foundation for future service transfers
 
 
-### Lessons learned 
+## Lessons learned 
 
 As the first service transition of its kind within the programme, the migration has provided valuable insights that will inform future transfers.
 
