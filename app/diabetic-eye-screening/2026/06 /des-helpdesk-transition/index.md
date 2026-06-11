@@ -1,6 +1,6 @@
 ---
 title: DES helpdesk transition to National Service Desk strengthens service resilience and supports future change
-description:
+description: The first service transition within the programme has successfully moved the DES Helpdesk into NHS-managed operations, improving resilience, capability, and support for future change.
 date: 2026-06-11
 author: Harleen Kaur Dhillon
 tags: cascade
@@ -41,7 +41,7 @@ The transition was carefully planned to ensure minimal disruption to users. Exis
 While the change represents a transfer of operational responsibility, users continue to receive support through established processes. The move into NSD also provides opportunities for greater consistency in ticket management, triage, escalation, reporting, and service oversight as support activities become integrated into established national service management processes.
 
 
-## Key outcomes delivered: 
+## Key outcomes delivered
 
 The transition has enabled:
 
