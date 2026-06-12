@@ -44,7 +44,7 @@ When connection fails for a task, it reverts to the more manual version. While s
 
 > Signal drops never brings us to a halt, does it? At the end of the day, we can continue with it as it is
 
-![Resilient service](resilient-service3.png "Each task has a well-defined progression of fallbacks")
+![Resilient service](resilient-service4.png "Each task has a well-defined progression of fallbacks")
 
 So for each task there is a connectivity spectrum:
 
@@ -53,7 +53,7 @@ So for each task there is a connectivity spectrum:
 
 Fallback progression by task (from best to worst): 
 
-- image transfer: satellite (Starlink), 4G (sometimes with more than 1 SIM for more resilience), hard disk, no service
+- image transfer: satellite (such as Starlink), 4G (sometimes with more than 1 SIM for more resilience), hard disk, no service
 - participant list: live list, hard disk, manual entry
 - communication with base: live access, texting or calling
 - getting priors: live access, contact base, paper (prepared at base), no information (taking participant's word)
@@ -67,7 +67,7 @@ Staff needed to know that if something fails, they’d be able to fall back quic
 
 ## Delays still happen on reliable networks
 
-The BSO with the top-tier satellite connection (using Starlink in 2 of their 4 vans) synchronised images and worklists overnight and not in real time. However, a resilient connection (Starlink falling back to 4G from 2 different providers) allows them to run NBSS live and eliminate most of the paperwork. 
+The BSO with the top-tier satellite connection (using it in 2 of their 4 vans) synchronised images and worklists overnight and not in real time. However, a resilient connection (satellite falling back to 4G from 2 different providers) allows them to run NBSS live and eliminate most of the paperwork. 
 
 A reasonably well-connected BSO told us that there is a delay in uploading images, which can take from minutes to hours, even with a live connection. This is because their provider, Visbion, has a built-in delay as images travel through the network. 
 
@@ -75,7 +75,7 @@ The delays are the reason why internet speed alone is not an accurate measure of
 
 ## Bad connectivity impacts efficiency and safety
 
-A particular frustration is the lack of access to systems like PACS and RIS (Radiology information system), where past images (priors) and reports are stored. Mammographers need to access those especially in situations where participants have implants, metal or very large breasts. 
+A particular frustration is the lack of access to systems like PACS and RIS (Radiology information system), where past images (priors) and reports are stored. Mammographers need to access those especially in situations where participants have implants, medical devices or very large breasts. 
 
 One BSO told us that when they can’t access PACS history, they either call the office or take the participant’s word for not having had a recent mammogram (to stay within IRMER requirements). Calling base for every participant is impractical, as staff are under time pressure to screen in 6 to 8 minutes. But asking participants isn’t always accurate and has led to incidents in the past. 
 
