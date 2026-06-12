@@ -39,7 +39,7 @@ This must be balanced against available capacity. Services need to:
 
 Given this complexity, we made a deliberate choice to start at the point where planning becomes operational. Rather than beginning with long-term forecasting or demand modelling, we focused on the moment where batches of people, time windows and locations are transformed into real clinics and bookable appointment slots.
 
-This area provides a clear, tangible outcome and allows us to test safely in real-world scenarios while delivering immediate value. It also aligns well, while remaining distinct from, the [Manage](https://design-history.preervices.nhs.uk/manage-breast-screening/) team’s focus on the clinical functions of the service.
+This area provides a clear, tangible outcome and allows us to test safely in real-world scenarios while delivering immediate value. It also aligns well, while remaining distinct from, the [Manage](https://design-history.prevention-services.nhs.uk/manage-breast-screening/) team’s focus on the clinical functions of the service.
 
 By starting where plans become real, we can ground the system in practical use, learn quickly from services, and build confidently towards earlier stages of planning over time.
 
