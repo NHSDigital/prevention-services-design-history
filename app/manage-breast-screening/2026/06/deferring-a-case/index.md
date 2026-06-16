@@ -1,11 +1,11 @@
 ---
 title: Deferring a case from reading
 description: Sdfesf
-date: 2026-06-15
+date: 2026-06-16
 author: Ed Horsford
 opengraphImage:
   src: /manage-breast-screening/2026/06/deferring-a-case/deferral-reason.png
-  alt: A page shown to collect the reason for deferral. It has a textarea where the image reader can write a decription.
+  alt: A page shown to collect the reason for deferral. It has a text area where the image reader can write a description.
 tags:
   - beta
   - prototype
@@ -16,7 +16,7 @@ We’ve been looking into how we support image readers in flagging a case that h
 
 ## Things that might go wrong on a case
 
-There are many checks that happen at each stage of screening to minimise the chance of something going wrong. With our new service, some of those will hopefully be unnecessary or can be automated. However, we need to allow some flexibility to cope if things go wrong, for example:
+There are many checks that happen at each stage of screening to minimise the chance of images not being readable by the time they are looked at by radiologists. With our new service, some of those will hopefully be unnecessary or can be automated. However, we need to allow some flexibility to cope if things go wrong, for example:
 
 - The images don’t appear to match prior images, implying they’re from a different participant
 - The images are mislabeled (this might not always prevent reading, but might indicate another issue)
@@ -25,13 +25,13 @@ There are many checks that happen at each stage of screening to minimise the cha
 
 ## The current process
 
-Breast screening offices read clinic by clinic, typically with paper bundles for each clinic, but sometimes using NBSS on its own (‘paper light’). Administrative staff will check over the clinics and their bundles ahead of time to prepare them. If they come across any anomalies / issues, they can pull the case from the bundle to be reviewed so it doesn’t go to image reading. This is sometimes called an ‘exception list’. If a case with issues made it to image reading, the reader could also refuse to read it and place the case aside to be reviewed.
+Breast screening offices read clinic by clinic, typically with paper bundles for each clinic, but sometimes using NBSS on its own (‘paper light’). Administrative staff will check over the clinics and their bundles ahead of time to prepare them. If they come across any anomalies or issues, they can pull the case from the bundle to be reviewed so it doesn’t go to image reading. This is sometimes called an ‘exception list’. If a case with issues made it to image reading, the reader could also refuse to read it and place the case aside to be reviewed.
 
 ## Allowing for flexibility
 
-The great thing about paper is its flexibility. If you need a new checkbox field, you can just draw one. If you need to set a case aside, you move the paper. With the move towards [reading by session](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2026/02/reading-in-batches/) (previously called batch) and automatically putting oldest cases first for reading, what’s our equivalent?
+The great thing about paper is its flexibility. If you need a new checkbox field, you can just draw one. If you need to set a case aside, you move the paper. With the shift towards [reading by session](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2026/02/reading-in-batches/) (previously called batch) and automatically putting oldest cases first for reading, what’s our equivalent?
 
-Our reading interface currently only supports an image reader giving an opinion or requesting priors - but they have no way of flagging the case / putting it aside. They can skip to the next case, but because we always put oldest case first, the case with the issue will keep being offered. We need an equivalent way that image readers can mark the case to be reviewed.
+Our reading interface currently only supports an image reader giving an opinion or requesting priors - but they have no way of flagging the case or putting it aside. They can skip to the next case, but because we always put oldest case first, the case with the issue will keep being offered. We need a way for image readers to mark the case to be reviewed.
 
 ## Deferring a case
 
@@ -49,7 +49,7 @@ In this example there are two issues: the MLO images appear to be swapped (what�
 
 ![A page shown to collect the reason for deferral. It has a textarea where the image reader can write a decription.](deferral-reason.png)
 
-The image reader will be asked for a description of what is wrong. This will be available to administrative staff when they are reviewing this case.
+When deferring, image readers must provide a description of what is wrong. This will be available to administrative staff when they are reviewing this case.
 
 Once requested, the UI moves on to the next case to read. Behind the scenes we block the case from being read and put it into a workflow to be reviewed. From the image reader’s point of view doing a session of 25 cases, this will count as completed - the same as when they request priors.
 
@@ -61,7 +61,7 @@ The case will show as deferred on the session overview, and image readers can re
 
 ### Image reading homepage
 
-![The image reading dashboard an inset text block if there are deferred cases.](image-reading-homepage .png)
+![The image reading dashboard an inset text block if there are deferred cases.](image-reading-homepage.png)
 
 When there are deferred cases, these get highlighted on the image reading dashboard. We'll probably find a better home for these in the future as this dashboard is primarily for image readers rather than administrative staff.
 
@@ -71,7 +71,7 @@ When there are deferred cases, these get highlighted on the image reading dashbo
 
 We’ve added a new page to show the cases that are currently deferred. We’ll likely need to do expand this page in the future, but for now it is a list of the current cases and includes the reason each is deferred. When the link ‘unflag case’ is used, the case will be removed from the deferral list and returned to the reading queue.
 
-We don’t currently have the ability to add any further notes - either whilst the case is being investigated or once it’s resolved - but might anticipate that’s something that may be needed.
+We don’t currently have the ability to add any further notes - either whilst the case is being investigated or once it’s resolved - but anticipate this may will be needed in future.
 
 ![When a case is no longer deferred, we can keep it listed as recently resolved.](deferral-list-resolved.png)
 
