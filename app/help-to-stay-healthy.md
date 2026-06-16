@@ -3,6 +3,7 @@ layout: collection
 title: Help to stay healthy
 description: Helping people at risk of, or living with, health conditions to find appropriate services
 area: personalised-prevention
+redirectFrom: personalised-prevention-platform
 pagination:
   data: collections.help-to-stay-healthy
   reverse: true

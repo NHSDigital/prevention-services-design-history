@@ -1,0 +1,9 @@
+{
+  "eleventyComputed": {
+    "redirectFrom": "{{ page.url | replace('help-to-stay-healthy', 'personalised-prevention-platform') }}"
+  },
+  "layout": "post",
+  "eleventyNavigation": {
+    "parent": "Personalised prevention platform"
+  }
+}
