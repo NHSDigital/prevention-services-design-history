@@ -152,9 +152,9 @@ export default function (eleventyConfig) {
     // Personalised prevention service collections
     'ai-health-coach',
     'health-risks-calculation',
-    'personalised-prevention',
+    'help-to-stay-healthy',
     'nhs-health-check-online',
-    'personalised-prevention-platform',
+    'personalised-prevention',
     'smoking-cessation',
     'talking-therapies',
     // Digital best start
