@@ -1,6 +1,6 @@
 ---
 title: Deferring a case from reading
-description: Sdfesf
+description: Designing a route to stop a case being read whilst issues are resolved
 date: 2026-06-16
 author: Ed Horsford
 opengraphImage:
@@ -25,17 +25,19 @@ There are many checks that happen at each stage of screening to minimise the cha
 
 ## The current process
 
-Breast screening offices read clinic by clinic, typically with paper bundles for each clinic, but sometimes using NBSS on its own (‘paper light’). Administrative staff will check over the clinics and their bundles ahead of time to prepare them. If they come across any anomalies or issues, they can pull the case from the bundle to be reviewed so it doesn’t go to image reading. This is sometimes called an ‘exception list’. If a case with issues made it to image reading, the reader could also refuse to read it and place the case aside to be reviewed.
+Breast screening offices read [clinic by clinic](/manage-breast-screening/2025/04/understanding-image-reading/), typically with paper bundles for each clinic, but sometimes using NBSS on its own (‘paper light’). Administrative staff will check over the clinics and their bundles ahead of time to prepare them.
+
+If they come across any anomalies or issues, they can pull the case from the bundle to be reviewed so it doesn’t go to image reading. This is sometimes called an ‘exception list’. If a case with issues made it to image reading, the reader could also refuse to read it and place the case aside to be reviewed.
 
 ## Allowing for flexibility
 
-The great thing about paper is its flexibility. If you need a new checkbox field, you can just draw one. If you need to set a case aside, you move the paper. With the shift towards [reading by session](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2026/02/reading-in-batches/) (previously called batch) and automatically putting oldest cases first for reading, what’s our equivalent?
+The great thing about paper is its flexibility. If you need a new checkbox field, you can just draw one. If you need to set a case aside, you move the paper. With the shift towards [reading by session](/manage-breast-screening/2026/02/reading-in-batches/) (previously called batch) and automatically putting oldest cases first for reading, what’s our equivalent?
 
 Our reading interface currently only supports an image reader giving an opinion or requesting priors - but they have no way of flagging the case or putting it aside. They can skip to the next case, but because we always put oldest case first, the case with the issue will keep being offered. We need a way for image readers to mark the case to be reviewed.
 
 ## Deferring a case
 
-We’re tentatively calling this new workflow ‘deferring a case’. The flow we’ve designed is very similar to our [requesting prior mammograms flow](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2026/06/requesting-prior-mammograms/). When a case is deferred it will not be included on any reading lists until it’s marked as ready to read again.
+We’re tentatively calling this new workflow ‘deferring a case’. The flow we’ve designed is very similar to our [requesting prior mammograms flow](h/manage-breast-screening/2026/06/requesting-prior-mammograms/). When a case is deferred it will not be included on any reading lists until it’s marked as ready to read again.
 
 ### Deferring from the opinion page
 
