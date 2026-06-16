@@ -154,7 +154,7 @@ export default function (eleventyConfig) {
     'health-risks-calculation',
     'personalised-prevention',
     'nhs-health-check-online',
-    'personalised-prevention-platform',
+    'help-to-stay-healthy',
     'smoking-cessation',
     'talking-therapies',
     // Digital best start
