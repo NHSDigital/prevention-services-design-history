@@ -52,14 +52,11 @@ export default function (eleventyConfig) {
   })
 
   // Images and PDFs
-  eleventyConfig.addPassthroughCopy('./app/**/*.ai')
-  eleventyConfig.addPassthroughCopy('./app/**/*.gif')
-  eleventyConfig.addPassthroughCopy('./app/**/*.jpg')
-  eleventyConfig.addPassthroughCopy('./app/**/*.jpeg')
-  eleventyConfig.addPassthroughCopy('./app/**/*.png')
-  eleventyConfig.addPassthroughCopy('./app/**/*.pdf')
-  eleventyConfig.addPassthroughCopy('./app/**/*.sketch')
-  eleventyConfig.addPassthroughCopy('./app/**/*.svg')
+  for (const ext of [
+    'ai', 'avif', 'gif', 'jpg', 'jpeg', 'png', 'pdf', 'sketch', 'svg', 'tiff', 'webp'
+  ]) {
+    eleventyConfig.addPassthroughCopy(`./app/**/*.{${ext},${ext.toUpperCase()}}`)
+  }
 
   // Nunjucks filters
   eleventyConfig.addFilter('push', (array, item) => {
