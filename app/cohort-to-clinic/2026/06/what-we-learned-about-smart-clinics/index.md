@@ -29,7 +29,7 @@ Overbooking enables BSOs to invite more participants in a period and reduce wast
 ## How many BSOs use smart clinics?
 We asked respondents whether their BSO currently uses smart clinics. Of the 58 people who responded, 79% said their BSO uses smart clinics. While this doesn’t represent every BSO, it suggests smart clinics are widely used among services.
 
-![Pie chart showing that, of the 58 people who responded to the survey, 79% said their BSO currently uses smart clinics and the remaining 21% said their BSO doesn’t currently use smart clinics](use-of-smart-clinics-pie-chart.svg)
+![Pie chart showing that, of the 58 people who responded to the survey, 79% said their BSO currently uses smart clinics and the remaining 21% said their BSO doesn’t currently use smart clinics](use-of-smart-clinics-pie-chart.svg?raw=true)
 
 ## Benefits of smart clinics
 Smart clinics are seen as a valuable tool for helping BSOs use their capacity more efficiently and meet the round length target, which measures the proportion of participants invited within 36 months of their last episode.[^1]
