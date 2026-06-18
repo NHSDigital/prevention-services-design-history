@@ -54,7 +54,7 @@ This means smart clinics may be using attendance probabilities that are too low,
 ### Issues with first time invitees
 We heard from BSOs that there are particular issues with the algorithm's accuracy for participants being invited for the first time, who tend to be given lower attendance probabilities.  We heard that attendance among first time invitees tends to be relatively good and, as a result, BSOs feel they should be given higher probabilities.
 
-BSOs also told us they don’t understand how attendance probabilities are calculated, particularly for participants being invited for the first time who have no appointment history. We heard that two first time invitees can have totally different attendance probabilities, despite never having attended before, which is confusing for BSOs and contributes to feelings of distrust in the algorithm’s accuracy.
+BSOs also told us they don’t understand how attendance probabilities are calculated, particularly for participants being invited for the first time who have no appointment history. We heard that two first time invitees can have totally different attendance probabilities, despite never having attended before, which is confusing for BSOs and contributes to feelings of distrust.
 
 ### Uneven attendance
 For BSOs using smart clinics, issues with the accuracy of attendance probabilities can lead to uneven overbooking and thus attendance levels across clinics.
