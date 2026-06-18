@@ -59,6 +59,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy('./app/**/*.png')
   eleventyConfig.addPassthroughCopy('./app/**/*.pdf')
   eleventyConfig.addPassthroughCopy('./app/**/*.sketch')
+  eleventyConfig.addPassthroughCopy('./app/**/*.svg')
 
   // Nunjucks filters
   eleventyConfig.addFilter('push', (array, item) => {
