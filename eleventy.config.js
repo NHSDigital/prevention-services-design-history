@@ -52,14 +52,9 @@ export default function (eleventyConfig) {
   })
 
   // Images and PDFs
-  eleventyConfig.addPassthroughCopy('./app/**/*.ai')
-  eleventyConfig.addPassthroughCopy('./app/**/*.gif')
-  eleventyConfig.addPassthroughCopy('./app/**/*.jpg')
-  eleventyConfig.addPassthroughCopy('./app/**/*.jpeg')
-  eleventyConfig.addPassthroughCopy('./app/**/*.png')
-  eleventyConfig.addPassthroughCopy('./app/**/*.pdf')
-  eleventyConfig.addPassthroughCopy('./app/**/*.sketch')
-  eleventyConfig.addPassthroughCopy('./app/**/*.svg')
+  const imageAndDocumentExtensions = ['ai', 'avif', 'gif', 'jpg', 'jpeg', 'png', 'pdf', 'sketch', 'svg', 'tiff', 'webp']
+  const allCases = imageAndDocumentExtensions.flatMap((ext) => [ext, ext.toUpperCase()])
+  eleventyConfig.addPassthroughCopy(`./app/**/*.{${allCases.join(',')}}`)
 
   // Nunjucks filters
   eleventyConfig.addFilter('push', (array, item) => {
