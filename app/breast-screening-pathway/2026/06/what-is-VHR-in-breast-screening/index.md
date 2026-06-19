@@ -4,7 +4,7 @@ description: An overview of the very high risk breast screening and how it diffe
 date: 2026-06-19
 author: Marianne Brierley
 opengraphImage:
-  src: /breast-screening-pathway/2026/06/what-is-VHR-in-breast-screening/BSS-VHR protocol.png
+  src: /breast-screening-pathway/2026/06/what-is-vhr-in-breast-screening/bss-vhr protocol.png
   alt: Screenshot of the BS-Select product and how VHR protocols are presented to a user
 tags:
   - Very High Risk Screening
@@ -40,7 +40,7 @@ The volumes of eligible participants are relatively small compared to routine br
 
 3. **Frequency** – VHR participants are invited annually instead of every 3 years with Routine. This includes those who self refer into VHR after age 70 
 
-![Screenshot from BS-Select showing participant information and a pop up listing protocols for VHR](BSS-VHR-protocol.png "BS-Select screenshot with test data") 
+![Screenshot from BS-Select showing participant information and a pop up listing protocols for VHR](bss-vhr-protocol.png "BS-Select screenshot with test data") 
 
 Once a person is identified and referred to breast screening services (BSOs), they are placed on different screening protocols depending on their circumstances: 
 
@@ -87,7 +87,7 @@ Once a person is identified and referred to breast screening services (BSOs), th
 We recently completed some research to understand more about the process of managing VHR referrals from Genetics services via the [NICPR portal](https://digital.nhs.uk/ndrs/our-work/genomics/nicpr). We spoke with 10 Breast Screening Offices (BSOs) and 4 Geneticists. We learned there is local variation in how VHR is managed by the breast screening offices. This section describes some common components of their workflow. 
 
 
-![Diagram showing generalized VHR workflow](BSO-VHR-workflow-summary.png "A summary of the VHR workflow") 
+![Diagram showing generalized VHR workflow](bso-vhr-workflow-summary.png "A summary of the VHR workflow") 
 
 1. **Acknowledge and check a referral** – BSOs will sense check someone’s eligibility (right area, right age) and return or redirect referrals if they are ineligible for that office.  
 
