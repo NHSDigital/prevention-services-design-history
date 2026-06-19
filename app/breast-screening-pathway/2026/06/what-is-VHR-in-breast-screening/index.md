@@ -91,9 +91,7 @@ We recently completed some research to understand more about the process of mana
 
 1. **Acknowledge and check a referral** – BSOs will sense check someone’s eligibility (right area, right age) and return or redirect referrals if they are ineligible for that office.  
 
-2. **Check if a person is in the system** – BSOs will check BS Select and NBSS for a person’s details. If they aren’t there, they are responsible for [adding them](/select/2025/09/our-new-digital-process-for-adding-participants/). 
-
-	- We learned that some participants may not receive any contact from a BSO until they are due to be invited to screening. This could mean a several year gap between genetic referral, and hearing from the service. 
+2. **Check if a person is in the system** – BSOs will check BS Select and NBSS for a person’s details. If they aren’t there, they are responsible for [adding them](/select/2025/09/our-new-digital-process-for-adding-participants/). We learned that some participants may not receive any contact from a BSO until they are due to be invited to screening. This could mean a several year gap between genetic referral, and hearing from the service. 
 
 3. **Complete due diligence** – Several BSOs described hunting through hospital systems to collect evidence of letters or treatments that might offer an insight into someone’s health journey so far. This helped BSOs tailor their communication to someone e.g. if they have already elected to have a bilateral mastectomy 
 
@@ -109,7 +107,7 @@ We recently completed some research to understand more about the process of mana
 
 	- When they have been contacted and status updates (this includes those who are “pending” which means they are not yet eligible based on their protocol) 
 
-	- Last menstrual cycle – which is relevant for MRI 
+	- Last menstrual cycle, which is relevant for MRI 
 
 	- Incidental findings from MRI (where the MRI may pick up other issues in the lungs or heart that require onward referral to other services) 
 
@@ -123,17 +121,17 @@ We recently completed some research to understand more about the process of mana
 
 	- MRI appointments are more complex to manage (see [VHR guidance for MRI](https://www.gov.uk/government/publications/breast-screening-screening-of-higher-risk-women/breast-screening-guidance-for-organising-a-very-high-risk-vhr-screening-programme#liaison-withmriservices:~:text=and%20confirming%20eligibility-,5.,Liaison%20with%20MRI%20services,-6.)): 
 
-		- MRIs are best completed in the first half of a person’s menstrual cycle, specifically between day 6 – 16, as hormonal fluctuations can cause normal breast tissue to look bright and active, increasing the risk of false positives. Services require participants to share information on their menstrual cycle so they can book appointments in the optimal window 
+		    - MRIs are best completed in the first half of a person’s menstrual cycle, specifically between day 6 – 16, as hormonal fluctuations can cause normal breast tissue to look bright and active, increasing the risk of false positives. Services require participants to share information on their menstrual cycle so they can book appointments in the optimal window 
 
-		- They cannot manage MRI appointments in NBSS, and require information held by a separate team using the hospital systems (usually CRIS, Cancer Radiology Information System) 
+	    	- They cannot manage MRI appointments in NBSS, and require information held by a separate team using the hospital systems (usually CRIS, Cancer Radiology Information System) 
+  
+	    	- MRI can only be carried out at sites who meet reporting requirements and have the correct facilities. This can mean some BSOs outsource their MRI participants. These BSOs may outsource everything from invitation to outcome, or just the MRI itself 
 
-		- MRI can only be carried out at sites who meet reporting requirements and have the correct facilities. This can mean some BSOs outsource their MRI participants. These BSOs may outsource everything from invitation to outcome, or just the MRI itself 
+	    	- As with routine screening, symptomatic services can often take priority within a trust, meaning it is difficult to offer MRI appointments far in advance as symptomatic services want to ensure they protect their capacity 
 
-		- As with routine screening, symptomatic services can often take priority within a trust, meaning it is difficult to offer MRI appointments far in advance as symptomatic services want to ensure they protect their capacity 
+	    	- MRI reports are added to the hospital RIS (e.g. CRIS), and may require admin staff to manually interpret reports and update NBSS with outcomes 
 
-		- MRI reports are added to the hospital RIS (e.g. CRIS), and may require admin staff to manually interpret reports and update NBSS with outcomes 
-
-		- Some sites run VHR only clinics, and others choose to mix VHR participants with their routine participants to complete mammograms. This is thought to make it easier for someone to attend. They may add a note to the appointment to help radiographers understand why someone might turn up who is under 50. 
+	    	- Some sites run VHR only clinics, and others choose to mix VHR participants with their routine participants to complete mammograms. This is thought to make it easier for someone to attend. They may add a note to the appointment to help radiographers understand why someone might turn up who is under 50. 
 
 7. **Close episodes and add a person to next year’s tracker** - VHR participants are invited annually 
 
@@ -141,23 +139,21 @@ We recently completed some research to understand more about the process of mana
 
 Research indicated that there is significant manual work required by BSOs to manage the VHR service. This is largely down to: 
 
-1. Lack of interoperability between different organisation’s systems along the pathway (NDRS, Breast Screening, MRI units) e.g. 
+1. Lack of interoperability between different organisation’s systems along the pathway (NDRS, Breast Screening, MRI units) e.g.
+   
+  - Using email to share referrals and confirmation of receipt  
 
-	a. Using email to share referrals and confirmation of receipt  
+	- Word documents and pdfs used to record and share participant data 
 
-	b. Word documents and pdfs used to record and share participant data 
+	- Manual entry of VHR specific information into NBSS and BS Select 
 
-	c. Manual entry of VHR specific information into NBSS and BS Select 
+	- No or delayed visibility of MRI appointments 
 
-	d. No or delayed visibility of MRI appointments 
-
-	e. Duplicating MRI reports posted in Hospital RIS and NBSS 
+	- Duplicating MRI reports posted in Hospital RIS and NBSS 
 
 2. Insufficient product capability to manage and track VHR specific information 
 
-3. A general worry about “missing” someone, resulting in localised trackers and spreadsheets to help manage workload and urgent tasks 
-
-	a. Some services will print out “packets” for each VHR participant and keep a record of their VHR journey – this provides greater visibility to staff 
+3. A general worry about “missing” someone, resulting in localised trackers and spreadsheets to help manage workload and urgent tasks. (Some services will print out “packets” for each VHR participant and keep a record of their VHR journey – this provides greater visibility to staff) 
 
 The majority of BSOs we spoke to had at least one, if not several people dedicated to managing the VHR service. Their role relies on inherent knowledge about VHR and is required to: 
 
@@ -172,6 +168,7 @@ The majority of BSOs we spoke to had at least one, if not several people dedicat
 * Ensure results are kept updated in NBSS 
 
 * Ensure participants have the correct status based on service outcomes 
+
 
 > I think VHR is one of the most complicated parts of breast screening. It needs to be acknowledged how manual it is.
 > -- VHR Coordinator in a BSO
