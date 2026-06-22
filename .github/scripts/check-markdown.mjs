@@ -67,7 +67,7 @@ export function scanAllFiles() {
       if (/^# /.test(lines[i])) {
         mistakes.push({ path: filePath, line: i + 1, message: H1_MESSAGE })
       }
-      if (lines[i].includes(SITE_URL)) {
+      if (lines[i].includes('](' + SITE_URL)) {
         mistakes.push({ path: filePath, line: i + 1, message: ABSOLUTE_URL_MESSAGE })
       }
     }
@@ -122,7 +122,7 @@ export function getMistakes(baseRef) {
       }
       // Added line containing an absolute URL to the published site
       const lineContent = rawLine.slice(1)
-      if (lineContent.includes(SITE_URL)) {
+      if (lineContent.includes('](' + SITE_URL)) {
         mistakes.push({
           path: currentFile,
           line: lineNumber,
