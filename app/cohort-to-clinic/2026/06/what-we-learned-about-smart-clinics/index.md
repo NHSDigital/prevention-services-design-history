@@ -45,7 +45,7 @@ BSOs told us that when smart clinics work well, they can help relieve some of th
 ### Unreliable probabilities
 Responses highlighted that COVID-19 impacted the reliability of attendance probabilities. 
 
-During this time, many BSOs switched to open invitations, which invite participants to contact the service to book their appointment. Open invitations are generally considered worse for uptake than inviting participants to timed appointments so this shift, coupled with the impact of COVID-19's on people’s behaviours, resulted in low attendance during this time. 
+During this time, many BSOs switched to open invitations, which invite participants to contact the service to book their appointment. Open invitations are generally considered worse for uptake than inviting participants to timed appointments so this shift, coupled with the impact of COVID-19 on people’s behaviours, resulted in low attendance during this time. 
 
 This period of lower attendance has impacted attendance probabilities for some participants. But BSO responses suggest people’s behaviours during COVID-19 aren’t good reflections or predictors of behaviours now, and many participants who didn’t attend during the pandemic are now attending their appointments.
 
@@ -68,6 +68,7 @@ Some BSOs have put measures in place to try to mitigate the challenges they face
 - reducing the number of appointment slots in smart clinics to leave some leeway in case attendance exceeds the level expected
 - reviewing how smart clinics have booked participants into slots and manually moving participants around where they feel slots are too overbooked or think issues could occur
 - scheduling dedicated break slots in the clinic, which can function as buffers so they can catch up if more participants attend than expected
+
 While these approaches can help limit some of the issues BSOs face, they lead to additional manual effort for admin staff who are putting these mitigations in place.
 
 ## Alternative approaches to optimising capacity
@@ -75,11 +76,11 @@ For respondents who don’t currently use smart clinics, many had used them in t
 
 Among those not using smart clinics, other methods of optimising capacity employed include:
 - manually overbooking clinics by shortening appointment lengths and inviting more participants than they have capacity to screen
-- inviting participants based on who is due soonest to help ensure they meet their 36-month round length target
+- allocating participants to appointments in the order of who is due soonest to help ensure they meet their 36-month round length target
 - running dedicated clinics for participants who are considered less likely to attend such as participants who are being re-invited after not attending their first appointment in that round, and participants with a history of repeatedly not attending
 
 ## What’s next?
-Regardless of whether BSOs are using smart clinics or employing other optimisation approaches, we heard that there’s a consistent need for a reliable way to manage and optimise capacity so that BSOs can efficiently meet their demand.
+Regardless of whether BSOs are using smart clinics or employing other optimisation approaches, we heard that there’s a consistent need for a reliable way to optimise capacity so that BSOs can efficiently meet their demand.
 
 With this in mind, we recognise there will be a need for Rubie to provide functionality to support overbooking in future. 
 
