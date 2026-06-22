@@ -18,6 +18,18 @@ const { GITHUB_TOKEN, REPO, BASE_REF, PR_NUMBER, HEAD_SHA } = process.env
 
 const BOT_USER = 'github-actions[bot]'
 
+/**
+ * Builds the comment body for a mistake. If the mistake includes a suggestion,
+ * appends a GitHub suggestion block so the author can apply the fix in one click.
+ *
+ * @param {{ message: string, suggestion?: string }} mistake
+ * @returns {string}
+ */
+function commentBody({ message, suggestion }) {
+  if (!suggestion) return message
+  return `${message}\n\n\`\`\`suggestion\n${suggestion}\n\`\`\``
+}
+
 async function githubFetch(path, options = {}) {
   const response = await fetch(`https://api.github.com${path}`, {
     ...options,
@@ -56,7 +68,7 @@ const botComments = existingComments
 const staleComments = botComments.filter(
   (c) =>
     !mistakes.some(
-      (m) => m.path === c.path && m.line === c.line && m.message === c.body
+      (m) => m.path === c.path && m.line === c.line && commentBody(m) === c.body
     )
 )
 
@@ -107,16 +119,16 @@ if (mistakes.length === 0) {
 // Post new comments for mistakes that don't already have a comment
 const newComments = mistakes
   .filter(
-    ({ path, line, message }) =>
+    (m) =>
       !botComments.some(
-        (c) => c.path === path && c.line === line && c.body === message
+        (c) => c.path === m.path && c.line === m.line && c.body === commentBody(m)
       )
   )
-  .map(({ path, line, message }) => ({
-    path,
-    line,
+  .map((m) => ({
+    path: m.path,
+    line: m.line,
     side: 'RIGHT',
-    body: message
+    body: commentBody(m)
   }))
 
 if (newComments.length === 0) {

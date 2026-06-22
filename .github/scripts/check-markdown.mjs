@@ -4,6 +4,10 @@
  * Current checks:
  * - H1 headings (# ...): the H1 is already generated from the `title` field
  *   in the frontmatter, so adding a `#` heading manually creates a duplicate.
+ * - Absolute URLs to the published site: links beginning with
+ *   https://design-history.prevention-services.nhs.uk/ should use
+ *   relative URLs instead, so that they work in previews and in case the URL
+ *   changes in future.
  *
  * When run directly, scans all markdown files under app/:
  *   npm run check:markdown
@@ -23,6 +27,13 @@ const H1_MESSAGE =
   'The page title H1 is already generated from the `title` field in the frontmatter. ' +
   'If this heading duplicates the title, remove it. ' +
   'If it is a different heading, change it to an H2 using `##`.'
+
+const SITE_URL = 'https://design-history.prevention-services.nhs.uk/'
+
+const ABSOLUTE_URL_MESSAGE =
+  'Use a relative URL instead of a full URL for links to other posts on the site.\n\n' +
+  'This means that the links will work in previews, and in case the site domain name changes in future.\n\n' +
+  'For example, replace `https://design-history.prevention-services.nhs.uk/some/path/` with `/some/path/`.'
 
 /**
  * Recursively finds all .md files under the given directory.
@@ -55,6 +66,9 @@ export function scanAllFiles() {
     for (let i = 0; i < lines.length; i++) {
       if (/^# /.test(lines[i])) {
         mistakes.push({ path: filePath, line: i + 1, message: H1_MESSAGE })
+      }
+      if (lines[i].includes('](' + SITE_URL)) {
+        mistakes.push({ path: filePath, line: i + 1, message: ABSOLUTE_URL_MESSAGE })
       }
     }
   }
@@ -104,6 +118,16 @@ export function getMistakes(baseRef) {
           path: currentFile,
           line: lineNumber,
           message: H1_MESSAGE
+        })
+      }
+      // Added line containing an absolute URL to the published site
+      const lineContent = rawLine.slice(1)
+      if (lineContent.includes('](' + SITE_URL)) {
+        mistakes.push({
+          path: currentFile,
+          line: lineNumber,
+          message: ABSOLUTE_URL_MESSAGE,
+          suggestion: lineContent.replaceAll(SITE_URL, '/')
         })
       }
     } else if (!rawLine.startsWith('-')) {
