@@ -1,7 +1,6 @@
 {
-    "layout": "post",
-    "eleventyNavigation": {
-      "parent": "Prostate screening"
-    }
+  "layout": "post",
+  "eleventyNavigation": {
+    "parent": "Prostate screening"
   }
-  
+}
