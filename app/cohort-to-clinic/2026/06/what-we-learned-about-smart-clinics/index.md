@@ -82,6 +82,6 @@ Among those not using smart clinics, other methods of optimising capacity employ
 ## What’s next?
 Regardless of whether BSOs are using smart clinics or employing other optimisation approaches, we heard that there’s a consistent need for a reliable way to optimise capacity so that BSOs can efficiently meet their demand.
 
-With this in mind, we recognise there will be a need for the new national breast screening service, [Rubie](https://design-history.prevention-services.nhs.uk/breast-screening-pathway/2026/05/naming-new-breast-screening-service/), to provide functionality to support overbooking in future. 
+With this in mind, we recognise there will be a need for the new national breast screening service, [Rubie](/breast-screening-pathway/2026/05/naming-new-breast-screening-service/), to provide functionality to support overbooking in future. 
 
 Before we start trying to design what this might look like, we need to first better understand how the current algorithm and attendance probabilities work from a technical perspective. This understanding will help inform thinking around how we might provide a reliable way for BSOs to manage and optimise their capacity in future.

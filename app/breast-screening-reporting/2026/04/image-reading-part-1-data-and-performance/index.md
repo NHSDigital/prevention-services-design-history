@@ -13,7 +13,7 @@ opengraphImage:
   alt: Diagram showing some of the variables that need to be considered and balanced when assessing and understanding performance
 ---
 
-For more information on the design sprint and our data infrastructure choices, read [this introduction](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2026/04/re-designing-image-reading-data-reporting-to-stress-test-the-reporting-roadmap/).
+For more information on the design sprint and our data infrastructure choices, read [this introduction](/breast-screening-reporting/2026/04/re-designing-image-reading-data-reporting-to-stress-test-the-reporting-roadmap/).
 
 ## What we did
 

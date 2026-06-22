@@ -11,9 +11,9 @@ In the summer of 2025 we set up the breast screening pathway team. Our mission i
 
 In practice, this means that a large proportion of our time will be spent on understanding the needs of breast screening offices (BSOs) and screening participants so we can replace the legacy National Breast Screening System (NBSS). NBSS has been effective for almost 3 decades, but increased patient expectations and evolving technology mean that it needs rebuilding to better deal with complexity. 
 
-Following the [announcement of NBSS replacement](https://design-history.prevention-services.nhs.uk/manage-breast-screening/2025/07/the-future-of-nbss/), we asked BSOs to contact us if they wanted to help shape the design of the new digital service. 
+Following the [announcement of NBSS replacement](/manage-breast-screening/2025/07/the-future-of-nbss/), we asked BSOs to contact us if they wanted to help shape the design of the new digital service. 
 
-We know that some BSOs are already working with [Team Manage](https://design-history.prevention-services.nhs.uk/manage-breast-screening/) and [Team Invite](https://design-history.prevention-services.nhs.uk/screening-invite/) on pilots that are parts of what will eventually become the new service. The [Reporting team](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/) has already started to look at some of the data challenges. 
+We know that some BSOs are already working with [Team Manage](/manage-breast-screening/) and [Team Invite](/screening-invite/) on pilots that are parts of what will eventually become the new service. The [Reporting team](/breast-screening-reporting/) has already started to look at some of the data challenges. 
 
 In July we spoke to 32 of the 77 BSOs. Here are some of our learnings on breast screening data. 
 

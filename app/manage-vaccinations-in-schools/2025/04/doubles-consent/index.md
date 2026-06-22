@@ -164,7 +164,7 @@ In the end we decided to:
 
 ## Changes to the consent journey since the pilot
 
-Since [the last design history post covering the consent journey](https://design-history.prevention-services.nhs.uk/manage-vaccinations-in-schools/2024/03/pilot-parental-consent/) we made a number of other changes.
+Since [the last design history post covering the consent journey](/manage-vaccinations-in-schools/2024/03/pilot-parental-consent/) we made a number of other changes.
 
 ### Start page
 

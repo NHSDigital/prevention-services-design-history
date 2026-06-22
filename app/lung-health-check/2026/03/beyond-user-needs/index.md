@@ -7,7 +7,7 @@ opengraphImage:
   alt: A screenshot of the last page participants are shown in the pilot version of the digital service.
 ---
 
-We are designing a new digital service for the [lung cancer screening](https://www.nhs.uk/tests-and-treatments/lung-cancer-screening/) programme. The purpose of the service is to work out whether someone should be offered a CT scan to check their lungs. This service already exists as a questionnaire delivered over the phone, but we are exploring whether a digital offering would be desirable to users and [clinically safe](https://service-manual.nhs.uk/standards-and-technology/service-standard-points/16-make-your-service-clinically-safe). We wrote about this in more detail in our [previous design histories](https://design-history.prevention-services.nhs.uk/lung-health-check/).
+We are designing a new digital service for the [lung cancer screening](https://www.nhs.uk/tests-and-treatments/lung-cancer-screening/) programme. The purpose of the service is to work out whether someone should be offered a CT scan to check their lungs. This service already exists as a questionnaire delivered over the phone, but we are exploring whether a digital offering would be desirable to users and [clinically safe](https://service-manual.nhs.uk/standards-and-technology/service-standard-points/16-make-your-service-clinically-safe). We wrote about this in more detail in our [previous design histories](/lung-health-check/).
 
 
 ## Moving beyond user needs 

@@ -111,7 +111,7 @@ These tools are often complex and there may only be 1 or 2 people in the BSO who
 
 ### Batching tailored to geography and location
 
-When we started, we thought that the batching method was largely binary ([either using NTDD or RISP](https://design-history.prevention-services.nhs.uk/breast-screening-pathway/2025/12/understanding-batching/)). But in reality, BSOs tailored how they were grouping people differently:
+When we started, we thought that the batching method was largely binary ([either using NTDD or RISP](/breast-screening-pathway/2025/12/understanding-batching/)). But in reality, BSOs tailored how they were grouping people differently:
 
 -   by GP practice location or group
 
@@ -131,7 +131,7 @@ Batching was complex and BSOs didn't always understand the principles of the bat
 
 For staff to be willing to adopt the new service, it needs to match the flexibility of their current tools, but feel less risky and provide greater reassurance that no one has been missed at every step of the process.
 
-We believe that the value of a new digital service would increase for BSOs if it was joined up with the mammogram taking and image reading parts of the service already being built by team [Manage breast screening](https://design-history.prevention-services.nhs.uk/manage-breast-screening/).
+We believe that the value of a new digital service would increase for BSOs if it was joined up with the mammogram taking and image reading parts of the service already being built by team [Manage breast screening](/manage-breast-screening/).
 
 The new digital service will not solve staffing difficulties, but it needs to make those issues visible to help BSOs get the support they need to address those - for example, with their commissioners.
 
