@@ -1,7 +1,7 @@
 ---
 title: What is Very High Risk breast screening? 
 description: An overview of the very high risk breast screening and how it differs to routine screening
-date: 2026-06-19
+date: 2026-06-23
 author: Marianne Brierley
 opengraphImage:
   src: /breast-screening-pathway/2026/06/what-is-vhr-in-breast-screening/bss-vhr protocol.png
