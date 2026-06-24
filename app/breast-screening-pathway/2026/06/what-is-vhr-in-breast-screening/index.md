@@ -45,16 +45,10 @@ Once a person is identified and referred to breast screening services (BSOs), th
 
 ### 1. Age 
 
-* If a referral is made for someone under the age of 18, it will be rejected by the BSO as they are ineligible for an adult screening programme. The referral organisation is required to re-refer them when they reach 18. 
-* Services will record participants from age 18, in a 'pending' status until they reach the minimum age for invitation 
-
+* If a referral is made for someone under the age of 18, it will be rejected by the BSO as they are ineligible for an adult screening programme. The referral organisation is required to re-refer them when they reach 18. (Services will record participants from age 18, in a 'pending' status until they reach the minimum age for invitation) 
 * Aged between 25 to <40 requires MRI only 
-
 * Aged 40 to <51 are eligible for MRI + mammography 
-
 * Aged 51  to <71 are eligible for mammography and an MRI if their breast density is high (determined by their first mammogram, and reviewed yearly when new mammography images are available) 
-
- 
 
 ### 2. Why they are very high risk 
 
