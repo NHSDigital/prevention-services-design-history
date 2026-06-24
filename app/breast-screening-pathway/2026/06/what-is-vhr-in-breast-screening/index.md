@@ -1,7 +1,7 @@
 ---
 title: What is Very High Risk breast screening? 
 description: An overview of the very high risk breast screening and how it differs to routine screening
-date: 2026-06-23
+date: 2026-06-24
 author: Marianne Brierley
 opengraphImage:
   src: /breast-screening-pathway/2026/06/what-is-vhr-in-breast-screening/bss-vhr protocol.png
@@ -15,9 +15,7 @@ tags:
 Very High Risk (VHR) breast screening is a service provided to people who are at exceptionally high risk of breast cancer. The cohort of eligible participants may be identified through: 
 
 - genetic testing 
-
 - equivalent risk, for example a family member is diagnosed, but you have not been tested 
-
 - oncology services, where someone has experienced radiotherapy to breast tissue in the past (between the ages of 10 –35)  
 
 The volumes of eligible participants are relatively small compared to routine breast screening. However, research shows that the admin required to manage these cases is considerably higher. This is mainly due to more complex protocols and the lack of interoperable systems between services. 
@@ -30,55 +28,53 @@ The volumes of eligible participants are relatively small compared to routine br
 | Very High Risk (VHR)           				  | ~ 17k (based on 2024-25 data)   | ~ 7–12% (can be higher with MRI protocols)  |
 
 > [!NOTE]
-> Data sourced from NHS, NICE and GOV.UK sources. Routine and VHR are based on breast screening reporting data, however Moderate risk are evidence informed estimates  
+> Data sourced from [NHS](https://digital.nhs.uk/data-and-information/publications/statistical/breast-screening-programme/england-2024-2025/mainreport2425), NICE and GOV.UK sources. Routine and VHR are based on breast screening reporting data, however Moderate risk are evidence informed estimates  
 
-## There are three key differences between Routine screening and VHR screening: 
+## Key differences between routine screening and VHR screening: 
 
-1. **Eligibility** – VHR Screening has tight [eligibility criteria](https://www.gov.uk/government/publications/breast-screening-higher-risk-women-surveillance-protocols/tests-and-frequency-of-testing-for-women-at-very-high-risk--2). Referrals can be made from age 18, but they will not be invited until they are 20 years old, or older, depending on their reason for referral. Routine screening starts at age 50 
+1. **Eligibility** – VHR Screening has tight [eligibility criteria](https://www.gov.uk/government/publications/breast-screening-higher-risk-women-surveillance-protocols/tests-and-frequency-of-testing-for-women-at-very-high-risk--2). Referrals can be made from age 18, but they will not be invited until they are 20 years old, or older, depending on their reason for referral. Routine screening starts at age 50.
 
-2. **Screening protocol** – depending on their reason for referral, age and breast density, they may be offered an MRI only, mammogram only or both 
+2. **Screening protocol** – depending on their reason for referral, age and breast density, they may be offered an MRI only, mammogram only or both.
 
-3. **Frequency** – VHR participants are invited annually instead of every 3 years with Routine. This includes those who self refer into VHR after age 70 
+3. **Frequency** – VHR participants are invited annually instead of every 3 years with Routine. This includes those who self refer into VHR after age 70.
+
 
 ![Screenshot from BS-Select showing participant information and a pop up listing protocols for VHR](bss-vhr-protocol.png "BS-Select screenshot with test data") 
 
-Once a person is identified and referred to breast screening services (BSOs), they are placed on different screening protocols depending on their circumstances: 
+Once a person is identified and referred to breast screening services (BSOs), they are placed on different screening protocols depending on their circumstances. The screenshot from BS Select above, shows how protocols differ based on someone's age and the gene identified: 
 
 ### 1. Age 
 
 * If a referral is made for someone under the age of 18, it will be rejected by the BSO as they are ineligible for an adult screening programme. The referral organisation is required to re-refer them when they reach 18. 
-
 * Services will record participants from age 18, in a 'pending' status until they reach the minimum age for invitation 
-
++
 * Aged between 25 to <40 requires MRI only 
-
++
 * Aged 40 to <51 are eligible for MRI + mammography 
-
++
 * Aged 51  to <71 are eligible for mammography and an MRI if their breast density is high (determined by their first mammogram, and reviewed yearly when new mammography images are available) 
 
  
 
 ### 2. Why they are very high risk 
 
-* **Different genes require different screening protocols.** Some genes are more susceptible to radiation than others. Protocols reflect a level of risk that changes with age, and the efficacy of mammography which differs depending on someone’s breast density 
+**Different genes require different screening protocols.** Some genes are more susceptible to radiation than others. Protocols reflect a level of risk that changes with age, and the efficacy of mammography which differs depending on someone’s breast density 
 
-* **Equivalent risk:** Some people are considered to have ‘equivalent’ risk of developing breast cancer, but who have not completed gene testing.  
+**Equivalent risk:** Some people are considered to have ‘equivalent’ risk of developing breast cancer, but who have not completed gene testing.  
 
   - Risk is identified using the [CanRisk tool](https://www.canrisk.org/) or [Tyrer Cuzick](https://ibis.ikonopedia.com/) software.  
-
   - For example, a person may have a 50% chance of carrying a high-risk pathogenic variant if they have a first-degree relative with the BRCA1, BRCA2, or TP53 mutation.  
-
   - These participants may remain on VHR until they reach routine screening age (50), where they are required to complete a genetic test to stay on VHR. 
 
-* **Previous radiotherapy:** Some people irradiated typically for lymphoma have received a high dose of ionising radiation to breast tissue. Where this was administered between the ages of 10 and 35 (when breast tissue is especially susceptible) there is a high risk of [secondary breast cancer](https://www.hodgkinsinternational.com/late-effects/breast-cancer-late-effects/).  
+**Previous radiotherapy:** Some people irradiated typically for lymphoma have received a high dose of ionising radiation to breast tissue. Where this was administered between the ages of 10 and 35 (when breast tissue is especially susceptible) there is a high risk of [secondary breast cancer](https://www.hodgkinsinternational.com/late-effects/breast-cancer-late-effects/).  
 
 ### 3. Whether they have been screened before 
 
-* If someone is over 50, their most recent mammogram is used to determine breast density.  
+If someone is over 50, their most recent mammogram is used to determine breast density.  
 
-* Those with dense breasts continue to be offered a mammogram and an MRI. MRI is more sensitive than x-rays and should make it easier to identify cancers within dense tissue. 
+Those with dense breasts continue to be offered a mammogram and an MRI. MRI is more sensitive than x-rays and should make it easier to identify cancers within dense tissue. 
 
-* Those without dense breasts are offered a mammogram only – mammography is very effective in this group so that MRI is unlikely to add information. 
+Those without dense breasts are offered a mammogram only – mammography is very effective in this group so that MRI is unlikely to add information. 
 
  
 
@@ -137,19 +133,19 @@ We recently completed some research to understand more about the process of mana
 
 ## The manual workload  
 
+> I think VHR is one of the most complicated parts of breast screening. It needs to be acknowledged how manual it is.
+> -- VHR Coordinator in a BSO
+
 Research indicated that there is significant manual work required by BSOs to manage the VHR service. This is largely down to: 
 
-1. Lack of interoperability between different organisation’s systems along the pathway (NDRS, Breast Screening, MRI units) e.g.
+1. Lack of interoperability between different organisations' systems along the pathway (NDRS, Breast Screening, MRI units) e.g.
    
   - Using email to share referrals and confirmation of receipt  
 
-	- Word documents and pdfs used to record and share participant data 
-
-	- Manual entry of VHR specific information into NBSS and BS Select 
-
-	- No or delayed visibility of MRI appointments 
-
-	- Duplicating MRI reports posted in Hospital RIS and NBSS 
+	-  Word documents and pdfs used to record and share participant data 
+	-  Manual entry of VHR specific information into NBSS and BS Select 
+	-  No or delayed visibility of MRI appointments 
+	-  Duplicating MRI reports posted in Hospital RIS and NBSS 
 
 2. Insufficient product capability to manage and track VHR specific information 
 
@@ -157,21 +153,14 @@ Research indicated that there is significant manual work required by BSOs to man
 
 The majority of BSOs we spoke to had at least one, if not several people dedicated to managing the VHR service. Their role relies on inherent knowledge about VHR and is required to: 
 
-* Keep track of incoming referrals  
-
-* Keep trackers updated so they know who’s due for invitation and what for 
-
-* Keep up to date with the latest VHR guidance and eligibility criteria  
-
-* Ensure invitations and appointments are offered in time, and for the correct protocols 
-
-* Ensure results are kept updated in NBSS 
-
-* Ensure participants have the correct status based on service outcomes 
+* keep track of incoming referrals  
+* keep trackers updated so they know who’s due for invitation and what for 
+* keep up to date with the latest VHR guidance and eligibility criteria  
+* ensure invitations and appointments are offered in time, and for the correct protocols 
+* ensure results are kept updated in NBSS 
+* ensure participants have the correct status based on service outcomes 
 
 
-> I think VHR is one of the most complicated parts of breast screening. It needs to be acknowledged how manual it is.
-> -- VHR Coordinator in a BSO
+To put this into perspective, one site shared that they required a staff ratio of 1:225 for VHR compared to around 1: 20,800 for Routine. That is, each VHR participant requires around 92× (≈9,200%) more manual effort than a routine participant. 
 
-
-To put this into perspective, one site shared that they required a staff ratio of 1:225 for VHR compared to around 1: 20,800 for Routine. That is, each VHR participant requires around 92× (≈9,200%) more manual effort than a routine participant. So, although proportionally, VHR represents a much smaller cohort of people it still represents a significant opportunity to reduce administrative burden, and free up time within BSOs to focus on patient care.
+So, although proportionally, VHR represents a much smaller cohort of people, it still represents a significant opportunity to reduce administrative burden, and free up time within BSOs to focus on patient care.
