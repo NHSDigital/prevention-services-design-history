@@ -47,11 +47,11 @@ Once a person is identified and referred to breast screening services (BSOs), th
 
 * If a referral is made for someone under the age of 18, it will be rejected by the BSO as they are ineligible for an adult screening programme. The referral organisation is required to re-refer them when they reach 18. 
 * Services will record participants from age 18, in a 'pending' status until they reach the minimum age for invitation 
-+
+
 * Aged between 25 to <40 requires MRI only 
-+
+
 * Aged 40 to <51 are eligible for MRI + mammography 
-+
+
 * Aged 51  to <71 are eligible for mammography and an MRI if their breast density is high (determined by their first mammogram, and reviewed yearly when new mammography images are available) 
 
  
@@ -117,17 +117,17 @@ We recently completed some research to understand more about the process of mana
 
 	- MRI appointments are more complex to manage (see [VHR guidance for MRI](https://www.gov.uk/government/publications/breast-screening-screening-of-higher-risk-women/breast-screening-guidance-for-organising-a-very-high-risk-vhr-screening-programme#liaison-withmriservices:~:text=and%20confirming%20eligibility-,5.,Liaison%20with%20MRI%20services,-6.)): 
 
-		    - MRIs are best completed in the first half of a person’s menstrual cycle, specifically between day 6 – 16, as hormonal fluctuations can cause normal breast tissue to look bright and active, increasing the risk of false positives. Services require participants to share information on their menstrual cycle so they can book appointments in the optimal window 
+		 - MRIs are best completed in the first half of a person’s menstrual cycle, specifically between day 6 – 16, as hormonal fluctuations can cause normal breast tissue to look bright and active, increasing the risk of false positives. Services require participants to share information on their menstrual cycle so they can book appointments in the optimal window 
 
-	    	- They cannot manage MRI appointments in NBSS, and require information held by a separate team using the hospital systems (usually CRIS, Cancer Radiology Information System) 
+	    - They cannot manage MRI appointments in NBSS, and require information held by a separate team using the hospital systems (usually CRIS, Cancer Radiology Information System) 
   
-	    	- MRI can only be carried out at sites who meet reporting requirements and have the correct facilities. This can mean some BSOs outsource their MRI participants. These BSOs may outsource everything from invitation to outcome, or just the MRI itself 
+	    - MRI can only be carried out at sites who meet reporting requirements and have the correct facilities. This can mean some BSOs outsource their MRI participants. These BSOs may outsource everything from invitation to outcome, or just the MRI itself 
 
-	    	- As with routine screening, symptomatic services can often take priority within a trust, meaning it is difficult to offer MRI appointments far in advance as symptomatic services want to ensure they protect their capacity 
+	    - As with routine screening, symptomatic services can often take priority within a trust, meaning it is difficult to offer MRI appointments far in advance as symptomatic services want to ensure they protect their capacity 
 
-	    	- MRI reports are added to the hospital RIS (e.g. CRIS), and may require admin staff to manually interpret reports and update NBSS with outcomes 
+	    - MRI reports are added to the hospital RIS (e.g. CRIS), and may require admin staff to manually interpret reports and update NBSS with outcomes 
 
-	    	- Some sites run VHR only clinics, and others choose to mix VHR participants with their routine participants to complete mammograms. This is thought to make it easier for someone to attend. They may add a note to the appointment to help radiographers understand why someone might turn up who is under 50. 
+	    - Some sites run VHR only clinics, and others choose to mix VHR participants with their routine participants to complete mammograms. This is thought to make it easier for someone to attend. They may add a note to the appointment to help radiographers understand why someone might turn up who is under 50. 
 
 7. **Close episodes and add a person to next year’s tracker** - VHR participants are invited annually 
 
@@ -138,14 +138,13 @@ We recently completed some research to understand more about the process of mana
 
 Research indicated that there is significant manual work required by BSOs to manage the VHR service. This is largely down to: 
 
-1. Lack of interoperability between different organisations' systems along the pathway (NDRS, Breast Screening, MRI units) e.g.
+1. Lack of interoperability between different organisations' systems along the pathway (NDRS, Breast Screening, MRI units), for example:
    
-  - Using email to share referrals and confirmation of receipt  
-
-	-  Word documents and pdfs used to record and share participant data 
-	-  Manual entry of VHR specific information into NBSS and BS Select 
-	-  No or delayed visibility of MRI appointments 
-	-  Duplicating MRI reports posted in Hospital RIS and NBSS 
+* using email to share referrals and confirmation of receipt  
+* word documents and pdfs used to record and share participant data 
+* manual entry of VHR specific information into NBSS and BS Select 
+* no or delayed visibility of MRI appointments 
+* duplicating MRI reports posted in Hospital RIS and NBSS 
 
 2. Insufficient product capability to manage and track VHR specific information 
 
