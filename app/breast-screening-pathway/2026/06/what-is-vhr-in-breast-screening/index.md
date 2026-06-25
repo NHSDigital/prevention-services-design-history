@@ -127,7 +127,7 @@ We also heard, as we have with routine screening, that symptomatic services can 
 
 Research indicated that there is significant manual work required by BSOs to manage the VHR service. This is largely down to: 
 
-1. **Lack of interoperability** between different products (such as NICPR, NBSS, RIS), for example:
+1. **Lack of interoperability** between different products (such as NICPR, NBSS, RIS), used by different organisations (regional genetics services, BSOs, MRI teams), for example:
 * using email to share referrals and confirmation of receipt  
 * Word documents and PDFs used to record and share participant data 
 * manual entry of VHR specific information into NBSS and BS Select 
