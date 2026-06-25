@@ -80,7 +80,7 @@ Those without dense breasts are offered a mammogram only. Mammography is very ef
 
 ## How BSOs manage VHR cohorts 
 
-We recently completed some research to understand more about the process of managing VHR referrals from Genetics services via the [NICPR portal](https://digital.nhs.uk/ndrs/our-work/genomics/nicpr). We spoke with 10 breast screening offices (BSOs) and 4 geneticists. We learned there is local variation in how VHR is managed by the breast screening offices. This section describes some common components of their workflow. 
+We recently completed some research to understand more about the process of managing VHR referrals from Genetics services via the [NICPR portal](https://digital.nhs.uk/ndrs/our-work/genomics/nicpr). We spoke with 10 BSOs and 4 geneticists. We learned there is local variation in how VHR is managed by the breast screening offices. This section describes some common components of their workflow. 
 
 
 ![Diagram showing generalized VHR workflow](bso-vhr-workflow-summary.png "A summary of the VHR workflow") 
