@@ -69,14 +69,14 @@ Some people are considered to have **equivalent risk** of developing breast canc
 * For example, a person may have a 50% chance of carrying a high-risk pathogenic variant if they have a first-degree relative with the BRCA1, BRCA2, or TP53 mutation.  
 * These participants may remain on VHR until they reach routine screening age, where they are required to complete a genetic test to stay on VHR. 
 
-Those who have experience **previous radiotherapy**, for example, during treating for lymphoma, will have received a high dose of ionising radiation to breast tissue. Where this was administered between the ages of 10 and 35 (when breast tissue is especially susceptible) there is a high risk of [secondary breast cancer](https://www.hodgkinsinternational.com/late-effects/breast-cancer-late-effects/).  
+Those who have experienced **previous radiotherapy**, for example, during treating for lymphoma, will have received a high dose of ionising radiation to breast tissue. If this was administered between the ages of 10 and 35 (when breast tissue is especially susceptible) there is a high risk of [secondary breast cancer](https://www.hodgkinsinternational.com/late-effects/breast-cancer-late-effects/).  
 
 
 ### Prior screening can provide information about breast density 
 
 If someone is over 50, their most recent mammogram is used to determine breast density. Those with dense breasts continue to be offered a mammogram and an MRI. MRI is more sensitive than x-rays and should make it easier to identify cancers within dense tissue. 
 
-Those without dense breasts are offered a mammogram only – mammography is very effective in this group so that MRI is unlikely to add information. 
+Those without dense breasts are offered a mammogram only. Mammography is very effective in this group so that MRI is unlikely to add information. 
 
  
 
@@ -102,26 +102,24 @@ We recently completed some research to understand more about the process of mana
   - last menstrual cycle, which is relevant for MRI 
   - incidental findings from MRI (where the MRI may pick up other issues in the lungs or heart that require onward referral to other services) 
 
-5. **Identify who’s due for invitation** – BS Select will automatically calculate a Next Test Due Date (NTDD), but many BSOs will copy this date into their trackers. This helps them track their workflow, and next urgent tasks depending on their protocol, for example, if MRI is in their protocol, it requires an 8-week window. "Mammogram only" requires a 4-week window 
+5. **Identify who’s due for invitation** – BS Select will automatically calculate a Next Test Due Date (NTDD), but many BSOs will copy this date into their trackers. This helps them track their workflow, and next urgent tasks depending on their protocol, for example, if MRI is in their protocol, it requires an 8-week window. "Mammogram only" requires a 4-week window.
 
-6. **Invite a person to their mammogram or MRI (or both):** 
-  - Ideally, if someone needs a mammogram and an MRI, it would be completed on the same day, at the same site. This is not always possible. BSOs aim to ensure a mammogram and an MRI take place within 2 weeks of each other. 
-  - Some participants may choose to attend one appointment, and not the other 
+6. **Invite a person to their mammogram or MRI (or both)** - Ideally, if someone needs a mammogram and an MRI, it would be completed on the same day, at the same site. This is not always possible. BSOs aim to ensure a mammogram and an MRI take place within 2 weeks of each other. Some participants may choose to attend one appointment, and not the other 
 
 7. **Close episodes and add a person to next year’s tracker** - VHR participants are invited annually 
 
 
 ## MRI appointments create additional complexity
 
-MRI appointments are more complex to manage (see [VHR guidance for MRI](https://www.gov.uk/government/publications/breast-screening-screening-of-higher-risk-women/breast-screening-guidance-for-organising-a-very-high-risk-vhr-screening-programme#liaison-withmriservices:~:text=and%20confirming%20eligibility-,5.,Liaison%20with%20MRI%20services,-6.)). Some sites run VHR only clinics, and others choose to mix VHR participants with their routine participants to complete mammograms. This is thought to make it easier for someone to attend. They may add a note to the appointment to help radiographers understand why someone might turn up who is under 50.
+MRI appointments are more complex to manage (see [VHR guidance for MRI](https://www.gov.uk/government/publications/breast-screening-screening-of-higher-risk-women/breast-screening-guidance-for-organising-a-very-high-risk-vhr-screening-programme#liaison-withmriservices:~:text=and%20confirming%20eligibility-,5.,Liaison%20with%20MRI%20services,-6.)). Some BSOs run VHR only clinics (for mammograms), and others choose to mix VHR participants with their routine participants to complete mammograms. This is thought to make it easier for someone to attend. They may add a note to the appointment to help radiographers understand why someone might turn up who is under 50.
 
-Completing MRIs is much more difficult to manage; MRIs can only be carried out at sites who meet reporting requirements and have the correct facilities. This can mean some BSOs outsource their MRI participants to other BSOs. These BSOs may outsource everything from invitation to outcome, or just the MRI itself. 
+Completing MRIs is much more difficult to manage; MRIs can only be carried out at sites who meet reporting requirements and have the correct facilities. This can mean some BSOs outsource their MRI participants to other sites. These BSOs may outsource everything from invitation to outcome, or just the MRI itself. 
 
 Hormonal fluctuations can cause normal breast tissue to look bright and active in MRI images, increasing the risk of false positives. Services aim to complete MRIs in the first half of a person’s menstrual cycle (between day 6-16 ideally). This means BSOs are asking participants for their menstrual cycle dates, and coordinating with the MRI teams at the Trust to book appointments within that window. Some BSOs will aim to complete mammograms on the same day, or within 2 weeks of the MRI appointment. 
 
-Further complexity is added due to the fact that MRI appointments cannot be managed in NBSS, and MRI teams cannot access NBSS.This means participant and appointment information is held by the MRI team in the hospital systems. In England this is usually [CRIS](https://www.magentus.com/clinical-systems/radiology/?r=e), Cancer Radiology Information System. This system is also used for completing MRI reports, requiring BSO admin staff to manually interpret reports and update NBSS with outcomes to complete their VHR screening workflow. 
+Further complexity is added due to the fact that MRI appointments cannot be managed in NBSS, and MRI teams cannot access NBSS. This means participant and appointment information is held by the MRI team in hospital systems. In England this is usually [CRIS](https://www.magentus.com/clinical-systems/radiology/?r=e), Cancer Radiology Information System. This system is also used for completing MRI reports, requiring BSO admin staff to manually interpret reports and update NBSS with outcomes to complete their VHR screening workflow. 
 
-We also heard, as we have with routine screening, that symptomatic services can often take priority within a trust. This makes it difficult to offer MRI appointments far in advance, as symptomatic services want to ensure they protect their capacity 
+We also heard, as we have with routine screening, that symptomatic services can often take priority within a Trust. This makes it difficult to offer MRI appointments far in advance, as symptomatic services want to ensure they protect their capacity.
 
 
 ## The manual workload  
@@ -131,26 +129,29 @@ We also heard, as we have with routine screening, that symptomatic services can 
 
 Research indicated that there is significant manual work required by BSOs to manage the VHR service. This is largely down to: 
 
-1. Lack of interoperability between different organisations' systems along the pathway (NDRS, Breast Screening, MRI units), for example:
-* using email to share referrals and confirmation of receipt  
-* word documents and pdfs used to record and share participant data 
-* manual entry of VHR specific information into NBSS and BS Select 
-* no or delayed visibility of MRI appointments 
-* duplicating MRI reports posted in Hospital RIS and NBSS 
+1. **Lack of interoperability** between different organisations' systems along the pathway (NDRS, Breast Screening, MRI units), for example:
+   * using email to share referrals and confirmation of receipt  
+   * word documents and pdfs used to record and share participant data 
+   * manual entry of VHR specific information into NBSS and BS Select 
+   * no or delayed visibility of MRI appointments 
+   * duplicating MRI reports posted in Hospital RIS and NBSS 
 
-2. Insufficient product capability to manage and track VHR specific information 
+2. **Insufficient product capability** to manage and track VHR specific information 
 
-3. A general worry about “missing” someone, resulting in localised trackers and spreadsheets to help manage workload and urgent tasks. (Some services will print out “packets” for each VHR participant and keep a record of their VHR journey – this provides greater visibility to staff) 
+3. A general **worry about “missing” someone**, resulting in localised trackers and spreadsheets to help manage workload and urgent tasks. Some services will print out “packets” for each VHR participant and keep a record of their VHR journey. This provides greater **visibility** to staff. 
+
+
+### Dedicated staff for VHR
 
 The majority of BSOs we spoke to had at least one, if not several people dedicated to managing the VHR service. Their role relies on inherent knowledge about VHR and is required to: 
-* keep track of incoming referrals  
-* keep trackers updated so they know who’s due for invitation and what for 
-* keep up to date with the latest VHR guidance and eligibility criteria  
-* ensure invitations and appointments are offered in time, and for the correct protocols 
-* ensure results are kept updated in NBSS 
-* ensure participants have the correct status based on service outcomes 
+   * keep track of incoming referrals  
+   * keep trackers updated so they know who’s due for invitation and what for 
+   * keep up to date with the latest VHR guidance and eligibility criteria  
+   * ensure invitations and appointments are offered in time, and for the correct protocols 
+   * ensure results are kept updated in NBSS 
+   * ensure participants have the correct status based on service outcomes 
 
 
-To put this into perspective, one site shared that they required a staff ratio of 1:225 for VHR compared to around 1:20,800 for Routine. That is, each VHR participant requires around 92 times more manual effort than a routine participant, equivalent to over 9,200%. 
+To put this into perspective, one site shared that they required a staff ratio of 1:225 for VHR compared to around 1:20,800 for Routine. That is, **each VHR participant requires around 92 times more manual effort than a routine participant**, equivalent to over 9,200%. 
 
-So, although proportionally, VHR represents a much smaller cohort of people, it still represents a significant opportunity to reduce administrative burden, and free up time within BSOs to focus on patient care.
+So, although proportionally, VHR represents a much smaller cohort of people, it still presents a significant opportunity to reduce administrative burden, and free up time within BSOs to focus on patient care.
