@@ -15,7 +15,7 @@ tags:
 Very high risk (VHR) breast screening is a service provided to people who are at exceptionally high risk of breast cancer. The cohort of eligible participants may be identified through: 
 
 - genetic testing 
-- equivalent risk, for example a family member is diagnosed, but you have not been tested 
+- equivalent risk, for example a family member is diagnosed, but they have not been tested 
 - oncology services, where someone has experienced radiotherapy to breast tissue in the past (between the ages of 10-35)  
 
 The volumes of eligible participants are relatively small compared to routine breast screening. However, research shows that the admin required to manage these cases is considerably higher. This is mainly due to more complex protocols and the lack of interoperable systems between services. 
@@ -80,12 +80,12 @@ Those without dense breasts are offered a mammogram only. Mammography is very ef
 
 ## How BSOs manage VHR cohorts 
 
-We recently completed some research to understand more about the process of managing VHR referrals from Genetics services via the [NICPR portal](https://digital.nhs.uk/ndrs/our-work/genomics/nicpr). We spoke with 10 Breast Screening Offices (BSOs) and 4 Geneticists. We learned there is local variation in how VHR is managed by the breast screening offices. This section describes some common components of their workflow. 
+We recently completed some research to understand more about the process of managing VHR referrals from Genetics services via the [NICPR portal](https://digital.nhs.uk/ndrs/our-work/genomics/nicpr). We spoke with 10 breast screening offices (BSOs) and 4 geneticists. We learned there is local variation in how VHR is managed by the breast screening offices. This section describes some common components of their workflow. 
 
 
 ![Diagram showing generalized VHR workflow](bso-vhr-workflow-summary.png "A summary of the VHR workflow") 
 
-1. **Acknowledge and check a referral** – BSOs will sense check someone’s eligibility (right area, right age) and return or redirect referrals if they are ineligible for that office.  
+1. **Acknowledge and check a referral** – BSOs will sense-check someone’s eligibility (right area, right age) and return or redirect referrals if they are ineligible for that office.  
 
 2. **Check if a person is in the system** – BSOs will check BS Select and NBSS for a person’s details. If they aren’t there, they are responsible for [adding them](/select/2025/09/our-new-digital-process-for-adding-participants/). We learned that some participants may not receive any contact from a BSO until they are due to be invited to screening. This could mean a several year gap between genetic referral, and hearing from the service. 
 
