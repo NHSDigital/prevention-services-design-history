@@ -27,7 +27,7 @@ The volumes of eligible participants are relatively small compared to routine br
 | Moderate risk/ family history (Not part of national screening)  | ~ 300k–600k                     | ~ 5–10% 					  |
 | Very High Risk (VHR)           				  | ~ 17k (based on 2024-25 data)   | ~ 7–12% (can be higher with MRI protocols)  |
 
-> Data sourced from [NHS](https://digital.nhs.uk/data-and-information/publications/statistical/breast-screening-programme/england-2024-2025/mainreport2425), NICE and GOV.UK sources. Routine and VHR are based on breast screening reporting data, however Moderate risk are evidence informed estimates  
+*Data sourced from [NHS](https://digital.nhs.uk/data-and-information/publications/statistical/breast-screening-programme/england-2024-2025/mainreport2425), NICE and GOV.UK sources. Routine and VHR are based on breast screening reporting data, however Moderate risk are evidence informed estimates.* 
 
 ## Key differences between routine screening and VHR screening 
 
@@ -134,7 +134,7 @@ Research indicated that there is significant manual work required by BSOs to man
 * no or delayed visibility of MRI appointments 
 * duplicating MRI reports posted in Hospital RIS and NBSS 
 
-2. **Insufficient product capability** to manage and track VHR specific information 
+2. **Insufficient product capability** to manage and track VHR specific information.
 
 3. A general **worry about “missing” someone**, resulting in localised trackers and spreadsheets to help manage workload and urgent tasks. Some services will print out “packets” for each VHR participant and keep a record of their VHR journey. This provides greater **visibility** to staff. 
 
