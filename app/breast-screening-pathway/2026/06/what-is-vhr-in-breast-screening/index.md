@@ -25,9 +25,9 @@ The volumes of eligible participants are relatively small compared to routine br
 | ----------------------------------------------------------------| ------------------------------- | --------------------------------------------|
 | Routine                					  | ~ 6.5 million (over 3 years)    | ~ 4–7%  					  |
 | Moderate risk/ family history (Not part of national screening)  | ~ 300k–600k                     | ~ 5–10% 					  |
-| Very High Risk (VHR)           				  | ~ 17k (based on 2024-25 data)   | ~ 7–12% (can be higher with MRI protocols)  |
+| Very high risk (VHR)           				  | ~ 17k (based on 2024-25 data)   | ~ 7–12% (can be higher with MRI protocols)  |
 
-*Data sourced from [NHS](https://digital.nhs.uk/data-and-information/publications/statistical/breast-screening-programme/england-2024-2025/mainreport2425), NICE and GOV.UK sources. Routine and VHR are based on breast screening reporting data, however Moderate risk are evidence informed estimates.* 
+*Data sourced from [NHS](https://digital.nhs.uk/data-and-information/publications/statistical/breast-screening-programme/england-2024-2025/mainreport2425), NICE and GOV.UK sources. Routine and VHR are based on breast screening reporting data, however moderate risk are evidence informed estimates.* 
 
 ## Key differences between routine screening and VHR screening 
 
@@ -35,7 +35,7 @@ The volumes of eligible participants are relatively small compared to routine br
 
 2. **Screening protocol** – depending on their reason for referral, age and breast density, they may be offered an MRI only, mammogram only or both.
 
-3. **Frequency** - VHR participants are invited annually instead of every 3 years with Routine. This includes those who self refer into VHR after age 70.
+3. **Frequency** - VHR participants are invited annually instead of every 3 years with routine. This includes those who self refer into VHR after age 70.
 
 
 Once a person is identified and referred to breast screening services (BSOs), they are placed on different screening protocols depending on their circumstances. This screenshot from BS Select shows how protocols differ based on someone's age and the gene identified. 
@@ -150,6 +150,6 @@ The majority of BSOs we spoke to had at least one, if not several people dedicat
 * ensure participants have the correct status based on service outcomes 
 
 
-To put this into perspective, one site shared that they required a staff ratio of 1:225 for VHR compared to around 1:20,800 for Routine. That is, **each VHR participant requires around 92 times more manual effort than a routine participant**, equivalent to over 9,200%. 
+To put this into perspective, one site shared that they required a staff ratio of 1:225 for VHR compared to around 1:20,800 for routine. That is, **each VHR participant requires around 92 times more manual effort than a routine participant**, equivalent to over 9,200%. 
 
 So, although proportionally, VHR represents a much smaller cohort of people, it still presents a significant opportunity to reduce administrative burden, and free up time within BSOs to focus on patient care.
