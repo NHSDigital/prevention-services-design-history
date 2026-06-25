@@ -7,12 +7,12 @@ opengraphImage:
   src: /breast-screening-pathway/2026/06/what-is-vhr-in-breast-screening/bss-vhr-protocol.png
   alt: Screenshot of the BS-Select product and how VHR protocols are presented to a user
 tags:
-  - Very High Risk screening
+  - Very high risk screening
   - BSO process
   - Genetic referrals
 ---
 
-Very High Risk (VHR) breast screening is a service provided to people who are at exceptionally high risk of breast cancer. The cohort of eligible participants may be identified through: 
+Very high risk (VHR) breast screening is a service provided to people who are at exceptionally high risk of breast cancer. The cohort of eligible participants may be identified through: 
 
 - genetic testing 
 - equivalent risk, for example a family member is diagnosed, but you have not been tested 
