@@ -51,7 +51,6 @@ If someone is identified as VHR before the routine screening age (50), they will
 The referral organisation is required to re-refer them when they reach 18. Services will record participants from age 18, in a 'pending' status until they reach the minimum age for invitation based on their screening protocol.
 
 Age also determines whether someone is offered a mammogram, MRI or both:
-
 * Aged between 25 to <40 requires MRI only 
 
 * Aged 40 to <51 are eligible for MRI + mammography 
@@ -94,13 +93,13 @@ We recently completed some research to understand more about the process of mana
 3. **Complete due diligence** – Several BSOs described hunting through hospital systems to collect evidence of letters or treatments that might offer an insight into someone’s health journey so far. This helped BSOs tailor their communication to someone, for example, if they have already elected to have a bilateral mastectomy.
 
 4. **Update trackers** – BSOs may supplement digital tools with their own spreadsheets to keep track of their VHR cohort. This keeps a record of: 
-  - when they were referred and from where 
-  - why they are eligible, such as which gene is present  
-  - their next test due date 
-  - their protocol (based on why they are eligible) 
-  - when they have been contacted and status updates (this includes those who are “pending” which means they are not yet eligible based on their protocol) 
-  - last menstrual cycle, which is relevant for MRI 
-  - incidental findings from MRI (where the MRI may pick up other issues in the lungs or heart that require onward referral to other services) 
+* when they were referred and from where 
+* why they are eligible, such as which gene is present  
+* their next test due date 
+* their protocol (based on why they are eligible) 
+* when they have been contacted and status updates (this includes those who are “pending” which means they are not yet eligible based on their protocol) 
+* last menstrual cycle, which is relevant for MRI 
+* incidental findings from MRI (where the MRI may pick up other issues in the lungs or heart that require onward referral to other services) 
 
 5. **Identify who’s due for invitation** – BS Select will automatically calculate a Next Test Due Date (NTDD), but many BSOs will copy this date into their trackers. This helps them track their workflow, and next urgent tasks depending on their protocol, for example, if MRI is in their protocol, it requires an 8-week window. "Mammogram only" requires a 4-week window.
 
@@ -130,11 +129,11 @@ We also heard, as we have with routine screening, that symptomatic services can 
 Research indicated that there is significant manual work required by BSOs to manage the VHR service. This is largely down to: 
 
 1. **Lack of interoperability** between different organisations' systems along the pathway (NDRS, Breast Screening, MRI units), for example:
-   * using email to share referrals and confirmation of receipt  
-   * word documents and pdfs used to record and share participant data 
-   * manual entry of VHR specific information into NBSS and BS Select 
-   * no or delayed visibility of MRI appointments 
-   * duplicating MRI reports posted in Hospital RIS and NBSS 
+* using email to share referrals and confirmation of receipt  
+* word documents and pdfs used to record and share participant data 
+* manual entry of VHR specific information into NBSS and BS Select 
+* no or delayed visibility of MRI appointments 
+* duplicating MRI reports posted in Hospital RIS and NBSS 
 
 2. **Insufficient product capability** to manage and track VHR specific information 
 
@@ -144,12 +143,12 @@ Research indicated that there is significant manual work required by BSOs to man
 ### Dedicated staff for VHR
 
 The majority of BSOs we spoke to had at least one, if not several people dedicated to managing the VHR service. Their role relies on inherent knowledge about VHR and is required to: 
-   * keep track of incoming referrals  
-   * keep trackers updated so they know who’s due for invitation and what for 
-   * keep up to date with the latest VHR guidance and eligibility criteria  
-   * ensure invitations and appointments are offered in time, and for the correct protocols 
-   * ensure results are kept updated in NBSS 
-   * ensure participants have the correct status based on service outcomes 
+* keep track of incoming referrals  
+* keep trackers updated so they know who’s due for invitation and what for 
+* keep up to date with the latest VHR guidance and eligibility criteria  
+* ensure invitations and appointments are offered in time, and for the correct protocols 
+* ensure results are kept updated in NBSS 
+* ensure participants have the correct status based on service outcomes 
 
 
 To put this into perspective, one site shared that they required a staff ratio of 1:225 for VHR compared to around 1:20,800 for Routine. That is, **each VHR participant requires around 92 times more manual effort than a routine participant**, equivalent to over 9,200%. 
