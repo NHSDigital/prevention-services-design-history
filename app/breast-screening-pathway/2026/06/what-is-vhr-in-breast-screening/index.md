@@ -1,5 +1,5 @@
 ---
-title: What is Very High Risk breast screening? 
+title: What is very high risk (VHR) breast screening? 
 description: An overview of the very high risk breast screening and how it differs to routine screening
 date: 2026-06-25
 author: Marianne Brierley
