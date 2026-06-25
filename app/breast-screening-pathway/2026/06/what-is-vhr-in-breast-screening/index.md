@@ -127,9 +127,9 @@ We also heard, as we have with routine screening, that symptomatic services can 
 
 Research indicated that there is significant manual work required by BSOs to manage the VHR service. This is largely down to: 
 
-1. **Lack of interoperability** between different organisations' systems along the pathway (NDRS, Breast Screening, MRI units), for example:
+1. **Lack of interoperability** between different products (such as NICPR, NBSS, RIS), for example:
 * using email to share referrals and confirmation of receipt  
-* word documents and pdfs used to record and share participant data 
+* Word documents and PDFs used to record and share participant data 
 * manual entry of VHR specific information into NBSS and BS Select 
 * no or delayed visibility of MRI appointments 
 * duplicating MRI reports posted in Hospital RIS and NBSS 
