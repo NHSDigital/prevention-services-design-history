@@ -38,7 +38,7 @@ The volumes of eligible participants are relatively small compared to routine br
 3. **Frequency** - VHR participants are invited annually instead of every 3 years with routine. This includes those who self refer into VHR after age 70.
 
 
-Once a person is identified and referred to breast screening services (BSOs), they are placed on different screening protocols depending on their circumstances. This screenshot from BS Select shows how protocols differ based on someone's age and the gene identified. 
+Once a person is identified and referred to breast screening offices (BSOs), they are placed on different screening protocols depending on their circumstances. This screenshot from BS Select shows how protocols differ based on someone's age and the gene identified. 
 
 ![Screenshot from BS Select showing participant information and a pop up listing protocols for VHR](bss-vhr-protocol.png "BS Select screenshot with test data") 
 
@@ -49,7 +49,7 @@ If someone is identified as VHR before the routine screening age (50), they will
 
 The referral organisation is required to re-refer them when they reach 18. Services will record participants from age 18, in a 'pending' status until they reach the minimum age for invitation based on their screening protocol.
 
-Age also determines whether someone is offered a mammogram, MRI or both:
+Age also determines whether someone is offered a mammogram, magnetic resonance imaging (MRI) or both:
 * Aged between 25 to <40 requires MRI only 
 
 * Aged 40 to <51 are eligible for MRI + mammography 
@@ -59,7 +59,7 @@ Age also determines whether someone is offered a mammogram, MRI or both:
 
 ### Services need context about why someone has been referred to VHR 
 
-**Different genes require different screening protocols.** Some genes are more susceptible to radiation than others. Protocols reflect a level of risk that changes with age, and the efficacy of mammography which differs depending on someone’s breast density 
+**Different genes require different screening protocols.** Some genes are more susceptible to radiation than others. Protocols reflect a level of risk that changes with age, and the efficacy of mammography which differs depending on someone’s breast density. 
 
 Some people are considered to have **equivalent risk** of developing breast cancer. This risk is assumed until they complete gene testing.  
 
@@ -102,18 +102,18 @@ We recently completed some research to understand more about the process of mana
 
 5. **Identify who’s due for invitation** – BS Select will automatically calculate a Next Test Due Date (NTDD), but many BSOs will copy this date into their trackers. This helps them track their workflow, and next urgent tasks depending on their protocol, for example, if MRI is in their protocol, it requires an 8-week window. "Mammogram only" requires a 4-week window.
 
-6. **Invite a person to their mammogram or MRI (or both)** - Ideally, if someone needs a mammogram and an MRI, it would be completed on the same day, at the same site. This is not always possible. BSOs aim to ensure a mammogram and an MRI take place within 2 weeks of each other. Some participants may choose to attend one appointment, and not the other 
+6. **Invite a person to their mammogram or MRI (or both)** - Ideally, if someone needs a mammogram and an MRI, it would be completed on the same day, at the same site. This is not always possible. BSOs aim to ensure a mammogram and an MRI take place within 2 weeks of each other. Some participants may choose to attend one appointment, and not the other. 
 
-7. **Close episodes and add a person to next year’s tracker** - VHR participants are invited annually 
+7. **Close episodes and add a person to next year’s tracker** - VHR participants are invited annually. 
 
 
 ## MRI appointments create additional complexity
 
-MRI appointments are more complex to manage (see [VHR guidance for MRI](https://www.gov.uk/government/publications/breast-screening-screening-of-higher-risk-women/breast-screening-guidance-for-organising-a-very-high-risk-vhr-screening-programme#liaison-withmriservices:~:text=and%20confirming%20eligibility-,5.,Liaison%20with%20MRI%20services,-6.)). Some BSOs run VHR only clinics (for mammograms), and others choose to mix VHR participants with their routine participants to complete mammograms. This is thought to make it easier for someone to attend. They may add a note to the appointment to help radiographers understand why someone might turn up who is under 50.
+MRI appointments are more complex to manage (see [VHR guidance for MRI](https://www.gov.uk/government/publications/breast-screening-screening-of-higher-risk-women/breast-screening-guidance-for-organising-a-very-high-risk-vhr-screening-programme#liaison-withmriservices:~:text=and%20confirming%20eligibility-,5.,Liaison%20with%20MRI%20services,-6.)). Some BSOs run VHR-only clinics (for mammograms), and others choose to mix VHR participants with their routine participants to complete mammograms. This is thought to make it easier for someone to attend. They may add a note to the appointment to help radiographers understand why someone might turn up who is under 50.
 
-Completing MRIs is much more difficult to manage; MRIs can only be carried out at sites who meet reporting requirements and have the correct facilities. This can mean some BSOs outsource their MRI participants to other sites. These BSOs may outsource everything from invitation to outcome, or just the MRI itself. 
+Completing MRIs is much more difficult to manage; MRIs can only be carried out at sites that meet reporting requirements and have the correct facilities. This can mean some BSOs outsource their MRI participants to other sites. These BSOs may outsource everything from invitation to outcome, or just the MRI itself. 
 
-Hormonal fluctuations can cause normal breast tissue to look bright and active in MRI images, increasing the risk of false positives. Services aim to complete MRIs in the first half of a person’s menstrual cycle (between day 6-16 ideally). This means BSOs are asking participants for their menstrual cycle dates, and coordinating with the MRI teams at the Trust to book appointments within that window. Some BSOs will aim to complete mammograms on the same day, or within 2 weeks of the MRI appointment. 
+Hormonal fluctuations can cause normal breast tissue to look bright and active in MRI images, increasing the risk of false positives. Services aim to complete MRIs in the first half of a person’s menstrual cycle (between days 6 and 16 ideally). This means BSOs are asking participants for their menstrual cycle dates, and coordinating with the MRI teams at the Trust to book appointments within that window. Some BSOs will aim to complete mammograms on the same day, or within 2 weeks of the MRI appointment. 
 
 Further complexity is added due to the fact that MRI appointments cannot be managed in NBSS, and MRI teams cannot access NBSS. This means participant and appointment information is held by the MRI team in hospital systems. In England this is usually [CRIS](https://www.magentus.com/clinical-systems/radiology/?r=e), Cancer Radiology Information System. This system is also used for completing MRI reports, requiring BSO admin staff to manually interpret reports and update NBSS with outcomes to complete their VHR screening workflow. 
 
