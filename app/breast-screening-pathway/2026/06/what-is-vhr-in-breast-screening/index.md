@@ -27,12 +27,11 @@ The volumes of eligible participants are relatively small compared to routine br
 | Moderate risk/ family history (Not part of national screening)  | ~ 300k–600k                     | ~ 5–10% 					  |
 | Very High Risk (VHR)           				  | ~ 17k (based on 2024-25 data)   | ~ 7–12% (can be higher with MRI protocols)  |
 
-> [!NOTE]
 > Data sourced from [NHS](https://digital.nhs.uk/data-and-information/publications/statistical/breast-screening-programme/england-2024-2025/mainreport2425), NICE and GOV.UK sources. Routine and VHR are based on breast screening reporting data, however Moderate risk are evidence informed estimates  
 
-## Key differences between routine screening and VHR screening: 
+## Key differences between routine screening and VHR screening 
 
-1. **Eligibility** – VHR Screening has tight [eligibility criteria](https://www.gov.uk/government/publications/breast-screening-higher-risk-women-surveillance-protocols/tests-and-frequency-of-testing-for-women-at-very-high-risk--2). Referrals can be made from age 18, but they will not be invited until they are 20 years old, or older, depending on their reason for referral. Routine screening starts at age 50.
+1. **Eligibility** – VHR screening has tight [eligibility criteria](https://www.gov.uk/government/publications/breast-screening-higher-risk-women-surveillance-protocols/tests-and-frequency-of-testing-for-women-at-very-high-risk--2). Referrals can be made from age 18, but they will not be invited until they are 20 years old, or older, depending on their reason for referral. Routine screening starts at age 50.
 
 2. **Screening protocol** – depending on their reason for referral, age and breast density, they may be offered an MRI only, mammogram only or both.
 
