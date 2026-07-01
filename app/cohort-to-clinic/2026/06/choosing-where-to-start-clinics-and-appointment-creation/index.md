@@ -2,6 +2,7 @@
 title: Choosing where to start
 description: The programme needs a safe way to create clinics and book breast screening appointments, for breast screening offices (BSOs) across the country to use.
 date: 2026-06-11
+redirectFrom: "cohort-to-clinic/2026/06/Choosing-where-to-start:-Clinics-and-appointment-creation"
 tags:
   - clinics
   - appointments
