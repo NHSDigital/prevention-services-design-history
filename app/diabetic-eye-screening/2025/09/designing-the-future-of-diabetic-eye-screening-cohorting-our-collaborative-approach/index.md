@@ -2,6 +2,7 @@
 title: Designing the future of cohorting – our collaborative approach  
 description: How we co-created our desired to-be vision for DES cohorting with the program and wider stakeholders
 date: 2025-09-12
+redirectFrom: "diabetic-eye-screening/2025/09/designing-the-future-of-diabetic-eye-screening-cohorting–our-collaborative-approach"
 author: Chloe Eaborn
 tags:
   - discovery
