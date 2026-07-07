@@ -128,7 +128,7 @@ HL7 is used to exchange electronic health information, such as demographics, sch
 
 HL7 requires every message to start with “MSH” (message header). This defines the sender, receiver, and message type. These messages can trigger real-world events, such as admissions or orders. This standard is important for Rubie because the service needs to interact with a Trust’s PACS and modality systems. 
 
-### HL7 message example
+#### HL7 message example
 ```
 MSH|^~&|SENDING_APP|SENDING_FAC|RECEIVING_APP|RECEIVING_FAC|202604261000||ADT^A01|MSG00001|P|2.3PID|||PATID1234^5^M11||DOE^JOHN^||19800101|M|||123 STREETST^^CITY^12345||(555)5555555|||PV1||I|2000^2012^01||||1234^SMITH^JOHN^ |||||||||||||||||||||||||||||||||202604261000
 ```  
