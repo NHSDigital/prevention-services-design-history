@@ -106,6 +106,7 @@ DICOM is important for Rubie because it affects how:
 | Patient Sex			| Institution Name	  | Patient Position					| Photometric Interpretation	|
 | Patient Weight		| Referring Physician. 	  | Body Part Examined + Modality-Specific Attributes	| Planar Configuration		| 
 | 				| 			  | 							| Samples per Pixel		| 
+
 *Table of DICOM Metadata reproduced from MDPI article "Thirty years of the DICOM standard" by Michele Larobina* [^4] 
 
 DICOM ensures that images produced by one provider’s machine can be viewed and archived on systems from another.  
@@ -173,7 +174,7 @@ Equipment standards also influence approaches to data capture and storage, inclu
 
 When an image is taken at a modality, such as a mammogram machine, it produces two sets of data known as “processed” and “unprocessed/raw”. Processed data is transferred to the Trust’s PACS and optimises images through improved contrast and sharpness so they can be interpreted by a human at their workstation. AI tools have generally been trained on processed data because that is what is available through current processes. 
 
-In the future, services may want to provide unprocessed data to AI tools. Unprocessed data is more suitable for machine analysis because it removes the inconsistencies created by different image processing approaches, which vary by manufacturer and product version [^6]. Unprocessed data is not regularly stored because larger file sizes create significant digital storage and archiving challenges [^7]. 
+In the future, services may want to provide unprocessed data to AI tools. Unprocessed data is more suitable for machine analysis because it removes the inconsistencies created by different image processing approaches, which vary by manufacturer and product version. [^6] Unprocessed data is not regularly stored because larger file sizes create significant digital storage and archiving challenges. [^7] 
 
 
 [^6]: [Digital mammography research report comparing raw and processed data](https://pmc.ncbi.nlm.nih.gov/articles/PMC5055533/)
