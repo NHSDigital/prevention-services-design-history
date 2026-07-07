@@ -166,7 +166,7 @@ This is relevant for breast screening because image readers sometimes need to re
 
 ## Decisions now could affect future use of AI 
 
-Equipment standards also influence approaches to data capture and storage, including metadata. Metadata is a key component of more recent developments in mammography. The EDITH trial and BRAID trial rely on metadata to understand how an image has been captured and how it can be suitably processed for trial purposes. 
+Equipment standards also influence approaches to data capture and storage, including metadata. Metadata is a key component of more recent developments in mammography. The [EDITH trial](https://www.nihr.ac.uk/news/world-leading-ai-trial-tackle-breast-cancer-launched) and [BRAID trial](https://www.cancerresearchuk.org/about-cancer/find-a-clinical-trial/a-study-comparing-breast-scans-to-diagnose-small-breast-cancers-in-dense-breasts-braid) rely on metadata to understand how an image has been captured and how it can be suitably processed for trial purposes. 
 
 
 > FFDM systems can produce images in both the raw and clinical display representations, and these display formats differ across manufacturers. Clinical display images are processed (that is, enhanced) with algorithms developed by the respective manufacturers for improved diagnostic capability. Due to the size of images and storage considerations, the raw data is often discarded leaving only this processed data available for examination.
