@@ -128,8 +128,10 @@ HL7 is used to exchange electronic health information, such as demographics, sch
 
 HL7 requires every message to start with “MSH” (message header). This defines the sender, receiver, and message type. These messages can trigger real-world events, such as admissions or orders. This standard is important for Rubie because the service needs to interact with a Trust’s PACS and modality systems. 
 
-> [!IMPORTANT] HL7 message example
-> MSH|^~\&|SENDING_APP|SENDING_FAC|RECEIVING_APP|RECEIVING_FAC|202604261000||ADT^A01|MSG00001|P|2.3PID|||PATID1234^5^M11||DOE^JOHN^||19800101|M|||123 STREETST^^CITY^12345||(555)5555555|||PV1||I|2000^2012^01||||1234^SMITH^JOHN^ |||||||||||||||||||||||||||||||||202604261000   
+### HL7 message example
+```
+MSH|^~&|SENDING_APP|SENDING_FAC|RECEIVING_APP|RECEIVING_FAC|202604261000||ADT^A01|MSG00001|P|2.3PID|||PATID1234^5^M11||DOE^JOHN^||19800101|M|||123 STREETST^^CITY^12345||(555)5555555|||PV1||I|2000^2012^01||||1234^SMITH^JOHN^ |||||||||||||||||||||||||||||||||202604261000
+```  
 
 There is a more modern evolution of HL7 known as “fast healthcare interoperability resources” (FHIR). This exists for the same purpose as HL7 but is more suitable for modern applications. [^5] However, we believe most incumbent hospital systems are more likely to rely on HL7 in the near term. 
 
