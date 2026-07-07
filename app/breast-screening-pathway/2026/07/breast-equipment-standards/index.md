@@ -155,7 +155,7 @@ IHE standards related to mammography workflows and reporting are also useful res
 
 ### National imaging registry (NIR) 
 
-The National Imaging Registry (NIR) is a cloud-based system that supports the secure sharing and discovery of diagnostic imaging across NHS imaging networks in England. It enables clinicians to access imaging carried out by other organisations, without needing to request or transfer physical media. 
+The national imaging registry (NIR) is a cloud-based system that supports the secure sharing and discovery of diagnostic imaging across NHS imaging networks in England. It enables clinicians to access imaging carried out by other organisations, without needing to request or transfer physical media. 
 
 It intends to act as a national service that supports collaboration across imaging networks by: 
 * enabling clinicians to discover and access imaging and reports held by other organisations 
@@ -185,13 +185,9 @@ In the future, services may want to provide unprocessed data to AI tools. Unproc
 Rubie will need to work safely across services that use different imaging equipment, image storage systems and local set-ups. This means interoperability needs to be part of the design, testing and roll-out from the start. 
 
 We need to: 
-
 * work with suppliers early, including manufacturers of imaging equipment and image storage systems 
-
 * test Rubie with the different systems and configurations used by breast screening services 
-
 * include interoperability checks in onboarding, so local issues are identified before go-live 
-
 * make decisions about data and metadata that support future developments, including AI 
 
 This will help reduce integration risks and make it easier for services to adopt Rubie consistently. It will also help avoid short-term decisions that could limit how breast screening uses data in the future. 
