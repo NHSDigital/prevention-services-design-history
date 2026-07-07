@@ -18,7 +18,7 @@ For breast screening to work safely and efficiently, different digital systems n
 This design history is focused on how: 
 1. the worklist, or list of appointments, is shared with imaging equipment such as a mammogram machine. 
 2. appointments are recorded and matched with images taken on the imaging equipment (known as a “modality”).
-3. images move from imaging equipment to the Trust’s image storage system (known as “PACS”). You can read more about this in our work with mobile vans.
+3. images move from imaging equipment to the Trust’s image storage system (known as “PACS”). You can read more about this in our work with [mobile vans](/breast-screening-pathway/2026/06/connectivity-fallbacks-mobile-vans/).
 4. Rubie can access image storage systems to support image reading. 
 5. Rubie can share information with other screening systems, such as radiology or pathology systems. 
 
