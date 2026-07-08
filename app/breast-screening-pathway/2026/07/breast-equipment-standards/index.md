@@ -72,7 +72,7 @@ Each modality manufacturer has their own way of capturing images, and post-proce
 
 How the data is processed depends on the manufacturer’s hardware and software versions, which are not currently monitored or recorded consistently. This, combined with the variability of the humans reading the images, makes it difficult to evaluate how processing affects outcomes, for example, whether one manufacturer's settings support better or worse cancer detection than another. 
 
-![Manufacturer settings influences how image data is optimized. This, combined with the skill of the human interpreting the image will affect outcomes of the service.](manufacturer_to_outcome.png)
+![Manufacturer settings influences how image data is optimised. This, combined with the skill of the human interpreting the image will affect outcomes of the service.](manufacturer_to_outcome.png)
 
 Unprocessed data is generally more suitable for research and analysis, as it allows the user to determine how data should be interpreted. This is difficult to do with processed data, as the transformation that enhances an image for human interpretation cannot be reliably undone. 
 
