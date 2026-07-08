@@ -150,9 +150,7 @@ IHE maintains a wiki of profiles, including several related to mammography, for 
 
 * [Scheduled Workflow](https://wiki.ihe.net/index.php/Scheduled_Workflow) - Integrates the ordering, scheduling, imaging acquisition, storage and viewing activities associated with radiology exams. 
 
-Digital Screening is interested in the application of these profiles because the service needs to communicate with modalities and PACS systems. An updated IHE profile will reduce the risk of poor interoperability. 
-
-IHE standards related to mammography workflows and reporting are also useful resources for the development of Rubie. 
+Digital Screening is interested in the application of these profiles because the service needs to communicate with modalities and PACS. Referencing IHE profiles related to mammography workflows and reporting will reduce the risk of poor interoperability. 
 
 
 ### National imaging registry (NIR) 
@@ -174,7 +172,7 @@ Equipment standards also influence approaches to data capture and storage, inclu
 > FFDM systems can produce images in both the raw and clinical display representations, and these display formats differ across manufacturers. Clinical display images are processed (that is, enhanced) with algorithms developed by the respective manufacturers for improved diagnostic capability. Due to the size of images and storage considerations, the raw data is often discarded leaving only this processed data available for examination.
 > -- [Vachon et al., 2013](https://pmc.ncbi.nlm.nih.gov/articles/PMC3672765/#:~:text=Film%20mammography%20and%20FFDM%20have,processed%20representations%20with%20breast%20cancer.)
 
-When an image is taken at a modality, such as a mammogram machine, it produces two sets of data known as “processed” and “unprocessed/raw”. Processed data is transferred to the Trust’s PACS and optimises images through improved contrast and sharpness so they can be interpreted by a human at their workstation. AI tools have generally been trained on processed data because that is what is available through current processes. 
+When an image is taken at a modality, such as a mammogram machine, it produces two sets of data known as “processed” and “unprocessed/raw”. Processed data is transferred to the Trust’s PACS and optimises images to improve contrast and sharpness so they can be interpreted by a human at their workstation. AI tools have generally been trained on processed data because that is what is is typically available due to current processes.
 
 In the future, services may want to provide unprocessed data to AI tools. Unprocessed data is more suitable for machine analysis because it removes the inconsistencies created by different image processing approaches, which vary by manufacturer and product version. [^6] Unprocessed data is not regularly stored because larger file sizes create significant digital storage and archiving challenges. [^7] 
 
