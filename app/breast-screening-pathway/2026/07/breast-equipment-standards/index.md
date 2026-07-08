@@ -13,12 +13,12 @@ tags:
   - HL7
 ---
 
-For breast screening to work safely and efficiently, different digital systems need to share the right information at the right time.  
+For breast screening to work safely and efficiently, the right information needs to be shared across digital systems at the right time.  
 
 This design history is focused on how: 
 1. the worklist, or list of appointments, is shared with imaging equipment such as a mammogram machine. 
 2. appointments are recorded and matched with images taken on the imaging equipment (known as a “modality”).
-3. images move from imaging equipment to the Trust’s image storage system (known as “PACS”). You can read more about this in our work with [mobile vans](/breast-screening-pathway/2026/06/connectivity-fallbacks-mobile-vans/).
+3. images move from imaging equipment to the Trust’s image storage system (known as a picture archiving and communication system, or “PACS”). You can read more about this in our work with [mobile vans](/breast-screening-pathway/2026/06/connectivity-fallbacks-mobile-vans/).
 4. Rubie can access image storage systems to support image reading. 
 5. Rubie can share information with other screening systems, such as radiology or pathology systems. 
 
@@ -34,7 +34,7 @@ The diagram below shows where data is shared in the breast screening pathway. Th
 
 
 
-## Different suppliers make integration more complex 
+## Having multiple suppliers makes integration more complex
 
 A survey completed in 2025 provided insight into which suppliers are used across breast screening in England. We asked breast screening offices (BSOs) to confirm their provider for PACS and mammogram machines. 
 
@@ -58,7 +58,7 @@ The breast screening programme requires daily, weekly and monthly checks to be c
 * modality machine calibration or degradation 
 * compression and image quality from modalities 
 * radiation dose from modalities 
-* that monitors are operating effectively (for image viewing) 
+* that monitors are operating effectively for image viewing
 
 Data from regular quality control checks is collated and shared by services with SQAS every six months. [^3] 
 
@@ -68,9 +68,9 @@ Data from regular quality control checks is collated and shared by services with
 
 ### Image processing has an impact on outcomes 
 
-Each modality manufacturer captures images differently. They also apply different post-processing to image data. Data need to be processed to optimise images for a human interpretation. 
+Each modality manufacturer has their own way of capturing images, and post-processing their image data. The data needs to be processed to optimise images for human interpretation. 
 
-The difficulty with processed data is that how it is processed depends on the manufacturer's hardware and software versions, which are not currently monitored or recorded consistently. This makes it difficult to monitor how processing affects outcomes, for example, whether one manufacturer's settings support better or worse cancer detection than another. 
+How the data is processed depends on the manufacturer’s hardware and software versions, which are not currently monitored or recorded consistently. This, combined with the variability of the humans reading the images, makes it difficult to evaluate how processing affects outcomes, for example, whether one manufacturer's settings support better or worse cancer detection than another. 
 
 ![Manufacturer settings influences how image data is optimized. This, combined with the skill of the human interpreting the image will affect outcomes of the service.](manufacturer_to_outcome.png)
 
@@ -92,7 +92,7 @@ DICOM defines what data should be stored alongside a medical image, and how equi
 A DICOM file (.dcm) combines image data with a rich header containing metadata, such as patient demographics, acquisition parameters and study details. 
 
 DICOM is important for Rubie because it affects how: 
-1. images should be sent to PACS systems 
+1. images should be sent to PACS 
 2. mammogram data should be retrieved from servers
 3. modality worklists should be managed (patient and procedure details) 
 
