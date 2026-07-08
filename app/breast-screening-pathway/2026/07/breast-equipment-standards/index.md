@@ -1,7 +1,7 @@
 ---
 title: How Rubie needs to work with breast screening systems
 description: What we've learned about equipment standards that will support the interoperability of the Rubie service
-date: 2026-07-10
+date: 2026-07-09
 author: Marianne Brierley
 opengraphImage:
   src: /breast-screening-pathway/2026/07/breast_equipment_standards/modality_quality_checks.png
