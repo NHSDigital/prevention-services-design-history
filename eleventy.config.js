@@ -137,6 +137,7 @@ export default function (eleventyConfig) {
     'hpv-self-testing',
     'screening-invite',
     'lung-health-check',
+    'prostate-screening',
     // Vaccination service collections
     'vaccinations',
     'book-a-vaccination',
