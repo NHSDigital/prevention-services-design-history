@@ -13,7 +13,7 @@ author:
   - Lasara Denton 
 ---
 
-Everyone has BRCA1 and BRCA2 genes. They usually protect us from cancer. People with a BRCA2 gene variant have a significantly higher risk of certain cancers including prostate and breast cancer. Many of them already know this. They have been through genetic testing. They have spoken to clinicians about lifestyle and their future. They have likely had difficult conversations with their family members.
+Everyone has BRCA1 (Breast Cancer gene 1) and BRCA2 (Breast Cancer gene 2) genes. They usually protect us from cancer. People with a BRCA2 gene variant have a significantly higher risk of certain cancers including prostate and breast cancer. Many of them already know this. They have been through genetic testing. They have spoken to clinicians about lifestyle and their future. They have likely had difficult conversations with their family members.
 
 ## What we were asked to explore
 
@@ -31,7 +31,7 @@ These constraints limited our understanding of our participant group:
 
 1. What do they know?
 2. What don’t they know?
-3. What have they experienced so far regarding prostate screening
+3. What have they experienced so far regarding prostate screening?
 4. How might they feel when we first reach out to them?
 
 However, we weren't starting with nothing. We had findings from the pre-discovery as a foundation to build on.
@@ -76,19 +76,19 @@ It is feasible to build a pathway targeting this specific population: one ground
 
 We expect the participant journey to move through these steps:
 
-1.                             Participant is identified as eligible.
-2.                             Participant receives a pre- notification message.
-3.                             Participant is contacted by phone to discuss medication and preparation.
-4.                             Participant’s PSA test appointment is booked.
-5.                             Participant attends their appointment.
-6.                             Participant’s sample is processed at a lab.
-7.                             Participant receives their results.
+1.                              Participant is identified as eligible.
+2.                              Participant receives a pre-notification message.
+3.                              Participant is contacted by phone to discuss medication and preparation.
+4.                              Participant’s PSA test appointment is booked.
+5.                              Participant attends their appointment.
+6.                              Participant’s sample is processed at a lab.
+7.                              Participant receives their results.
 
 There's still a lot to learn here about our participants as well as our internal users like call handlers, CDC staff and lab staff. We will use our alpha to answer our questions and fill our knowledge gaps.
 
 ## What's next
 
-We start alpha in July, with site visits to CDCs being planned already. We're aiming for private beta in early 2027.
+We are starting alpha in July, with site visits to CDCs being planned already. We're aiming for private beta in early 2027.
 
 There is real momentum behind this work. Prostate cancer affects a lot of men in the UK. It has been a very recent political talking point, and featured in the press and media, with public figures like Jeremy Clarkson speaking openly about his own experiences with prostate cancer.
 
