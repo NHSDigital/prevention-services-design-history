@@ -16,83 +16,77 @@ opengraphImage:
   alt: Comparison of how people experience cigarette smoking and shisha smoking
 ---
 
-Most of our research into smoking history has focused on people who currently smoke, or previously smoked, cigarettes. This has helped us understand how users think about smoking when using our lung cancer screening service.
+We are designing a digital service for lung cancer screening, which relies on people accurately reporting their smoking history. Most of the people who go through lung cancer screening are current or former cigarette smokers, so much of our earlier research has focused on understanding their experiences.
 
-We wanted to understand whether people who smoke shisha (also known as hookah or waterpipe) think about, describe and report their smoking in the same way.
+Most of our research so far has been with people who smoke, or used to smoke, cigarettes. That’s given us a clear picture of how most users think about smoking when they use our service. People often link smoking directly to lung cancer risk. They may feel anxious, guilty or judged, but they recognise that smoking is relevant to the questions we ask.
 
-Our research suggests they often do not. Many participants saw shisha as something different from cigarette smoking. They were less likely to identify as smokers, less likely to associate shisha with lung cancer risk, and often found it difficult to answer questions designed around regular cigarette smoking habits.
-
-This creates a challenge for our service. If users do not recognise that shisha is relevant to questions about smoking, or if our questions do not reflect how they use shisha, we risk collecting inaccurate information about their smoking history. These findings have implications for both eligibility checking and the wider smoking history journey.
+This research shows that this is not always the case for people who smoke shisha.
 
 ## Shisha is understood and experienced differently to cigarette smoking
 
-Many participants did not think shisha counted as smoking in the same way as cigarettes. Some described it as not being "proper smoking" or something that felt less harmful.
+Many people do not think shisha counts as smoking in the same way as cigarettes. Some described it as not "proper smoking", or something that did not feel harmful. This means there is often a gap between how the service assesses risk and how users see their own behaviour. Users may not report shisha at all, especially in early eligibility questions where they are trying to decide whether they "count" as a smoker.
 
-This creates a gap between how the service assesses risk and how users see their own behaviour. Users may not report shisha use at all, particularly in early eligibility questions where they are deciding whether they "count" as a smoker.
+At the same time, shisha is often not used in a regular or routine way. People described smoking it on holiday, in the summer, or when socialising. This makes it harder to answer questions that assume consistent behaviour, such as how often they smoke or how long they have smoked for. Some users may struggle to give a clear answer, while others may not see themselves as a "smoker" at all.
 
-At the same time, shisha use was often described as irregular and event-based. Participants talked about smoking while on holiday, during the summer, or when socialising with friends and family. Because of this, they often struggled to answer questions that assume consistent behaviour over time.
-
-Participants also described shisha in positive social terms. They associated it with flavour, relaxation and shared experiences. As a result, it often did not feel like a health risk in the same way as cigarette smoking.
+Shisha is also often experienced in a more positive and social way. Users talked about flavour, relaxation and shared experiences with others. Because of this, it may not feel like a health risk in the same way as cigarette smoking. When people think about their health, they may not think to include shisha, which can lead to under-reporting.
 
 ![Comparison of cigarette smoking and shisha smoking perceptions](shisha-perceptions.png "Participants often described shisha very differently from cigarette smoking")
 
 ## Testing a new question to check users' eligibility
 
-The first eligibility question in our pilot service asks users whether they have ever smoked tobacco.
+The first eligibility question in our pilot service asks users if they have ever smoked tobacco.
 
-The existing answer options are:
+Users can select from the following options:
 
 - Yes, I currently smoke
 - Yes, I used to smoke
 - Yes, but I have smoked fewer than 100 cigarettes in my lifetime
 - No, I have never smoked
 
-Based on what we learned about shisha users not always identifying as smokers, we tested an alternative design.
+Given what we learned about shisha smokers not always thinking that shisha "counts" as smoking, we wanted to test a different design.
 
-Instead of asking users whether they smoke, we asked:
+We designed a new question:
 
 > Have you ever smoked any of the following types of tobacco for a period of 1 year or longer?
 
-Users could then select from a list of tobacco types, including shisha.
+Users could then select from a list of tobacco types.
 
-Our aim was to encourage users who smoke shisha, but who may not think of themselves as smokers, to recognise that the question was relevant to them and continue through the service.
+Our hope was that this design would encourage users who smoked shisha, but didn’t necessarily think of themselves as a smoker, to continue using our service.
 
-We included the phrase "for a period of 1 year or longer" to help distinguish regular use from having only tried a tobacco product once or twice.
+We included "for a period of 1 year or longer" to try and clarify that users did not have to select types of tobacco that they might have only tried once.
 
 ![Eligibility question listing different tobacco types including shisha](tobacco-types-question.png "Alternative eligibility question used during the research")
 
-## Our questions do not always fit how shisha works
+## Our questions don't always fit how shisha works
 
-These differences became even clearer when participants answered specific questions.
+These differences show up clearly when people answer questions.
 
-For example, some users found the phrase "for a period of 1 year or longer" difficult to apply to their own behaviour. People who only smoked on holiday or during particular times of year were unsure how to respond. They might have smoked regularly for short periods, but not continuously across a full year.
+For example, asking whether someone has smoked shisha "for 1 year or longer" was confusing for some users. People who only smoke on holiday or in the summer were unsure how to answer. They may smoke a lot over short periods, but not across a full year.
 
-This means we could miss people with meaningful exposure because the question does not match how they experience their smoking behaviour.
+This means we could miss people who have meaningful exposure, simply because the question does not match how they experience their behaviour.
 
-We saw a similar issue with questions about stopping smoking. For many cigarette smokers, it is relatively straightforward to say whether they have quit. For people who smoke shisha occasionally, the idea of having "stopped" is less clear. Someone may go months without smoking and not view that as quitting.
+We saw a similar issue with questions about stopping smoking. For cigarette smokers, it makes sense to ask if they have stopped. For shisha users, "stopping" is less clear. Someone might not smoke for long periods, but not see that as quitting.
 
-When questions do not match users' experiences, people may guess, abandon the journey, or provide answers that do not accurately reflect their behaviour.
+When questions don’t match people’s experience, they either guess, give up, or give an answer that does not reflect reality. This can lead to inaccurate data.
 
 ![Question asking about stopping smoking shisha](shisha-stopping-question.png "Questions about stopping smoking were not always easy for shisha users to interpret")
 
 ## What this means for our designs
 
-The main learning from this research is that shisha is not simply another tobacco type that can be added to an existing cigarette-focused journey.
+The main thing this research shows is that shisha is not just another tobacco type that we can slot into an existing journey.
 
-People who smoke shisha often have different mental models, different patterns of use and different expectations. If we design solely around cigarette smoking behaviour, we risk under-reporting or misrepresenting shisha use.
+Shisha involves different mental models, different patterns of use, and different expectations. If we design questions based only on cigarette smoking, we risk missing or misrepresenting shisha use.
 
-For cigarette smokers, the challenge is often emotional. People may feel guilt, anxiety or concern about their smoking history.
-
-For shisha users, the challenge is more often recognition and interpretation. Users first need to understand that shisha is relevant to the service, and then need questions that allow them to accurately describe how they use it.
+For cigarette smokers, the challenge is often emotional. For shisha smokers, the challenge is often recognition and interpretation. People need to understand that shisha is relevant, and they need questions that allow them to describe their behaviour properly.
 
 ## Next steps
 
-This research highlights several areas for further design work:
+This work shows that we need to keep improving how we ask about shisha. That includes:
 
-- make it clear that shisha counts as smoking within the context of lung cancer screening
-- ensure eligibility questions do not unintentionally exclude people with irregular or episodic use
-- design questions that better reflect social and event-based patterns of smoking behaviour
-- continue researching how people who smoke shisha naturally describe and think about their own use
+- making it clear that shisha counts as smoking
+- making sure eligibility questions don’t exclude people with episodic use
+- writing questions that reflect irregular, social patterns of behaviour
 
-The key finding is that people who smoke shisha may approach the service with a very different mindset from cigarette smokers. If we want to collect accurate smoking history information, our service needs to recognise and accommodate those differences.
+We may also need to do more research or co-design with people who smoke shisha, to understand how they would naturally describe their use.
 
+The main point is that people who smoke shisha may use the service with a very different mindset to cigarette smokers. If we want to collect accurate information from them, the service needs to reflect that difference.
