@@ -1,7 +1,7 @@
 ---
 title: Understanding shisha as a different experience of smoking
 description: Research exploring how people who smoke shisha think about, describe and report their smoking, and what this means for designing lung cancer screening services.
-date: 2026-07-09
+date: 2026-07-10
 tags:
   - user research
   - smoking history
