@@ -1,6 +1,6 @@
 ---
 title: Testing 'one thing per page' in practice
-description: Research exploring how the GOV.UK 'one thing per page' principle works in practice, and when grouping related questions can help people provide more accurate information.
+description: Testing how the GOV.UK 'one thing per page' principle works in practice, and when grouping related questions can help people provide more accurate information.
 date: 2026-07-13
 tags:
   - user research
