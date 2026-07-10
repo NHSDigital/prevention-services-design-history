@@ -30,7 +30,7 @@ The diagram below shows where data is shared in the breast screening pathway. Th
 * structured reporting of radiation dose 
 * how Rubie connects with other systems 
 
-![Digram showing relevant parts of the breast screening workflow that are affected by equipment standards](equipment_interoperability_ecosystem.png "Digram showing relevant parts of the breast screening workflow that are affected by equipment standards")
+![Digram showing relevant parts of the breast screening workflow that are affected by equipment standards](equipment_interoperability_ecosystem.png "Diagram showing relevant parts of the breast screening workflow that are affected by equipment standards")
 
 
 
