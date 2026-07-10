@@ -16,7 +16,7 @@ opengraphImage:
   alt: Comparison of how people experience cigarette smoking and shisha smoking
 ---
 
-We are designing a digital service for lung cancer screening, which relies on people accurately reporting their smoking history. Most of the people who go through lung cancer screening are current or former cigarette smokers, so much of our earlier research has focused on understanding their experiences.
+We are designing a digital service for lung cancer screening, which relies on people accurately reporting their smoking history. Most of the people who go through lung cancer screening are current or former cigarette smokers, so much of our earlier research has focused on understanding their experiences. However, we wanted to understand whether people who smoke shisha - also known as hookah or waterpipe - think about, describe and report their smoking in the same way.
 
 Most of our research so far has been with people who smoke, or used to smoke, cigarettes. That’s given us a clear picture of how most users think about smoking when they use our service. People often link smoking directly to lung cancer risk. They may feel anxious, guilty or judged, but they recognise that smoking is relevant to the questions we ask.
 
