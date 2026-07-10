@@ -12,7 +12,7 @@ tags:
 author:
   - Michael Watson
 opengraphImage:
-  src: app/lung-health-check/2026/07/understanding-shisha/shisha-perceptions.png
+  src: /lung-health-check/2026/07/understanding-shisha/shisha-perceptions.png
   alt: Comparison of how people experience cigarette smoking and shisha smoking
 ---
 
@@ -34,7 +34,7 @@ At the same time, shisha use was often described as irregular and event-based. P
 
 Participants also described shisha in positive social terms. They associated it with flavour, relaxation and shared experiences. As a result, it often did not feel like a health risk in the same way as cigarette smoking.
 
-![Comparison of cigarette smoking and shisha smoking perceptions](app/lung-health-check/2026/07/understanding-shisha/shisha-perceptions.png "Participants often described shisha very differently from cigarette smoking")
+![Comparison of cigarette smoking and shisha smoking perceptions](shisha-perceptions.png "Participants often described shisha very differently from cigarette smoking")
 
 ## Testing a new question to check users' eligibility
 
@@ -59,7 +59,7 @@ Our aim was to encourage users who smoke shisha, but who may not think of themse
 
 We included the phrase "for a period of 1 year or longer" to help distinguish regular use from having only tried a tobacco product once or twice.
 
-![Eligibility question listing different tobacco types including shisha](app/lung-health-check/2026/07/understanding-shisha/tobacco-types-question.png "Alternative eligibility question used during the research")
+![Eligibility question listing different tobacco types including shisha](tobacco-types-question.png "Alternative eligibility question used during the research")
 
 ## Our questions do not always fit how shisha works
 
@@ -73,7 +73,7 @@ We saw a similar issue with questions about stopping smoking. For many cigarette
 
 When questions do not match users' experiences, people may guess, abandon the journey, or provide answers that do not accurately reflect their behaviour.
 
-![Question asking about stopping smoking shisha](app/lung-health-check/2026/07/understanding-shisha/shisha-stopping-question.png "Questions about stopping smoking were not always easy for shisha users to interpret")
+![Question asking about stopping smoking shisha](shisha-stopping-question.png "Questions about stopping smoking were not always easy for shisha users to interpret")
 
 ## What this means for our designs
 
