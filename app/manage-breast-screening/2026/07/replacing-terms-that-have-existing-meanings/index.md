@@ -12,7 +12,7 @@ tags:
   - breast screening
 ---
 
-Across the mammogram and image reading parts of our service we've been referring to 'reported' things. This term is used to indicate when a participant has mentioned something during their appointment such as a previous mammogram not on our system, or current symptoms.
+Across the mammogram and image reading parts of our service we've been referring to 'reported' things. This term is used to indicate when a participant has mentioned something during their appointment such as a previous mammogram (that's not on our system) or current symptoms.
 
 However, during testing this has caused some confusion. When something is 'reported' in breast screening, it's generally understood to have come from a radiologist during image reading. 
 
