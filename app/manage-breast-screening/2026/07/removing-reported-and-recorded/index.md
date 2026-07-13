@@ -1,10 +1,10 @@
 ---
-title: Replacing terms that have existing meanings
-description: Updating words within our service that are understood to mean something else to our users 
+title: Removing 'reported' and 'recorded' terms from our service
+description: We've decided to use the word 'added' when information has been entered during an appointment. Here's why.
 date: 2026-07-13
 author: Danny Chadburn
 opengraphImage:
-  src: /manage-breast-screening/2026/07/replacing-terms-that-have-existing-meanings/rename-added.png
+  src: /manage-breast-screening/2026/07/removing-reported-and-recorded/rename-added.png
   alt: Our 'Review medical information' page with instances of the word 'added' highlighted in yellow
 tags:
   - beta
@@ -18,7 +18,7 @@ However, during testing this has caused some confusion. When something is 'repor
 
 So we've been working to adjust our terminology to make it clear where this information originated.
 
-## Avoiding further confusion
+## Change the 'record'
 
 Our first instinct was to switch from 'reported' to 'recorded', which was already being used using elsewhere in the UI. The mammographer is actively 'recording' lots of information during the appointment within our service so this term naturally fits into the workflow.
 
@@ -37,7 +37,7 @@ In order to 'record' information in our service, mammographers need to 'add' det
 
 ![Our 'Review medical information' page with instances of the word 'added' highlighted in yellow.](rename-added.png)
 
-Through these changes we're no longer implying who divulged the information, just stating the fact that information has been added.
+Through these changes we're no longer implying who divulged the information, just stating the fact that information has been added. We'll be checking that this is understood in future user research sessions.
 
 ## A simple change now to avoid future headaches
 
