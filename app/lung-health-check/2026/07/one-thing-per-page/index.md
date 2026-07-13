@@ -3,12 +3,12 @@ title: Testing 'one thing per page' in practice
 description: Testing how the GOV.UK 'one thing per page' principle works in practice, and when grouping related questions can help people provide more accurate information.
 date: 2026-07-13
 tags:
+  - smoking history
   - user research
-  - one thing per page
   - forms
   - govuk design system
   - lung cancer screening
-  - content design
+  - content
 author:
   - Michael Watson
 opengraphImage:
@@ -30,7 +30,7 @@ However, this only worked when the questions were genuinely related and did not 
 
 This suggests that what matters is not the number of questions on a page, but whether they work together to help users answer a single thing.
 
-![Grouping related questions can improve accuracy, but only when they do not depend on each other](one-thing-per-page-comparison.png "Grouping related questions can improve accuracy, but only when they do not depend on each other")
+![A diagram showing the benefits and drawbacks of 'one question per page' and 'multiple questions per page'. A one question per page approach is clear and simple and reduces cognitive load, but users may guess what comes next and self-moderate. Multiple questions per page meant more context was visible and self-moderation was reduced, but it can reduce clarity if questions depend on previous answers.](one-thing-per-page-comparison.png "Grouping related questions can improve accuracy, but only when they do not depend on each other")
 
 ## Users were self-moderating their answers
 
@@ -48,7 +48,7 @@ The idea was that if users could see what was coming next, they would not need t
 
 We tested showing two questions together to ask about someone's smoking history.
 
-![Questions that depend on each other can become unclear when grouped together](grouped-dependent-questions.png "Questions that depend on each other can become unclear when grouped together")
+![A screenshot of a web page in the pilot version of the NHS check if you need a lung scan service. The main heading says 'Your smoking history', with a sub-heading which says 'shisha.' It then asks 'how often did you smoke shisha?' with options ranging from daily to yearly. There is a 2nd question underneath this one, which asks 'how long did you smoke shisha', with options ranging from 'up to 30 minutes,' to 'more than 2 hours'.](grouped-dependent-questions.png "Questions that depend on each other can become unclear when grouped together")
 
 This created a problem.
 
@@ -64,7 +64,7 @@ This shows that grouping related questions can remove the ability to guide users
 
 We also tested a different approach, where we showed three related questions on the same page. This page was in the same smoking history section, but these questions did not rely on each other for context.
 
-![Independent but related questions gave users useful context](grouped-independent-questions.png "Independent but related questions gave users useful context")
+![A screenshot of a web page in the pilot version of the NHS check if you need a lung scan service. This page has the main heading 'your smoking history', with a sub-heading which says 'Shisha'. Below this, it asks 3 questions. 'How old were you when you started smoking shisha', which asks users to give a numeric value next to the label 'age'. 'How old were you when you quit smoking shisha?, which also asks for a numeric 'age' value. And 'did you ever stop smoking shisha for periods of 1 year or longer?', which allows users to answer 'yes' or 'no.'](grouped-independent-questions.png "Independent but related questions gave users useful context")
 
 In this case, the result was more positive.
 
