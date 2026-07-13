@@ -18,7 +18,7 @@ opengraphImage:
 
 The GOV.UK Design System [encourages a "one thing per page" approach](https://www.gov.uk/service-manual/design/form-structure#start-with-one-thing-per-page). This means breaking a form into small steps, where each page focuses on a single piece of information or decision. This reduces cognitive load and makes the journey feel more like a conversation. But it does not always mean asking a single question per page.
 
-As part of our work on a [digital service for lung cancer screening](https://www.digital-prevention-services.nhs.uk/screening/lung/), we need people to provide accurate information about their smoking history. In [earlier rounds of research](https://design-history.prevention-services.nhs.uk/lung-health-check/), we found that the way we structured questions had a direct effect on how people answered them. This led us to explore how the principle of "one thing per page" works in practice, and whether grouping closely related questions could sometimes help people answer more accurately.
+As part of our work on a [digital service for lung cancer screening](https://www.digital-prevention-services.nhs.uk/screening/lung/), we need people to provide accurate information about their smoking history. In [earlier rounds of research](/lung-health-check/), we found that the way we structured questions had a direct effect on how people answered them. This led us to explore how the principle of "one thing per page" works in practice, and whether grouping closely related questions could sometimes help people answer more accurately.
 
 ## What we learned
 
