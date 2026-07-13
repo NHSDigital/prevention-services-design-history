@@ -28,9 +28,9 @@ In some cases, grouping a small number of related questions helped users answer 
 
 However, this only worked when the questions were genuinely related and did not depend on each other for context. When one question relied on the answer to another, grouping them together created confusion.
 
-This suggests that the question is not how many questions appear on a page, but whether they help users answer a single thing.
+This suggests that what matters is not the number of questions on a page, but whether they work together to help users answer a single thing.
 
-![Grouping related questions can improve accuracy, but only when they do not depend on each other](one-thing-per-page-comparison.png)
+![Grouping related questions can improve accuracy, but only when they do not depend on each other](one-thing-per-page-comparison.png "Grouping related questions can improve accuracy, but only when they do not depend on each other")
 
 ## Users were self-moderating their answers
 
@@ -48,7 +48,7 @@ The idea was that if users could see what was coming next, they would not need t
 
 We tested showing two questions together to ask about someone's smoking history.
 
-![Questions that depend on each other can become unclear when grouped together](grouped-dependent-questions.png)
+![Questions that depend on each other can become unclear when grouped together](grouped-dependent-questions.png "Questions that depend on each other can become unclear when grouped together")
 
 This created a problem.
 
@@ -64,7 +64,7 @@ This shows that grouping related questions can remove the ability to guide users
 
 We also tested a different approach, where we showed three related questions on the same page. This page was in the same smoking history section, but these questions did not rely on each other for context.
 
-![Independent but related questions gave users useful context](grouped-independent-questions.png)
+![Independent but related questions gave users useful context](grouped-independent-questions.png "Independent but related questions gave users useful context")
 
 In this case, the result was more positive.
 
