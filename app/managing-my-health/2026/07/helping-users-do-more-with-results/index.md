@@ -57,13 +57,15 @@ Results move from the lab to the GP record to the app, often before a clinician 
 Roughly speaking, this is the sequence by which results arrive in the NHS App’s test results feed:
 
 1. Result produced – a sample is tested. The lab’s Laboratory Information Management System (LIMS) records the result, and a clinician validates and authorises it
-1. Result sent – the LIMS sends the authorised result out, formatted (often via integration middleware) as an EDIFACT message following the NHS’s current Pathology Messaging standard (there are plans to move to FHIR)
+1. Result sent – the LIMS sends the authorised result out, formatted (often via integration middleware) as an EDIFACT[^2] message following the NHS’s current Pathology Messaging standard (there are plans to move to FHIR)
 1. Carried over MESH – the lab posts the message to the patient’s registered GP practice’s MESH mailbox
 1. GP system fetches it – the GP clinical system (EMIS Web, TPP SystmOne, Vision or Medicus) polls MESH, collects the message, and acknowledges it
 1. Filed into the GP health record – the result is added to the patient’s record. Often a clinician reviews it first, though some results are filed automatically or by admin staff
 1. NHS App fetches it – the NHS App reads data from the GP health record, via IM1 or GP Connect
 1. Identified and presented – the app works out which entries are test results and formats them for display
 1. Shown to the user – the result appears in the test results feed
+
+[^2]:EDIFACT (Electronic Data Interchange for Administration, Commerce and Transport) is an electronic messaging standard from the 1980s, originally created for exchanging business documents like invoices and orders. The NHS adopted it for pathology because it was a way to send structured data between systems long before the web existed. Results are sent as plain text with a coded structure.
 
 ### Documents
 
@@ -107,8 +109,6 @@ The cervical screening team sends its messages as quickly as it can, covering al
 ### Noise and structure
 
 The channel a result arrives in also shapes the experience. Both the test results feed and the message inbox can fill with noise, with important information shown in the same hierarchy as everything else.
-
-The feed has no read or unread status either. Nothing shows a user which results they’ve already looked at. Messages mark read and unread, which helps people keep track.
 
 Because the test results feed, with a few exceptions, pulls results as they appear in the GP health record, tests that should be grouped together can appear as separate records. For example, HPV and cytology results may show separately, even though the user gave a single sample and experienced it as one test.
 
