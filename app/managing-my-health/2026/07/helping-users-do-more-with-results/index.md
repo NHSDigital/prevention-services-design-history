@@ -27,7 +27,7 @@ Because the feed pulls results automatically from the GP health record, preventi
 
 Teams continue to use messages and letters to provide context and reassurance with results. But those sit apart from the feed. So users get an inconsistent experience across multiple channels.
 
-Managing my health sits between prevention services and the NHS App. As the app shifts from a transactional focus to a companion that follows up over time, results are a place to start – they’re personal and a potential first step towards more connected journeys.
+Managing my health sits between prevention services and the NHS App. As the app shifts [from a transactional focus to a companion](https://digital.nhs.uk/blog/transformation-blog/2026/the-nhs-app-from-digital-front-door-to-lifelong-companion) that follows up over time, results are a place to start – they’re personal and a potential first step towards more connected journeys.
 
 We want to give people a clear results loop:
 - they’re notified when there’s something to know
