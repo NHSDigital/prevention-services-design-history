@@ -12,7 +12,7 @@ This design history is about how as Personalised Prevention Services (PPS) we ha
 
 ## Context
 
-Personalised Prevention Services began following the findings from the [Personalised Prevention Platform discovery](/personalised-prevention-platform/2025/03/discovery-summary/) and building on the opportunity of NHS Health Check online, which offers first-of-kind self-testing and risk calculation service.  We have now matured into a portfolio of 6 services covering different stages of our prevention user journey.  Each of our services is deliberately developing digital capabilities that solve distinct parts of the challenge to support people to understand their health risks and make healthier choices.
+Personalised Prevention Services began following the findings from the [Personalised Prevention Platform discovery](/help-to-stay-healthy/2025/03/discovery-summary/) and building on the opportunity of NHS Health Check online, which offers first-of-kind self-testing and risk calculation service.  We have now matured into a portfolio of 6 services covering different stages of our prevention user journey.  Each of our services is deliberately developing digital capabilities that solve distinct parts of the challenge to support people to understand their health risks and make healthier choices.
 
 We want to develop reusable, common components and capabilities for use both across our PPS services and the wider system. In the future, these will offer a joined-up experience for users and be the building blocks for the health system to deliver a reimagined end-to-end digital prevention journey.
 

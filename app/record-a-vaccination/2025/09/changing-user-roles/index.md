@@ -24,7 +24,7 @@ To record these clinicians' names, users must select a name from a drop-down lis
 
 ## What's changing
 
-As part of [wider changes to the recording journey](https://design-history.prevention-services.nhs.uk/record-a-vaccination/2025/03/asking-fewer-better-questions/), we no longer need to record the names of the clinicians who assessed the patient or asked for their consent.
+As part of [wider changes to the recording journey](/record-a-vaccination/2025/03/asking-fewer-better-questions/), we no longer need to record the names of the clinicians who assessed the patient or asked for their consent.
 
 But we do still need to record the name of the vaccinator, the person who administers the vaccine.
 

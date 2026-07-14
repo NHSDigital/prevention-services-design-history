@@ -10,7 +10,7 @@ tags:
 
 Hello! We’ve undergone a mild rebrand. We’re now known as the Weight Management team, still under Personalised Prevention Services.
 
-Before this we were the [Personalised Prevention Platform (PPP).](/personalised-prevention-platform/) At least for now we’ll continue to post under PPP to reflect the ambition for the project.
+Before this we were the [Personalised Prevention Platform (PPP).](/help-to-stay-healthy/) At least for now we’ll continue to post under PPP to reflect the ambition for the project.
 
 Our underlying thinking remains the same:
 
@@ -22,7 +22,7 @@ Our underlying thinking remains the same:
 
 But we’ll be focusing on just one part of the prevention journey to start with: weight management.
 
-Our [previous post](/personalised-prevention-platform/2025/04/onboarding-users/) talked about how we've been exploring how we introduce our service to users, and find out a bit about them, through an “onboarding” process.
+Our [previous post](/help-to-stay-healthy/2025/04/onboarding-users/) talked about how we've been exploring how we introduce our service to users, and find out a bit about them, through an “onboarding” process.
 
 In this post let’s look at the next stage: presenting useful and relevant options. When presented with useful and relevant options, do people feel encouraged to take up activities?
 
@@ -148,7 +148,7 @@ to:
 
 ### Blend national and local
 
-Since [discovery](/personalised-prevention-platform/2025/03/discovery-summary/) we’ve continuously proved that presenting a blend of national and local has real value for people. Throughout our sessions people asked if the options were real (they all were), and then make notes to look them up afterwards.
+Since [discovery](/help-to-stay-healthy/2025/03/discovery-summary/) we’ve continuously proved that presenting a blend of national and local has real value for people. Throughout our sessions people asked if the options were real (they all were), and then make notes to look them up afterwards.
 
 “National” and “local” are false distinctions, very visible to us, as we operate within organisational structures.
 

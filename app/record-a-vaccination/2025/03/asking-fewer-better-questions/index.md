@@ -25,7 +25,7 @@ This has been a big piece of work and it's not finished yet. It has involved:
 
 There will be other posts about different aspects of the work. But this one is about how we set about asking fewer and better questions in the record journey.
 
-This work followed from [an earlier design sprint where we'd explored the idea of "sessions"](https://design-history.prevention-services.nhs.uk/record-a-vaccination/2024/11/design-sprint-sessions/), allowing users to set up a vaccination clinic of sorts where certain parameters could be fixed. We may well come back to the idea of sessions but for now we wanted to look at improving the core vaccination journey rather than adding a new feature to the service.
+This work followed from [an earlier design sprint where we'd explored the idea of "sessions"](/record-a-vaccination/2024/11/design-sprint-sessions/), allowing users to set up a vaccination clinic of sorts where certain parameters could be fixed. We may well come back to the idea of sessions but for now we wanted to look at improving the core vaccination journey rather than adding a new feature to the service.
 
 ## What data we capture and why
 

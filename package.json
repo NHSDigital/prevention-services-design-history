@@ -19,13 +19,14 @@
     "lint:scss:fix": "stylelint '**/*.scss' --fix",
     "lint": "npm run lint:prettier && npm run lint:js && npm run lint:scss",
     "lint:fix": "npm run lint:prettier:fix && npm run lint:js:fix && npm run lint:scss:fix",
+    "check:markdown": "node .github/scripts/check-markdown.mjs",
     "prestart": "npm run build",
     "start": "eleventy --serve --quiet",
     "preserve": "npm run build",
     "serve": "http-server ./_site"
   },
   "dependencies": {
-    "@11ty/eleventy": "^3.1.5",
+    "@11ty/eleventy": "^3.1.6",
     "@x-govuk/nhsuk-eleventy-plugin": "^1.2.1",
     "http-server": "^14.1.1"
   },

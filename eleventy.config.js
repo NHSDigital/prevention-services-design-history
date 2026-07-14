@@ -52,13 +52,9 @@ export default function (eleventyConfig) {
   })
 
   // Images and PDFs
-  eleventyConfig.addPassthroughCopy('./app/**/*.ai')
-  eleventyConfig.addPassthroughCopy('./app/**/*.gif')
-  eleventyConfig.addPassthroughCopy('./app/**/*.jpg')
-  eleventyConfig.addPassthroughCopy('./app/**/*.jpeg')
-  eleventyConfig.addPassthroughCopy('./app/**/*.png')
-  eleventyConfig.addPassthroughCopy('./app/**/*.pdf')
-  eleventyConfig.addPassthroughCopy('./app/**/*.sketch')
+  const imageAndDocumentExtensions = ['ai', 'avif', 'gif', 'jpg', 'jpeg', 'png', 'pdf', 'sketch', 'svg', 'tiff', 'webp']
+  const allCases = imageAndDocumentExtensions.flatMap((ext) => [ext, ext.toUpperCase()])
+  eleventyConfig.addPassthroughCopy(`./app/**/*.{${allCases.join(',')}}`)
 
   // Nunjucks filters
   eleventyConfig.addFilter('push', (array, item) => {
@@ -141,6 +137,7 @@ export default function (eleventyConfig) {
     'hpv-self-testing',
     'screening-invite',
     'lung-health-check',
+    'prostate-screening',
     // Vaccination service collections
     'vaccinations',
     'book-a-vaccination',
@@ -152,9 +149,9 @@ export default function (eleventyConfig) {
     // Personalised prevention service collections
     'ai-health-coach',
     'health-risks-calculation',
-    'personalised-prevention',
+    'help-to-stay-healthy',
     'nhs-health-check-online',
-    'personalised-prevention-platform',
+    'personalised-prevention',
     'smoking-cessation',
     'talking-therapies',
     // Digital best start
