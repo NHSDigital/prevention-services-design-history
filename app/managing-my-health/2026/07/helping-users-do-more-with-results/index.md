@@ -1,13 +1,13 @@
 ---
 title: Helping users do more with their results
-description: Discovery into how users get results in the NHS App and if there’s an opportunity to support teams in DPSP with how results work.
-date: 2026-06-25
+description: Discovery into how users get results in the NHS App and whether there’s an opportunity to support teams in Digital Prevention Services with how results work.
+date: 2026-07-14
 author:
 - Ralph Hawkins
 - Jeannie Foulsham
 ---
 
-Test Results is one of the most‑used parts of the NHS App. Recent changes to the home page are likely to increase the volume of people looking at test results in the NHS App.
+Test results is one of the most‑used parts of the NHS App. Recent changes to the home page are likely to increase the volume of people looking at test results in the NHS App.
 
 Public confidence in how the NHS communicates results has been falling too. In 2025, fewer than half the public (43%) said the NHS is good at communicating about things like appointments and test results, down from 52% the year before.[^1]
 
@@ -19,9 +19,9 @@ User needs for test results are broadly consistent:
 - clear next steps – what to do, or reassurance that nothing is needed
 - a way to reach a person when they need one
 
-However, the experience sometimes does not meet these needs. Many results from prevention services appear in the Test Results feed in the NHS App. This often surfaces content straight from labs, in unclear clinical language, before a healthcare professional has explained what it means. When looking at their results, one user told us:
+However, the experience sometimes does not meet these needs. Many results from prevention services appear in the test results feed in the NHS App. This often surfaces content straight from labs, in unclear clinical language, before a healthcare professional has explained what it means. When looking at their results, one user told us:
 
-> I know what HPV is, but so it says positive for HPV. It said grade 7. I did not know what that meant. So, I probably Googled it... It says cervical cytology report, high grade... Squamous, I can’t pronounce it. So, then you think high grade, that probably in this situation is bad
+> I know what HPV is, but so it says positive for HPV. It said grade 7. I did not know what that meant. So, I probably Googled it… It says cervical cytology report, high grade... Squamous, I can’t pronounce it. So, then you think high grade, that probably in this situation is bad
 
 Because the feed pulls results automatically from the GP health record, prevention teams don’t control what appears there. It isn’t how they want results to reach people.
 
@@ -36,7 +36,7 @@ We want to give people a clear results loop:
 
 Currently, that loop breaks in different ways depending on how the result reaches them.
 
-We ran a discovery to see if there’s an opportunity to show results in a consistent way, with context and clear next steps, and to create the foundations for those journeys. We focused on the two channels we can most influence, and that point to the long‑term direction for services – the app’s result feed and messages.
+We ran a discovery to see if there’s an opportunity to show results in a consistent way, with context and clear next steps, and to create the foundations for those journeys. We focused on the two channels we can most influence, and that point to the long‑term direction for services – the app’s results feed and messages.
 
 ## How users get results
 
@@ -47,7 +47,7 @@ There are 3 main ways users get results in the NHS App:
 
 ![NHS App home screen with lines pointing from ‘Results can appear in:’ to the Test results and Documents menu items and the Messages tab.](places-for-results.png "Results can reach users in 3 places in the NHS App – the test results feed, documents, and messages.")
 
-Each has limitations, and they’re not mutually exclusive. For most screening results, users get both a message (in‑app, by SMS or letter) and the same result in the test results feed.
+Each has limitations, and they’re not mutually exclusive. For most screening results, users get both a message (in the app, by SMS, or by letter) and the same result in the test results feed.
 
 ### Test results feed
 
@@ -59,7 +59,7 @@ Results move from the lab to the GP record to the app, often before a clinician 
 1. GP system fetches it – the GP clinical system (EMIS Web, TPP SystmOne, Vision or Medicus) polls MESH, collects the message, and acknowledges it
 1. Filed into the GP health record – the result is added to the patient’s record. Often a clinician reviews it first, though some results are filed automatically or by admin staff
 1. NHS App fetches it – the NHS App reads data from the GP health record, via IM1 or GP Connect
-1. Identified and presented – the App works out which entries are test results and formats them for display
+1. Identified and presented – the app works out which entries are test results and formats them for display
 1. Shown to the user – the result appears in the test results feed
 
 ### Documents
@@ -87,7 +87,7 @@ The test results feed surfaces results directly from the lab. It’s possible fo
 
 NHS Notify gives teams much greater control over what users are sent and when. The in‑app and SMS messages are limited to text and links, but a well‑written message – especially where there’s no need for immediate action – gives users the information they need to feel reassured.
 
-We didn’t spend much time in discovery looking at documents. Their content relies entirely on the service upstream. Our focus was on teams using the App to convey messages to users.
+We didn’t spend much time in discovery looking at documents. Their content relies entirely on the service upstream. Our focus was on teams using the app to convey messages to users.
 
 ### Speed and discretion
 
@@ -118,13 +118,13 @@ The message inbox can fill with things like GP surgery satisfaction surveys, boo
 It’s possible for a user to have an inconsistent experience of 3 screening results in the NHS App within a short period.
 
 For example, a woman in her 50s could get:
-- Cervical screening results as an in‑app message and a test results feed entry
-- Breast screening results as a letter and an in‑app document
-- Bowel screening results as a letter and a test results feed entry
+- cervical screening results as an in‑app message and a test results feed entry
+- breast screening results as a letter and an in‑app document
+- bowel screening results as a letter and a test results feed entry
 
 These results also follow different release rules – some are shown quickly, others are held back – which adds to the inconsistency.
 
-We’ve not done primary research into the experience of getting results across these different channels, but it’s a reasonable assumption that it gives people little confidence in what they’ll be told and how. Given how stressful these results can be, doing more to help people know what to expect, where to look, and what they mean will improve their experience.
+We’ve not done primary research into the experience of getting results across these different channels, but it’s a reasonable assumption that this inconsistency gives people little confidence in what they’ll be told and how. Given how stressful these results can be, doing more to help people know what to expect, where to look, and what they mean will improve their experience.
 
 ## Where alpha starts
 
@@ -133,6 +133,6 @@ The discovery showed there’s an opportunity for us to improve how things work.
 In alpha we’ll answer:
 - can messages and test results work together consistently?
 - can we give teams more control over the result, the content that explains it, when it’s shown, and the next step offered?
-- can this work across services in DPSP that handle results differently?
+- can this work across services in Digital Prevention Services that handle results differently?
 
 A successful alpha will tell us if we can support teams to give people results in the app with the context they need, at the right time – which, for some results, means when it’s clinically appropriate, not as fast as possible. It will show us if we can create a foundation for the next steps after a result. Delivering results well is a necessary step towards more people taking action to prevent or reduce ill health.
