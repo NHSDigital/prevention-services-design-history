@@ -29,10 +29,11 @@ Teams continue to use messages and letters to provide context and reassurance wi
 
 Managing my health sits between prevention services and the NHS App. As the app shifts [from a transactional focus to a companion](https://digital.nhs.uk/blog/transformation-blog/2026/the-nhs-app-from-digital-front-door-to-lifelong-companion) that follows up over time, results are a place to start – they’re personal and a potential first step towards more connected journeys.
 
-We want to give people a clear results loop:
-- they’re notified when there’s something to know
-- they see a record that makes sense
-- they’re offered a clear next step, if needed
+We want people to:
+
+- be notified when there’s something to know
+- see a record that makes sense
+- have clear next steps, if needed
 
 Currently, that loop breaks in different ways depending on how the result reaches them.
 
@@ -51,9 +52,11 @@ Each has limitations, and they’re not mutually exclusive. For most screening r
 
 ### Test results feed
 
-Results move from the lab to the GP record to the app, often before a clinician has added any context. Roughly speaking, this is the sequence by which results arrive in the NHS App’s test results feed:
+Results move from the lab to the GP record to the app, often before a clinician has added any context.
 
-1. Result produced – a sample is tested. The lab’s Laboratory Information Management System (LIMS) records the result, and a clinician validates and authorises it
+Roughly speaking, this is the sequence by which results arrive in the NHS App’s test results feed:
+
+1. Result produced – a sample is tested. The lab’s Laboratory Information Management System (LIMS) records the result, and a clinician validates and authorises it
 1. Result sent – the LIMS sends the authorised result out, formatted (often via integration middleware) as an EDIFACT message following the NHS’s current Pathology Messaging standard (there are plans to move to FHIR)
 1. Carried over MESH – the lab posts the message to the patient’s registered GP practice’s MESH mailbox
 1. GP system fetches it – the GP clinical system (EMIS Web, TPP SystmOne, Vision or Medicus) polls MESH, collects the message, and acknowledges it
@@ -95,7 +98,7 @@ For prevention, the way a result arrives matters.
 
 Of the 3 routes, the test results feed is likely to reach a user first. A result can flow from the lab into the feed automatically. National guidance sets release timing for the most sensitive results – some are held back for weeks, and some, like genetic testing, are never released this way. But the feed relies on that timing being set correctly. When it isn’t, a result can appear before a clinician has reviewed it.
 
-The test results feed can’t notify users when a result is ready. It can’t tell whether they’ve seen it either. A message does both. It sends a notification, and because it knows whether it’s been read, it can fall back to SMS or another channel if the user misses it.
+The test results feed does not notify users when a result is ready. It does not show whether they’ve seen it either. A message does both. It sends a notification, and because it knows whether it’s been read, it can fall back to SMS or another channel if the user misses it.
 
 The principle within the NHS has generally been that a person should not receive a potentially concerning result without the support of a healthcare professional. That safeguard relies on a clinician reviewing a result before the patient sees it. In the feed route, that review is meant to happen when the result is filed into the GP record. But the result can surface in the feed without being reviewed. A distressing result can reach someone with no explanation and no next step.
 
