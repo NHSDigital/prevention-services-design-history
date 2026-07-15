@@ -21,7 +21,7 @@ User needs for test results are broadly consistent:
 
 However, the experience sometimes does not meet these needs. Many results from prevention services appear in the test results feed in the NHS App. This often surfaces content straight from labs, in unclear clinical language, before a healthcare professional has explained what it means. When looking at their results, one user told us:
 
-> I know what HPV is, but so it says positive for HPV. It said grade 7. I did not know what that meant. So, I probably Googled it… It says cervical cytology report, high grade... Squamous, I can’t pronounce it. So, then you think high grade, that probably in this situation is bad
+> I know what HPV is, but so it says positive for HPV. It said grade 7. I did not know what that meant. So, I probably Googled it… It says cervical cytology report, high grade… Squamous, I can’t pronounce it. So, then you think high grade, that probably in this situation is bad
 
 Because the feed pulls results automatically from the GP health record, prevention teams don’t control what appears there. It isn’t how they want results to reach people.
 
@@ -87,6 +87,8 @@ How a result reaches someone shapes how they experience it. 3 things matter most
 - the noise and structure it sits within
 
 ### Content design
+
+![NHS App screen titled ‘Cervical cytology screen test’ with a heading ‘Your results’ followed by 2 results. The first, ‘HPV Test’, has a laboratory comment reading ‘High risk HPV NOT detected’. The second, ‘Cervical cytology test’, has a laboratory comment reading ‘No Cytology result (HPV Primary Screening)’.](cervical-screening-results.png "An example of how cervical screening results appear for some users in the NHS App.")
 
 The test results feed surfaces results directly from the lab. It’s possible for the lab or GP practice to add content before the result reaches the user, but in most cases users get results as they come from the lab. The results contain medical terms and are not designed to give reassurance or clarity. We have seen examples where users found the results confusing and distressing. Faced with a result they can’t understand, people turn to Google and AI tools to work out what it means.
 
