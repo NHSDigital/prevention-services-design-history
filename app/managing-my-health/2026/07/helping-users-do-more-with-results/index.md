@@ -5,6 +5,9 @@ date: 2026-07-14
 author:
 - Ralph Hawkins
 - Jeannie Foulsham
+opengraphImage:
+  src: /managing-my-health/2026/07/helping-users-do-more-with-results/places-for-results.png
+  alt: NHS App home screen highlighting that results can appear in sections for Test results, Documents and Messages.
 ---
 
 Test results is one of the most‑used parts of the NHS App. Recent changes to the home page are likely to increase the volume of people looking at test results in the NHS App.
@@ -46,7 +49,7 @@ There are 3 main ways users get results in the NHS App:
 - documents
 - in‑app messages
 
-![NHS App home screen with lines pointing from ‘Results can appear in:’ to the Test results and Documents menu items and the Messages tab.](places-for-results.png "Results can reach users in 3 places in the NHS App – the test results feed, documents, and messages.")
+![NHS App home screen highlighting that results can appear in sections for Test results, Documents and Messages.](places-for-results.png "Results can reach users in 3 places in the NHS App – the test results feed, documents, and messages.")
 
 Each has limitations, and they’re not mutually exclusive. For most screening results, users get both a message (in the app, by SMS, or by letter) and the same result in the test results feed.
 
