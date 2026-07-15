@@ -72,11 +72,16 @@ Those who have experienced **previous radiotherapy**, for example, during treati
 
 ### Prior screening can provide information about breast density 
 
-If someone is over 50, their most recent mammogram is used to determine breast density. Those with dense breasts continue to be offered a mammogram and an MRI. MRI is more sensitive than x-rays and should make it easier to identify cancers within dense tissue. 
+If someone is over 50, their most recent mammogram is used to determine breast density. Breast density follows the breast imaging - reporting and data system (BI-RADS) classification, and is defined into 4 categories known as:
+- A: Fatty
+- B: Scattered fibro glandular density
+- C: Heterogeneously dense 
+- D: Extremely dense. 
 
-Those without dense breasts are offered a mammogram only. Mammography is very effective in this group so that MRI is unlikely to add information. 
+MRI is more sensitive than x-rays and should make it easier to identify cancers within tissue in BI-RADS B, C and D. 
 
- 
+Those assessed as [BI-RADS A](https://preventbreastcancer.org.uk/about-breast-cancer/breast-density/) are offered a mammogram only. Mammography is very effective in this group so that MRI is unlikely to add information. 
+
 
 ## How BSOs manage VHR cohorts 
 
@@ -115,7 +120,7 @@ Completing MRIs is much more difficult to manage; MRIs can only be carried out a
 
 Hormonal fluctuations can cause normal breast tissue to look bright and active in MRI images, increasing the risk of false positives. Services aim to complete MRIs in the first half of a person’s menstrual cycle (between days 6 and 16 ideally). This means BSOs are asking participants for their menstrual cycle dates, and coordinating with the MRI teams at the Trust to book appointments within that window. Some BSOs will aim to complete mammograms on the same day, or within 2 weeks of the MRI appointment. 
 
-Further complexity is added due to the fact that MRI appointments cannot be managed in NBSS, and MRI teams cannot access NBSS. This means participant and appointment information is held by the MRI team in hospital systems. In England this is usually [CRIS](https://www.magentus.com/clinical-systems/radiology/?r=e), Cancer Radiology Information System. This system is also used for completing MRI reports, requiring BSO admin staff to manually interpret reports and update NBSS with outcomes to complete their VHR screening workflow. 
+Further complexity is added due to the fact that MRI appointments cannot be managed in NBSS, and MRI teams cannot access NBSS. This means participant and appointment information is held by the MRI team in their local radiology information system (RIS), for example the computed radiology information system [CRIS](https://www.magentus.com/clinical-systems/radiology/?r=e). The RIS is used by MRI teams to manage appointments and record detailed MRI reports, requiring BSO staff to interpret and summarise reports so they can update NBSS with outcomes to complete their VHR screening workflow.
 
 We also heard, as we have with routine screening, that symptomatic services can often take priority within a Trust. This makes it difficult to offer MRI appointments far in advance, as symptomatic services want to ensure they protect their capacity.
 
