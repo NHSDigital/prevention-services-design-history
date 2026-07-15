@@ -15,9 +15,9 @@ opengraphImage:
 
 This entry describes opportunities to improve image reading data reporting for image readers and directors.
 
-For more information on image reading data and performance, read [part 1](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2026/04/image-reading-part-1-data-and-performance/).
+For more information on image reading data and performance, read [part 1](/breast-screening-reporting/2026/04/image-reading-part-1-data-and-performance/).
 
-For our thoughts on supporting quality assurance teams, read [part 2](https://design-history.prevention-services.nhs.uk/breast-screening-reporting/2026/04/image-reading-part-2-quality-assurance-teams/).
+For our thoughts on supporting quality assurance teams, read [part 2](/breast-screening-reporting/2026/04/image-reading-part-2-quality-assurance-teams/).
 
 ## The core users of image reading data
 

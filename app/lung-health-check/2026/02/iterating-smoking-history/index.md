@@ -9,7 +9,7 @@ We are designing a new digital service for the lung cancer screening programme. 
 
 ## Asking participants about their smoking history 
 
-Part of the questionnaire for the lung health check asks users about their history of smoking tobacco.  In the current phone service participants can give any additional information they think is relevant, whilst the call handler only records what they need for the calculation. This isn't something we'll be able to do in our digital service. We wrote about this briefly in a [previous design history](https://design-history.prevention-services.nhs.uk/lung-health-check/2025/08/lung-health-check-prototype/).  
+Part of the questionnaire for the lung health check asks users about their history of smoking tobacco.  In the current phone service participants can give any additional information they think is relevant, whilst the call handler only records what they need for the calculation. This isn't something we'll be able to do in our digital service. We wrote about this briefly in a [previous design history](/lung-health-check/2025/08/lung-health-check-prototype/).  
 
 Some of the other questions in the calculation are more straightforward ‘yes’ or ‘no’ answers. We’ve been able to learn from some of the iterations phone service providers have made to these questions in their phone scripts for call handlers. 
 

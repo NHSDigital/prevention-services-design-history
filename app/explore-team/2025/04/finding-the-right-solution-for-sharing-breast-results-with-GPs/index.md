@@ -10,7 +10,7 @@ tags:
   - GP results
 ---
 
-We are learning how we can improve the sharing of screening results with GPs (see the [outcomes](https://design-history.prevention-services.nhs.uk/explore-team/2025/01/sharing-screening-results-with-gps/) we are working towards described previously). In this update, we will describe what an [alpha team](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works) taking our discovery work forward would need to solve.
+We are learning how we can improve the sharing of screening results with GPs (see the [outcomes](/explore-team/2025/01/sharing-screening-results-with-gps/) we are working towards described previously). In this update, we will describe what an [alpha team](https://www.gov.uk/service-manual/agile-delivery/how-the-alpha-phase-works) taking our discovery work forward would need to solve.
 
 ## Focus on breast screening results
 
@@ -19,7 +19,7 @@ Having looked at breast and bowel cancer screening services in some detail, we d
 - breast screening over bowel cancer screening
 - normal and ‘did not attend’ (DNA) results over abnormal or other result types
 
-We wrote about this in more detail in our previous update on [what we were learning](https://design-history.prevention-services.nhs.uk/explore-team/2025/01/sharing-screening-results-with-gps/).
+We wrote about this in more detail in our previous update on [what we were learning](/explore-team/2025/01/sharing-screening-results-with-gps/).
 
 ![A 'breast care unit' sign on a sunny day](humberside-bso.jpeg 'We visited the breast care unit at Humberside to learn more about their work')
 
@@ -40,7 +40,7 @@ They showed us how easy it was to apply rules to bowel screening results and aut
 
 ## Being creative and pragmatic
 
-While bowel pathology route is working well, breast screening results cannot just follow the same route as bowel. [The ‘pathology’ route used by bowel](https://design-history.prevention-services.nhs.uk/explore-team/2025/03/what-we-learned-about-sharing-breast-and-bowel-results-with-gps/#how-results-are-shared%3A-bowel-screening) uses old technology that is marked for deprecation and is in the process of being upgraded.
+While bowel pathology route is working well, breast screening results cannot just follow the same route as bowel. [The ‘pathology’ route used by bowel](/explore-team/2025/03/what-we-learned-about-sharing-breast-and-bowel-results-with-gps/#how-results-are-shared%3A-bowel-screening) uses old technology that is marked for deprecation and is in the process of being upgraded.
 
 A technical architect colleague told us:
 

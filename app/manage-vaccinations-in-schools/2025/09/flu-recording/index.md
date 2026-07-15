@@ -44,7 +44,7 @@ tags:
 
 The children’s flu vaccine is offered yearly to all school-aged children (Reception to Year 11). Sessions run from the beginning of September every year.
 
-The team did some [design and research around recording flu vaccinations before the HPV pilot](https://design-history.prevention-services.nhs.uk/manage-vaccinations-in-schools/2022/11/poc-flu-campaign/). We needed to revisit this work in the context of how the service works today, and any changes that made to the flu vaccination programme since then.
+The team did some [design and research around recording flu vaccinations before the HPV pilot](/manage-vaccinations-in-schools/2022/11/poc-flu-campaign/). We needed to revisit this work in the context of how the service works today, and any changes that made to the flu vaccination programme since then.
 
 ## How flu differs from other vaccination programmes
 
@@ -84,7 +84,7 @@ We adapted the existing search filter and results pattern used to find children 
 
 ## Managing consent responses
 
-As covered in [Consent for flu vaccination](https://design-history.prevention-services.nhs.uk/manage-vaccinations-in-schools/2025/09/flu-consent/), there are 4 possible consent outcomes:
+As covered in [Consent for flu vaccination](/manage-vaccinations-in-schools/2025/09/flu-consent/), there are 4 possible consent outcomes:
 
 - Consent given for the nasal spray, and for injected vaccine if needed
 - Consent given for the nasal spray only

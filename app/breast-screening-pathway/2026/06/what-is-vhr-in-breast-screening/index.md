@@ -82,7 +82,6 @@ MRI is more sensitive than x-rays and should make it easier to identify cancers 
 
 Those assessed as [BI-RADS A](https://preventbreastcancer.org.uk/about-breast-cancer/breast-density/) are offered a mammogram only. Mammography is very effective in this group so that MRI is unlikely to add information. 
 
-
 ## How BSOs manage VHR cohorts 
 
 We recently completed some research to understand more about the process of managing VHR referrals from Genetics services via the [NICPR portal](https://digital.nhs.uk/ndrs/our-work/genomics/nicpr). We spoke with 10 BSOs and 4 geneticists. We learned there is local variation in how VHR is managed by the breast screening offices. This section describes some common components of their workflow. 

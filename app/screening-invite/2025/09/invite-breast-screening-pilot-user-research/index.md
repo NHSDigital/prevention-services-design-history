@@ -8,9 +8,9 @@ tags:
 
 Team Invite is working on inviting people to breast screening appointments using the NHS App notifications, a text message or a letter if both digital channels are unsuccessful.
 
-In our first post, we gave an [overview of the pilot work](https://design-history.prevention-services.nhs.uk/screening-invite/2025/06/invite-pilot-overview/).
+In our first post, we gave an [overview of the pilot work](/screening-invite/2025/06/invite-pilot-overview/).
 
-In the second post, we looked at [content and interaction design iterations](https://design-history.prevention-services.nhs.uk/screening-invite/2025/08/invite-breast-screening-pilot-design-iterations/). In this one we summarise what we found out during the pilot phase about user experience and operational impact.
+In the second post, we looked at [content and interaction design iterations](/screening-invite/2025/08/invite-breast-screening-pilot-design-iterations/). In this one we summarise what we found out during the pilot phase about user experience and operational impact.
 
 ## What we wanted to find out in the pilot
 
@@ -49,7 +49,7 @@ This was so any issues we encountered were easy to attribute to the change in in
 
 ### Significant quantitative data
 
-Most users saw the SMS messages. Just under a third of the sample read their NHS App messages and a few people received letters. You can see [how each type of message was sent in sequence in our earlier post on this](https://design-history.prevention-services.nhs.uk/screening-invite/2025/06/invite-pilot-overview/#:~:text=We’re%20using%20NHS%20Notify%20to%20send%20these%20messages%20through%20the%20NHS%20App%2C%20text%20messages%20and%20letters.).
+Most users saw the SMS messages. Just under a third of the sample read their NHS App messages and a few people received letters. You can see [how each type of message was sent in sequence in our earlier post on this](/screening-invite/2025/06/invite-pilot-overview/#:~:text=We’re%20using%20NHS%20Notify%20to%20send%20these%20messages%20through%20the%20NHS%20App%2C%20text%20messages%20and%20letters.).
 
 However, 150 people isn't a large enough sample. We can't be confident these results would be the same for all 6 million people who get breast screening invites.
 
