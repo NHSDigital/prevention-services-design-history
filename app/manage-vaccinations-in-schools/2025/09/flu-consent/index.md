@@ -121,9 +121,9 @@ The children’s flu vaccine is offered yearly to all school-aged children (Rece
 
 The team did some design and research around the flu vaccination prior to the HPV pilot:
 
-- [Parent consent journey, straw-person design](https://design-history.prevention-services.nhs.uk/manage-vaccinations-in-schools/2022/11/give-or-refuse-flu-vaccination-strawperson/)
-- [Iteration to parent consent journey for flu](https://design-history.prevention-services.nhs.uk/manage-vaccinations-in-schools/2022/12/flu-consent-iteration/)
-- [Updating the consent journey for flu](https://design-history.prevention-services.nhs.uk/manage-vaccinations-in-schools/2023/08/updating-the-consent-journey-for-flu/)
+- [Parent consent journey, straw-person design](/manage-vaccinations-in-schools/2022/11/give-or-refuse-flu-vaccination-strawperson/)
+- [Iteration to parent consent journey for flu](/manage-vaccinations-in-schools/2022/12/flu-consent-iteration/)
+- [Updating the consent journey for flu](/manage-vaccinations-in-schools/2023/08/updating-the-consent-journey-for-flu/)
 
 This work needed to be revisited in the context of how the service is designed today, and changes that have been made to the flu vaccination programme since then.
 

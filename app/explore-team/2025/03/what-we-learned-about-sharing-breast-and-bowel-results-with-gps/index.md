@@ -70,7 +70,7 @@ There could be an opportunity to understand why the 363 GP practices (5.4% of al
 
 ![A pie chart showing 94.6% of GPs have electronic messaging on](proportion-of-GPs-with-electronic-comms-enabled.png 'How many GP practices have electronic messaging enabled and disabled, expressed in percentages')
 
-This data was provided to us by colleagues in the [bowel cancer screening team](https://design-history.prevention-services.nhs.uk/bowel-screening/). We believe that the bowel team is best placed to investigate and decide where this opportunity sits in their backlog. 
+This data was provided to us by colleagues in the [bowel cancer screening team](/bowel-screening/). We believe that the bowel team is best placed to investigate and decide where this opportunity sits in their backlog. 
 
 ## The size of the opportunity
 
