@@ -1,7 +1,7 @@
-<img width="650" height="432" alt="clinical-sign-checkbox" src="https://github.com/user-attachments/assets/52cd0ded-5587-4083-8930-9488c896745e" />---
+---
 title: Allowing users to differentiate between symptoms and signs
 description: We've added a feature so mammographers can note when they spot something concerning that the participant isn't aware of
-date: 2026-07-21
+date: 2026-07-20
 author: Danny Chadburn
 opengraphImage:
   src: /manage-breast-screening/2026/07/differentiating-between-symptoms-and-signs/clinical-sign-checkbox.png
