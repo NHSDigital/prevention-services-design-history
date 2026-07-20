@@ -23,22 +23,46 @@ import { readFileSync, readdirSync } from 'fs'
 import { join } from 'path'
 import { fileURLToPath } from 'url'
 
-const H1_MESSAGE =
-  'The page title H1 is already generated from the `title` field in the frontmatter. ' +
-  'If this heading duplicates the title, remove it. ' +
-  'If it is a different heading, change it to an H2 using `##`.'
+/**
+ * Checks if a line contains an H1 heading.
+ *
+ * @param {string} line
+ * @returns {{ message: string } | null}
+ */
+function checkH1Heading(line) {
+  const message =
+    'The page title H1 is already generated from the `title` field in the frontmatter. ' +
+    'If this heading duplicates the title, remove it. ' +
+    'If it is a different heading, change it to an H2 using `##`.'
 
-const SITE_URL = 'https://design-history.prevention-services.nhs.uk/'
+  if (/^# /.test(line)) {
+    return { message }
+  }
+  return null
+}
 
-// For replacing any URL variant with '/' in suggestions (global, case-insensitive)
-const SITE_URL_REPLACE_RE = /(https?:\/\/)?design-history\.prevention-services\.nhs\.uk\//gi
-// Same pattern without 'g' flag, safe for repeated .test() calls in a loop
-const SITE_LINK_RE = new RegExp(SITE_URL_REPLACE_RE.source, 'i')
+/**
+ * Checks if a line contains an absolute URL to the published site.
+ *
+ * @param {string} line
+ * @returns {{ message: string, suggestion?: string } | null}
+ */
+function checkAbsoluteUrl(line) {
+  const siteUrlRe = /(https?:\/\/)?design-history\.prevention-services\.nhs\.uk\//i
 
-const ABSOLUTE_URL_MESSAGE =
-  'Use a relative URL instead of a full URL for links to other posts on the site.\n\n' +
-  'This means that the links will work in previews, and in case the site domain name changes in future.\n\n' +
-  'For example, replace `https://design-history.prevention-services.nhs.uk/some/path/` with `/some/path/`.'
+  const message =
+    'Use a relative URL instead of a full URL for links to other posts on the site.\n\n' +
+    'This means that the links will work in previews, and in case the site domain name changes in future.\n\n' +
+    'For example, replace `https://design-history.prevention-services.nhs.uk/some/path/` with `/some/path/`.'
+
+  if (siteUrlRe.test(line)) {
+    return {
+      message,
+      suggestion: line.replaceAll(siteUrlRe, '/')
+    }
+  }
+  return null
+}
 
 /**
  * Recursively finds all .md files under the given directory.
@@ -69,11 +93,13 @@ export function scanAllFiles() {
   for (const filePath of files) {
     const lines = readFileSync(filePath, 'utf8').split('\n')
     for (let i = 0; i < lines.length; i++) {
-      if (/^# /.test(lines[i])) {
-        mistakes.push({ path: filePath, line: i + 1, message: H1_MESSAGE })
+      const h1 = checkH1Heading(lines[i])
+      if (h1) {
+        mistakes.push({ path: filePath, line: i + 1, message: h1.message })
       }
-      if (SITE_LINK_RE.test(lines[i])) {
-        mistakes.push({ path: filePath, line: i + 1, message: ABSOLUTE_URL_MESSAGE })
+      const url = checkAbsoluteUrl(lines[i])
+      if (url) {
+        mistakes.push({ path: filePath, line: i + 1, message: url.message })
       }
     }
   }
@@ -121,22 +147,22 @@ export function getMistakes(baseRef) {
 
     if (rawLine.startsWith('+')) {
       lineNumber++
-      // Added line that is an H1 (single `#` followed by a space)
-      if (/^\+# /.test(rawLine)) {
+      const lineContent = rawLine.slice(1)
+      const h1 = checkH1Heading(lineContent)
+      if (h1) {
         mistakes.push({
           path: currentFile,
           line: lineNumber,
-          message: H1_MESSAGE
+          message: h1.message
         })
       }
-      // Added line containing an absolute URL to the published site
-      const lineContent = rawLine.slice(1)
-      if (SITE_LINK_RE.test(lineContent)) {
+      const url = checkAbsoluteUrl(lineContent)
+      if (url) {
         mistakes.push({
           path: currentFile,
           line: lineNumber,
-          message: ABSOLUTE_URL_MESSAGE,
-          suggestion: lineContent.replace(SITE_URL_REPLACE_RE, '/')
+          message: url.message,
+          suggestion: url.suggestion
         })
       }
     } else if (!rawLine.startsWith('-')) {
