@@ -30,6 +30,11 @@ const H1_MESSAGE =
 
 const SITE_URL = 'https://design-history.prevention-services.nhs.uk/'
 
+// For replacing any URL variant with '/' in suggestions (global, case-insensitive)
+const SITE_URL_REPLACE_RE = /(https?:\/\/)?design-history\.prevention-services\.nhs\.uk\//gi
+// Same pattern without 'g' flag, safe for repeated .test() calls in a loop
+const SITE_LINK_RE = new RegExp(SITE_URL_REPLACE_RE.source, 'i')
+
 const ABSOLUTE_URL_MESSAGE =
   'Use a relative URL instead of a full URL for links to other posts on the site.\n\n' +
   'This means that the links will work in previews, and in case the site domain name changes in future.\n\n' +
@@ -67,7 +72,7 @@ export function scanAllFiles() {
       if (/^# /.test(lines[i])) {
         mistakes.push({ path: filePath, line: i + 1, message: H1_MESSAGE })
       }
-      if (lines[i].includes('](' + SITE_URL)) {
+      if (SITE_LINK_RE.test(lines[i])) {
         mistakes.push({ path: filePath, line: i + 1, message: ABSOLUTE_URL_MESSAGE })
       }
     }
@@ -84,6 +89,10 @@ export function scanAllFiles() {
  * @returns {{ path: string, line: number, message: string }[]}
  */
 export function getMistakes(baseRef) {
+  // Reject unexpected characters to prevent shell command injection
+  if (!/^[\w\/.\-]+$/.test(baseRef)) {
+    throw new Error(`Invalid baseRef: ${baseRef}`)
+  }
   const diff = execSync(`git diff ${baseRef}...HEAD`, { encoding: 'utf8' })
   const mistakes = []
   let currentFile = null
@@ -122,12 +131,12 @@ export function getMistakes(baseRef) {
       }
       // Added line containing an absolute URL to the published site
       const lineContent = rawLine.slice(1)
-      if (lineContent.includes('](' + SITE_URL)) {
+      if (SITE_LINK_RE.test(lineContent)) {
         mistakes.push({
           path: currentFile,
           line: lineNumber,
           message: ABSOLUTE_URL_MESSAGE,
-          suggestion: lineContent.replaceAll(SITE_URL, '/')
+          suggestion: lineContent.replace(SITE_URL_REPLACE_RE, '/')
         })
       }
     } else if (!rawLine.startsWith('-')) {
