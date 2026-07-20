@@ -58,7 +58,7 @@ We were left with three possibilities that were worth pursuing.
 
 The benefit with all of these is that they create structured data, and are relatively minor adjustments to a form we already have in production.
 
-**Option 1 - Add a 'Mammographer-noted sign' checkbox alongside additional symptom information**
+**Option 1. Add a 'Mammographer-noted sign' checkbox alongside additional symptom information**
 
 The user would answer the other questions as appropriate then tick this when they get to the section. The drawback to this option is that it groups the checkbox with things that can only apply to participant-disclosed symptoms - the title of this form section would need to be adjusted if the checkbox were to be included here.
 
@@ -70,7 +70,7 @@ The user would tick this checkbox then complete the rest of the form as appropri
 
 ![A 'mammographer-noted sign' checkbox added at the top of our symptoms form](clinical-sign-checkbox.png)
 
-**Option 3: Add a secondary save button**
+**Option 3. Add a secondary save button**
 
 Users would complete the form as normal, but when they come to the end they could select one button to save as participant-reported, or the other to save as mammographer-noted. This feels like a neat solution, but does raise questions about how we'd handle this if they needed to return to the form to make any changes.
 
