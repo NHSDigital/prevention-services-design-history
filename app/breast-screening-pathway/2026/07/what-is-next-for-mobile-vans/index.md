@@ -1,7 +1,7 @@
 ---
 title: What's next for mobile vans?
-description: An overview of what we're doing to help us understand how Rubie will work on mobile vans, to explore fallback processes, and identify opportunities to improve performance. 
-date: 2026-07-17
+description: An overview of work to help us understand how Rubie will work on mobile vans, to explore fallback processes, and identify opportunities to improve performance. 
+date: 2026-07-20
 tags:
   - mobile vans
   - breast screening
@@ -44,7 +44,7 @@ We would like to explore:
 
 - how Rubie performs on cellular internet connections (3G, 4G, 5G), to highlight parts of the interface to improve so that they work efficiently with limited connectivity   
 
-- how Rubie might interact with other technology on vans and integrate with trust networks. For example, how the gateway could facilitate the transfer of imaging data. The gateway is planned to be installed in each trust and act as a link between Rubie and trust systems. 
+- how Rubie might interact with other technology on vans and integrate with trust networks. For example, how the gateway could facilitate the transfer of imaging data. The gateway is planned to be installed in each trust and act as a link between Rubie and trust systems 
 
 - where slower connection speeds could cause bottlenecks in the service. For example, when transferring images across systems 
 
