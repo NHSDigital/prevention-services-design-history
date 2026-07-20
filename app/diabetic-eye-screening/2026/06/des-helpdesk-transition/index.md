@@ -2,6 +2,7 @@
 title: DES helpdesk transition to National Service Desk strengthens service resilience and supports future change
 description: The first service transition within the programme has successfully moved the DES Helpdesk into NHS-managed operations, improving resilience, capability, and support for future change.
 date: 2026-06-11
+redirectFrom: "diabetic-eye-screening/2026/06 /des-helpdesk-transition"
 author: Harleen Kaur Dhillon
 tags: cascade
   
