@@ -11,7 +11,7 @@
   h3,
   h4 {
     @include nhsuk-font-size($size: 26);
-    @include nhsuk-typography-weight-bold;
+    @include nhsuk-font-weight-bold;
     margin-bottom: nhsuk-spacing(4);
   }
 }
