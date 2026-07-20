@@ -64,6 +64,21 @@ function checkAbsoluteUrl(line) {
   return null
 }
 
+const checks = [checkH1Heading, checkAbsoluteUrl]
+
+/**
+ * Runs all checks against a single line and returns any mistakes found.
+ *
+ * @param {string} line
+ * @returns {{ message: string, suggestion?: string }[]}
+ */
+function checkLine(line) {
+  return checks.flatMap((check) => {
+    const result = check(line)
+    return result ? [result] : []
+  })
+}
+
 /**
  * Recursively finds all .md files under the given directory.
  *
@@ -93,13 +108,8 @@ export function scanAllFiles() {
   for (const filePath of files) {
     const lines = readFileSync(filePath, 'utf8').split('\n')
     for (let i = 0; i < lines.length; i++) {
-      const h1 = checkH1Heading(lines[i])
-      if (h1) {
-        mistakes.push({ path: filePath, line: i + 1, message: h1.message })
-      }
-      const url = checkAbsoluteUrl(lines[i])
-      if (url) {
-        mistakes.push({ path: filePath, line: i + 1, message: url.message })
+      for (const result of checkLine(lines[i])) {
+        mistakes.push({ path: filePath, line: i + 1, ...result })
       }
     }
   }
@@ -148,22 +158,8 @@ export function getMistakes(baseRef) {
     if (rawLine.startsWith('+')) {
       lineNumber++
       const lineContent = rawLine.slice(1)
-      const h1 = checkH1Heading(lineContent)
-      if (h1) {
-        mistakes.push({
-          path: currentFile,
-          line: lineNumber,
-          message: h1.message
-        })
-      }
-      const url = checkAbsoluteUrl(lineContent)
-      if (url) {
-        mistakes.push({
-          path: currentFile,
-          line: lineNumber,
-          message: url.message,
-          suggestion: url.suggestion
-        })
+      for (const result of checkLine(lineContent)) {
+        mistakes.push({ path: currentFile, line: lineNumber, ...result })
       }
     } else if (!rawLine.startsWith('-')) {
       // Context line -- still advances the new-file line number
