@@ -1,5 +1,5 @@
-{% from "nhsuk/components/contents-list/macro.njk" import contentsList as nhsukContentsList %}
-{% from "nhsuk/components/images/macro.njk" import image as nhsukImage %}
+{% from "contents-list/macro.njk" import contentsList as contentsList %}
+{% from "images/macro.njk" import image as image %}
 
 <hr class="nhsuk-section-break nhsuk-section-break--visible nhsuk-section-break--l">
 
@@ -17,7 +17,7 @@
   }) %}
 {% endfor %}
 
-{{ nhsukContentsList({
+{{ contentsList({
   items: contentsListItems
 }) }}
 
@@ -25,7 +25,7 @@
   {% set itemTitle = item.text or item %}
   {% set itemId = item.id or (itemTitle | slugify) %}
   <h3 class="nhsuk-heading-m" id="{{ itemId }}">{{ itemTitle }}</h3>
-  {{ nhsukImage({
+  {{ image({
     classes: "app-image--screenshot",
     src: item.src or (itemId + ".png"),
     alt: item.alt or ("Screenshot of " + itemTitle),
