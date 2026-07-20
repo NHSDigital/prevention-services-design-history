@@ -44,21 +44,13 @@ In this instance, some of the questions on our symptoms workflow (when it starte
 
 ## Options for how and where to include signs
 
-Our UCD team collectively came up with six potential ways to incorporate this feature. Three of those were rejected fairly swiftly.
+Our UCD team collectively came up with various ways to incorporate this feature.
 
-### The rejected options
+### Things we considered
 
-**Option 1. Do nothing**
-
-Users can select 'not known' for any questions they can't answer and add a written note that the symptom was an observed sign. We decided that structured data was necessary so we could handle this information appropriately
-
-**Option 2. Remove the form validation**
-
-Users could skip any questions they were unable to answer without getting an error message. However, this would mean removing validation for all symptoms which would affect the overall quality of data being collected.
-
-**Option 3. Add a pre-qualifying question**
-
-We could introduce a step that asks users *"Is this a disclosed symptom or observed sign?"* before capturing the details. This would give us structured data, but would likely cause too much disruption to the journey if they had to do this every time they added something.
+- **Do nothing** - Users can select 'not known' for any questions they can't answer and add a written note that the symptom was an observed sign. We decided that structured data was necessary so we could handle this information appropriately
+- **Remove the form validation** - Users could skip any questions they were unable to answer without getting an error message. However, this would mean removing validation for all symptoms which would affect the overall quality of data being collected.
+- **Option 3. Add a pre-qualifying question** - We could introduce a step that asks users *"Is this a disclosed symptom or observed sign?"* before capturing the details. This would give us structured data, but would likely cause too much disruption to the journey if they had to do this every time they added something.
 
 ### The viable options
 
@@ -66,27 +58,27 @@ We were left with three possibilities that were worth pursuing.
 
 The benefit with all of these is that they create structured data, and are relatively minor adjustments to a form we already have in production.
 
-**Option 4 - Add a 'Mammographer-noted sign' checkbox alongside additional symptom information**
+**Option 1 - Add a 'Mammographer-noted sign' checkbox alongside additional symptom information**
 
-The user would answer the other questions as appropriate then tick this when they get to the section. The drawback to this option is that it groups the checkbox with things that can only apply to participant-disclosed symptoms.
+The user would answer the other questions as appropriate then tick this when they get to the section. The drawback to this option is that it groups the checkbox with things that can only apply to participant-disclosed symptoms - the title of this form section would need to be adjusted if the checkbox were to be included here.
 
 ![A 'mammographer-noted sign' checkbox added within an 'Additional details' form section](additional-details-sign.png)
 
-**Option 5. Add a 'Mammographer-noted sign' checkbox at the top**
+**Option 2. Add a 'Mammographer-noted sign' checkbox at the top**
 
-The user would tick this checkbox then complete the rest of the form as appropriate. This is the most obvious place to put it, however creating a new form section adds vertical height to an already long page. Our users have very strong views on excessive scrolling.
+The user would tick this checkbox then complete the rest of the form as appropriate. This is the most obvious place to put it, however creating a new form section adds vertical height to an already long page. Users have expressed a need to reduce scrolling in our service so they don't need to repetitively interact with it.
 
 ![A 'mammographer-noted sign' checkbox added at the top of our symptoms form](clinical-sign-checkbox.png)
 
-**Option 6: Add a secondary save button**
+**Option 3: Add a secondary save button**
 
 Users would complete the form as normal, but when they come to the end they could select one button to save as participant-reported, or the other to save as mammographer-noted. This feels like a neat solution, but does raise questions about how we'd handle this if they needed to return to the form to make any changes.
 
 ![Two buttons at the end of the symptoms form, 'Save as a symptom' in green and 'Save as a sign' in blue](save-as-sign-button.png)
 
-## Our preferred solution
+## Our chosen option
 
-We've decided to proceed with option 5 within our prototype, so our symptoms form now begins with a 'Mammographer-noted sign' checkbox.
+We've decided to proceed with option 2 within our prototype, so our symptoms form now begins with a 'Mammographer-noted sign' checkbox.
 
 There are valid concerns about the length of some of the forms within our service, but we feel that:
 
