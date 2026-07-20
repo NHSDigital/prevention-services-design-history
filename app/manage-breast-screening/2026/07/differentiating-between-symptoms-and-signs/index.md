@@ -58,11 +58,11 @@ Users could skip any questions they were unable to answer without getting an err
 
 **Option 3. Add a pre-qualifying question**
 
-We could introduce a step that asks users "Is this a disclosed symptom or observed sign? before capturing the details. This would give us structured data, but would likely cause too much disruption to the journey if they had to do this every time they added something.
-
-This left three possibilities that were worth pursuing.
+We could introduce a step that asks users *"Is this a disclosed symptom or observed sign?"* before capturing the details. This would give us structured data, but would likely cause too much disruption to the journey if they had to do this every time they added something.
 
 ### The viable options
+
+We were left with three possibilities that were worth pursuing.
 
 The benefit with all of these is that they create structured data, and are relatively minor adjustments to a form we already have in production.
 
@@ -80,7 +80,7 @@ The user would tick this checkbox then complete the rest of the form as appropri
 
 **Option 6: Add a secondary save button**
 
-Users would complete the form as normal, but when they come to save they could select one button to saves as participant-reported, or the other to save as mammographer-noted. This feels like a neat solution, but does raise questions about how we'd handle this if they needed to return to the form to make any changes.
+Users would complete the form as normal, but when they come to the end they could select one button to save as participant-reported, or the other to save as mammographer-noted. This feels like a neat solution, but does raise questions about how we'd handle this if they needed to return to the form to make any changes.
 
 ![Two buttons at the end of the symptoms form, 'Save as a symptom' in green and 'Save as a sign' in blue](save-as-sign-button.png)
 
@@ -90,8 +90,8 @@ We've decided to proceed with option 5 within our prototype, so our symptoms for
 
 There are valid concerns about the length of some of the forms within our service, but we feel that:
 
-a) there's a need to make this a clear and obvious option, and
-b) other design work is being done to help make the service look and feel more visually compact
+- there's a need to make this a clear and obvious option, and
+- other design work is being done to help make the service look and feel more visually compact
 
 For now we won't be rebranding the symptoms workflow as 'Symptoms and signs' as it would be unnecessarily verbose in the UI. Through training and usage we hope that users will know where to find the option to denote a clinical sign when needed.
 
@@ -101,4 +101,4 @@ Other areas of the service have been updated to display where the sign checkbox 
 
 ![A symptom alert shown during image reading showing that this was a mammographer-identified sign](sign-at-reading.png)
 
-We'll be testing this as part of our ongoing user research, and assessing whether a similar feature needs to be added to breast feature and medical history workflows.
+We'll be testing this as part of our ongoing user research, and assessing whether similar functionality needs to be added to [breast feature](/manage-breast-screening/2025/07/medical-annotation-tool-for-capturing-breast-features/) and [medical history](/manage-breast-screening/2025/09/capturing-medical-history/) workflows.
