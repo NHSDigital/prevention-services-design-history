@@ -27,7 +27,7 @@ Forcing an answer when something isn't definitely known puts pressure on the mam
 
 ## Not known: technically more precise 
 
-What does "not known" mean here? It means the participant knows that a surgery, procedure or treatment happened, but isn't totally sure what kind. It has a second meaning: "not known" could also mean the mammographer was unable to ask the question. 
+When something is "not known", it means the participant is aware that a surgery, procedure or treatment happened, but isn't exactly sure what kind. "Not known" could also mean the mammographer was unable to ask the question (for example, in relation to an [observed clinical sign](/manage-breast-screening/2026/07/differentiating-between-symptoms-and-signs/)).
 
 Allowing this uncertainty or lack of knowledge to be captured creates fuzzier data, but technically makes responses more accurate it's now possible to record that a diagnosis, implanted medical device, or surgery happened, even if the details aren't known. Allowing the mammographer to record when something isn't known, yet happened, provides a greater degree of accuracy for medical history. 
 
