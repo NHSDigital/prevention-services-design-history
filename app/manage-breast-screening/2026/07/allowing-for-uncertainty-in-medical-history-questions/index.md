@@ -14,7 +14,7 @@ tags:
 
 We've made some changes to medical history questions to allow for when an answer isn't known by the participant, or they aren't sure exactly when or where something happened. 
 
-The changes are:  
+The changes allow the mammographer to capture: 
 
 * when something is "not known" 
 * when a date is approximate only
