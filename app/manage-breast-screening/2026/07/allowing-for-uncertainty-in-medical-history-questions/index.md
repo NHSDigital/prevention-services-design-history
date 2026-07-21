@@ -12,7 +12,7 @@ tags:
   - breast screening
 ---
 
-We've made some changes to medical history questions to allow for when an answer isn't known by the participant, or they weren't sure exactly when or where something happened. 
+We've made some changes to medical history questions to allow for when an answer isn't known by the participant, or they aren't sure exactly when or where something happened. 
 
 The changes are:  
 
