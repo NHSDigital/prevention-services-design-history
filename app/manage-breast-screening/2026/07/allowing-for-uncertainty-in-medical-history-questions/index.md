@@ -17,7 +17,7 @@ We've made some changes to medical history questions to allow for when an answer
 The changes are:  
 
 * when something is "not known" 
-* allowing the mammographer to state when a date is approximate only
+* when a date is approximate only
 
 Previously we allowed specific answers only, with no ability to record an answer when something isn't known for treatments and procedures. For example, when a diagnosis, procedure, or surgery took place, there was no way for the mammographer to record that it happened without providing specific answers for what that was. 
 
