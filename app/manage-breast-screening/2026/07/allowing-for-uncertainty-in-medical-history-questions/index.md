@@ -23,7 +23,7 @@ Previously we allowed specific answers only, with no ability to record an answer
 
 A participant may know that they had a breast surgery, but they may not know whether it was a lumpectomy or mastectomy or whether tissue remained; and if they had surgery following this, they may not know if it was lymph node surgery, full reconstruction, symmetrisation, or something else. 
 
-Forcing an answer when something isn't definitely known puts pressure on the mammographer and the participant, and could also have consequences for clinical safety. Recording with certainty a specific type of surgery, procedure, treatment or date could potentially lead to images being read incorrectly. The information is later surfaced to the radiologist, who can see when something isn't known, or when a date is approximate, which could inform how they read a mammogram. 
+Forcing an answer when something isn't definitely known puts pressure on the mammographer and the participant. It could also have consequences for clinical safety. This information is surfaced to radiologists, so the type and date of any surgery, procedure or treatment needs to be accurately recorded so it can be properly considered during image reading. 
 
 ## Not known: technically more precise 
 
