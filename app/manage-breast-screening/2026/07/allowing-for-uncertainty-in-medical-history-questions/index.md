@@ -33,7 +33,9 @@ Allowing this uncertainty or lack of knowledge to be captured creates fuzzier da
 
 ## Approximate dates 
 
-A similar change, we're making it easier for mammographers to record when dates of a diagnosis, procedure or surgery are only approximate. When the participant isn't sure of the date, it's now possible to record a date as approximate only. Previously we had an optional field with hint text that said "leave blank if not known", and would not allow non-numerical characters (a question mark, for example).  
+We're also making it easier for mammographers to record when dates of a diagnosis, procedure or surgery are only approximate.
+
+When the participant isn't sure of the date, it's now possible to record a date as approximate only. Previously we had an optional field with hint text that said "leave blank if not known", and would not allow non-numerical characters (a question mark, for example).  
 
 
 ## Screenshots 
