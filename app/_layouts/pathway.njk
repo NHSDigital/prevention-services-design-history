@@ -58,11 +58,11 @@
 
   {{ pagination({
     classes: "nhsuk-u-reading-width",
-    previousUrl: pagination.href.previous,
-    previousPage: pagination.page.previous | length + " items",
-    nextUrl: pagination.href.next,
-    nextPage: pagination.page.next | length + " items"
-  }) if pagination.pages.length > 1 }}
+    previousUrl: eleventyPagination.href.previous,
+    previousPage: eleventyPagination.page.previous | length + " items",
+    nextUrl: eleventyPagination.href.next,
+    nextPage: eleventyPagination.page.next | length + " items"
+  }) if eleventyPagination.pages.length > 1 }}
 
   {{ appRelated(related) if related }}
 {% endblock %}
