@@ -38,6 +38,6 @@ A similar change, we're making it easier for mammographers to record when dates 
 
 ## Screenshots 
 
-![Breast cancer medical information page with "where was the cancer diagnosed?" answered as "not known", and a selected "this date is approximate" checkbox beneath the year of diagnosis.](bc-details.png)
-
 ![Medical form showing the question "What other surgery have they had" with the answer "not known".](bc-other-surgery.png)
+
+![Breast cancer medical information page with "where was the cancer diagnosed?" answered as "not known", and a selected "this date is approximate" checkbox beneath the year of diagnosis.](bc-details.png)
