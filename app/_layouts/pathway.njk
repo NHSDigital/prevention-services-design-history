@@ -1,9 +1,7 @@
 {% extends "layouts/base.njk" %}
 
-{% from "nhsuk/components/card/macro.njk" import card as nhsukCard %}
-
 {% block beforeContent %}
-  {{ nhsukBreadcrumb({
+  {{ breadcrumb({
     items: breadcrumbItems
   }) if showBreadcrumbs }}
 {% endblock %}
@@ -45,7 +43,7 @@
         {% endif %}
         
         <li class="nhsuk-grid-column-full nhsuk-card-group__item">
-          {{ nhsukCard({
+          {{ card({
             secondary: true,
             heading: item.data.title,
             headingClasses: "nhsuk-u-font-size-22 nhsuk-u-margin-bottom-2",
@@ -58,13 +56,13 @@
     </ol>
   </div>
 
-  {{ nhsukPagination({
+  {{ pagination({
     classes: "nhsuk-u-reading-width",
-    previousUrl: pagination.href.previous,
-    previousPage: pagination.page.previous | length + " items",
-    nextUrl: pagination.href.next,
-    nextPage: pagination.page.next | length + " items"
-  }) if pagination.pages.length > 1 }}
+    previousUrl: eleventyPagination.href.previous,
+    previousPage: eleventyPagination.page.previous | length + " items",
+    nextUrl: eleventyPagination.href.next,
+    nextPage: eleventyPagination.page.next | length + " items"
+  }) if eleventyPagination.pages.length > 1 }}
 
   {{ appRelated(related) if related }}
 {% endblock %}
