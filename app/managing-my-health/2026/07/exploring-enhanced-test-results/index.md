@@ -1,7 +1,7 @@
 ---
 title: "Exploring enhanced test results: an early sketch"
 description: TODO
-date: 2026-07-21
+date: 2026-07-22
 author:
 - Frankie Roberto
 opengraphImage:
@@ -17,9 +17,11 @@ The sketches are built on top of the [native app redesign work](https://design-h
 
 ## Starting with a notification
 
-Currently, users of the NHS App can only be notified about new messages. 
+Currently, users of the NHS App can only be notified about new messages.
 
 In our sketch, a notification is sent about a new test result instead:
+
+![TODO](notification.png "A notification about a test result")
 
 The content of this notification would need to be considered carefully. Should it mention the specific test result? Or should it be more vague, not mentioning test results but instead just suggesting that there is some new information to view?
 
@@ -31,35 +33,33 @@ In the messages section of the app, individual messages show up as unread until 
 
 Could this behaviour also be adopted for test results? This may have the advantage of drawing attention to new test results for any users who do not have notifications turned on, or who ignore the notification. If a user routinely receives a lot of tests though, this may increase the noise of the app, and the user may not feel they need to read them all, for instance if they are explained in-person by a clinician.
 
-In these screens, a red dot is used to indicate unread test results:
+![TODO](unread-status.png "A red dot used to indicate an unread test result")
 
-	
+## A single list
 
-## Viewing results by date or by type
-
-
-Currently in the app, GP-ordered test results are grouped into screens by year. This means that to find previous results, you have to remember which year it was in. 
+Currently in the app, GP-ordered test results are separated into screens by year. This means that to find previous results, you have to remember which year it was in.
 
 In our sketch, by default the results are shown as a single list ordered by date. To make it easier to find specific tests, tests can also be grouped by type and then shown in alphabetical order.
 
+![TODO](combined-feed.png "Test results by date or by type")
+
 The ability to filter or search could be an option too.
 
-
 ## Adding explanations to results
-
 
 On individual results, content could be added to explain what a the test is. Where relevant, links could also be added to NHS.UK or other sites such as Lab Tests Online.  This builds on the work by the XDX team.
 
 As in the existing app, reference ranges can also be shown.
 
-	
+![TODO](results-with-explanations.png "Test results with explanations and links")
 
 ## Adding next steps
-
 
 Users also need to understand what their next steps are after a test result, if any.
 
 For this, we looked at HPV self-test results, where the result might be negative, unclear or positive.
+
+![TODO](results-with-next-steps.png "HPV test results with next steps")
 
 Where the result is negative, there are no immediate next steps, but some content explains that they will be invited to cervical screening in around 5 years time.
 
@@ -67,14 +67,13 @@ Where the result is unclear, a new self test will be sent to them. The patient i
 
 Where the result is positive, the next step is to book an appointment for a cervical screening. This might be initiated by the patient, or their GP may phone them to arrange it.
 
-	
 For some next steps, it might be possible to let users take the next step directly in the app. For example, booking an appointment for a cervical screening.
+
+![TODO](taking-next-action.png "Booking a cervical screening")
 
 If there are multiple ways to book this, the app could guide the user through the various options, and either offer them a way to book the appointment through the app, or link out to a external online booking service, or give them a phone number to call.
 
-
 ## What next for these sketches?
-
 
 These are just exploratory sketches.
 
