@@ -1,12 +1,12 @@
 ---
 title: "Exploring enhanced test results: an early sketch"
-description: TODO
+description: How notifications, unread status, explanations and ‘next steps’ might work.
 date: 2026-07-22
 author:
 - Frankie Roberto
 opengraphImage:
-  src: /managing-my-health/2026/08/exploring-enhanced-test-results/todo.png
-  alt: TODO
+  src: /managing-my-health/2026/07/exploring-enhanced-test-results/results-with-next-steps.png
+  alt: 3 mobile screenshots showing negative, unclear and positive results for an HPV test
 ---
 
 As part of our discovery into [helping users do more with test results](/managing-my-health/2026/07/helping-users-do-more-with-results/), we did some initial sketching to explore how this might work.
