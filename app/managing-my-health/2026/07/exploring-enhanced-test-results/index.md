@@ -77,4 +77,9 @@ If there are multiple ways to book this, the app could guide the user through th
 
 These are just exploratory sketches.
 
-In our alpha we will work with other teams to understand what is feasible and to iterate the detailed design and test it with users.
+In our alpha we will work with other teams to:
+
+* understand what is technically feasible
+* research and test the usability of these designs
+* iterate the design and content
+* see how this pattern might apply to different types of tests
