@@ -6,7 +6,7 @@ author:
 - Frankie Roberto
 opengraphImage:
   src: /managing-my-health/2026/07/enhanced-test-results-sketch/results-with-next-steps.png
-  alt: 3 mobile screenshots showing negative, unclear and positive results for an HPV test
+  alt: 3 mobile screenshots showing negative, unclear and positive results for an ABC test
 ---
 
 As part of our discovery into [helping users do more with test results](/managing-my-health/2026/07/helping-users-do-more-with-results/), we did some initial sketching to explore how this might work.
