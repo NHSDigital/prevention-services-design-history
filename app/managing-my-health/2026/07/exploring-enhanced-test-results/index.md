@@ -47,7 +47,7 @@ The ability to filter or search could be an option too.
 
 ## Adding explanations to results
 
-On individual results, content could be added to explain what a the test is. Where relevant, links could also be added to NHS.UK or other sites such as Lab Tests Online.  This builds on the work by the XDX team.
+On individual results, content could be added to explain what the test is. Where relevant, links could also be added to NHS.UK or other sites such as Lab Tests Online UK.  This builds on the work by the Cross-Domain Experience team.
 
 As in the existing app, reference ranges can also be shown.
 
