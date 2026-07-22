@@ -61,7 +61,7 @@ For this, we looked at HPV self-test results, where the result might be negative
 
 ![Three screenshots. The first shows an HPV result that is 'No HPV found'. The second shows an 'Unclear' result. The third shows 'HPV found' and has a button at the bottom labelled 'Book an appointment'](results-with-next-steps.png "HPV test results with next steps")
 
-Where the result is negative, there are no immediate next steps, but some content explains that they will be invited to cervical screening in around 5 years time.
+Where the result is negative, there are no immediate next steps, but some content explains that they will be invited to cervical screening in around 5 years’ time.
 
 Where the result is unclear, a new self test will be sent to them. The patient is given 2 offline next steps: taking the test and returning it. These are displayed in a reminder or checklist style. As well as being attached to the test result, these might also be surfaced elsewhere in the App in an app-wide view.  The tasks can be marked as done, to help the keep track of which things they still need to do.
 
