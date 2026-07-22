@@ -47,7 +47,7 @@ The ability to filter or search could be an option too.
 
 ## Adding explanations to results
 
-On individual results, content could be added to explain what a the test is. Where relevant, links could also be added to NHS.UK or other sites such as Lab Tests Online.  This builds on the work by the XDX team.
+On individual results, content could be added to explain what the test is. Where relevant, links could also be added to NHS.UK or other sites such as Lab Tests Online UK.  This builds on the work by the Cross-Domain Experience team.
 
 As in the existing app, reference ranges can also be shown.
 
@@ -61,9 +61,9 @@ For this, we looked at HPV self-test results, where the result might be negative
 
 ![Three screenshots. The first shows an HPV result that is 'No HPV found'. The second shows an 'Unclear' result. The third shows 'HPV found' and has a button at the bottom labelled 'Book an appointment'](results-with-next-steps.png "HPV test results with next steps")
 
-Where the result is negative, there are no immediate next steps, but some content explains that they will be invited to cervical screening in around 5 years time.
+Where the result is negative, there are no immediate next steps, but some content explains that they will be invited to cervical screening in around 5 years’ time.
 
-Where the result is unclear, a new self test will be sent to them. The patient is given 2 offline next steps: taking the test and returning it. These are displayed in a reminder or checklist style. As well as being attached to the test result, these might also be surfaced elsewhere in the App in an app-wide view.  The tasks can be marked as done, to help the keep track of which things they still need to do.
+Where the result is unclear, a new self test will be sent to them. The patient is given 2 offline next steps: taking the test and returning it. These are displayed in a reminder or checklist style. As well as being attached to the test result, these might also be surfaced elsewhere in the app in an app-wide view.  The tasks can be marked as done, to help the keep track of which things they still need to do.
 
 Where the result is positive, the next step is to book an appointment for a cervical screening. This might be initiated by the patient, or their GP may phone them to arrange it.
 
