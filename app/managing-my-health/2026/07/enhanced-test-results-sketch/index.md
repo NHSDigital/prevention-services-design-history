@@ -57,19 +57,19 @@ As in the existing app, reference ranges can also be shown.
 
 Users also need to understand what their next steps are after a test result, if any.
 
-For this, we looked at HPV self-test results, where the result might be negative, unclear or positive.
+This example shows a fictitious ABC test result, where the result might be negative, unclear or positive.
 
-![Three screenshots. The first shows an HPV result that is 'No HPV found'. The second shows an 'Unclear' result. The third shows 'HPV found' and has a button at the bottom labelled 'Book an appointment'](results-with-next-steps.png "HPV test results with next steps")
+![Three screenshots. The first shows an ABC result that is 'No ABC found'. The second shows an 'Unclear' result. The third shows 'ABC found' and has a button at the bottom labelled 'Book an appointment'](results-with-next-steps.png "Test results with next steps")
 
-Where the result is negative, there are no immediate next steps, but some content explains that they will be invited to cervical screening in around 5 years’ time.
+Where the result is negative, there are no immediate next steps, but some content explains that they will be invited to screening in around 3 years’ time.
 
-Where the result is unclear, a new self test will be sent to them. The patient is given 2 offline next steps: taking the test and returning it. These are displayed in a reminder or checklist style. As well as being attached to the test result, these might also be surfaced elsewhere in the app in an app-wide view.  The tasks can be marked as done, to help the keep track of which things they still need to do.
+Where the result is unclear, a new test will be sent to them. The patient is given 2 offline next steps: taking the test and returning it. These are displayed in a reminder or checklist style. As well as being attached to the test result, these might also be surfaced elsewhere in the app in an app-wide view.  The tasks can be marked as done, to help the keep track of which things they still need to do.
 
-Where the result is positive, the next step is to book an appointment for a cervical screening. This might be initiated by the patient, or their GP may phone them to arrange it.
+Where the result is positive, the next step is to book an appointment for a further tests. This might be initiated by the patient, or their GP may phone them to arrange it.
 
-For some next steps, it might be possible to let users take the next step directly in the app. For example, booking an appointment for a cervical screening.
+For some next steps, it might be possible to let users take the next step directly in the app. For example, booking an appointment for a further screening.
 
-![A screenshot showing a modal view with a close button at the top, and then a question asking 'Where do you want to get your cervical screening?' and 2 radio options: At my GP or At a sexual health clinic, with a green Continue button at the bottom.](taking-next-action.png "Booking a cervical screening")
+![A screenshot showing a modal view with a close button at the top, and then a question asking 'Where do you want to get your screening?' and 2 radio options: At my GP or At a sexual health clinic, with a green Continue button at the bottom.](taking-next-action.png "Booking a cervical screening")
 
 If there are multiple ways to book this, the app could guide the user through the various options, and either offer them a way to book the appointment through the app, or link out to a external online booking service, or give them a phone number to call.
 
