@@ -6,7 +6,7 @@ author:
 - Frankie Roberto
 opengraphImage:
   src: /managing-my-health/2026/07/enhanced-test-results-sketch/results-with-next-steps.png
-  alt: 3 mobile screenshots showing negative, unclear and positive results for an HPV test
+  alt: 3 mobile screenshots showing negative, unclear and positive results for an ABC test
 ---
 
 As part of our discovery into [helping users do more with test results](/managing-my-health/2026/07/helping-users-do-more-with-results/), we did some initial sketching to explore how this might work.
@@ -52,6 +52,26 @@ On individual results, content could be added to explain what the test is. Where
 As in the existing app, reference ranges can also be shown.
 
 ![Two screenshots. The first shows Blood pressure with a box underneath it saying 'About this test'. The second shows Blood glucose with a graph beneath it showing a reference range, and then another 'About this test' box.](results-with-explanations.png "Test results with explanations and links")
+
+## Adding next steps
+
+Users also need to understand what their next steps are after a test result, if any.
+
+This example shows a fictitious ABC test result, where the result might be negative, unclear or positive.
+
+![Three screenshots. The first shows an ABC result that is 'No ABC found'. The second shows an 'Unclear' result. The third shows 'ABC found' and has a button at the bottom labelled 'Book an appointment'](results-with-next-steps.png "Test results with next steps")
+
+Where the result is negative, there are no immediate next steps, but some content explains that they will be invited to screening in around 3 years’ time.
+
+Where the result is unclear, a new test will be sent to them. The patient is given 2 offline next steps: taking the test and returning it. These are displayed in a reminder or checklist style. As well as being attached to the test result, these might also be surfaced elsewhere in the app in an app-wide view.  The tasks can be marked as done, to help the keep track of which things they still need to do.
+
+Where the result is positive, the next step is to book an appointment for a further tests. This might be initiated by the patient, or their GP may phone them to arrange it.
+
+For some next steps, it might be possible to let users take the next step directly in the app. For example, booking an appointment for a further screening.
+
+![A screenshot showing a modal view with a close button at the top, and then a question asking 'Where do you want to get your screening?' and 2 radio options: At my GP or At a sexual health clinic, with a green Continue button at the bottom.](taking-next-action.png "Booking a screening")
+
+If there are multiple ways to book this, the app could guide the user through the various options, and either offer them a way to book the appointment through the app, or link out to a external online booking service, or give them a phone number to call.
 
 ## What next for these sketches?
 
