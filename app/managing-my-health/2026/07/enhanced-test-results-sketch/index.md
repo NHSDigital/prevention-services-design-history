@@ -69,7 +69,7 @@ Where the result is positive, the next step is to book an appointment for a furt
 
 For some next steps, it might be possible to let users take the next step directly in the app. For example, booking an appointment for a further screening.
 
-![A screenshot showing a modal view with a close button at the top, and then a question asking 'Where do you want to get your screening?' and 2 radio options: At my GP or At a sexual health clinic, with a green Continue button at the bottom.](taking-next-action.png "Booking a cervical screening")
+![A screenshot showing a modal view with a close button at the top, and then a question asking 'Where do you want to get your screening?' and 2 radio options: At my GP or At a sexual health clinic, with a green Continue button at the bottom.](taking-next-action.png "Booking a screening")
 
 If there are multiple ways to book this, the app could guide the user through the various options, and either offer them a way to book the appointment through the app, or link out to a external online booking service, or give them a phone number to call.
 
