@@ -5,7 +5,7 @@ date: 2026-07-22
 author:
 - Frankie Roberto
 opengraphImage:
-  src: /managing-my-health/2026/07/enhanced-test-results-sketch/results-with-next-steps.png
+  src: /managing-my-health/2026/07/enhanced-test-results-sketch/results-with-next-steps.png?2
   alt: 3 mobile screenshots showing negative, unclear and positive results for an ABC test
 ---
 
