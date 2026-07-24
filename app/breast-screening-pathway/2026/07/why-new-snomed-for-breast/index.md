@@ -28,7 +28,7 @@ Cumulatively, this results in a lack of timely and accurate national data about 
 
 ## Poor participant experience
 
-[SNOMED CT](https://digital.nhs.uk/services/terminology-and-classifications/snomed-ct) stands for systematised nomenclature of medicine - clinical terms. It is standardized clinical terminology used in healthcare IT to consistently code and share diagnoses, symptoms, procedures and other clinical information across systems. Screening participants should not see codes like `Breast neoplasm screening normal (finding)` but they sometimes do when [results are shown in the NHS App](../../../../managing-my-health/2026/07/helping-users-do-more-with-results/). This can be distressing, as some participants worry this means they have cancer. 
+[SNOMED CT](https://digital.nhs.uk/services/terminology-and-classifications/snomed-ct) stands for systematised nomenclature of medicine - clinical terms. It is a standardized clinical terminology used in healthcare IT to consistently code and share diagnoses, symptoms, procedures and other clinical information across systems. Screening participants should not see codes like `Breast neoplasm screening normal (finding)`, but they sometimes do when [results are shown in the NHS App](../../../../managing-my-health/2026/07/helping-users-do-more-with-results/). This can be distressing, as some participants worry this means they have cancer. 
 
 It has been pointed out that breast screening is behind other programmes like, bowel cancer screening, that [already have their own SNOMED CT](../../04/before-integrating-with-GP-IT/) codes to denote screening results. 
 
