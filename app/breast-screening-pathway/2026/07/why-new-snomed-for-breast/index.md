@@ -45,7 +45,7 @@ An example of such a code could be: `Breast cancer screening national programme 
 
 ## We will need to decide
 
-- which new SNOMED CT codes to create
+- which new SNOMED CT codes to create, along with their respective terms
 - which existing SNOMED CT codes to adopt
 - which bits of data do not require a SNOMED CT code, and can be passed as a message instead
 - whether we want to point to further information, like phone numbers, for reassurance
