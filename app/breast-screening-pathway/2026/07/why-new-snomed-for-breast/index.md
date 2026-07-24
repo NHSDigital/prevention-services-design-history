@@ -18,7 +18,7 @@ Breast screening results are [largely still sent as PDF and paper](../../../../e
 
 Results sent in this way arrive uncoded, which means that practices cannot define software rules to process them automatically. The vast majority of breast screening results, approximately 97%, are normal and require no further action, so they can be auto-filed. This filing work is currently done manually by GP admin staff. This is important because this is what adds a breast screening result to the patient record, which can be seen on the NHS App. 
 
-![NHS App screenshot](test-result-in-app.png "How a breast screening result might show in the app")
+![NHS App screenshot using test data](test-result-in-app.png "How a breast screening result might show in the app")
 
 ## Unreliable data limiting interventions
 
