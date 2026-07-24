@@ -20,7 +20,7 @@ Results sent in this way arrive uncoded, which means that practices cannot defin
 
 ![NHS App screenshot using test data](test-result-in-app.png "How a breast screening result might show in the app")
 
-## Unreliable data limiting interventions
+## Unreliable data
 
 Different GP practices adopted different coding practices, and there is inconsistency nationally - not just across practices, but also within practices. Staff need training to achieve consistency, which adds to the [admin overhead](https://www.kingsfund.org.uk/insight-and-analysis/long-reads/lost-in-system-need-for-better-admin). One practice told us they discovered their inconsistent coding went back 15 years, which required a big piece of work to fix. When coding is incorrect, practices cannot find all people who have never been screened or who have not been attending. This has a direct link to health inequalities as participants from the most [deprived backgrounds are less likely to attend](https://breastcancernow.org/about-us/media/statements/we-respond-to-new-analysis-from-cancer-research-uk-revealing-that-cancer-death-rates-are-almost-60-higher-for-people-living-in-the-most-deprived-areas-of-the-uk). The lack of data means it’s harder to intervene. 
 
@@ -28,7 +28,7 @@ Cumulatively, this results in a lack of timely and accurate national data about 
 
 ## Poor participant experience
 
-When [results are shown in the NHS App](../../../../managing-my-health/2026/07/helping-users-do-more-with-results/), SNOMED CT (Systematised nomenclature of medicine - clinical terms) codes like 'Breast neoplasm screening normal (finding)' can sometimes be externalised. This can be distressing, as some participants are worried this means they have cancer. 
+[SNOMED CT](https://digital.nhs.uk/services/terminology-and-classifications/snomed-ct) stands for systematised nomenclature of medicine - clinical terms. It is standardized clinical terminology used in healthcare IT to consistently code and share diagnoses, symptoms, procedures and other clinical information across systems. Screening participants should not see codes like `Breast neoplasm screening normal (finding)` but they sometimes do when [results are shown in the NHS App](../../../../managing-my-health/2026/07/helping-users-do-more-with-results/). This can be distressing, as some participants are worried this means they have cancer. 
 
 It has been pointed out that breast screening is behind other programmes like, bowel cancer screening, that [already have their own SNOMED CT](../../04/before-integrating-with-GP-IT/) codes to denote screening results. 
 
