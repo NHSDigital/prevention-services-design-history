@@ -71,4 +71,4 @@ We will consult GPs:
 
 We will also consult breast screening participants about their experience of seeing their results. 
 
-We are aiming to apply to SNOMED CT, hoping for an initial set of breast screening SNOMED CT codes to be published by April 2027. 
+We plan to apply to SNOMED International, hoping for an initial set of breast screening SNOMED CT codes to be published by April 2027.
