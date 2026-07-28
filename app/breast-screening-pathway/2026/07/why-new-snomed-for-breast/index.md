@@ -1,5 +1,5 @@
 ---
-title: Why we will apply for new SNOMED CT codes for the breast screening programme
+title: Why we intend to apply for new SNOMED CT codes for the breast screening programme
 description: Taking steps towards helping reduce GP admin burden
 date: 2026-07-24
 tags:
@@ -71,4 +71,4 @@ We will consult GPs:
 
 We will also consult breast screening participants about their experience of seeing their results. 
 
-We will apply to SNOMED CT, hoping for an initial set of breast screening SNOMED CT codes to be published by April 2027. 
+We are aiming to apply to SNOMED CT, hoping for an initial set of breast screening SNOMED CT codes to be published by April 2027. 
