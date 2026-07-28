@@ -12,7 +12,7 @@ opengraphImage:
   alt: How breast screening result might show in the app
 ---
 
-Breast screening results are [largely still sent as PDF and paper](../../../../explore-team/2025/03/what-we-learned-about-sharing-breast-and-bowel-results-with-gps/) to GP practices, where they are added to the patient record. 
+Breast screening results are [largely still sent as PDF and paper](/explore-team/2025/03/what-we-learned-about-sharing-breast-and-bowel-results-with-gps/) to GP practices, where they are added to the patient record. 
 
 ## GP admin burden
 
