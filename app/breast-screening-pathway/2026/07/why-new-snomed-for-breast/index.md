@@ -5,6 +5,7 @@ date: 2026-07-24
 tags:
   - GP IT
   - SNOMED CT
+  - test results  
 author:
   - Veronika Jermolina
 opengraphImage:
