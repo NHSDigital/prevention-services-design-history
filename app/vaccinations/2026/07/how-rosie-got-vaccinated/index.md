@@ -1,5 +1,5 @@
 ---
-title: Demo Video: how VDS helps Rosie get vaccinated this autumn
+title: "Demo Video: how VDS helps Rosie get vaccinated this autumn"
 description: Over the past year, teams within Vaccination Digital Services have delivered a lot - but for commissioners, stakeholders, and even people working within DPSP, it's not always clear how those pieces fit together or what value they create in practice. We created an end-to-end demo to make that visible.
 date: 2026-08-03
 tags:
