@@ -25,7 +25,7 @@ Prior research into capacity planning in breast screening highlighted that breas
 The pathway team investigated whether BSOs could find out about GP surgery changes earlier, so they could plan for changes in demand. 
 
 
-### How mergers and closures take place 
+## How mergers and closures take place 
 
 Over the last decade, there has been a trend for GP surgeries merging to form larger practices. [^1] These larger GP surgeries may include several offices and can cover completely different geographical areas. 
 
