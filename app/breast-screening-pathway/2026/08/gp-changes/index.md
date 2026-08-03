@@ -88,7 +88,7 @@ The registration process can take months and may include a CQC visit. [^2]
 Notifying commissioners and services will follow a similar process to mergers. However, we know at present that a completely new ODS code requires additional background work in breast screening: 
 * Cohort Manager raises an exception when a participant update is received from Cohorting as a Service (CaaS) that includes a GP practice that is not mapped to a BSO. 
 * BS Select 2nd line support resolves the exception by searching for the GP practice in ODS. They pull the practice name and address into BS Select and link the practice to a BSO. 
-* Sometimes the BSO is obvious based on the GP practices postcode, other times 2nd line support will agree with the BSO or Breast Screening Programme where to link the practice. 
+* Sometimes the BSO is obvious based on the GP practice postcode, other times 2nd line support will agree with the BSO or Breast Screening Programme where to link the practice. 
 
 
 ## National processes exist, but local communication varies 
@@ -97,7 +97,7 @@ Sharing information about changes to GP surgeries relies on a mix of formal noti
 
 GP mergers, closures, or new GP surgeries are not a routine or predictable occurrence, which could also influence how and when information is shared. 
 
-We know commissioners and programmes value this information but accessing it can rely on them knowing who to contact in an ICB if they do not receive updates automatically. This is made more difficult when there are national restructures, such as the change from CCGs to ICBs, or the requirement for ICBs to cut running costs by 50% by October 2026. [^3] These restructures impact service boundaries and responsibilities and make it harder to maintain established relationships across commissioning boundaries. 
+We know commissioners and programmes value this information but accessing it can rely on them knowing who to contact in an ICB if they do not receive updates automatically. This is made more difficult when there are national restructures, such as the change from CCGs to ICBs, or the requirement for ICBs to cut running costs by 50% by October 2026. [^3] These restructures impact service boundaries and responsibilities and make it harder to maintain established relationships across commissioning roles. 
 
 [^3]: [The King's Fund article on ICB cuts and what they could mean](https://www.kingsfund.org.uk/insight-and-analysis/blogs/icb-cuts-what-does-it-mean)
 
@@ -108,15 +108,15 @@ Another area we expect there to be inconsistency is how service providers, such 
 
 GP surgery changes are commercially sensitive. Information about proposed changes may not be reliable until the change is confirmed. 
 
-We do not think it is possible to reliably identify GP surgery changes earlier through national data. 
+We do not think it is possible to reliably identify GP surgery changes earlier through national data. The current communication process also involves several organizational layers that increases the complexity of any change. 
+
+![Diagram showing organisations involved in communicating GP surgery changes. Integrated Care Boards, public health commissioning, screening and immunisation commissioning, and breast screening providers sit within increasingly large organisational layers. The diagram illustrates that communication becomes more complex as more organisations are involved.](commissioning-proximity.png)
 
 There may be two opportunities to improve the current experience:  
 1. Support commissioners to create consistent SOPs for sharing GP surgery changes. 
-2. Provide tools to help BSOs manage peaks in demand. 
+2. Provide tools to help BSOs manage peaks in demand, for example, notifying them of changes to GP populations before a batch is pulled.
 
-The more organisations involved, the harder it may be to keep communication routes consistent. 
 
-![Diagram showing organisations involved in communicating GP surgery changes. Integrated Care Boards, public health commissioning, screening and immunisation commissioning, and breast screening providers sit within increasingly large organisational layers. The diagram illustrates that communication becomes more complex as more organisations are involved.](commissioning-proximity.png)
 
 
 
