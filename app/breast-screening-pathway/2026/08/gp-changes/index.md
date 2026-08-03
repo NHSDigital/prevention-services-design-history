@@ -9,7 +9,7 @@ opengraphImage:
 tags:
   - GP data
   - BSO process
-  - Commissioning
+  - commissioning
 ---
 
 We investigated whether BSOs could find out about GP surgery changes earlier. We found that this is unlikely because proposed changes are commercially sensitive and local communication processes vary. 
