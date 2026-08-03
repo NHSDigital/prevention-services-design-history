@@ -20,8 +20,6 @@ We centred the journey on RSV so we could demonstrate an NHS App feature - [Chec
 
 ## Watch the demo
 
-[Watch the demo video](https://nhs-my.sharepoint.com/:v:/r/personal/caroline_finucane_nhs_net/Documents/Rosies_Journey_Mk6.mp4?csf=1&web=1&e=tPotYr&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D).
-
 We're hoping this narrative might be useful for:
 
 - showing commissioners and stakeholders how our products contribute to a real vaccination journey
