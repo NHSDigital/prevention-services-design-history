@@ -1,7 +1,7 @@
 ---
 title: GP mergers, closures and new populations  
 description: How information about changes to GPs is shared across organizations in breast screening
-date: 2026-08-05
+date: 2026-08-03
 author: Marianne Brierley
 opengraphImage:
   src: /breast-screening-pathway/2026/08/gp-changes/commissioning-proximity.png
