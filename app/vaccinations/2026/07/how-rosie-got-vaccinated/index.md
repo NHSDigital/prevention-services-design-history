@@ -22,12 +22,12 @@ We centred the journey on RSV so we could demonstrate an NHS App feature - [Chec
 
 You can [watch the demo here](<iframe src="https://nhs-my.sharepoint.com/personal/caroline_finucane_nhs_net/_layouts/15/embed.aspx?UniqueId=d7a8c461-d6b6-4acd-9c58-835a4fccd6b9&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Rosies_Journey_Mk6.mp4"></iframe>).
 
+If you can't access this video, please let me know - email caroline.finucane@nhs.net
+
 We're hoping this narrative might be useful for:
 
 - showing commissioners and stakeholders how our products contribute to a real vaccination journey
 - helping new starters understand the VDS ecosystem
 - creating a more engaging alternative to diagrams, slides and product lists
-
-Complex systems are easier to understand when people can see them working in context. By combining visuals, narrative and realistic user scenarios, we hope this demo makes the value of our services easier to understand.   
 
 We do not yet know whether this approach is more effective than traditional presentations and documentation, but we'll share what we learn.
