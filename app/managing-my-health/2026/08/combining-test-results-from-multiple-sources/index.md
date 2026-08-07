@@ -53,7 +53,7 @@ We split into two sub-teams.
 
 One focused on user-centred design, building a web prototype in the NHS Prototype Kit to explore how a combined results feed might look and feel for users – including early work on categorising results by type rather than by source.
 
-![A prototype screen titled ‘Tests and results’, showing a list of results grouped by month. Each result card displays a result-type tag such as ‘Imaging’, a red dot for unread status, the test name, and the date. A filter control at the top shows ‘Showing 20 results’.](web-prototype.png "The web prototype showing a combined, filterable test results list grouped by date. Results are tagged by type rather than by data source.")
+![A prototype screen titled ‘Tests and results’, showing a list of results grouped by month. Each result card displays a result-type tag such as ‘Imaging’, a red dot for unread status, the test name, and the date. A filter control at the top shows ‘Showing 20 results’.](combined-feeds-test-results-opengraph.png "The web prototype showing a combined, filterable test results list grouped by date. Results are tagged by type rather than by data source.")
 
 The other started by mapping out the existing architectural landscape: identifying where data feeds originate, what format they use, and where in the architecture combining them would be most feasible. From that, we identified the most realistic short-to-medium term opportunity and built a technical prototype around it.
 
