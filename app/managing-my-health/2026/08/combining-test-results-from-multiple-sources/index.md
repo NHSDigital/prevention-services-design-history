@@ -53,7 +53,7 @@ We split into two sub-teams.
 
 One focused on user-centred design, building a web prototype in the NHS Prototype Kit to explore how a combined results feed might look and feel for users – including early work on categorising results by type rather than by source.
 
-![A prototype screen titled ‘Tests and results’, showing a list of results grouped by month. Each result card displays a result-type tag such as ‘Imaging’, a red dot for unread status, the test name, and the date. A filter control at the top shows ‘Showing 20 results’.](combined-feeds-test-results-opengraph.png "The web prototype showing a combined, filterable test results list grouped by date. Results are tagged by type rather than by data source.")
+![A prototype screen titled ‘Tests and results’, showing a list of results grouped by month. Each result card displays a result-type tag such as ‘Imaging’, a red dot for unread status, the test name, and the date. A filter control at the top shows ‘Showing 20 results’.](web-prototype.png "The web prototype showing a combined, filterable test results list grouped by date. Results are tagged by type rather than by data source.")
 
 The other started by mapping out the existing architectural landscape: identifying where data feeds originate, what format they use, and where in the architecture combining them would be most feasible. From that, we identified the most realistic short-to-medium term opportunity and built a technical prototype around it.
 
@@ -114,7 +114,7 @@ We learned a lot inside two days of focused work, and the collaborative nature o
 
 We made real progress on one of the core hypotheses in our alpha, and now have the beginnings of a method behind it which we can iterate on. Choosing the existing NHS App PFS API as that common format, rather than pushing raw FHIR into the app, gives us a pattern that’s stable and efficient – exactly the coherent technical approach we set out to find.
 
-It was also great to learn from Health Information’s previous research that organising by type and time, not source. It lines the design thinking from our [early sketch](/managing-my-health/2026/07/enhanced-test-results-sketch/) up with how users actually think about their results, and it’s a pattern that offers up other opportunities. 
+It was also great to learn from Health Information’s previous research about organising by type and time, not source. It lines up the design thinking from our [early sketch](/managing-my-health/2026/07/enhanced-test-results-sketch/) with how users actually think about their results, and it’s a pattern that offers up other opportunities. 
 
 Together these two outcomes take a chunk of risk out from the hypotheses we’ve made.
 
