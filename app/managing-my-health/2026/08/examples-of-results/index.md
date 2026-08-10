@@ -1,7 +1,7 @@
 --- 
 title: How the NHS App presents different prevention service results
 description: There isn’t a consistent pattern for how results from prevention services are presented in the NHS App. We’ve taken a look at the different ways.  
-date: 2026-08-07 
+date: 2026-08-10 
 tags:
   - GP results
   - NHS App
@@ -17,7 +17,7 @@ opengraphImage:
 
 As part of our discovery into [helping users do more with test results](/managing-my-health/2026/07/helping-users-do-more-with-results/), we mapped out how results for prevention services appear in the NHS App. 
 
-We focused on two areas: adult screening and health assessments. Looking at several examples highlights how different services approach results and some of the challenges and opportunities that remain. 
+We focused on two areas: adult screening and NHS Health Check Online. Looking at several examples highlights how different services approach results and some of the challenges and opportunities that remain. 
 
 To help visualise the results we looked for examples, whether anonymised real results or example results which contain no real data. For some services this wasn’t possible, or it was only possible for a small number of the possible result types. 
 
@@ -96,6 +96,14 @@ The results are presented with visualisations of the results which are designed 
 These results are also shared with the GP IT system and so may then appear as individual results within the Test results section of the NHS App. Each result would be presented individually as, for example, blood pressure or cholesterol. This is separate from the main NHS Health Check Online result, and people may not immediately relate the two.
 
 If people provide a blood pressure result that is either too high or too low, they will be triaged immediately and asked to contact their GP.
+
+## Why seeing examples matters
+
+For a user‑centred service, it’s hard to design and iterate well if the team can’t see realistic examples of the data people will see in the app, such as how test results are structured, labelled and explained. 
+
+The [NHS service standard](https://service-manual.nhs.uk/standards-and-technology/service-standard) expects teams to understand users’ needs in the context of health and care and provide a joined‑up experience. This is much easier when we can work from actual result formats rather than descriptions of them. Teams working on the NHS App and in the Digital Prevention Services portfolio have started collecting these examples as a shared resource.
+
+This also matters for digital ways of working like test‑driven development and smoke testing, which rely on being able to simulate or reproduce realistic data flows. The [NHS software engineering quality framework](https://github.com/NHSDigital/software-engineering-quality-framework) encourages practices like design for testability and shift‑left testing, but these are harder to apply when it’s difficult to access representative examples of test results in the NHS App.
 
 ## In summary
 
