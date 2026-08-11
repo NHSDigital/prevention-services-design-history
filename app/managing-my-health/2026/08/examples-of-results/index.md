@@ -29,7 +29,7 @@ Cervical screening results include a test for high-risk HPV and, if positive, an
 
 Results fall into four categories:
 
-* Inconclusive result 
+* Inadequate result 
 * HPV negative – No cytology 
 * HPV positive – Normal cytology 
 * HPV positive – Abnormal cytology 
