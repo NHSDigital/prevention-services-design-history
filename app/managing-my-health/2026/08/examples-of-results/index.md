@@ -99,11 +99,15 @@ If people provide a blood pressure result that is either too high or too low, th
 
 ## Why seeing examples matters
 
-For a user‑centred service, it’s hard to design and iterate well if the team can’t see realistic examples of the data people will see in the app, such as how test results are structured, labelled and explained. 
+For a user centred service, it is difficult to understand and improve the experience of receiving a result without being able to see representative examples of what users actually encounter.
 
-The [NHS service standard](https://service-manual.nhs.uk/standards-and-technology/service-standard) expects teams to understand users’ needs in the context of health and care and provide a joined‑up experience. This is much easier when we can work from actual result formats rather than descriptions of them. Teams working on the NHS App and in the Digital Prevention Services portfolio have started collecting these examples as a shared resource.
+You cannot reliably understand the user experience from the intended data model, specification or description of a result alone. As the examples above show, the same clinical result can look very different by the time it reaches a user. Its structure, labels, language and presentation can be shaped by the laboratory that processed it, how information is transferred between systems, the GP IT system and how healthcare professionals have recorded it.
 
-This also matters for digital ways of working like test‑driven development and smoke testing, which rely on being able to simulate or reproduce realistic data flows. The [NHS software engineering quality framework](https://github.com/NHSDigital/software-engineering-quality-framework) encourages practices like design for testability and shift‑left testing, but these are harder to apply when it’s difficult to access representative examples of test results in the NHS App.
+Without realistic examples, teams risk designing around an assumed, tidier version of the data rather than the information users actually see. Building a shared collection of representative examples helps teams understand this variation, identify where it creates problems for users, and design experiences that work with the reality of the data.
+
+Being able to reproduce representative results also makes it easier to test services technically. Practices such as automated testing, smoke testing and [designing for testability](https://github.com/NHSDigital/software-engineering-quality-framework) depend on being able to simulate realistic data and data flows. Representative examples therefore help us test not only whether a service technically works, but whether the information that reaches users remains understandable and useful.
+
+Teams working on the NHS App and across the Digital Prevention Services portfolio have started collecting these examples as a shared resource.
 
 ## In summary
 
