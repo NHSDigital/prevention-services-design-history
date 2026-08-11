@@ -58,9 +58,15 @@ The third example shows how a result can be presented to a user whose GP uses th
 
 The variation in how lab technicians and healthcare professionals describe a cervical screening result makes it harder for users to understand their results, and their experience is significantly impacted based on which IT system their GP uses. 
 
-## Breast screening
+## Breast screening test results
 
-Breast screening (also known as a mammogram) results are presented as a scanned physical document within the Documents section of the NHS App, they do not appear in the Test results section of the NHS App because the current National Breast Screening Service does not integrate with GP IT systems. Instead the paper result will be sent to the GP, who then scans and uploads it as a document. Work on a [breast screening gateway](https://www.digital-prevention-services.nhs.uk/docs/gateway/) could change that in future.
+As with cervical screening results, there is variation in how breast screening results appear in the app too – based on how data is recorded and the systems used to transfer the data. This example shows one that we know about.
+
+Breast screening results (which may be a mammogram, MRI or assessment result) are presented as a scanned physical document within the Documents section of the NHS App. They do not appear in the Test results section of the NHS App because the current National Breast Screening System does not integrate with GP IT systems. Instead the paper result will be sent to the GP, who then scans and uploads it as a document. Work on a [breast screening gateway](https://www.digital-prevention-services.nhs.uk/docs/gateway/) could change that in future.
+
+Some breast screening offices send letters to GPs, but some send PDFs. There are occasions when the results for more than one person are sent for the GP to process. This causes extra work for GP surgeries who may have to split those documents, for example, in order to avoid a privacy incident. One trust [built their own system](https://www.uhsussex.nhs.uk/news/innovative-digital-system-helps-improve-access-to-breast-screening-in-sussex/) to reduce the chance of those issues occurring.
+
+Some screening participants receive their results through the post, but when the post is unreliable they may call up the breast screening office to enquire.
 
 People who have had a mammogram will also usually receive the result via an email – with the scanned document attached to the email – in addition to seeing it within the NHS App.
 
