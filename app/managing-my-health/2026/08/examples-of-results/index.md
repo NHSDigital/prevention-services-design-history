@@ -1,7 +1,7 @@
 --- 
 title: How the NHS App presents different prevention service results
 description: There isn’t a consistent pattern for how results from prevention services are presented in the NHS App. We’ve taken a look at the different ways.  
-date: 2026-08-10 
+date: 2026-08-12 
 tags:
   - GP results
   - NHS App
