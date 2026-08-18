@@ -66,11 +66,11 @@ One of the key design questions centred around language and user expectations.
 
 We explored a number of different approaches, including:
 
-- Opt out - can imply a user previously opted in.
+- Opt out - can imply a user previously opted in
 
 - Unsubscribe - suggests a permanent decision
 
-- Manage preferences - implies a greater level of control and ongoing management of communications.
+- Manage preferences - implies a greater level of control and ongoing management of communications
 
 Understanding users' mental models and expectations became a key focus of the research.
 

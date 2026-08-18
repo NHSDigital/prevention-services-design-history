@@ -14,33 +14,33 @@ author:
 
 As the pilot developed, it became clear that Age-Based Messaging could evolve in a number of different directions. There was a need to establish a clearer strategic direction and align on where the service could create meaningful value for parents, public health and the wider NHS.
 
-The re-discovery phase started with identifying assumptions about the service and exploring where evidence already existed to support or challenge them. This evolved into a programme of workshops, stakeholder engagement and evidence reviews designed to better understand user needs, public health priorities and future opportunities for the service.
+The re-discovery phase started with identifying assumptions about the service and understanding where evidence already existed to support or challenge them. This evolved into a programme of workshops, stakeholder engagement and evidence reviews designed to better understand user needs, public health priorities and future opportunities for the service.
 
 This work resulted in the creation of a vision statement and two problem statements, allowing us to consider the challenge from both a parent and NHS perspective.
 
 ## What We Are Exploring
-As part of the re-discovery phase, we are exploring what a future Age-Based Messaging service could look like and how it could scale beyond the current pilot. Workshops have been used to align stakeholders around key questions relating to content, outcomes, user needs and public health priorities.
+As part of the re-discovery phase, we are defining what a future Age-Based Messaging service could look like and how it could scale beyond the current pilot. Workshops have been used to align stakeholders around key questions relating to content, outcomes, user needs and public health priorities.
 
 A significant focus has been understanding what information should be delivered between birth and five years of age, how frequently it should be sent, and what action users should take after receiving a message. We are also examining what success looks like, both from a parental perspective and in terms of wider NHS and public health outcomes.
 
-In parallel, we are exploring clinical feasibility and safety considerations alongside the technical constraints and opportunities involved in delivering messages through services such as the NHS App. This includes understanding how data is used for cohorting, how messages are delivered, and where future personalisation may or may not be possible.
+In parallel, we are investigating clinical feasibility and safety considerations alongside the technical constraints and opportunities involved in delivering messages through services such as the NHS App. This includes understanding how data is used for cohorting, how messages are delivered, and where future personalisation may or may not be possible.
 
 The work is intended to identify opportunities, uncover gaps and support the development of a future evaluation framework that will help measure value and impact.
 
 
 ## Our Vision Statement
-To ensure alignment and focus so as not to fall in the trap of trying to solve all problems at once- we created the following vision statement:
-A future where every parent and carer has clear, credible and relevant information throughout their child's early years, empowering them to make informed decisions and take the right action at the right time.
+To set a clear direction and avoid scope creep, we established this vision:
+*A future where every parent and carer has clear, credible and relevant information throughout their child's early years, empowering them to make informed decisions and take the right action at the right time.*
 
 ## Our Problem Statement(s)
 ### Parent Perspective
-Parents and carers lack clear, timely information about their child's health and development, leaving them unsure how to support them and turning to less reliable sources.
+*Parents and carers lack clear, timely information about their child's health and development, leaving them unsure how to support them and turning to less reliable sources.*
 
 ### NHS Perspective
-Key public health indicators show that opportunities to improve children's health and development are frequently missed. Limited routine contact and traditional health promotion approaches mean parents and carers do not always receive timely, relevant information. This reduces opportunities to improve outcomes, prevent illness and reduce health inequalities.
+*Key public health indicators show that opportunities to improve children's health and development are frequently missed. Limited routine contact and traditional health promotion approaches mean parents and carers do not always receive timely, relevant information. This reduces opportunities to improve outcomes, prevent illness and reduce health inequalities.*
 
 ## Stakeholder Workshops
-We have already conducted a series of stakeholder workshops including a content strategy workshp and a clinical hazard workshop to identify key stakeholders and their needs. We are continuing to facilitate workshops to continue information gathering to identify how best we vcan bring value to the nHS, public health and parents.
+We have already conducted a series of stakeholder workshops including a content strategy workshp and a clinical hazard workshop to identify key stakeholders and their needs. We are continuing to facilitate workshops to continue information gathering to identify how best we can bring value to the NHS, public health and parents.
 
 Workshop participants include:
 
@@ -73,7 +73,7 @@ This includes work completed through a dedicated Clinical Hazard Workshop.
 
 ## Outcomes We Are Exploring
 
-As part of discovery, we are exploring which outcomes Age-Based Messaging is best placed to influence. These include:
+As part of discovery, we are defining which outcomes Age-Based Messaging is best placed to influence. These include:
 
 - Awareness of important health interventions and services
 - Understanding of child health and development
@@ -98,8 +98,7 @@ At a high level, users sit within two broad groups: first-time parents and multi
 - Secondary carers and parents with diverse family, cultural and caregiving contexts
 
 These categories are not mutually exclusive and many parents may experience barriers across multiple groups at different points in their journey.
-
-whose circumstances may influence how they interact with the service, including parents experiencing digital exclusion, language barriers, low confidence, financial pressures, complex family circumstances, caring responsibilities, or additional child health needs. We also included Health Visitors as important groups within the wider service ecosystem.
+Personal circumstances may influence how they interact with the service, including parents experiencing digital exclusion, language barriers, low confidence, financial pressures, complex family circumstances, caring responsibilities, or additional child health needs. We also included Health Visitors as important groups within the wider service ecosystem.
 
 The archetypes are intended to help teams consider how different circumstances can affect trust, accessibility, confidence, engagement and the ability to act on information. They should be used as a reference point when making content, design, product and strategic decisions to ensure the service works for a broad range of parents and carers, not just those with the fewest barriers to engagement.
 

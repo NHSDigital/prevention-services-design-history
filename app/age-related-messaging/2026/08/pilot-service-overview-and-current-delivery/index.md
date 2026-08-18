@@ -69,7 +69,7 @@ This approach helps ensure information reaches both NHS App users and those who 
 
 ## Multi-Channel Delivery
 
-As part of the current service journey, information about the birth mother is made available through PDS following the birth of a child. The first Age-Based Message is sent 7 days after birth.
+As part of the current service journey, information about the birth mother is made available through PDS(Personal Demographics Service) following the birth of a child. The first Age-Based Message is sent 7 days after birth.
 
 Messages are delivered through NHS Notify using a multi-channel approach. The NHS App is the primary delivery channel. If a message remains unread after 3 days, an SMS version is automatically sent as a fallback. This helps ensure messages can reach both NHS App users and those who may not regularly access the app.
 
@@ -84,8 +84,6 @@ Examples include:
 - Parent or Carer deceased
 - Sensitive record flagged
 - Parent opted out
-
-
 These checks form an important part of the service's safeguarding and governance approach.
 ---
 
@@ -114,15 +112,15 @@ Our current happy path assumes:
 
 ### Behaviour States
 Within this, the research has suggested that users may respond in one or more of the followings ways:
-- Act immediately
+- Act immediately - Completes the call to action right away (e.g., clicks link, books check).
 
-- Save for later
+- Save for later - Flags or bookmarks the notification to review when convenient.
 
-- Act later
+- Act later - Intends to take action but delays completion.
 
-- Forget
+- Forget - Reads the message but fails to follow through without reminders.
 
-- Ignore or disengage
+- Ignore or disengage - Ignores or actively opts out of future communications.
 
 A particular risk is silent disengagement, where users remain enrolled but stop opening, reading or acting on messages.
 
@@ -142,11 +140,6 @@ As we continue to develop the service, further work is needed to understand:
 
 - Whether the service name should evolve to better reflect the purpose of Age-Based Messaging
 
-The current content can be viewed here: [Messages Content](https://digital-child-health-nhs-app-21346770155b.herokuapp.com/v5.4/pages/abm-messages/all-abm-messages)
-Password: dch
-
----
-## Service Naming and Positioning
 The relationship between Age-Based Messaging and Best Start in Life continues to be an important area of exploration. While the current messages signpost to Best Start in Life content and are sent under the Best Start in Life sender name, it has become clear that further work is needed to clarify where the two services overlap and where they are distinct.
 
 Research has also shown that the term "Age-Based Messaging" is not always intuitive or user-friendly. As the service develops, we will explore alternative naming options and clearer ways of describing the service, helping users understand what it is, why they are receiving messages and what value it provides.
