@@ -1,7 +1,7 @@
 ---
 title: Understanding QA across the service - building on existing controls to support the future service model
 description: A collaborative, evidence-based approach to understanding and strengthening quality assurance across the diabetic eye screening service
-date: 2026-08-17
+date: 2026-08-19
 author: Harleen Kaur Dhillon
 tags: cascade
   
