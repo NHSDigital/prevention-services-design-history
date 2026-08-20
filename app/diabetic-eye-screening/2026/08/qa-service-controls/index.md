@@ -1,7 +1,7 @@
 ---
 title: Understanding QA across the service - building on existing controls to support the future service model
 description: A collaborative, evidence-based approach to understanding and strengthening quality assurance across the diabetic eye screening service
-date: 2026-08-19
+date: 2026-08-20
 author: Harleen Kaur Dhillon
 tags: cascade
   
@@ -16,9 +16,9 @@ The work is not about creating a new QA approach from scratch. Instead, the prog
 
 ## Working collaboratively to understand existing controls
 
-The QA discovery has been carried out collaboratively with teams involved in delivering, managing and assuring the existing service.
+A QA discovery has been carried out collaboratively with teams involved in delivering, managing and assuring the existing service.
 
-The programme has held workshops involving the Service Management team, GP2DRS team, Mike Olson (our Quality Assurance Analyst from Health Information Consulting (HIC)), third-party suppliers, and other internal teams.
+The programme has held workshops involving the Service Management team, General Practice to Diabetic Retinopathy Screening (GP2DRS team), our Quality Assurance Analyst from Health Information Consulting (HIC), third-party suppliers, and other internal teams.
 
 These workshops have provided an opportunity to understand how QA currently works across different parts of the service, including the controls used to identify issues, validate information, monitor processing and support operational decision-making.
 
@@ -100,8 +100,8 @@ It also gives the relevant teams an opportunity to challenge or validate the ass
 
 The QA discovery has enabled the programme to:
 
--	build a clearer understanding of existing QA processes, controls and measures across the DES service
--	bring together knowledge from Service Management, GP2DRS, QA, supplier and internal teams
+-	build a clearer understanding of existing QA processes, controls and measures across the service
+-	bring together knowledge from Service Management, General Practice to Diabetic Retinopathy Screening (GP2DRS), QA, supplier and internal teams
 -	identify existing controls that already provide the required level of assurance
 -	avoid unnecessarily redesigning or duplicating effective existing processes
 -	identify potential gaps and areas where further investigation is required
@@ -112,7 +112,7 @@ The QA discovery has enabled the programme to:
 
 ## Next steps
 
-The programme will continue working with the Service Management team, the GP2DRS team and Mike Olson, our Quality Assurance Analyst from Health Information Consulting (HIC), as well as third-party suppliers and other internal teams, to complete the remaining analysis.
+The programme will continue working with the Service Management team, the General Practice to Diabetic Retinopahy Screening (GP2DRS team), our Quality Assurance Analyst from Health Information Consulting (HIC), as well as third-party suppliers and other internal teams, to complete the remaining analysis.
 
 The immediate next steps are to finalise the QA Matrix, resolve outstanding questions and confirm the position for areas where further investigation is required.
 
@@ -123,7 +123,7 @@ Findings will then be presented back to the relevant teams using the agreed appr
 
 ## Supporting the future service model
 
-The QA discovery provides an important foundation for the future DES service.
+The QA discovery provides an important foundation for the future service.
 
 By understanding and building on the controls that already exist, the programme can retain effective assurance while focusing effort on the areas where change is genuinely needed.
 
