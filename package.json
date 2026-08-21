@@ -50,8 +50,8 @@
   },
   "type": "module",
   "allowScripts": {
-    "@parcel/watcher@2.6.0": true,
     "fsevents@2.3.3": true,
-    "unrs-resolver@1.11.1": true
+    "unrs-resolver": false,
+    "@parcel/watcher": false
   }
 }
