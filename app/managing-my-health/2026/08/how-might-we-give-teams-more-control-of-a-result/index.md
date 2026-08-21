@@ -34,7 +34,7 @@ Over a few workshops, we’ve iterated on these hypothesis statements and pulled
 
 There are many ways to change the way results are delivered to and experienced in the app. Some involve changing NHS software and systems, others involve trying to change the wider technical landscape. 
 
-We decided to start building something that improves the system as it exists now, as it’s smaller and quicker. [A thing slice](https://dafyddvaughan.uk/blog/2026/modernising-the-vehicle-logbook-by-delivering-value-early/#:~:text=slice%20the%20problem%20thin), a good place to start.
+We decided to start building something that improves the system as it exists now, as it’s smaller and quicker. [A thin slice](https://dafyddvaughan.uk/blog/2026/modernising-the-vehicle-logbook-by-delivering-value-early/#:~:text=slice%20the%20problem%20thin), a good place to start.
 
 Our initial thinking is to change the way a test result is presented in the NHS App based on metadata a screening service can provide. 
 
@@ -95,7 +95,7 @@ This helped us learn more but it doesn’t completely de-risk the assumption. Th
 
 Now that we’ve learned what the data in the test results feed looks like, we’ve started exploring what data and metadata a service holds. Our first technical experiment will attempt to match a record from a service with a record in the test results feed.
 
-We know that we can change the way a result is presented in the app from looking at its code. If we can match these two records, we think it’s possible to improve the how the result is presented – replacing clinical descriptions and indecipherable titles with reassuring, consistent content in the test results section of the app. 
+We know that we can change the way a result is presented in the app from looking at its code. If we can match these two records, we think it’s possible to improve the how the result is presented – replacing clinical descriptions and indecipherable titles with reassuring, consistent content in the test results section of the app. (Our [early sketch](/managing-my-health/2026/07/enhanced-test-results-sketch/) shows what that might look like.)
 
 This is our first experiment and we’re making a start on it with colleagues in Cervical Screening and clinical assurance. Irrespective of whether we validate our assumption or see inconclusive results, anything we learn will feed back into our understanding of how to solve the problem.
 
