@@ -45,7 +45,13 @@
   },
   "private": true,
   "engines": {
-    "node": "22.x"
+    "node": "24.x",
+    "npm": ">=11.0.0"
   },
-  "type": "module"
+  "type": "module",
+  "allowScripts": {
+    "@parcel/watcher@2.6.0": true,
+    "fsevents@2.3.3": true,
+    "unrs-resolver@1.11.1": true
+  }
 }
