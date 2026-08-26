@@ -13,9 +13,6 @@ tags:
 author:
   - Steve Messer
   - Matt Dooner
-opengraphImage:
-  src: 
-  alt: 
 ---
 
 During our alpha, we’re looking at whether we can support teams to give people test results in the app with the context they need, at the right time. We think this could help solve some of the problems we identified in our [discovery](/managing-my-health/2026/07/helping-users-do-more-with-results/), making the experience more consistent for users compared to [what it’s like now](/managing-my-health/2026/08/examples-of-results/).
