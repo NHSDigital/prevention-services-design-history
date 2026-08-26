@@ -1,5 +1,5 @@
 ---
-title: Making it easier to integrate with the NHS App
+title: Improving vaccination booking within the NHS App
 date: 2026-08-25 
 tags: 
 - service integration
