@@ -19,13 +19,13 @@ The National Booking Service (NBS) includes several optional features, such as:
 
 NBS also checks users against the Personal Demographics Service (PDS) when they log in. This helps us identify who the appointment is for and check if they are eligible.
 
-Previously, NBS asked users whether they wanted to do a joint booking at the start of the journey, before we verified their identity.  We’d also implemented a ‘proxy by default’ journey where we were using agnostic language instead of having different versions of the same journey for people who were booking for themselves, and people who were booking for others.
+Previously, NBS asked users whether they wanted to do a joint booking at the start of the journey, before we verified their identity.  We’d also implemented a ‘proxy by default’ journey where we were using agnostic language that suited people to book for either themselves or others, instead of having different versions of the same journey for people who were booking for themselves, and people who were booking for others.
 
 These features made sense in the web-based version of NBS.  But we realised when we started to integrate with the app, that we had inadvertently made it slightly more difficult for ourselves
 
 ## The problem
 
-Because NHS App users are already verified, and the initial stage of our integration only included app users who were booking for themselves, our agnostic language model in the web based NBS journey didn’t quite fit the app.  Initially, we needed to create some dynamic language handling, to make sure that app users saw first person language throughout the journey.
+Because NHS App users are already verified, and the initial stage of our integration only included app users who were booking for themselves, our agnostic language model in the web based NBS journey didn’t quite fit the app.  This meant our development team needed to create some dynamic language handling, to make sure that app users saw first person language throughout the journey. The team needed to make sure we considered both language requirements every time we added a new feature.
 
 We then encountered another issue with joint bookings.  As the web-based NBS journey asked users about joint bookings before the PDS authentication step, this meant that the already authenticated app user would miss this step when they entered NBS from the app.  We needed to design a different version of joint bookings for the app, which would mean more work for the dev team, and more work to maintain the different journeys.
 
