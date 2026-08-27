@@ -1,6 +1,6 @@
 ---
 title: "Manic Mondays: how should we schedule clinics?"
-date: 2026-08-26
+date: 2026-08-27
 author: Anna Hepburn
 ---
 When you are working with professional users who have been using a computer system for years, or even decades, it can be harder to uncover their fundamental user needs. These can be obscured by longstanding ways of doing things and entrenched mental models.
