@@ -18,9 +18,7 @@ opengraphImage:
   alt: A diagram showing how we might change the presentation and content for a test result in the NHS App. If we can identify the result in the test results feed and match it to one from a prevention service, we can apply the service’s content, change the presentation of the result and release it into the app. We’ll also look at how we can co-ordinate it with the message sent to the app.
 ---
 
-During our alpha, we’re looking at whether we can support prevention services to give people test results in the app with the context they need, at the right time. We think this could help them solve some of the problems identified in a [discovery](/managing-my-health/2026/07/helping-users-do-more-with-results/), making the experience more consistent for users compared to [what it’s like now](/managing-my-health/2026/08/examples-of-results/).
-
-We’re using research and testing to reduce risk and deepen our understanding of the problems and how to help solve them.
+During our alpha, we’re looking at whether we can support prevention services to give people test results in the app with the context they need, at the right time. We’re using research and testing to reduce risk and deepen our understanding of the problems and how to help solve them.
 
 3 core hypotheses[^1] drive the work:
 
@@ -32,11 +30,9 @@ Over a few workshops, we’ve iterated on these hypotheses and pulled out the ri
 
 ## Initial thinking on a solution
 
-There are many ways to change how results are delivered and experienced in the app. Some involve changing NHS software and systems, others involve trying to change the wider technical landscape. 
+Our initial thinking is to change the way a test result is presented in the NHS App, replacing clinical descriptions and indecipherable titles with reassuring content. You can [see examples of what that looks like now](/managing-my-health/2026/08/examples-of-results/) and read about the other problems uncovered in a [discovery](/managing-my-health/2026/07/helping-users-do-more-with-results/).
 
-We decided to start building something that improves the system as it exists now, as it’s smaller and quicker. [A thin slice](https://dafyddvaughan.uk/blog/2026/modernising-the-vehicle-logbook-by-delivering-value-early/#:~:text=slice%20the%20problem%20thin) is a good place to start.
-
-Our initial thinking is to change the way a test result is presented in the NHS App based on the metadata provided by a prevention service. 
+There are many ways to change how results are delivered and experienced in the app. Some involve changing NHS software and systems, others involve trying to change the wider technical landscape. We decided to start building something that improves the system as it exists now, as it’s smaller and quicker. [A thin slice](https://dafyddvaughan.uk/blog/2026/modernising-the-vehicle-logbook-by-delivering-value-early/#:~:text=slice%20the%20problem%20thin) is a good place to start.
 
 ## Riskiest assumption
 
@@ -66,11 +62,10 @@ We analysed 3 months of anonymised data from the NHS App logging which test resu
 
 A quick analysis taught us a lot about what results look like and whether we could give teams more control over them. We focused on cervical screening results instead of other screening services because we are partnering with them in the alpha.
 
-- Cervical and HPV test results make up 1.2% of views for all test results, with 9 different test result titles.
+- Cervical and HPV test results make up 1% of views for all test results, with 9 different test result titles.
 - 71% of cervical and HPV test results have [SNOMED coding](https://digital.nhs.uk/services/terminology-and-classifications/snomed-ct), and use 1 of 4 codes. ​
-- 29% remain uncoded and test result names may be hand-typed – introducing the potential for more variability.​
-- One result title – `Hum papill vir DNA dtctn assay` – is
-likely a READ term surfaced by [EDIFACT](https://digital.nhs.uk/developer/guides-and-documentation/our-api-technologies#edifact) or [MESH](https://digital.nhs.uk/developer/guides-and-documentation/our-api-technologies#mesh). This is what a user has to find in their list of test results.​
+- 29% remain uncoded. We don’t know why some of the results are coded and others aren’t.​
+- One result title – `Hum papill vir DNA dtctn assay` – is likely a READ term surfaced by [EDIFACT](https://digital.nhs.uk/developer/guides-and-documentation/our-api-technologies#edifact) or [MESH](https://digital.nhs.uk/developer/guides-and-documentation/our-api-technologies#mesh). This is an example of what a user has to find in their list of test results.​
 
 ### What does this mean for our assumption?
 
@@ -94,7 +89,7 @@ We’re hoping to get access to [OpenSAFELY](https://digital.nhs.uk/data-and-inf
 
 Now that we’ve learned what the data in the test results feed looks like, we’ve started exploring what data and metadata a service holds. Our first technical experiment will attempt to match a record from a service with a record in the test results feed.
 
-From looking at the app’s source code, we know we can change the way a result is presented in the app. If we can match these two records, we should be able to replace clinical descriptions and indecipherable titles with reassuring, consistent content in test results. (Our [early sketch](/managing-my-health/2026/07/enhanced-test-results-sketch/) shows what that might look like.)
+From looking at the app’s source code, we know we can change the way a result is presented in the app. If we can match these two records, we should be able to give prevention services control of the content in a test result. (Our [early sketch](/managing-my-health/2026/07/enhanced-test-results-sketch/) shows what that might look like.)
 
 This is our first experiment and we’re making a start on it with colleagues in Cervical Screening and clinical assurance. It underpins how our initial solution will workAnything we learn will feed back into our understanding of how to solve the problem.
 
