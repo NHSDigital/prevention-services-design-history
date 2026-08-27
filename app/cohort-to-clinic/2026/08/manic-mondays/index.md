@@ -10,7 +10,7 @@ When you are working with professional users who have been using a computer syst
 
 In the ‘cohort to clinic’ team, we have been looking at how users in breast screening offices (BSOs) might schedule routine screening and book people into appointments in Rubie, the new system we are designing.
 
-In the current system, NBSS, users create a clinic, which in this context might last months or years (not to be confused with a day’s clinic, which is one day where people are screened). When they create the clinic, they add ‘sessions’, which can last one day, or just a morning or afternoon. A session is a group of appointment slots.
+In the current system, National Breast Screening System (NBSS), users create a clinic, which in this context might last months or years (not to be confused with a day’s clinic, which is one day where people are screened). When they create the clinic, they add ‘sessions’, which can last one day, or just a morning or afternoon. A session is a group of appointment slots.
 
 ## Creating sessions
 
