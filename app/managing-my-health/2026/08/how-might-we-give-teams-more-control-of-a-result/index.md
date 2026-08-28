@@ -91,7 +91,7 @@ Now that we’ve learned what the data in the test results feed looks like, we�
 
 From looking at the app’s source code, we know we can change the way a result is presented in the app. If we can match these two records, we should be able to give prevention services control of the content in a test result. (Our [early sketch](/managing-my-health/2026/07/enhanced-test-results-sketch/) shows what that might look like.)
 
-This is our first experiment and we’re making a start on it with colleagues in Cervical Screening and clinical assurance. It underpins how our initial solution will workAnything we learn will feed back into our understanding of how to solve the problem.
+This is our first experiment and we’re making a start on it with colleagues in Cervical Screening and clinical assurance. It underpins how our initial solution will work. Anything we learn will feed back into our understanding of how to solve the problem.
 
 [^1]: It’s easy to get lost with the terminology, especially as words can be used interchangeably with different meanings. We’ve grounded ourselves in Jeff Gothelf’s definition: _Hypotheses are statements that combine our assumptions about outcomes, user benefits, and features. They are structured to test whether a specific aspect of our service proposition is true._
 [^2]: Again, we’re using Jeff Gothelf’s definition: _Riskiest assumptions are the assumptions within your hypotheses that, if incorrect, would cause the entire idea to fail. Identifying these is crucial because they help you focus on what you need to learn first to validate or invalidate your hypothesis._
