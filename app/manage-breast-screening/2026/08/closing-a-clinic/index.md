@@ -12,7 +12,7 @@ tags:
   - breast screening
 ---
 
-We've just designed the functionality to close a clinic. Once a clinic has ended, there are tasks to complete before it can be closed.
+We've designed the functionality to close a clinic. Once a clinic has ended, there are tasks to complete before it can be closed.
 
 ## Closing a clinic tasks
 
