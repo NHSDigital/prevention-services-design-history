@@ -1,11 +1,11 @@
 ---
 title: Closing a clinic
 description: Making it easy for admin staff to close a clinic
-date: 2026-09-1
+date: 2026-09-01
 author: Rebecca Cottrell
 opengraphImage:
-  src: /manage-breast-screening/2026/07/close-clinic/close-clinic1.png
-  alt: TBC
+  src: /manage-breast-screening/2026/07/close-clinic/close-clinic-1.png
+  alt: Close clinic page showing 'needs an outcome' section, with appointments in progress
 tags:
   - beta
   - prototype
