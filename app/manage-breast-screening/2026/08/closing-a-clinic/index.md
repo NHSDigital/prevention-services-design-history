@@ -74,7 +74,7 @@ Closing a clinic will capture (when needed) additional data about whether appoin
 
 ## Outcome recorded
 
-Once all participants have an appointment outcome assigned, they're displayed in the outcome recorded section, and the clinic can be closed. 
+Once all participants have an appointment status assigned, they're displayed in the outcome recorded section, and the clinic can be closed. 
 
 ![Outcome recorded list of participants](close-clinic-4.png)
 
