@@ -1,7 +1,7 @@
 ---
 title: Closing a clinic
 description: Making it easy for admin staff to close a clinic
-date: 2026-08-26
+date: 2026-09-1
 author: Rebecca Cottrell
 opengraphImage:
   src: /manage-breast-screening/2026/07/close-clinic/close-clinic1.png
