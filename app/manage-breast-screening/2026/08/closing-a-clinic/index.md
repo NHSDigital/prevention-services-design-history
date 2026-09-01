@@ -42,7 +42,7 @@ In this situation, the admin user would need to chase the mammographer to close 
 
 ## Checked in, not screened
 
-For checked in but not screened, we know that the participant checked in at reception, but screening wasn't started – we don't know more than that. For those participants we suggest an appointment outcome of `attended not screened`. When `attended not screened` is recorded, further details need to be captured (for example, the reason why the screening did not happen, and whether the appointment should be rescheduled). These are captured in another flow. 
+For checked in but not screened, we know that the participant checked in at reception, but screening wasn't started, or was paused midway through – we don't know more than that. For those participants we suggest an appointment outcome of `attended not screened`. When `attended not screened` is recorded, further details need to be captured (for example, the reason why the screening did not happen, and whether the appointment should be rescheduled). These are captured in another flow. 
 
 It's possible that a participant was checked in accidentally. In future, we want to support the ability to move a participant between the lists where we think someone was checked in by accident. The admin user doesn't have to follow the suggested outcome; if they know more about the appointment, they could go into the appointment and perform actions there (eg undo check in, cancel or reschedule appointment). 
 
