@@ -70,7 +70,7 @@ When a participant misses (`did not attend`) their screening appointment twice i
 
 ## Rescheduling appointments
 
-Closing a clinic will capture (when needed) additional data about whether appointments should be rescheduled. We're still working out how appointment rescheduling happens, and we'll consider whether it should happen at this stage, or whether it happens elsewhere in Rubie to be handled at another time (eg in a rescheduling task list). 
+Closing a clinic will capture (when needed) additional data about whether appointments should be rescheduled. We're still working out how appointment rescheduling happens, and we'll consider whether it should happen at this stage, or whether it happens elsewhere in Rubie to be handled at another time (for example, in a rescheduling task list). 
 
 ## Outcome recorded
 
