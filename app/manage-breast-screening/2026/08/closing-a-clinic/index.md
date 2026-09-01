@@ -66,7 +66,7 @@ These can also be undone – also in bulk, or individually, to allow individual 
 
 ## A note about did not attend 
 
-When a participant misses (`did not attend`) their screening appointment twice in one episode, they are not invited to future appointments within that episode.  If a participant wants to attend screening, they'd need to phone the BSO and ask for an appointment. Unless they opt out of screening, they'd continue to be invited to future screening episodes. 
+When a participant misses (`did not attend`) their screening appointment twice in one episode, they are not invited to future appointments until they are next scheduled for screening (usually in three years' time).  If a participant wants to attend screening, they'd need to phone the BSO and ask for an appointment. Unless they opt out of screening, they'd continue to be invited to future screening episodes. 
 
 ## Rescheduling appointments
 
