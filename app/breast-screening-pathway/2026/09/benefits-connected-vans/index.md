@@ -4,7 +4,7 @@ description: What we learned from speaking to the 5 most well-connected BSOs
 date: 2026-09-03
 tags:
   - mobile vans
-  - breast screening  
+  - breast screening
 author:
   - Veronika Jermolina
 ---
@@ -13,7 +13,7 @@ We wanted to understand the benefits of connecting the mobile vans of breast scr
 
 BSOs have different connection profiles, different numbers of vans, different routes and different territories. 
 
-We spoke to the the 5 most well-connected BSOs to find out more.
+We spoke to the 5 most well-connected BSOs to find out more.
 
 ## Benefits we heard about
 
@@ -21,28 +21,28 @@ We spoke to the the 5 most well-connected BSOs to find out more.
 
 It is likely that the biggest benefit is the improved data protection and confidentiality resulting from no longer needing to transport participant paperwork and images to and from base. 
 
-Seeing past images on the picture archiving and communication system (PACS) allows mammographers to know with more certainty when a person was last screened and to determine if an image is “normal” for that person. This reduces the need to potentially flag a technical recall and irradiate someone unnecessarily.
+Seeing past images on the picture archiving and communication system (PACS) allows mammographers to know with more certainty when a person was last screened and to determine if an image is “normal” for that person. This reduces the need to potentially flag a technical recall and expose someone to radiation unnecessarily.
 
 ### Money saving
 
 The money savings from connecting vans included:
 
 - reduction in printing costs of client forms
-- reduction in the cost of USB or had disk drives - including maintenance fees - as fewer were needed
+- reduction in the cost of USB or hard disk drives - including maintenance fees - as fewer were needed
 - reduction in the cost of other computer equipment
-- reduction in the costs and frequency of courier use - from daily to weekly. Instead of carrying paperwork, couriers carried supplies like aprons, gloves and cleaning wipes
+- reduction in the cost and frequency of courier use - from daily to weekly. Instead of carrying paperwork, couriers carried supplies like aprons, gloves and cleaning wipes
 
 ### Capacity increase: less time spent on admin
 
 Connected vans helped reduce the time mammographers spent doing admin work, like transferring images to hard drives and other ‘closing clinics’ tasks, giving them more time for clinical work.
 
-> We are saving time downloading and uploading clinics list to NBSS, which is equivalent to 3 slots or 10 to 20 minutes per day. But not always, it can result in fewer slots too.
+> We are saving time downloading and uploading clinic lists to NBSS, which is equivalent to 3 slots or 10 to 20 minutes per day. But not always, it can result in fewer slots too.
 
 Other BSOs estimated that they saved 45 minutes to an hour a day.
 
 ### Capacity increase: filling cancelled slots
 
-Some BSOs said they can fill cancelled slots, allowing walk-ins and same-day bookings, because they can refresh the live worklist on the vans and slot participants in. BSOs that work offline in vans freeze the worklist up to 3 days before clinic so that paperwork can be printed and transported. 
+Some BSOs said they can fill cancelled slots, allowing walk-ins and same-day bookings, because they can refresh the live worklist on the vans and slot participants in. BSOs that work offline in vans freeze the worklist up to 3 days before the clinic so that paperwork can be printed and transported. 
 
 We know that BSOs tend to optimise their capacity - either by using ‘[smart clinics](/cohort-to-clinic/2026/06/what-we-learned-about-smart-clinics/)’ or by using attendance probabilities to allocate appointments, which already reduces the impact of no-shows.  
 
@@ -57,7 +57,7 @@ Efficiency savings from connecting vans included:
 
 ### Different staffing profiles
 
-One BSO told us that if their vans were fully and reliably live, they might look at allowing 2 assistant practitioners to work together under the supervision of a remote band 6 radiographer. In this instance, image transfer time becomes critical, as this is a task that needs to happen in real time. That BSO hopes that this will help them ease recruitment pressures as it’s easier, and cheaper, to recruit assistant practitioners. 
+One BSO told us that if their vans were fully and reliably live, they might look at allowing 2 assistant practitioners to work together under the supervision of a remote band 6 radiographer. In this instance, image transfer time becomes critical, as this is a task that needs to happen in real time. That BSO hopes that this will help them ease recruitment pressures as it’s easier and cheaper to recruit assistant practitioners. 
 
 ### Better staff wellbeing
 
@@ -75,7 +75,7 @@ Some BSOs have told us that their van connection service “has gone downhill”
 
 It can take 3 to 6 months for staff to trust the connection, during which time they need to run in parallel with paper processes.
 
-Even then “paper is always the contingency plan for everything”. 
+Even then, “paper is always the contingency plan for everything”. 
 
 ## No substitute for talking to BSOs
 
