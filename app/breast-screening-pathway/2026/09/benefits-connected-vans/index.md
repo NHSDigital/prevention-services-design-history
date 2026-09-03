@@ -44,7 +44,7 @@ Other BSOs estimated that they saved 45 minutes to an hour a day.
 
 Some BSOs said they can fill cancelled slots, allowing walk-ins and same-day bookings, because they can refresh the live worklist on the vans and slot participants in. BSOs that work offline in vans freeze the worklist up to 3 days before clinic so that paperwork can be printed and transported. 
 
-We know that BSOs tend to optimise their capacity - either by using ‘[smart clinics](../../../../cohort-to-clinic/2026/06/what-we-learned-about-smart-clinics/)’ or by using attendance probabilities to allocate appointments, which already reduces the impact of no-shows.  
+We know that BSOs tend to optimise their capacity - either by using ‘[smart clinics](/cohort-to-clinic/2026/06/what-we-learned-about-smart-clinics/)’ or by using attendance probabilities to allocate appointments, which already reduces the impact of no-shows.  
 
 ### Efficiency savings
 
