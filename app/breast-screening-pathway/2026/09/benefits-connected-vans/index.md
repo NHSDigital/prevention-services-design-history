@@ -1,5 +1,5 @@
 ---
-title: The benefits of connecting mobile vans to the internet
+title: The benefits of connecting mobile breast screening vans to the internet
 description: Learnings from speaking to the 5 most well-connected BSOs
 date: 2026-09-03
 tags:
