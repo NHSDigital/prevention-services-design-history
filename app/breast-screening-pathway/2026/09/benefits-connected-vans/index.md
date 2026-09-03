@@ -1,6 +1,6 @@
 ---
 title: The benefits of connecting mobile breast screening vans to the internet
-description: Learnings from speaking to the 5 most well-connected BSOs
+description: What we learned from speaking to the 5 most well-connected BSOs
 date: 2026-09-03
 tags:
   - mobile vans
@@ -9,7 +9,7 @@ author:
   - Veronika Jermolina
 ---
 
-We wanted to understand the benefits of connecting the mobile vans of breast screening offices (BSOs) to the internet. These are incredibly hard to quantify and will be felt differently depending on the BSO. 
+We wanted to understand the benefits of connecting the mobile vans of breast screening offices (BSOs) to the internet. As one BSO put it, these are "incredibly hard to quantify" and will be felt differently depending on the BSO. 
 
 BSOs have different connection profiles, different numbers of vans, different routes and different territories. 
 
@@ -79,7 +79,7 @@ Even then “paper is always the contingency plan for everything”.
 
 ## No substitute for talking to BSOs
 
-The [survey](../../03/breast-screening-in-mobile-vans/) that we ran in February 2026 helped us get a high-level overview. But it was only when we spoke to BSOs about how their vans are connected that we saw the nuance:
+The [survey](/breast-screening-pathway/2026/03/breast-screening-in-mobile-vans/) that we ran in February 2026 helped us get a high-level overview. But it was only when we spoke to BSOs about how their vans are connected that we saw the nuance:
 
 - not all vans within the same BSO had the same type of connection
 - connection experience can improve, and for a few BSOs, it can also get worse
