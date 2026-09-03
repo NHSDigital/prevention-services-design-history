@@ -9,9 +9,11 @@ author:
   - Veronika Jermolina
 ---
 
-Our task was to understand how connecting mobile vans benefits breast screening offices (BSOs). Here are the learnings from speaking to the 5 most well-connected BSOs. 
+We wanted to understand the benefits of connecting the mobile vans of breast screening offices (BSOs) to the internet. These are incredibly hard to quantify and will be felt differently depending on the BSO. 
 
-The benefits of connecting mobile vans are “incredibly hard to quantify” and will be felt differently depending on the BSO. BSOs have different connection profiles, different numbers of vans, different routes and different territories - some of which are rural, where the benefits of being connected will be felt more. 
+BSOs have different connection profiles, different numbers of vans, different routes and different territories. 
+
+We spoke to the the 5 most well-connected BSOs to find out more.
 
 ## Benefits we heard about
 
