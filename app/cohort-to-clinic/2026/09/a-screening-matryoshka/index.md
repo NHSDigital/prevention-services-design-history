@@ -4,7 +4,9 @@ date: 2026-09-01
 tags:
   - clinics
   - appointments
-author: Anna Hepburn and Mat Johnson
+author: 
+  - Anna Hepburn
+  - Mat Johnson
 description: Designing a nesting model to describe capacity in software.
 ---
 
@@ -12,7 +14,7 @@ description: Designing a nesting model to describe capacity in software.
 
 As we visit and talk to Breast Screening Offices (BSOs) about their ways of working, and how they use the National Breast Screening System (NBSS), we’re starting to work out how we can design to meet their needs and alleviate pain points in their existing software workflows.
 
-In previous posts [Anna](/cohort-to-clinic/2026/08/manic-mondays/) and [Kathryn](/cohort-to-clinic/2026/05/what-we-learned-about-clinics-and-appointments/) have detailed some of the software challenges faced by BSOs, and we have a goal:
+In previous posts [manic mondays](/cohort-to-clinic/2026/08/manic-mondays/) by Anna and [what we learned about clinics](/cohort-to-clinic/2026/05/what-we-learned-about-clinics-and-appointments/) by Kathryn, we’ve detailed some of the software challenges faced by BSOs, and we have a goal:
 
 > [!NOTE]
 > “Reducing the amount of repetitive, manual work involved in getting clinics set up in future would save BSOs a considerable amount of time and effort.”
@@ -28,7 +30,7 @@ Our model is designed to:
 
 Our structure uses four nested levels, from the smallest to the largest: slots, sessions, schedules and clinics.
 
-## 1: Slots
+## Slots
 
 A slot is the short unit of time used to carry out a screening appointment, for example, six minutes. It’s also our atomic unit.
 
@@ -43,11 +45,11 @@ A slot becomes an appointment when a participant is booked into it.
 {{ nhsukImage({
   classes: "app-media--full-width",
   src: "slot-prototype@2x-fs8.png",
-  alt: "A prototype screengrab",
+  alt: "A list of screening slots, showing potential slot types and merging",
   caption: "a prototype we’re testing for managing slots"
 }) }}
  
-## 2: Sessions
+## Sessions
 
 A session represents one “clinic day” of slots.
 
@@ -66,17 +68,17 @@ We’re mindful that using templates should not create fixed, unchangeable insta
   caption: "a prototype we’re testing for clinic session templates"
 }) }}
    
-## 3: Schedules
+## Schedules
 
 A schedule is a block of confirmed time and capacity, usually agreed as a rota, containing sessions. Each schedule has a start date and an end date, for example a 6 week block of confirmed capacity.
 
 {{ nhsukImage({
   src: "schedule-prototype@2x-fs8.png",
-  alt: "A prototype screengrab",
+  alt: "A calendar style interface showing the start and end date of a schedule",
   caption: "a prototype we’re testing for schedules"
 }) }}
  
-## 4: Clinics
+## Clinics
 
 At the top level, a clinic is a container for multiple schedules.
 
