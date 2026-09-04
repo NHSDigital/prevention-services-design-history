@@ -42,7 +42,7 @@ A slot becomes an appointment when a participant is booked into it.
 
 {{ nhsukImage({
   classes: "app-media--full-width",
-  src: "slot-prototype@2x.png",
+  src: "slot-prototype@2x-fs8.png",
   alt: "A prototype screengrab",
   caption: "A prototype component we’re testing for managing slots"
 }) }}
@@ -61,7 +61,7 @@ We’re mindful that using templates should not create fixed, unchangeable insta
 
 {{ nhsukImage({
   classes: "app-media--full-width",
-  src: "template-prototype@2x.png",
+  src: "template-prototype@2x-fs8.png",
   alt: "A prototype screengrab",
   caption: "A prototype component we’re testing for clinic session templates"
 }) }}
@@ -71,7 +71,7 @@ We’re mindful that using templates should not create fixed, unchangeable insta
 A schedule is a block of confirmed time and capacity, usually agreed as a rota, containing sessions. Each schedule has a start date and an end date, for example a 6 week block of confirmed capacity.
 
 {{ nhsukImage({
-  src: "schedule-prototype@2x.png",
+  src: "schedule-prototype@2x-fs8.png",
   alt: "A prototype screengrab",
   caption: "A prototype component we’re testing for schedules"
 }) }}
@@ -85,7 +85,7 @@ A clinic is where a BSO unit (for example, a screening van) and a location (for 
 Thus: **clinics** contain **schedules**, contain **sessions**, contain **slots** - and slots become appointments.
 
 {{ nhsukImage({
-  src: "structure@2x.png",
+  src: "structure@2x-fs8.png",
   alt: "Diagram showing: a clinic containing schedules, containing sessions, containing slots",
   caption: "An example of the nested elements of our model"
 }) }}
