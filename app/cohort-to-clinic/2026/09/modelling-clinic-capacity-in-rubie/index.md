@@ -1,5 +1,5 @@
 ---
-title: "Slots, sessions, schedules and clinics: a screening matryoshka"
+title: "Modelling clinic capacity in Rubie"
 date: 2026-09-01
 tags:
   - clinics
@@ -7,7 +7,7 @@ tags:
 author: 
   - Anna Hepburn
   - Mat Johnson
-description: Designing a nesting model to describe capacity in software.
+description: "Slots, sessions, schedules, clinics: a nested model"
 ---
 
 {% from "nhsuk/components/images/macro.njk" import image as nhsukImage %}
