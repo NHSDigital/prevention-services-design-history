@@ -44,7 +44,7 @@ A slot becomes an appointment when a participant is booked into it.
   classes: "app-media--full-width",
   src: "slot-prototype@2x-fs8.png",
   alt: "A prototype screengrab",
-  caption: "A prototype component we’re testing for managing slots"
+  caption: "a prototype we’re testing for managing slots"
 }) }}
  
 ## 2: Sessions
@@ -63,7 +63,7 @@ We’re mindful that using templates should not create fixed, unchangeable insta
   classes: "app-media--full-width",
   src: "template-prototype@2x-fs8.png",
   alt: "A prototype screengrab",
-  caption: "A prototype component we’re testing for clinic session templates"
+  caption: "a prototype we’re testing for clinic session templates"
 }) }}
    
 ## 3: Schedules
@@ -73,7 +73,7 @@ A schedule is a block of confirmed time and capacity, usually agreed as a rota, 
 {{ nhsukImage({
   src: "schedule-prototype@2x-fs8.png",
   alt: "A prototype screengrab",
-  caption: "A prototype component we’re testing for schedules"
+  caption: "a prototype we’re testing for schedules"
 }) }}
  
 ## 4: Clinics
