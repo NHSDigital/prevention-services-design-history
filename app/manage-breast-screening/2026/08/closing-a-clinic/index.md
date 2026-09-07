@@ -1,7 +1,7 @@
 ---
 title: Closing a clinic
 description: Making it easy for admin staff to close a clinic
-date: 2026-09-01
+date: 2026-09-07
 author: Rebecca Cottrell
 opengraphImage:
   src: /manage-breast-screening/2026/09/close-clinic/close-clinic-1.png
@@ -10,6 +10,10 @@ tags:
   - beta
   - prototype
   - breast screening
+  - clinics
+  - appointments
+
+
 ---
 
 We've designed the functionality to close a clinic. Once a clinic has ended, there are tasks to complete before it can be closed.
@@ -42,7 +46,7 @@ In this situation, the admin user would need to chase the mammographer to close 
 
 ## Checked in, not screened
 
-For checked in but not screened, we know that the participant checked in at reception, but screening wasn't started, or was paused midway through – we don't know more than that. For those participants we suggest an appointment outcome of `attended not screened`. When `attended not screened` is recorded, further details need to be captured (for example, the reason why the screening did not happen, and whether the appointment should be rescheduled). These are captured in another flow. 
+For checked in but not screened, we know that the participant checked in at reception, but screening wasn't started – we don't know more than that. For those participants we suggest an appointment outcome of `attended not screened`. When `attended not screened` is recorded, further details need to be captured (for example, the reason why the screening did not happen, and whether the appointment should be rescheduled). These are captured in another flow. 
 
 The admin user doesn't have to follow the suggested outcome; if they know more about the appointment, they could go into the appointment and perform actions there (eg undo check in, cancel or reschedule appointment). 
 
