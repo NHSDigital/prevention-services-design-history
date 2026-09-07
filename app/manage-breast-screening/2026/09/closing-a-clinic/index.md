@@ -1,5 +1,5 @@
 ---
-title: Closing a clinic
+title: Closing a breast screening clinic
 description: Making it easy for admin staff to close a clinic
 date: 2026-09-07
 author: Rebecca Cottrell
