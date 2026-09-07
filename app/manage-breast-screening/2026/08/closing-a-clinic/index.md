@@ -16,7 +16,7 @@ We've designed the functionality to close a clinic. Once a clinic has ended, the
 
 ## Closing a clinic tasks
 
-To close a clinic, all participants of that clinic need to have a final appointment outcome assigned. 
+To close a clinic, all appointments in the clinic need to have a final appointment outcome assigned. 
 
 Successfully screened participants will have had the `screened` status assigned once their mammography is completed, but some participants may not have gone through with their screening appointment ([see our design history about ending breast screening appointments](/manage-breast-screening/2025/11/ending-breast-screening-appointments/)), or may not have turned up to the clinic. 
 
