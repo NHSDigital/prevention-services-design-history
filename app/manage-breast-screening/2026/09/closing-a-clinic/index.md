@@ -82,7 +82,9 @@ Once all participants have an appointment status assigned, they're displayed in 
 
 ![Outcome recorded list of participants](close-clinic-4.png)
 
-## Close clinic page screenshot
+## The full page
+
+This screenshot shows the full page, including all the sections described above, with a confirm button at the bottom:
 
 ![The full close clinic page, containing all the sections described above plus the button showing confirm and close clinic](close-clinic-page.png)
 
