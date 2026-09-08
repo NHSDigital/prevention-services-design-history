@@ -18,7 +18,7 @@ The re-discovery phase started with identifying assumptions about the service an
 
 This work resulted in the creation of a vision statement and two problem statements, allowing us to consider the challenge from both a parent and NHS perspective.
 
-## What We Are Exploring
+## What we are exploring
 As part of the re-discovery phase, we are defining what a future Age-Based Messaging service could look like and how it could scale beyond the current pilot. Workshops have been used to align stakeholders around key questions relating to content, outcomes, user needs and public health priorities.
 
 A significant focus has been understanding what information should be delivered between birth and five years of age, how frequently it should be sent, and what action users should take after receiving a message. We are also examining what success looks like, both from a parental perspective and in terms of wider NHS and public health outcomes.
@@ -33,13 +33,13 @@ To set a clear direction and avoid scope creep, we established this vision:
 *A future where every parent and carer has clear, credible and relevant information throughout their child's early years, empowering them to make informed decisions and take the right action at the right time.*
 
 ## Our Problem Statement(s)
-### Parent Perspective
+### Parent perspective
 *Parents and carers lack clear, timely information about their child's health and development, leaving them unsure how to support them and turning to less reliable sources.*
 
-### NHS Perspective
+### NHS perspective
 *Key public health indicators show that opportunities to improve children's health and development are frequently missed. Limited routine contact and traditional health promotion approaches mean parents and carers do not always receive timely, relevant information. This reduces opportunities to improve outcomes, prevent illness and reduce health inequalities.*
 
-## Stakeholder Workshops
+## Stakeholder workshops
 We have already conducted a series of stakeholder workshops including a content strategy workshp and a clinical hazard workshop to identify key stakeholders and their needs. We are continuing to facilitate workshops to continue information gathering to identify how best we can bring value to the NHS, public health and parents.
 
 Workshop participants include:
@@ -71,7 +71,7 @@ We are working with healthcare professionals, public health representatives and 
 
 This includes work completed through a dedicated Clinical Hazard Workshop.
 
-## Outcomes We Are Exploring
+## Outcomes we are exploring
 
 As part of discovery, we are defining which outcomes Age-Based Messaging is best placed to influence. These include:
 
@@ -84,7 +84,7 @@ As part of discovery, we are defining which outcomes Age-Based Messaging is best
 
 This work will help determine future content, success measures and evaluation criteria.
 
-## User Archetypes
+## User archetypes
 The archetypes were developed using findings from Red Book, Growth Chart and Age-Based Messaging research. Rather than fixed personas, they represent common needs, behaviours and barriers that may affect engagement with child health information and services.
 
 At a high level, users sit within two broad groups: first-time parents and multi-child parents. Within these groups, we identified four broad subgroup categories of circumstances that may create barriers to engagement:
@@ -102,9 +102,9 @@ Personal circumstances may influence how they interact with the service, includi
 
 The archetypes are intended to help teams consider how different circumstances can affect trust, accessibility, confidence, engagement and the ability to act on information. They should be used as a reference point when making content, design, product and strategic decisions to ensure the service works for a broad range of parents and carers, not just those with the fewest barriers to engagement.
 
-![Working archetype of Complex Carrie- a mother with a child with complex needs, highlighting user needs, pain points and circumstances](/age-related-messaging/2026/08/re-discover-phase/complex-carrie.png "One of our working archetypes- Complex Carrie")
+![Working archetype of Complex Carrie- a mother with a child with complex needs, highlighting user needs, pain points and circumstances](complex-carrie.png "One of our working archetypes- Complex Carrie")
 
-### What We Learned About Parent Pain Points
+### What we learned about parent pain points
 
 Across archetypes, several themes emerged:
 
@@ -120,27 +120,27 @@ Across archetypes, several themes emerged:
 
 - Parents are expected to connect information themselves across services and channels
 
-### Worst Case Scenarios
+### Worst case scenarios
 The archetypes also helped us explore worst-case scenarios if user needs are not met, helping identify risks and inform prioritisation decisions.
 
 Across the archetypes, common risks included:
 
-- Parents disengaging from the service.
+- Parents disengaging from the service
 
-- Loss of trust in NHS communications.
+- Loss of trust in NHS communications
 
-- Important information, support or interventions being missed.
+- Important information, support or interventions being missed
 
-- Increased reliance on informal or unreliable sources of information.
+- Increased reliance on informal or unreliable sources of information
 
-- Secondary caregivers becoming excluded from the child's health journey.
+- Secondary caregivers becoming excluded from the child's health journey
 
-- Families with additional needs receiving information that feels inappropriate or irrelevant.
+- Families with additional needs receiving information that feels inappropriate or irrelevant
 
 These scenarios helped us identify areas of risk and ensure the service remains focused on delivering meaningful value to parents, carers and healthcare professionals.
 Next Steps
 
-## Next Steps Include:
+## Next steps:
 
 Completing the current workshop programme
 
