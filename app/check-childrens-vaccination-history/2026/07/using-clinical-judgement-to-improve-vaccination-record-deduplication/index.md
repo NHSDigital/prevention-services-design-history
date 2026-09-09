@@ -40,7 +40,7 @@ This gives us a perfect opportunity to work through one of our first challenges:
 
 The first step is to understand the extent of duplication between sources. The vast majority of people are supposed to receive two doses of MMR or MMRV. An analysis of MMR record duplication in Mavis shows that:
 
-- 13.5% (about 665,000) of children in Mavis have one MMR record
+- 4.06% (about 200,000) of children in Mavis have one MMR record
 - 35.8% (1.76 million) of children have two MMR records
 - 35.2% (1.74 million) have four records
 - 2.4% of children (or almost 120,000) had six or more records
