@@ -13,7 +13,7 @@ author:
   - Michael Watson
 opengraphImage:
   src: /lung-health-check/2026/09/workshop-cadence-Gantt-chart.png
-  alt: Workshop board showing shared outcomes used across all four workshops
+  alt: Gantt chart showing the sequence of workshop activities, including research, workshop design, workshop delivery, analysis and write-up
 ---
 
 We launched a pilot in April 2026 to test [a new digital service for lung cancer screening.](https://www.digital-prevention-services.nhs.uk/screening/lung/) The service is based on a digital risk assessment in the form of an online questionnaire that triages people towards, or away from, a [CT scan.](https://www.nhs.uk/tests-and-treatments/ct-scan/)
