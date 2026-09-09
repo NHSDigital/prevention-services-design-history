@@ -1,7 +1,7 @@
 ---
 title: "Clinic templates: Distinguishing slot status from purpose"
 description: Learnings from usability testing screens for creating a clinic session template
-date: 2026-09-08
+date: 2026-09-09
 tags:
   - clinics
   - appointments
