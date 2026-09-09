@@ -5,37 +5,39 @@ date: 2026-09-09
 tags:
   - lung cancer screening
   - discovery
-  - workshops
   - service design
-  - digital screening
   - cancer alliances
+  - workshops
 author:
   - Natalia Riley
   - Michael Watson
 opengraphImage:
-  src: /lung-health-check/2026/09/building-a-shared-understanding-of-a-future-lung-service/cross-workshop-outcomes.png
+  src: /lung-health-check/2026/09/workshop-cadence-Gantt-chart.png
   alt: Workshop board showing shared outcomes used across all four workshops
 ---
 
-We launched a pilot in April 2026 to test a new digital service for lung cancer screening. While the pilot focused on a digital risk assessment, conversations with the lung cancer screening programme team highlighted a wider challenge: understanding what a future national digital lung cancer screening service might need beyond the questionnaire itself.
+We launched a pilot in April 2026 to test [a new digital service for lung cancer screening.](https://www.digital-prevention-services.nhs.uk/screening/lung/) The service is based on a digital risk assessment in the form of an online questionnaire that triages people towards, or away from, a [CT scan.](https://www.nhs.uk/tests-and-treatments/ct-scan/)
 
-To bring together knowledge from across the programme, we designed and ran four workshops over four weeks. This helped us build a shared understanding of the service, identify key knowledge gaps, and decide where to focus our next discovery work.
+During a meeting with the lung cancer programme team, we learned more about plans to create a national lung cancer screening programme by 2031. We learned that while the digital risk assessment is an important part of a national end-to-end lung cancer screening service, there are other elements of the service that we needed to consider alongside the development of the questionnaire.
 
-## What we learned
+To understand these parts of the service, we needed to bring together knowledge from across the lung programme team and digital screening, and learn from other screening programmes. We also needed to gather this knowledge quickly so we could decide what to do next.
 
-Through the workshops we learned:
+To do this, we researched, designed, ran and analysed four workshops over four weeks.
 
-- knowledge about how the existing offline lung health check operates is concentrated within 20 Cancer Alliances
+Through the workshops we learned: 
+
+- knowledge about how the existing offline lung health check operates is concentrated within 20 [Cancer Alliances](https://www.england.nhs.uk/cancer/cancer-alliances-improving-care-locally/)
 - understanding how Cancer Alliances operate will help us design a broader digital service
 - where data is transferred throughout the service and the scenarios that influence those transfers
 - how performance data connects with our service
 - that cohorting, the process of identifying people who share characteristics that make them eligible for a lung health check, needs to be considered as part of future service design
 
-As a result, we decided to begin a mini-discovery with the 20 Cancer Alliances.
+We will be launching a mini-discovery with the 20 Cancer Alliances to learn more.
+
 
 ## The areas we needed to understand better
 
-Through conversations with the lung cancer screening programme team and Digital Screening leadership, we identified the areas where we needed a better understanding of the current phone-based service.
+Through conversations with the lung cancer screening programme team and [Digital Screening](https://www.digital-prevention-services.nhs.uk/screening/) leadership, we identified the areas where we needed a better understanding of the current phone-based service.
 
 Although every part of the service is connected to another, we had limited time to bring together a large amount of information. We divided the topics into smaller categories to avoid overwhelming participants and make discussions easier to manage.
 
@@ -48,35 +50,28 @@ The priority topics we explored in the workshops were:
 
 ## Designing a flexible workshop template
 
-To make the best use of the time available and create consistency across workshop outputs, we designed a repeatable workshop template for every session.
+To make the best use of the time available and create consistency across workshop outputs, we designed a repeatable workshop template for our sessions.
 
 The template was based on outcomes gathered from the lung programme team, Digital Screening leadership and our own team. We developed it using the following design principles.
 
-### Creating a shared purpose
+1. We will create a consistent story across all workshops by using a share purpose:
+> "The programme and digital teams will create a shared understanding of what we want to achieve, and why, for each of the priority areas."
 
-We wanted every workshop to contribute towards the same overall goal:
+2. We will make sure each workshop contributes to a shared set of outcomes, while tailoring those outcomes to the specific topic being explored.
 
-> The programme and digital teams will create a shared understanding of what we want to achieve, and why, for each of the priority areas.
+![Screenshot of a Mural workshop board showing a set of shared outcomes used to guide all workshops. Outcomes include defining themes, identifying dependencies, generating ideas and documenting findings.](cross-workshop-outcomes.png "The cross-workshop outcomes helped to ensure consistency between workshops")
 
-We also defined a shared set of workshop outcomes. These were tailored to each topic, while remaining consistent across every workshop.
+3. We will help participants quickly understand the context by showing how each workshop relates to previous and future work.
 
-![Screenshot of a Mural workshop board showing a set of shared outcomes used to guide all workshops. Outcomes include defining themes, identifying dependencies, generating ideas and documenting findings.](cross-workshop-outcomes.png "The cross-workshop upport this, we used a timeline to show what had already happened, where the current workshop fitted, and what would happen next.
+![Screenshot of a timeline showing the sequence of workshops and subsequent activities.](what-happens-after-this-workshop.png "A timeline helped to keep momentum between workshops")
 
-![Screenshot of a timeline showing the sequence of workshops and subsequent activities.](workshop-timeline.pngquickly
+4. We will help participants quickly understand how the session will work by beginning every workshop with a participation charter. This includes making reasonable adjustments where needed.
 
-People were often joining workshops between other meetings. To help them quickly understand what to expect, we began every session with a participation charter.
+![Screenshot of a workshop participation charter outlining expectations, accessibility arrangements and ways to contribute](before-we-get-started.png "Busy schedules mean that people are often jumping between meetings. The workshop charter helped workshop participants settle into the session and focus their attention on the task at hand")
 
-The charter explained how the workshop would run, what participation looked like, and how attendees could request support or adjustments.
+5. We will consider how each topic affects different parts of the service by mapping it against the wider end-to-end journey.
 
-![Screenshot of a workshop participation charter outlining expectations, accessibility arrangements and ways to contribute"
-
-### Connecting workshop topics to the wider service
-
-We wanted participants to consider how each topic affected other parts of the service.
-
-To do this, we mapped workshop discussions against the wider end-to-end service journey, helping participants understand dependencies and wider impacts.
-
-We designed the template in Mural because it was accessible to most colleagues. Our programme colleagues could not access the board directly, so we shared our screen during Teams calls and used dedicated note takers to capture insights on the board.
+We designed the template in Mural because it was accessible to most colleagues. Our programme colleagues could not access the board directly, so we shared our screen during Teams calls and used dedicated note takers to capture insights on the Mural board.
 
 ## One workshop per week
 
@@ -86,12 +81,16 @@ The workshop schedule needed to reflect the time and people available. It also n
 
 We adopted a weekly cycle that fit around team availability and workshop scheduling.
 
-![Gantt chart showing the sequence of workshop activities, including research, workshop design, workshop delivery, analysis and write-up.](workshop-gantt-chart.png| Pre-workshop topic research and synthesis | 2 days |
-| Workshop design | 1 day |
-| Workshop iterations and planning | 1 day |
-| Workshop delivery | 1 day |
-| Analysis and synthesis | 0.5 days* |
-| Write-up | 1 day* |
+![Gantt chart showing the sequence of workshop activities, including research, workshop design, workshop delivery, analysis and write-up.](workshop-cadence-Gantt-chart.png "We broke down workshop activities into 1-week sprints")
+
+|             Workshop activity             | Time allocated |
+|-------------------------------------------|----------------|
+| Pre-workshop topic research and synthesis | 2 days         |
+| Workshop design                           | 1 day          |
+| Workshop iterations and planning          | 1 day          |
+| Workshop delivery                         | 1 day          |
+| Analysis and synthesis                    | 0.5 days*      |
+| Write-up                                  | 1 day*         |
 
 \* Analysis, synthesis and write-up took place after the four-week workshop period.
 
@@ -160,8 +159,8 @@ The workshops and the conversations around them highlighted gaps in our understa
 
 We learned that:
 
-- much of the knowledge about how lung health checks operate in practice sits within the 20 https://www.england.nhs.uk/cancer/cancer-alliances-improving-care-locally/
+- much of the knowledge about how lung health checks operate in practice sits within the 20 Cancer Alliances that commission and run the service
 - building relationships with these alliances and understanding how they work will help us design a future digital service that can be implemented successfully
-- we already have a strong relationship with https://www.royalmarsden.nhs.uk/about-royal-marsden/who-we-are/rm-partners-west-london-cancer-alliance, with whom we are running our digital pilot
+- we already have a strong relationship with [Royal Marsden West London Cancer Alliance](https://www.royalmarsden.nhs.uk/about-royal-marsden/who-we-are/rm-partners-west-london-cancer-alliance), with whom we are running our digital pilot
 
 Our next step is a mini-discovery involving all 20 Cancer Alliances so that we can better understand how local services operate and what this means for the future of digital lung cancer screening.
