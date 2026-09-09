@@ -18,7 +18,7 @@ opengraphImage:
 
 We launched a pilot in April 2026 to test [a new digital service for lung cancer screening](https://www.digital-prevention-services.nhs.uk/screening/lung/). The service is based on a digital risk assessment in the form of an online questionnaire that triages people towards, or away from, a [CT scan.](https://www.nhs.uk/tests-and-treatments/ct-scan/)
 
-During a meeting with the lung cancer programme team, we learned more about plans to create a national lung cancer screening programme by 2031. We learned that while the digital risk assessment is an important part of a national end-to-end lung cancer screening service, there are other elements of the service that we needed to consider alongside the development of the questionnaire.
+During a meeting with the lung cancer programme team, we learned more about [plans to create a national lung cancer screening programme by 2031.](https://assets.publishing.service.gov.uk/media/69dce11fd3e08b8871b6662c/national-cancer-plan-for-england-delivering-world-class-cancer-care.pdf) We learned that while the digital risk assessment is an important part of a national end-to-end lung cancer screening service, there are other elements of the service that we needed to consider alongside the development of the questionnaire.
 
 To understand these parts of the service, we needed to bring together knowledge from across the lung programme team and digital screening, and learn from other screening programmes. We also needed to gather this knowledge quickly so we could decide what to do next.
 
