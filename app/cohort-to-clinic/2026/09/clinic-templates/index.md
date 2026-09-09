@@ -12,7 +12,7 @@ opengraphImage:
   src: /cohort-to-clinic/2026/09/clinic-templates/c2c-session-creation-screen-2.png
   alt: Screenshot of the second prototype screen tested which allows users to organise slots by holding them, merging them and adding labels such as staff break
 ---
-As part of creating clinics, breast screening offices (BSOs) need to define the structure of appointment slots to be used in their clinic days before they start inviting participants. In the current National Breast Screening System (NBSS), the reusable template containing this structure is known as a session.  
+As part of creating clinics, breast screening offices (BSOs) need to define the structure of appointment slots to be used in their clinic days before they start inviting participants. In the current National Breast Screening System (NBSS), the reusable template containing this structure is known as a [session](/cohort-to-clinic/2026/08/manic-mondays/).  
 
 In NBSS, BSOs can create templates for a particular day within a clinic, such as a repeating Monday. This can be duplicated for other days in the same clinic, however it isn’t possible to apply a single template to multiple weekdays or reuse it in other clinics.
 
@@ -108,4 +108,4 @@ Testing highlighted that BSOs need a way to determine whether capacity is bookab
 
 We recognise that different local practices mean some BSOs may want to change the status of slots or apply labels at both the template level and on an individual day basis depending on ad hoc needs. As such, we are also considering how we might create a consistent user experience and provide this functionality at other stages of managing clinics in Rubie. 
 
-This testing focused on a very narrow part of the clinic creation process so we’ll next be focusing on designing and testing the broader user journey which sits around creating a session template, as well as iterating slot management functionality based on our learnings.   
+This testing focused on a very narrow part of the clinic creation process so we’ll next be focusing on designing and testing the [broader user journey](/cohort-to-clinic/2026/09/modelling-clinic-capacity-in-rubie/) which sits around creating a session template, as well as iterating slot management functionality based on our learnings.   
