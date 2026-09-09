@@ -191,6 +191,6 @@ We learned that:
 
 - much of the knowledge about how lung health checks operate in practice sits within the 20 Cancer Alliances that commission and run the service
 - building relationships with these alliances and understanding how they work will help us design a future digital service that can be implemented successfully
-- we already have a strong relationship with [Royal Marsden West London Cancer Alliance](https://www.royalmarsden.nhs.uk/about-royal-marsden/who-we-are/rm-partners-west-london-cancer-alliance), with whom we are running our digital pilot
+- we already have a strong relationship with [Royal Marsden Cancer Alliance](https://www.royalmarsden.nhs.uk/about-royal-marsden/who-we-are/rm-partners-west-london-cancer-alliance) (West London), with whom we are running our digital pilot.
 
 Our next step is a mini-discovery involving all 20 Cancer Alliances so that we can better understand how local services operate and what this means for the future of digital lung cancer screening.
