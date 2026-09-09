@@ -28,7 +28,6 @@ This design history shares what we learned about managing capacity.
 We learned from our discovery research that BSOs sometimes make changes to the status of slots within clinics – for example, blocking out time for staff breaks or holding back capacity for rebookings. 
 
 In NBSS, users can take two main actions on a slot: 
-
 - stopping the slot - temporarily holding capacity that is generally intended to be used later 
 - cancelling the slot - removing capacity they don’t intend to use 
 
@@ -90,7 +89,7 @@ BSOs told us there are many reasons they may need to hold or cancel slots in cli
 - staff meetings
 - technical recalls 
 - very high risk (VHR) appointments 
-- designating slots to book participants from batches into 
+- designating slots for booking [participants from batches](/breast-screening-pathway/2025/12/understanding-batching/) into 
 
 Depending on local practices, some of these reasons may be actioned using hold or cancel.  
 
