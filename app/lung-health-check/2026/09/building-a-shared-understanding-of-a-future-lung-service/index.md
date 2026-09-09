@@ -55,7 +55,7 @@ To make the best use of the time available and create consistency across worksho
 The template was based on outcomes gathered from the lung programme team, Digital Screening leadership and our own team. We developed it using the following design principles.
 
 1. We will create a consistent story across all workshops by using a share purpose:
-> "The programme and digital teams will create a shared understanding of what we want to achieve, and why, for each of the priority areas."
+> The programme and digital teams will create a shared understanding of what we want to achieve, and why, for each of the priority areas.
 
 2. We will make sure each workshop contributes to a shared set of outcomes, while tailoring those outcomes to the specific topic being explored.
 
