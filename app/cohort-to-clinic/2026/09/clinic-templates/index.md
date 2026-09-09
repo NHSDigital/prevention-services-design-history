@@ -42,30 +42,7 @@ We thought it might be helpful for BSOs to have the ability to change the status
 
 We tested early designs for creating a reusable session template with 6 BSO users to get early feedback on these ideas and identify where more functionality may be needed. 
 
-<table style="background-color: white; border-collapse: collapse;">
-  <tr>
-    <td style="background-color: white; padding: 10px;">
-    <img 
-      src="c2c-session-creation-screen-1.png"
-      alt="Screenshot of the first prototype screen tested which allows users to enter a start time, end time, and slot length">
-    </td>
-  <td style="background-color: white; padding: 10px;">
-    <img 
-      src="c2c-session-creation-screen-2.png"
-      alt="Screenshot of the second prototype screen tested which allows users to organise slots by holding them, merging them and adding labels such as staff break">
-    </td>
-  <tr>
-    <td colspan="2"
-      style="background-color: white;
-              padding: 10px;
-              padding-left: 15px;
-              text-align: left;
-              font-size: 0.85em;
-              border: none;">
-        Screenshots of the two consecutive prototype screens tested
-    </td>
-  </tr>
-</table>
+![Screenshots of the two consecutive prototype screen tested. The first allows users to enter a start and end time and define the slot length, and the second screen is where users can make changes to slots within the template](c2c-ss-2.png "Screenshots of the two consecutive prototype screens tested")
 
 We tested giving users the ability to hold slots and label capacity as staff breaks and special appointments. We also tested introducing the ability to merge slots to form longer appointments, which we will explore in a separate design history. 
 
