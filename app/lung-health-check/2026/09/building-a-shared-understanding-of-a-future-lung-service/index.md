@@ -54,10 +54,10 @@ To make the best use of the time available and create consistency across worksho
 
 The template was based on outcomes gathered from the lung programme team, Digital Screening leadership and our own team. We developed it using the following design principles.
 
-1. We will create a consistent story across all workshops by using a share purpose:
+**1. We will create a consistent story across all workshops by using a share purpose:**
 > The programme and digital teams will create a shared understanding of what we want to achieve, and why, for each of the priority areas.
 
-2. We will make sure each workshop contributes to a shared set of outcomes, while tailoring those outcomes to the specific topic being explored.
+**2. We will make sure each workshop contributes to a shared set of outcomes, while tailoring those outcomes to the specific topic being explored.**
 
 We used the same outcomes framework across all four workshops. This helped us maintain consistency while exploring different topics and made it easier to compare findings.
 
@@ -73,11 +73,11 @@ We used the same outcomes framework across all four workshops. This helped us ma
 | Define done            | Align programme and digital teams on what good looks like                                   |
 | Record findings        | Inform future priorities and decision-making                                                |
 
-3. We will help participants quickly understand the context by showing how each workshop relates to previous and future work.
+**3. We will help participants quickly understand the context by showing how each workshop relates to previous and future work.**
 
 ![Screenshot of a timeline showing the sequence of workshops and subsequent activities.](what-happens-after-this-workshop.png "A timeline helped to keep momentum between workshops")
 
-4. We will help participants quickly understand how the session will work by beginning every workshop with a participation charter. This includes making reasonable adjustments where needed.
+**4. We will help participants quickly understand how the session will work by beginning every workshop with a participation charter. This includes making reasonable adjustments where needed.**
 
 Below is an example of what the charter included:
 
@@ -99,7 +99,7 @@ Below is an example of what the charter included:
 > - step away if needed and let us know in the chat
 > - contact us if they require any additional support or adjustments
 
-5. We will consider how each topic affects different parts of the service by mapping it against the wider end-to-end journey.
+**5. We will consider how each topic affects different parts of the service by mapping it against the wider end-to-end journey.**
 
 We designed the template in Mural because it was accessible to most colleagues. Our programme colleagues could not access the board directly, so we shared our screen during Teams calls and used dedicated note takers to capture insights on the Mural board.
 
