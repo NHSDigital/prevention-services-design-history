@@ -59,7 +59,19 @@ The template was based on outcomes gathered from the lung programme team, Digita
 
 2. We will make sure each workshop contributes to a shared set of outcomes, while tailoring those outcomes to the specific topic being explored.
 
-![Screenshot of a Mural workshop board showing a set of shared outcomes used to guide all workshops. Outcomes include defining themes, identifying dependencies, generating ideas and documenting findings.](cross-workshop-outcomes.png "The cross-workshop outcomes helped to ensure consistency between workshops")
+We used the same outcomes framework across all four workshops. This helped us maintain consistency while exploring different topics and made it easier to compare findings.
+
+| Outcome                | Purpose                                                                                     |
+|------------------------|---------------------------------------------------------------------------------------------|
+| Define the theme       | Establish a shared understanding of the topic being discussed                               |
+| Understand the process | Identify the essential steps, activities and requirements in the current and future process |
+| Explore impacts        | Understand how decisions affect participants, patients, providers and the programme         |
+| Identify dependencies  | Surface connections with other work and services                                            |
+| Generate ideas         | Agree where to focus next and why                                                           |
+| Discuss ownership      | Identify who might carry out the work                                                       |
+| Define measures        | Agree how success could be measured                                                         |
+| Define done            | Align programme and digital teams on what good looks like                                   |
+| Record findings        | Inform future priorities and decision-making                                                |
 
 3. We will help participants quickly understand the context by showing how each workshop relates to previous and future work.
 
@@ -67,7 +79,25 @@ The template was based on outcomes gathered from the lung programme team, Digita
 
 4. We will help participants quickly understand how the session will work by beginning every workshop with a participation charter. This includes making reasonable adjustments where needed.
 
-![Screenshot of a workshop participation charter outlining expectations, accessibility arrangements and ways to contribute](before-we-get-started.png "Busy schedules mean that people are often jumping between meetings. The workshop charter helped workshop participants settle into the session and focus their attention on the task at hand")
+Below is an example of what the charter included:
+
+> [!NOTE] Before we get started
+> 
+> We are not expecting to cover everything today. We want to share our thinking and identify the most important areas to discuss. We will arrange follow-up conversations where needed.
+>
+> During the workshop:
+>
+> - we will use Mural and share our screen for anyone who cannot access the board
+> - facilitators will guide each activity and encourage participation from everyone
+> - participants can raise questions in the chat or by using the raise-hand function
+> - we will include a short break midway through the session
+>
+> We also encourage participants to:
+>
+> - mute notifications where possible
+> - focus on the workshop activities
+> - step away if needed and let us know in the chat
+> - contact us if they require any additional support or adjustments
 
 5. We will consider how each topic affects different parts of the service by mapping it against the wider end-to-end journey.
 
