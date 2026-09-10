@@ -1,7 +1,7 @@
 ---
 title: Showing appointments in RAVS
 description: A first step to integrating Record a vaccination and Manage your appointments
-date: 2026-04-23
+date: 2026-09-11
 tags:
   - appointments
   - service integration
