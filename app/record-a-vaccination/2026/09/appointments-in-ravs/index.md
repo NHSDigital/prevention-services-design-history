@@ -1,75 +1,71 @@
 ---
 title: Showing appointments in RAVS
-description: Changes we made to enable recording of the MenB vaccine
+description: A first step to integrating Record a vaccination and Manage your appointments
 date: 2026-04-23
 tags:
-  - MenB vaccine
-  - dose sequence
-image:
-  src: /record-a-vaccination/2026/04/supporting-menb-vaccinations-in-response-to-an-outbreak/menb.png
-  alt: Graphic with the text ‘Which vaccine are you giving?’ and 2 radios, one labelled ‘MenB’ which is selected.
-  opengraphImage: true
+  - appointments
+  - service integration
 ---
 
-In March 2026 there was an [outbreak of meningitis in Kent](https://ukhsa.blog.gov.uk/2026/03/18/meningitis-b-outbreak-what-you-need-to-know/), in which 2 people sadly died.
+I## Background  
 
-In response, UKHSA and the NHS began a [targeted vaccination campaign](https://ukhsa.blog.gov.uk/2026/03/20/who-is-eligible-for-the-menb-vaccine-and-do-i-need-it-myself/), offering the MenB vaccine to students at the University of Kent and some other groups.
+Record a vaccination (RAVS) and Manage your appointments (MYA) are separate NHS services that are often used by the same people. Typically, the users who access both services are healthcare workers based in pharmacies. They manage their NHS vaccination bookings in MYA and then record the NHS vaccinations they give in RAVS. 
 
-The MenB vaccine is given as 2 doses, 4 or more weeks apart.
+Currently you have to log in to each service separately to view appointments and record vaccinations.  
+ 
+We often hear from users in pharmacies that a daily pain point is having to log in to so many separate systems and remember passwords for each one. Some pharmacists have asked us explicitly why MYA and RAVS are not 1 service. The short explanation is that they were developed separately at different times.  
 
-We were asked by the local team to add the MenB vaccine to the Record a vaccination service (RAVS) so that these vaccinations could be recorded.
+As a first step towards integrating the services, we've decided to add an appointments section to RAVS.   
+  
 
-This required a small number of changes to the service.
+## What we did 
+  
+When our teams discussed how we could bring the 2 services closer together, a full integration - where you would log in to 1 service to do to all the things you can currently do in MYA and RAVS - was not deemed feasible in the timeframe we were considering. 
 
-## Vaccine and product
+So our focus was on a solution that would offer some benefits to users of both services even if it fell short of a full integration.  
 
-We added the MenB vaccine type, and the Bexsero vaccine product to RAVS.
+We decided to explore pulling a view of the day’s appointments from MYA into RAVS via an API. And then allow users to start recording from this appointments view, skipping the usual first step of the recording journey in RAVS which involves searching for the patient.  
 
-![Screenshot showing a page titled ‘Which vaccine are you giving?’ with 5 radio options including MenB which is selected, revealing the text ‘Vaccine product’ and another radio button labelled ‘Bexsero’ which is selected.](vaccine-menb-bexsero.png)
+INSERT SCREENSHOT
 
-## Dose sequence
+Our design also included separate tabs to show completed and cancelled appointments. 
 
-As the MenB vaccine is given as 2 doses, we added a new question to ask which dose was being recorded:
+INSERT MORE SCREENSHOTS MAYBE?
+ 
+As well as showing the day's appointments, we also decided to show future and previous appointments up to 7 days in the future and 7 days in the past.  
+ 
+Users would still need to access MYA to manage their availability for bookings and cancel appointments. 
+ 
+We thought the main benefits for users would be: 
 
-![Screenshot of a page titled ‘Which dose of the MenB vaccine are you giving?’ with 3 radio options labelled 1st dose, 2nd dose and Booster.](which-dose-of-menb.png)
+- on the day of a vaccination clinic, they would potentially only need to log in to RAVS and not MYA – this is assuming that the main reason to go into MYA on a daily basis is to see bookings for that day 
 
-Although we do not expect the booster option to be used by the local team in Kent, we included it as this dose is given to children when they turn 1, and this may be a use we support in future.
+- they would skip the step of searching for the patient in the recording journey in RAVS because they would already see the patient’s details in the new appointments section 
 
-## Eligibility
+- they may no longer need to print a list of the day's appointments  - we heard from the MYA team that users often do this, for example to have NHS numbers at hand when they record a vaccination, or to check patients in at the front desk 
+ 
+## What we learned from user research 
 
-We did not include an eligibility question.
+These were the key findings from user research with 11 participants who used both RAVS and MYA (10 in pharmacies and 1 in a trust).  
+  
+- Many users expressed that this was long awaited addition to RAVS. 
 
-This is because the MenB vaccines being given in Kent are outside of the regular routine vaccination schedule.
+- Everyone was pleased to be able to start recording a vaccination from the appointments page in RAVS – participants said that not having to input an NHS number to find the patient would increase speed and accuracy. 
 
-The eligibility question for vaccinations is also not included in the data sent to GP records and other systems, and we have wider questions about the usage of this information, whether it needs to be recorded, and if so at what level of detail.
+- The appointments page showed the right amount of information about each booking, including NHS number, date of birth, age and contact details.  
 
-## Other questions
+- In terms of seeing appointments in the future and the past, there was a broad consensus that looking forward 7 days would be enough – this was considered  helpful for planning vaccination clinics and managing stock. Looking back was less important – 1 to 7 days was sufficient.  
 
-The other questions remained unchanged and are:
+- Users would still want to print the day’s appointments with the only difference that they would print from RAVS instead of from MYA. We heard that this is something they would still need to do for operational reasons, for example so that front desk staff, who may not have access to RAVS or MYA, have a list of bookings to check patients in.  
 
-- date
-- site
-- vaccinator
-- batch number
-- consent
-- injection site
+## What we changed  
 
-## SNOMED codes
+We made some minor changes to our designs based on user feedback. For example, for past appointments, we amended the designs to only go as far back as yesterday. 
 
-When we record vaccinations and send the record to GPs via the [immunisation API](https://digital.nhs.uk/developer/api-catalogue/immunisation-fhir-api), we use [SNOMED CT](https://digital.nhs.uk/services/terminology-and-classifications/snomed-ct) codes.
+Some users suggested some further improvements which we have not explored but have added to our backlog. For example, some participants told us they would value check-in or partial save features that could enable front desk staff to input some information in advance of the actual vaccination.  
+ 
+Some users also wanted a single system with one log in, in other words a full integration of MYA and RAVS. 
 
-We include these codes for the procedure:
-
-- First dose: [`720539004`](https://termbrowser.nhs.uk/?perspective=full&conceptId1=720539004)
-- Second dose: [`720540002`](https://termbrowser.nhs.uk/?perspective=full&conceptId1=720540002)
-- Booster dose: [`720544006`](https://termbrowser.nhs.uk/?perspective=full&conceptId1=720544006)
-
-For the product, [`23584211000001109`](https://termbrowser.nhs.uk/?perspective=full&conceptId1=23584211000001109) is used for Bexsero.
-
-## Response
-
-These changes were made to the service on 2 April 2026.
-
-As of 12 April 2026, the team in Kent had recorded over 8,000 MenB vaccinations in the service. These were originally recorded on paper (before 2 April) and then transcribed into the service.  The [same vaccination for another patient](/record-a-vaccination/2025/09/making-it-easier-to-record-next-vaccination/) feature has made this easier.
-
-As the patients get their second dose, these will be recorded directly into the service avoiding the need for a paper record.
+## What’s next 
+  
+The MYA team are working on an API so that appointment information can be sent to RAVS. Once that is available, we will hand over designs to the RAVS dev team. And we will update this post once the feature is live. 
