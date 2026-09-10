@@ -34,11 +34,11 @@ INSERT MORE SCREENSHOTS MAYBE?
  
 As well as showing the day's appointments, we also decided to show future and previous appointments up to 7 days in the future and 7 days in the past.  
  
-Users would still need to access MYA to manage their availability for bookings and cancel appointments. 
+Users would still need to access MYA to keep their appointment availability up to date. 
  
 We thought the main benefits for users would be: 
 
-- on the day of a vaccination clinic, they would potentially only need to log in to RAVS and not MYA – this is assuming that the main reason to go into MYA on a daily basis is to see bookings for that day 
+- they would no longer need to log into MYA on a daily basis, as the bookings for that day would be available in RAVS  
 
 - they would skip the step of searching for the patient in the recording journey in RAVS because they would already see the patient’s details in the new appointments section 
 
