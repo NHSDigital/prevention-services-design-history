@@ -38,7 +38,9 @@ We thought the main benefits for users would be:
 
 - they would no longer need to log into MYA on a daily basis, as the bookings for that day would be available in RAVS  
 
-- they would skip the step of searching for the patient in the recording journey in RAVS because they would already see the patient’s details in the new appointments section 
+- they would skip the step of searching for the patient in the recording journey in RAVS because they would already see the patient’s details in the new appointments section
+  
+- at the end of the day, they would easily see a list of people who had not attended their appointment 
 
 - they may no longer need to print a list of the day's appointments  - we heard from the MYA team that users often do this, for example to have NHS numbers at hand when they record a vaccination, or to check patients in at the front desk 
  
@@ -52,7 +54,9 @@ These were the key findings from user research with 11 participants who used bot
 
 - The appointments page showed the right amount of information about each booking, including NHS number, date of birth, age and contact details.  
 
-- In terms of seeing appointments in the future and the past, there was a broad consensus that looking forward 7 days would be enough – this was considered  helpful for planning vaccination clinics and managing stock. Looking back was less important – 1 to 7 days was sufficient.  
+- In terms of seeing appointments in the future and the past, there was a broad consensus that looking forward 7 days would be enough – this was considered  helpful for planning vaccination clinics and managing stock. Looking back was less important – 1 to 7 days was sufficient.
+
+- Easily seeing who had not attended was considered useful as the user could then follow up with that patient and see if they still needed an appointment
 
 - Users would still want to print the day’s appointments with the only difference that they would print from RAVS instead of from MYA. We heard that this is something they would still need to do for operational reasons, for example so that front desk staff, who may not have access to RAVS or MYA, have a list of bookings to check patients in.  
 
