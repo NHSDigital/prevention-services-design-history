@@ -6,8 +6,9 @@ tags:
   - appointments
   - service integration
 ---
+How we're enabling users to view vaccination appointments in RAVS.
 
-I## Background  
+## Background  
 
 Record a vaccination (RAVS) and Manage your appointments (MYA) are separate NHS services that are often used by the same people. Typically, the users who access both services are healthcare workers based in pharmacies. They manage their NHS vaccination bookings in MYA and then record the NHS vaccinations they give in RAVS. 
 
