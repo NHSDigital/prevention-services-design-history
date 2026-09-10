@@ -26,12 +26,10 @@ So our focus was on a solution that would offer some benefits to users of both s
 
 We decided to explore pulling a view of the day’s appointments from MYA into RAVS via an API. And then allow users to start recording from this appointments view, skipping the usual first step of the recording journey in RAVS which involves searching for the patient.  
 
-INSERT SCREENSHOT
+![Screenshot showing the 'Today's appointments' page in RAVS.](appointment-view-in-RAVS.png)
 
 Our design also included separate tabs to show completed and cancelled appointments. 
 
-INSERT MORE SCREENSHOTS MAYBE?
- 
 As well as showing the day's appointments, we also decided to show future and previous appointments up to 7 days in the future and 7 days in the past.  
  
 Users would still need to access MYA to keep their appointment availability up to date. 
