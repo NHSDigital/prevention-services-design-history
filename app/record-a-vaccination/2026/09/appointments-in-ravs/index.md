@@ -20,7 +20,7 @@ We often hear from users in pharmacies that a daily pain point is having to log 
 
 ## What we did 
   
-When our teams discussed how we could bring the 2 services closer together, a full integration - where you would log in to 1 service to do to all the things you can currently do in MYA and RAVS - was not deemed feasible in the timeframe we were considering. 
+When our teams discussed how we could bring the 2 services closer together, a full integration – where you would log in to 1 service to do to all the things you can currently do in MYA and RAVS – was not deemed feasible in the timeframe we were considering. 
 
 So our focus was on a solution that would offer some benefits to users of both services even if it fell short of a full integration.  
 
@@ -42,7 +42,7 @@ We thought the main benefits for users would be:
   
 - at the end of the day, they would easily see a list of people who had not attended their appointment 
 
-- they may no longer need to print a list of the day's appointments  - we heard from the MYA team that users often do this, for example to have NHS numbers at hand when they record a vaccination, or to check patients in at the front desk 
+- they may no longer need to print a list of the day's appointments – we heard from the MYA team that users often do this, for example to have NHS numbers at hand when they record a vaccination, or to check patients in at the front desk 
  
 ## What we learned from user research 
 
