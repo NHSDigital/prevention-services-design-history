@@ -56,7 +56,7 @@ These were the key findings from user research with 11 participants who used bot
 
 - In terms of seeing appointments in the future and the past, there was a broad consensus that looking forward 7 days would be enough – this was considered  helpful for planning vaccination clinics and managing stock. Looking back was less important – 1 to 7 days was sufficient.
 
-- Easily seeing who had not attended was considered useful as the user could then follow up with that patient and see if they still needed an appointment
+- Easily seeing who had not attended was considered useful as the user could then follow up with that patient and see if they still needed an appointment.
 
 - Users would still want to print the day’s appointments with the only difference that they would print from RAVS instead of from MYA. We heard that this is something they would still need to do for operational reasons, for example so that front desk staff, who may not have access to RAVS or MYA, have a list of bookings to check patients in.  
 
