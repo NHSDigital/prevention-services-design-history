@@ -70,4 +70,4 @@ Some users also wanted a single system with one log in, in other words a full in
 
 ## What’s next 
   
-The MYA team are working on an API so that appointment information can be sent to RAVS. Once that is available, we will hand over designs to the RAVS dev team. And we will update this post once the feature is live. 
+The MYA team are working on an API so that appointment information can be sent to RAVS. Once that is available, we will hand over designs to the RAVS dev team. 
