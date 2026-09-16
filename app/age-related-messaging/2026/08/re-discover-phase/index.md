@@ -16,6 +16,8 @@ As the pilot developed, it became clear that Age-Based Messaging could evolve in
 
 The re-discovery phase started with identifying assumptions about the service and understanding where evidence already existed to support or challenge them. This evolved into a programme of workshops, stakeholder engagement and evidence reviews designed to better understand user needs, public health priorities and future opportunities for the service.
 
+For background on the earlier phase of the work, see [Introduction to age-related messaging](../../../2025/11/introduction-to-age-related-messaging/).
+
 This work resulted in the creation of a vision statement and two problem statements, allowing us to consider the challenge from both a parent and NHS perspective.
 
 ## What we are exploring
