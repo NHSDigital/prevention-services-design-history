@@ -1,6 +1,6 @@
 ---
-title: Our Opt-Out Journey
-description: Exploration of how parents understand, manage and control their participation in Age-Based Messaging, including opting out, resubscribing and managing preferences.
+title: Opting-out of age-based messaging
+description: Exploration of how parents understand, manage and control their participation in age-based messaging, including opting out, resubscribing and managing preferences.
 date: 2026-08-14
 tags:
   - consensual design
@@ -13,7 +13,7 @@ author:
 
 ---
 
-The opt-out journey has been a significant area of design work within the Age-Based Messaging (ABM) programme.
+The opt-out journey has been a significant area of design work within the age-based messaging (ABM) programme.
 
 While current cohorts are enrolled through a consensual model where participants explicitly agree to receive messages, the long-term ambition is to move towards a national service where eligible parents and carers are automatically enrolled. This reflects the anticipated public health value of delivering timely, evidence-based information throughout a child's early years.
 
@@ -21,7 +21,9 @@ As automatic enrolment increases, to adhere to the principles of consensual desi
 
 This work is particularly important because ABM is not delivering traditional appointment reminders or transactional communications. Instead, it provides developmental information, advice and support over a five-year period, creating unique considerations around consent, relevance, engagement and user control.
 
----
+So far in the pilot, only two people have opted out- however we have gone for a different consensual model. We are asking users if they would like to partake in our trial. This is therefore resulting in a large proportion of users disagreeing beforehand which may skew our results of the lack of opt-outs. The plan after our pilot is to resume our consensual model of automatically enroling users ourselves. 
+
+
 ## User needs
 
 Through design workshops and research, we identified the following user needs for the opt-out journey:
@@ -34,7 +36,7 @@ Through design workshops and research, we identified the following user needs fo
 
 - As the NHS, we need to accurately record user preferences and ensure users no longer receive messages once they have opted out
 
----
+
 ## Design constraints
 
 Several constraints influenced the design of the opt-out journey.
@@ -59,8 +61,8 @@ ABM messages are delivered within existing NHS App patterns and components. This
 
 The NHS App previously explored a broader "manage your preferences" capability. However, this work did not progress due to insufficient evidence of user value at the time, limiting available infrastructure for ABM preference management within the apps interface.
 
----
-## Content Considerations
+
+## Content considerations
 
 One of the key design questions centred around language and user expectations.
 
@@ -74,8 +76,8 @@ We explored a number of different approaches, including:
 
 Understanding users' mental models and expectations became a key focus of the research.
 
----
-## Research Approach
+
+## Research approach
 
 Participants were shown ABM messages within the NHS App before being asked to:
 
@@ -87,10 +89,10 @@ The research explored both usability and users' expectations around message pref
 
 ![Opt out page with a choice to keep receiving messages or unsubscribe](opt-out-screen.png "Unsubscribe screen that was used in testing")
 
----
+
 ## What we learned
 
-### Relevance is the biggest driver of Opt-Out
+### Relevance is the biggest driver of opt-out
 
 Participants were generally comfortable with receiving messages automatically. The primary reason users said they would opt out was not automatic enrolment itself, but a lack of relevance. Messages perceived as generic, repetitive or not applicable to their circumstances were more likely to result in disengagement or opt-out behaviour.
 
@@ -110,18 +112,20 @@ Many participants believed messages were being sent by health visitors, midwives
 
 As a result, participants often struggled to understand:
 
-- Who owned the service
+- who owned the service
 
-- Why they were receiving messages
+- why they were receiving messages
 
-- How they would rejoin the service in future
+- how they would rejoin the service in future
 
 This lack of service identity created confusion throughout the unsubscribe and re-subscription experience. Users viewed subscription management as reversible and expected they would be able to change their decision as their circumstances evolved.
 
----
+
 ## Design decisions
 
 Based on the research, we have prioritised the following areas for further exploration:
+
+![Workshop board showing opt-out journey findings, prioritised design opportunities, and an NHS App filter screen](opt-out-workshop-board.png "Opt-out journey workshop synthesis")
 
 As a result, we will:
 
@@ -135,7 +139,7 @@ As a result, we will:
 
 - Assess whether message categories/tiers could provide users with greater control
 
----
+
 ## Next steps
 
 We will continue testing service iterations throughout the remaining cohort period.
