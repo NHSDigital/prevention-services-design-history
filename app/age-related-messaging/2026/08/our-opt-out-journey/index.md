@@ -21,20 +21,20 @@ As automatic enrolment increases, to adhere to the principles of consensual desi
 
 This work is particularly important because ABM is not delivering traditional appointment reminders or transactional communications. Instead, it provides developmental information, advice and support over a five-year period, creating unique considerations around consent, relevance, engagement and user control.
 
-So far in the pilot, only two people have opted out- however we have gone for a different consensual model. We are asking users if they would like to partake in our trial. This is therefore resulting in a large proportion of users disagreeing beforehand which may skew our results of the lack of opt-outs. The plan after our pilot is to resume our consensual model of automatically enroling users ourselves. 
+So far in the pilot, only two people have opted out- however we have gone for a different consensual model as we are asking users if they would like to partake in our trial. This has resulted in a large proportion of users disagreeing beforehand which may skew our results of the lack of opt-outs. The plan after our pilot is to resume our consensual model of automatically enroling users ourselves. 
 
 
 ## User needs
 
 Through design workshops and research, we identified the following user needs for the opt-out journey:
 
-- As a parent, I want to easily stop receiving messages when they are no longer useful to me
+- as a parent, I want to easily stop receiving messages when they are no longer useful to me
 
-- As a parent, I want to be able to restart messages if my circumstances or needs change
+- as a parent, I want to be able to restart messages if my circumstances or needs change
 
-- As a parent, I want to understand what I am opting out of and what will happen when I unsubscribe
+- as a parent, I want to understand what I am opting out of and what will happen when I unsubscribe
 
-- As the NHS, we need to accurately record user preferences and ensure users no longer receive messages once they have opted out
+- as the NHS, we need to accurately record user preferences and ensure users no longer receive messages once they have opted out
 
 
 ## Design constraints
@@ -68,11 +68,11 @@ One of the key design questions centred around language and user expectations.
 
 We explored a number of different approaches, including:
 
-- Opt out - can imply a user previously opted in
+- opt out - can imply a user previously opted in
 
-- Unsubscribe - suggests a permanent decision
+- unsubscribe - suggests a permanent decision
 
-- Manage preferences - implies a greater level of control and ongoing management of communications
+- manage preferences - implies a greater level of control and ongoing management of communications
 
 Understanding users' mental models and expectations became a key focus of the research.
 
@@ -100,11 +100,11 @@ Participants were generally comfortable with receiving messages automatically. T
 
 Users expected a greater degree of control and often separated messages into two categories:
 
-- Important NHS information, such as vaccinations, appointments and health-related actions
+- important NHS information, such as vaccinations, appointments and health-related actions
 
-- Advice, support and developmental guidance
+- advice, support and developmental guidance
 
-- Several participants expressed a desire to receive essential health information while opting out of less relevant content. This suggests that users think in terms of managing preferences rather than simply leaving the service altogether
+- several participants expressed a desire to receive essential health information while opting out of less relevant content. This suggests that users think in terms of managing preferences rather than simply leaving the service altogether
 
 ### Users were unclear about the ABM Service
 
@@ -125,19 +125,17 @@ This lack of service identity created confusion throughout the unsubscribe and r
 
 Based on the research, we have prioritised the following areas for further exploration:
 
-![Workshop board showing opt-out journey findings, prioritised design opportunities, and an NHS App filter screen](opt-out-workshop-board.png "Opt-out journey workshop synthesis")
-
 As a result, we will:
 
-- Strengthen the ABM service identity and clarify its relationship with Best Start in Life/other communications
+- strengthen the ABM service identity and clarify its relationship with Best Start in Life/other communications
 
-- Improve message content to better communicate the value and purpose of messages
+- improve message content to better communicate the value and purpose of messages
 
-- Explore preference management options rather than a simple unsubscribe model
+- explore preference management options rather than a simple unsubscribe model
 
-- Investigate pause and resubscription journeys
+- investigate pause and resubscription journeys
 
-- Assess whether message categories/tiers could provide users with greater control
+- assess whether message categories/tiers could provide users with greater control
 
 
 ## Next steps
@@ -146,15 +144,15 @@ We will continue testing service iterations throughout the remaining cohort peri
 
 Alongside this, we will:
 
-- Refine the ABM service proposition and identity
+- refine the ABM service proposition and identity
 
-- Review the relationship between ABM and existing parent-facing communications
+- review the relationship between ABM and existing parent-facing communications
 
-- Develop the content strategy to ensure messaging remains relevant and valuable over time
+- develop the content strategy to ensure messaging remains relevant and valuable over time
 
-- Explore opportunities for preference management and re-subscription
+- explore opportunities for preference management and re-subscription
 
-- Validate whether message categorisation provides meaningful user value without adding complexity
+- validate whether message categorisation provides meaningful user value without adding complexity
 
 The long-term goal is to create an experience that balances public health benefits with user autonomy, ensuring users remain informed, engaged and in control throughout their child's journey.
 
