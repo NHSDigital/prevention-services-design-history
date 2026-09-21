@@ -40,7 +40,7 @@ The NBSS data will capture that a mass was seen in the right breast, but it does
 
 Readers will use the freetext box to describe where the abnormalities were identified.
 
-![A representative sketch from an image reader of where they observe abnormalities](paper-annotation.jpeg “An example of what an image reader might sketch to indicate architectural distortion and microcalcification in the left breast”)
+![A representative sketch from an image reader of where they observe abnormalities](paper-annotation.jpeg "An example of what an image reader might sketch to indicate architectural distortion and microcalcification in the left breast")
 
 For breast screening units that use paper, it’s common for image readers to annotate the paper with a sketch of what they see.
 
