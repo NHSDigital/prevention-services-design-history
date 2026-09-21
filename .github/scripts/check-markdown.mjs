@@ -4,6 +4,10 @@
  * Current checks:
  * - H1 headings (# ...): the H1 is already generated from the `title` field
  *   in the frontmatter, so adding a `#` heading manually creates a duplicate.
+ * - Absolute URLs to the published site: links beginning with
+ *   https://design-history.prevention-services.nhs.uk/ should use
+ *   relative URLs instead, so that they work in previews and in case the URL
+ *   changes in future.
  *
  * When run directly, scans all markdown files under app/:
  *   npm run check:markdown
@@ -19,10 +23,61 @@ import { readFileSync, readdirSync } from 'fs'
 import { join } from 'path'
 import { fileURLToPath } from 'url'
 
-const H1_MESSAGE =
-  'The page title H1 is already generated from the `title` field in the frontmatter. ' +
-  'If this heading duplicates the title, remove it. ' +
-  'If it is a different heading, change it to an H2 using `##`.'
+/**
+ * Checks if a line contains an H1 heading.
+ *
+ * @param {string} line
+ * @returns {{ message: string } | null}
+ */
+function checkH1Heading(line) {
+  const message =
+    'The page title H1 is already generated from the `title` field in the frontmatter. ' +
+    'If this heading duplicates the title, remove it. ' +
+    'If it is a different heading, change it to an H2 using `##`.'
+
+  if (/^# /.test(line)) {
+    return { message }
+  }
+  return null
+}
+
+/**
+ * Checks if a line contains an absolute URL to the published site.
+ *
+ * @param {string} line
+ * @returns {{ message: string, suggestion?: string } | null}
+ */
+function checkAbsoluteUrl(line) {
+  const siteUrlRe = /(https?:\/\/)?design-history\.prevention-services\.nhs\.uk\//i
+
+  const message =
+    'Use a relative URL instead of a full URL for links to other posts on the site.\n\n' +
+    'This means that the links will work in previews, and in case the site domain name changes in future.\n\n' +
+    'For example, replace `https://design-history.prevention-services.nhs.uk/some/path/` with `/some/path/`.'
+
+  if (siteUrlRe.test(line)) {
+    return {
+      message,
+      suggestion: line.replaceAll(siteUrlRe, '/')
+    }
+  }
+  return null
+}
+
+const checks = [checkH1Heading, checkAbsoluteUrl]
+
+/**
+ * Runs all checks against a single line and returns any mistakes found.
+ *
+ * @param {string} line
+ * @returns {{ message: string, suggestion?: string }[]}
+ */
+function checkLine(line) {
+  return checks.flatMap((check) => {
+    const result = check(line)
+    return result ? [result] : []
+  })
+}
 
 /**
  * Recursively finds all .md files under the given directory.
@@ -53,8 +108,8 @@ export function scanAllFiles() {
   for (const filePath of files) {
     const lines = readFileSync(filePath, 'utf8').split('\n')
     for (let i = 0; i < lines.length; i++) {
-      if (/^# /.test(lines[i])) {
-        mistakes.push({ path: filePath, line: i + 1, message: H1_MESSAGE })
+      for (const result of checkLine(lines[i])) {
+        mistakes.push({ path: filePath, line: i + 1, ...result })
       }
     }
   }
@@ -70,6 +125,10 @@ export function scanAllFiles() {
  * @returns {{ path: string, line: number, message: string }[]}
  */
 export function getMistakes(baseRef) {
+  // Reject unexpected characters to prevent shell command injection
+  if (!/^[\w\/.\-]+$/.test(baseRef)) {
+    throw new Error(`Invalid baseRef: ${baseRef}`)
+  }
   const diff = execSync(`git diff ${baseRef}...HEAD`, { encoding: 'utf8' })
   const mistakes = []
   let currentFile = null
@@ -98,13 +157,9 @@ export function getMistakes(baseRef) {
 
     if (rawLine.startsWith('+')) {
       lineNumber++
-      // Added line that is an H1 (single `#` followed by a space)
-      if (/^\+# /.test(rawLine)) {
-        mistakes.push({
-          path: currentFile,
-          line: lineNumber,
-          message: H1_MESSAGE
-        })
+      const lineContent = rawLine.slice(1)
+      for (const result of checkLine(lineContent)) {
+        mistakes.push({ path: currentFile, line: lineNumber, ...result })
       }
     } else if (!rawLine.startsWith('-')) {
       // Context line -- still advances the new-file line number
