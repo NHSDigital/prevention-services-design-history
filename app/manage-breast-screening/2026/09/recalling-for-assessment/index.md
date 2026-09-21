@@ -108,12 +108,12 @@ Being ‘marker first’ seemed to work well for users, and somewhat matches wha
 
 The concept has some drawbacks though:
 
-- You can’t see the images whilst adding details
-- In most cases there’s just a single annotation to add with one or two markers - this interface has a lot going on, most of which is more suited when there’s multiple annotations
-- Some users accidentally created one annotation when they should have added two
-- Some users accidentally created extra annotations and didn’t realise
+- You can’t see the images whilst adding details.
+- In most cases there’s just a single annotation to add with one or two markers - this interface has a lot going on, most of which is more suited when there’s multiple annotations.
+- Some users accidentally created one annotation when they should have added two.
+- Some users accidentally created extra annotations and didn’t realise.
 - Showing on the same page as the overall opinion has drawbacks. Should users add the annotation immediately after they mark a breast as abnormal, or should they give an overall opinion for both breasts first, then do annotations? In either case, how do you prompt that an annotation is now required?
-- Error validating for this is more complex as more could be going wrong at one time
+- Error validating for this is more complex as more could be going wrong at one time.
 
 Several of these relate to us attempting to track the abnormality itself on whatever images it appears and not just separate locations on separate images. Doing so should allow us to track abnormalities through to biopsy and treatment, but also makes the interface harder to design for.
 
