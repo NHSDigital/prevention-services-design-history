@@ -40,7 +40,7 @@ The NBSS data will capture that a mass was seen in the right breast, but it does
 
 Readers will use the freetext box to describe where the abnormalities were identified.
 
-![A representative sketch from an image reader of where they observe abnormalities](paper-annotation.jpeg "An example of what an image reader might sketch to indicate architectural distortion and microcalcification in the left breast")
+![A representative sketch from an image reader of where they observe abnormalities](paper-annotation.jpeg 'An example of what an image reader might sketch to indicate architectural distortion and microcalcification in the left breast')
 
 For breast screening units that use paper, it’s common for image readers to annotate the paper with a sketch of what they see.
 
@@ -66,7 +66,7 @@ We will continue to capture an overall opinion per breast, and for any abnormali
 
 ### Significant symptoms and signs
 
-![Where  symptoms are present, readers get an extra choice ‘normal, but symptoms need clinical assessment’](recall-for-assessment-opinion-with-symptoms.png)
+![Where  symptoms are present, readers get an extra choice ‘Normal, symptoms need clinical assessment’](recall-for-assessment-opinion-with-symptoms.png)
 
 The overall assessment per breast usually has two options, but where the participant had significant symptoms or signs, image readers have a third option labelled ‘Normal, but symptoms need clinical assessment’ - which allows them to recall on this basis. This is equivalent to the current ‘clinical’ option in NBSS.
 
@@ -167,7 +167,7 @@ We need to check:
 - if a breast is marked as ‘normal’, any annotations added are not level of concern of 3 or higher
 - if a breast is marked as ‘abnormal’, at least one annotation must be level of concern 3 or higher
 
-![Screenshot of the main recall for assessment opinion page. An error summary at the top tells the user that ‘at least one breast must be marked abnormal to recall for assessment’. Both breasts are currently marked ‘normal’, and both sets of radios are shown in error with the same error message](recall-for-assessment-error-both-normal.png "An error that could relate to either breast")
+![Screenshot of the main recall for assessment opinion page. An error summary at the top tells the user that ‘at least one breast must be marked abnormal to recall for assessment’. Both breasts are currently marked ‘normal’, and both sets of radios are shown in error with the same error message](recall-for-assessment-error-both-normal.png 'An error that could relate to either breast')
 
 The standard NHS Design system pattern for errors has an error shown in the error summary linking to a specific field in error - but we have cases where two fields could be in error, or two different things could be wrong. We’ve defaulted to both fields showing as in error, with the error summary linking to the first.
 
