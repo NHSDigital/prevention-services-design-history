@@ -50,7 +50,7 @@ Image readers have the ability to annotate on the mammograms inside their Pictur
 
 We think it's better to add annotations to PACS once there are findings - not whilst you may have two conflicting opinions from readers. We'll need to confirm this over time with further research. Currently if the first image reader adds an annotation, these will be visible and shown to the second reader, which can influence their opinion. It’s possible to hide annotations on first load, but in practice this usually isn’t set up. By annotating in our tool we can make sure they’re not shown to the second reader, and we’ll also have direct access to the data to make it available in arbitration or assessment, and later be able to track image reader performance or which abnormalities were assessed.
 
-The benefits of annotating in PACS once image reading has been completed are:
+The benefits of using Rubie to manage annotations, and only annotating in PACS after image reading has been completed, are:
 
 - true blind reads
 - access to data to show in arbitration or assessment
