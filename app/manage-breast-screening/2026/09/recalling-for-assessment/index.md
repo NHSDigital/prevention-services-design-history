@@ -21,7 +21,7 @@ One of the things we’re exploring changing with Rubie is the data collected wh
 
 ![Image reading opinion page, with a drop-down choice per breast](nbss-breast-assessment-empty.png)
 
-The current National breast screening service (NBSS) interface focuses on capturing an opinion per breast. In the above screenshot the current user is the second reader (row 2 in the table), can record that the right and left breasts are:
+The current National breast screening service (NBSS) interface focuses on capturing an opinion per breast. In the above screenshot the current user is the second reader (row 2 in the table). They can record that the right and left breasts are:
 
 - Normal - no cause for concern
 - Abnormal - something spotted which needs assessment
