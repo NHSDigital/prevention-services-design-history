@@ -167,7 +167,7 @@ We need to check:
 - if a breast is marked as ‘normal’, any annotations added are not level of concern of 3 or higher
 - if a breast is marked as ‘abnormal’, at least one annotation must be level of concern 3 or higher
 
-![Screenshot of the main recall for assessment opinion page. An error summary at the top tells the user that ‘at least one breast must be marked abnormal to recall for assessment’. Both breasts are currently marked ‘normal’, and both sets of radios are shown in error with the same error message](recall-for-assessment-error-both-normal.png ‘An error that could relate to either breast’)
+![Screenshot of the main recall for assessment opinion page. An error summary at the top tells the user that ‘at least one breast must be marked abnormal to recall for assessment’. Both breasts are currently marked ‘normal’, and both sets of radios are shown in error with the same error message](recall-for-assessment-error-both-normal.png "An error that could relate to either breast")
 
 The standard NHS Design system pattern for errors has an error shown in the error summary linking to a specific field in error - but we have cases where two fields could be in error, or two different things could be wrong. We’ve defaulted to both fields showing as in error, with the error summary linking to the first.
 
