@@ -4,7 +4,7 @@ description: Exploring different interfaces for adding multiple annotations
 date: 2026-09-21
 author: Ed Horsford
 opengraphImage:
-  src: /manage-breast-screening/09/recalling-for-assessment/one-by-one-complete.png
+  src: /manage-breast-screening/2026/09/recalling-for-assessment/one-by-one-complete.png
   alt: Screenshot showing a marker two markers placed on two mammogram images, with a complete form below describing what the abnormality is 
 tags:
   - beta
