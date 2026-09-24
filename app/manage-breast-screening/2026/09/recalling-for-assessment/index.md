@@ -152,7 +152,7 @@ We don’t think it’s slower versus the tabbed interface, though subjectively 
 - Simpler to validate because you’re only doing one annotation at a time
 - It’s the same number of clicks to add an annotation
 
-Editing a marker position is slower as you need to click ‘change’ first to open the annotation. We think think this is acceptable as editing will likely be less common.
+Editing a marker position is slower as you need to click ‘change’ first to open the annotation. We think this is acceptable as editing will likely be less common.
 
 We’re going to start with the one-by-one interface, but will keep the tabbed interface in consideration. It may be useful in other scenarios when later looking at multiple annotations at once.
 
