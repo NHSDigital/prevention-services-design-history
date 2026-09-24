@@ -21,7 +21,7 @@ One of the things we’re exploring changing with Rubie is the data collected wh
 
 ![Image reading opinion page, with a drop-down choice per breast](nbss-breast-assessment-empty.png)
 
-The current National breast screening service (NBSS) interface focuses on capturing an opinion per breast. In the above screenshot the current user is the second reader (row 2 in the table). They can record that the right and left breasts are:
+The current National breast screening system (NBSS) interface focuses on capturing an opinion per breast. In the above screenshot the current user is the second reader (row 2 in the table). They can record that the right and left breasts are:
 
 - Normal - no cause for concern
 - Abnormal - something spotted which needs assessment
@@ -152,7 +152,7 @@ We don’t think it’s slower versus the tabbed interface, though subjectively 
 - Simpler to validate because you’re only doing one annotation at a time
 - It’s the same number of clicks to add an annotation
 
-Editing a marker position is slower as you need to click ‘change’ first to open the annotation. We judge think this is acceptable as editing will likely be rare.
+Editing a marker position is slower as you need to click ‘change’ first to open the annotation. We think think this is acceptable as editing will likely be less common.
 
 We’re going to start with the one-by-one interface, but will keep the tabbed interface in consideration. It may be useful in other scenarios when later looking at multiple annotations at once.
 
@@ -177,6 +177,6 @@ This is the more complex validation - if a breast is marked as normal but an ann
 
 ## Next steps
 
-The annotation tools prototyped here will be tested and iterated further in usability testing. Building them for real will take some time, so for our first image reading release we have descoped the markers and will instead collect a free-text description of the location. This data closer to what NBSS collects, though still capturing type and level of concern per abnormally, rather than per breast. We plan to later replace this free-text location with the marker interface.
+The annotation tools prototyped here will be tested and iterated further in usability testing. Building them for real will take some time, so for our first image reading release we have descoped the markers and will instead collect a free-text description of the location. This data is closer to what NBSS collects, though still capturing type and level of concern per abnormally, rather than per breast. We plan to later replace this free-text location with the marker interface.
 
 ![Screenshot of a simpler annotation form. There are no images or markers. Instead there is a free-text input for ‘location’ ](one-by-one-simple.png)
