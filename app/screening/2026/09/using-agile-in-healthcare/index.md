@@ -8,9 +8,6 @@ tags:
   - digital screening
 author:
   - Christine Cawthorne
-opengraphImage:
-  src: /your-service/2025/12/post-title/image-name.png
-  alt: Alternative text for the lead image
 ---
 
 Bringing agile methodologies to established ways of working is tough. The ceremonies, the jargon, and the sheer amount of Post-it notes used can be difficult to get your head around.  
