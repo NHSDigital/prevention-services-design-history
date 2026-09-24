@@ -20,9 +20,11 @@ Ben Kirby is the lead product owner for Rubie, which will replace the 20+ year o
 
 Ben is talking through the considerations of testing in a live environment. 
 
-> We knew that we were going to have to actually go to a breast screening office and get them to use it for real, because there was no way we could replicate the technical setup of a hospital network with the mammogram machines and others that they use. But with the size of what we needed to build, and the complexities around it, whoever was going to help us from the breast screening office side needed to be fully bought into this long journey of testing features on Rubie.
+> We knew that we were going to have to actually go to a breast screening office and get them to use it for real, because there was no way we could replicate the technical setup of a hospital network with the mammogram machines and others that they use.
+>
+> But with the size of what we needed to build, and the complexities around it, whoever was going to help us from the breast screening office side needed to be fully bought into this long journey of testing features on Rubie.
 
-## 'You are the people who are going to fix digital’ 
+## 'You are the people who are going to fix digital'
 
 When Lesley Peacock, programme manager for the Humberside Breast Screening Service, heard about the Rubie project, she knew she wanted in.
 
@@ -40,7 +42,7 @@ Lesley describes the early days:
 
 > We had a digital proposal form that you submit and I'm not the best writer in the world, but Ben was really good and went through it with me. He's got the words, I've got the enthusiasm. It was a good learning curve for me. I was saying, look I'm not technical, but this is what we want to do as a programme. We need the software to be developed for X, Y and Z reasons – we need to work with these people. And IT just bought in, so it was brilliant.
 
-## ‘We’re changing their ways of working, and they’re changing ours’ 
+## 'We’re changing their ways of working, and they’re changing ours'
 
 Ben notes that breast screening offices and trust IT teams operate very differently.   
 
@@ -49,8 +51,8 @@ Trust approval and IT engagement are essential to make sure the live tests can r
 Initially, Ben says, his team had approached IT teams with an offer to get as involved as they wanted, even helping solve some of the problems. This lack of fixed scope led to a lack of engagement, and Ben's team realised they needed to ask for something much more concrete.
 
 > That became a completely different conversation. We said there may be other stuff that we come back to you with later on, but for now the ask is this - and the ask is tiny.  
-
-> The other thing is you won't learn enough about all the people and their incentives until you just start going to have conversations. And I think you just have to, particularly if you're some sort of central team and you’re partnering with a distributed set of organisations or teams across the country: just go start talking to them.
+>
+> The other thing is you won't learn enough about all the people and their incentives until you just start going to have conversations. And I think you just have to, particularly if you're some sort of central team and you’re partnering with a distributed set of organisations or teams across the country: just go and start talking to them.
 
 ## Genuine collaboration  
 
@@ -69,11 +71,5 @@ Lesley says:
 Sarah Fisher, Deputy Director of Digital Screening says: 
 
 > This way of doing things is new, and we’re finding that as well as building technology that’s fit for purpose, we’re also having to build the connecting infrastructure too. We’re building technology for the NHS, by the NHS.
-
+>
 > It’s a learning curve for all of us and we’re finding that relationship building matters as much as, if not more than, anything else.
-
-## Learn more
-
-- Read the breast screening team's [public notes](https://design-history.prevention-services.nhs.uk/breast-screening/)
-- Read about the work of the [Digital Prevention Services team](https://www.digital-prevention-services.nhs.uk/)
-- Contact us directly if you have questions or comments: [england.dpsp-front-door@nhs.net](mailto:england.dpsp-front-door@nhs.net)
