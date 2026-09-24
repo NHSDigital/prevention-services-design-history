@@ -1,7 +1,7 @@
 
 ---
 title: Using agile practices in digital screening: lessons we’ve been learning 
-description: Using agile practices in digital screening: lessons we’ve been learning 
+description: Lessons we’ve been learning while using agile practices in digital screening.
 date: 2026-09-24
 tags:
   - agile
