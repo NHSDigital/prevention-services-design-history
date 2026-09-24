@@ -60,4 +60,5 @@ What we’ve learned so far about using agile practices in digital screening is 
 
 We don’t get neatly-planned timescales and checklists that give a sense of security, but can get outdated quickly. We do get lots of interaction and collaboration, resulting in products that are being thought through from several angles and rigorously tested. This has also resulted in building trust and creating strong relationships.    
 
-The main thing we’re still learning is that all models are wrong, but some of them are useful. By reviewing our practice and working styles, we’re trying to be less dogmatic about agile and keeping pragmatic about what works for us, collectively.  
+The main thing we’re still learning is that all models are wrong, but some of them are useful. By reviewing our practice and working styles, we’re trying to be less dogmatic about agile and keeping pragmatic about what works for us, collectively. 
+
