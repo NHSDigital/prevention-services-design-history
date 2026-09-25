@@ -1,7 +1,7 @@
 ---
 title: Re-discovery for scaling up age-based messaging
 description: Why we started a re-discovery phase post pilot release.
-date: 2026-08-17
+date: 2026-09-25
 tags:
   - discovery
   - problem-solving
