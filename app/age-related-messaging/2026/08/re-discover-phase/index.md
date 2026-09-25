@@ -50,7 +50,7 @@ Workshop participants include:
 
 These workshops are helping shape future strategy and priorities.
 
-### Clinical and Public Health Considerations
+### Clinical and public health considerations
 We are working with healthcare professionals, public health representatives and NHS stakeholders to understand:
 
 - clinical safety considerations
