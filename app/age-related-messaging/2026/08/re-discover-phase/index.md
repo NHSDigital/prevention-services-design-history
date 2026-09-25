@@ -86,7 +86,7 @@ At a high level, users sit within two broad groups: first-time parents and multi
 - secondary carers and parents with diverse family, cultural and caregiving contexts
 
 These categories are not mutually exclusive and many parents may experience barriers across multiple groups at different points in their journey.
-Personal circumstances may influence how they interact with the service, including parents experiencing digital exclusion, language barriers, low confidence, financial pressures, complex family circumstances, caring responsibilities, or additional child health needs. We also included Health Visitors as important groups within the wider service ecosystem.
+Personal circumstances may influence how they interact with the service, including parents experiencing digital exclusion, language barriers, low confidence, financial pressures, complex family circumstances, caring responsibilities, or additional child health needs. We also included health visitors as important groups within the wider service ecosystem.
 
 ![Working archetype of Complex Carrie- a mother with a child with complex needs, highlighting user needs, pain points and circumstances](complex-carrie.jpg 'One of our working archetypes: Complex Carrie')
 
