@@ -10,7 +10,7 @@ author:
   - Caroline Finucane
 ---
 
-Over the last year, teams across Vaccination Digital Services have delivered new products, features and improvements. But for commissioners, stakeholders and colleagues, it can be difficult to see how those pieces fit together as part of a single vaccination journey. 
+Over the last year, teams across Vaccination Digital Services have delivered new products, features and improvements. But for commissioners, stakeholders and colleagues, it can be difficult to see how those pieces fit together as part of a single vaccination journey.
 
 To help make that visible, we created an end-to-end demo showing how our digital services support someone getting an RSV and COVID vaccination in one appointment using the NHS App.
 
@@ -20,9 +20,9 @@ We centred the journey on RSV so we could demonstrate an NHS App feature - [Chec
 
 ## Watch the demo
 
-You can [watch the demo here](<iframe src="https://nhs-my.sharepoint.com/personal/caroline_finucane_nhs_net/_layouts/15/embed.aspx?UniqueId=d7a8c461-d6b6-4acd-9c58-835a4fccd6b9&embed=%7B%22ust%22%3Atrue%2C%22hv%22%3A%22CopyEmbedCode%22%7D&referrer=StreamWebApp&referrerScenario=EmbedDialog.Create" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen title="Rosies_Journey_Mk6.mp4"></iframe>).
-
-If you can't access this video, please let me know - email caroline.finucane@nhs.net
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/1229814318?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share" referrerpolicy="strict-origin-when-cross-origin" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="A video that shows how digital services support vaccinations"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<br>
+<br>
 
 We're hoping this narrative might be useful for:
 
