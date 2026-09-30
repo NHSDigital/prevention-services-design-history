@@ -8,6 +8,9 @@ tags:
   - stakeholder engagement
 author:
   - Caroline Finucane
+opengraphImage:
+  src: /vaccinations/2026/09/how-rosie-got-vaccinated/how-digital-services-support-vaccinations.png
+  alt: An illustration of of a older woman with grey hair, along with the NHS logo and the text 'How digital services support vaccinations, June 2026'
 ---
 
 Over the last year, teams across Vaccination Digital Services have delivered new products, features and improvements. But for commissioners, stakeholders and colleagues, it can be difficult to see how those pieces fit together as part of a single vaccination journey.
