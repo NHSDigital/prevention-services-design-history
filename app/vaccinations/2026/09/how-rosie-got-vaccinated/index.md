@@ -19,7 +19,7 @@ To help make that visible, we created an end-to-end demo showing how our digital
 
 The demo follows a fictional person, Rosie, through the journey from invitation to vaccination. This helped us tell a story about the service as a whole, and show how different products work together to support vaccination campaigns.
 
-We centred the journey on RSV so we could demonstrate an NHS App feature – [Check and Book Vaccinations](https://design-history.prevention-services.nhs.uk/vaccinations-in-the-app/), currently in private beta – that offers a more personalised vaccination experience.
+We centred the journey on RSV so we could demonstrate an NHS App feature – [Check and Book Vaccinations](/vaccinations-in-the-app/), currently in private beta – that offers a more personalised vaccination experience.
 
 ## Watch the demo
 
