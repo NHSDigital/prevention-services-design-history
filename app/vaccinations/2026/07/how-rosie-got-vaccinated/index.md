@@ -1,7 +1,7 @@
 ---
 title: "Watch: how VDS helps Rosie get vaccinated this autumn"
 description: How the design team within VDS created an end-to-end demo video showing how their digital services support someone getting a vaccination.
-date: 2026-08-03
+date: 2026-09-30
 tags:
   - demo video
   - end to end service
@@ -16,7 +16,7 @@ To help make that visible, we created an end-to-end demo showing how our digital
 
 The demo follows a fictional person, Rosie, through the journey from invitation to vaccination. This helped us tell a story about the service as a whole, and show how different products work together to support vaccination campaigns.
 
-We centred the journey on RSV so we could demonstrate an NHS App feature - [Check and Book Vaccinations](https://design-history.prevention-services.nhs.uk/vaccinations-in-the-app/), currently in private beta - that offers a more personalised vaccination experience.
+We centred the journey on RSV so we could demonstrate an NHS App feature – [Check and Book Vaccinations](https://design-history.prevention-services.nhs.uk/vaccinations-in-the-app/), currently in private beta – that offers a more personalised vaccination experience.
 
 ## Watch the demo
 
@@ -28,6 +28,5 @@ We're hoping this narrative might be useful for:
 
 - showing commissioners and stakeholders how our products contribute to a real vaccination journey
 - helping new starters understand the VDS ecosystem
-- creating a more engaging alternative to diagrams, slides and product lists
 
-We do not yet know whether this approach is more effective than traditional presentations and documentation, but we'll share what we learn.
+We'd welcome your feedback: was this video useful for you?
