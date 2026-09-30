@@ -29,4 +29,4 @@ We're hoping this narrative might be useful for:
 - showing commissioners and stakeholders how our products contribute to a real vaccination journey
 - helping new starters understand the VDS ecosystem
 
-We'd welcome your feedback: was this video useful for you?
+We'd welcome your feedback: was this video useful for you? Email <a href="mailto:caroline.finucane@nhs.net">caroline.finucane@nhs.net</a>.
