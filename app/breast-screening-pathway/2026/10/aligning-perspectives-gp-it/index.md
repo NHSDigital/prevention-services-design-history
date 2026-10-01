@@ -48,9 +48,18 @@ Non-attendance at assessment needs special care. These are people with areas of 
 
 [Guidance](https://www.gov.uk/government/publications/breast-screening-screening-office-management/breast-screening-screening-office-management#communications-with-gp-practices) requires breast screening offices (BSOs) to send pre-invitation packs to GPs 6 weeks before participants are invited.  
 
-But a GP practice manager told us this either does not happen in their practice or happens inconsistently: “Breast screening can never tell us which of our patients they invited. We only get told when they didn’t attend, by which time it’s too late to encourage attendance, as vans might have left the area.” From the programme’s perspective, GP endorsement still helps improve uptake, even after non-attendance.  
+But a GP practice manager told us this either does not happen in their practice or happens inconsistently: 
 
-BSOs expect GPs to respond with a list of participants who require reasonable adjustments. But BSOs told us they are also frustrated by inconsistent or missing responses. As one BSO put it, “We rely on GPs to know who is transgender, who’s had a mastectomy, and we get so little information. The data at the beginning would really help. They've been in GP land for 50 years before us, they must have a good picture.”  
+> [!NOTE]
+> “Breast screening can never tell us which of our patients they invited. We only get told when they didn’t attend, by which time it’s too late to encourage attendance, as vans might have left the area.” 
+
+From the programme’s perspective, GP endorsement still helps improve uptake, even after non-attendance.  
+
+BSOs expect GPs to respond with a list of participants who require reasonable adjustments. But BSOs told us they are also frustrated by inconsistent or missing responses. As one BSO put it: 
+
+
+> [!NOTE]
+> “We rely on GPs to know who is transgender, who’s had a mastectomy, and we get so little information. The data at the beginning would really help. They've been in GP land for 50 years before us, they must have a good picture.”  
 
 Rubie should enable the kind of communication that is required by the guidance. This would lead to better screening attendance and a better participant experience.
 
