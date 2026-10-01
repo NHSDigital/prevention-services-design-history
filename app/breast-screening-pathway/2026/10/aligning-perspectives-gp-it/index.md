@@ -71,7 +71,7 @@ Ideas we discussed included:
 
 ## Continuous, live view of someone’s needs
 
-Even when BSOs get access needs data from GPs, it can be unreliable. We should consider other ways of getting it, for example by asking the person themselves or by integrating with electronic patient record (EPR) systems. This could tell us if someone has had a mastectomy - and so should not be invited or requires specific reasonable adjustments to support them to attend their appointment. 
+Even when BSOs get access needs data from GPs, this information can be unreliable. We should consider other ways of getting it, for example by asking the person directly or by integrating with electronic patient record (EPR) systems. This could tell us if someone has had a mastectomy - and so should not be invited or requires specific reasonable adjustments to support them to attend their appointment. 
 
 Different solutions and integrations might be needed, including: 
 
