@@ -28,7 +28,7 @@ In the workshop there was agreement that we should:
 
 ![Workshop digital whiteboard with post-its zoomed out](gp-it-workshop-1.png "The digital whiteboard we used to take notes")
 
-## Why have a new SNOMED CT concept for mammography procedure?
+## Why have a new SNOMED CT concept for a mammography procedure?
 
 As clinical terms often vary across services and languages, SNOMED CT groups the variations under a clinical 'concept', which is assigned a unique code. This allows data entered by one service to be recorded consistently and reused across other systems and records despite variations in language. SNOMED CT concepts can also be mapped to other classifications, like the International Classification of Diseases (ICD), so the same data can be used for national reporting.
 
