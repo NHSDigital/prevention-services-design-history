@@ -49,7 +49,27 @@ Our objectives were:
 
 The remaining **3** were recruited through [TransLeeds](https://www.transleeds.org/). 
 
-![A demographic summary for six participants, titled Demographics breakdown. It shows age, ethnicity, disabilities, gender, and sexuality data with percentages listed in two columns.](demographics.png)
+All **6** participants have attended cervical screening at some point in their life.
+
+The demographic breakdown of our participants:
+
+| Demographic characteristic | Breakdown |
+| ------------ | ---------------------------- |
+| Age| 25-34: 33% |
+|    | 35-44: 50% |
+|    | 45-54: 16% |
+| Ethnicity| Black/British Caribbean: 17% |
+|         | White British: 83% |
+| Gender | Female: 50% |
+|       | Non-binary: 50% |
+| Sexuality | Bisexual: 33% |
+|           | Heterosexual: 50% |
+|           | Queer: 16% |
+| Disability | Neurodivergent: 66% |
+|            | Difficulty with memory: 16% |
+|            | Physical: 33% |
+|            | Visual: 50% |
+|            | Sensory: 33% |              
 
 ### Test breakdown
 
