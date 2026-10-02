@@ -44,7 +44,7 @@ Indicating which breast a suspected abnormality is in does not alter management 
 
 The breast screening pathway ends when someone's assessment outcome is normal or when they are handed over to the treatment team following a cancer diagnosis. This transition needs to be properly designed so that care continues seamlessly. The outcome of assessment needs to be clearly communicated to the GP.
 
-Non-attendance at assessment needs special care. These are people with areas of concern requiring further tests, so engaging them is key. GPs and primary care teams already play an important role here. In the future, their communication can be better facilitated by Rubie.
+Non-attendance at assessment needs special care. These are people with areas of concern requiring further tests, so engaging them is crucial. GPs and primary care teams already play an important role here. In the future, their communication can be better facilitated by Rubie.
 
 ## Pre-screening communications
 
