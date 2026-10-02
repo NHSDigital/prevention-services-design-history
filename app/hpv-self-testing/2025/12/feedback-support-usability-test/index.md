@@ -136,7 +136,7 @@ Finally, there was some confusion around navigation caused by users opening the 
 
 ![A support page screen showing the call to action to log in or open the NHS App, inside a web view within the app. The page is a clean NHS web interface with a direct, functional tone and a clear signpost for action.](login.png "Screenshot of the content about login to order on the Support page") 
 
-![A collaborative Mural analysis board with sticky notes and grouped findings from usability testing. The notes cluster around key themes such as support content, kit instructions, and the feedback banner, creating a busy but organised workspace with an analytical tone.](analysismural.png "Screenshot of Mural anaylsis highlighting the confusion around navigation")
+![A collaborative Mural analysis board with sticky notes and grouped findings from usability testing. The notes cluster around key themes such as support content, kit instructions, and the feedback banner, creating a busy but organised workspace with an analytical tone.](analysismural.png "Screenshot of Mural analysis highlighting the confusion around navigation")
 
 
 #### 3. Feedback banner
