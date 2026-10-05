@@ -15,7 +15,7 @@ opengraphImage:
   alt: Workshop digital whiteboard with sticky notes zoomed out
 ---
 
-As part of designing Rubie, we want to send breast screening outcomes to the GP record in a structured digital format. To help with this, we ran an internal workshop with colleagues representing clinical, digital and policy perspectives.
+As part of designing [Rubie](/breast-screening-pathway/2026/05/naming-new-breast-screening-service/), we want to send breast screening outcomes to the GP record in a structured digital format. To help with this, we ran an internal workshop with colleagues representing clinical, digital and policy perspectives.
 
 We wanted to consider how best to use [SNOMED CT](https://digital.nhs.uk/services/terminology-and-classifications/snomed-ct) to communicate useful information to GPs from the breast screening programme. We also wanted to look beyond the initial implementation to later enhancements in communication between GPs and Rubie.  
 
