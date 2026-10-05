@@ -16,20 +16,20 @@ The batches created in BS Select are used directly to invite participants to bot
 We’re focusing on one screen within BS Select — the “Create NTDD Batch” screen — which is used to create batches of participants based on their recorded next test due date.
 
 ## Purpose of the screen
-The "Create NTDD Batch" screen lets a BSO admin generate a batch of screening participants who are due (or overdue) their next screening appointment, based on their recorded "Next Test Due Date" (NTDD). The admin defines an age range and an "NTD End Date"; the system then selects everyone in that age range whose NTDD falls on or before that date (or who has no NTDD recorded at all).
+The "Create NTDD Batch" screen lets a BSO admin generate a batch of screening participants who are due (or overdue) for their next screening appointment, based on their recorded "Next Test Due Date" (NTDD). The admin defines an age range and an "NTD End Date"; the system then selects everyone in that age range whose NTDD falls on or before that date (or who has no NTDD recorded at all).
 
-It is one of a batch-creation methods in BS Select — the others being RI/SP (recall interval / safety period) batches and failsafe batches.
+It is one of the batch-creation methods in BS Select — the others being RI/SP (recall interval / safety period) batches and failsafe batches.
 
 ## Usability and data-quality issues identified
 
-### Current screen and its problems
+### Current screen
 
 ![The current "Create NTDD Batch" BS Select screen](/breast-screening-select/2026/10/BSS-NTDD-original.png)
 
 ### NTD End Date
 Right now there's no limit on how far in the future the NTD End Date can be set. There's only a warning if it's more than 6 weeks away, but nothing stops the user going further. This means a batch could pick up women who were already screened in the last 12 months. Limiting the NTD End Date to 24 months (a parameter we can change later) would stop this from happening.
 
-### Age Range complexity
+### Age range complexity
 The age range is worked out based on the NTD End Date the user types in. But the NTD End Date changes from batch to batch, depending on who’s being invited. Some BSOs use their own spreadsheets to work out the right age range or date-of-birth range to enter each time, despite there being a tool developed to aid calculation. This can lead to mistakes, such as women below the normal screening age being invited by accident.
 
 ### Redundant control: 'Include younger women' tick box
@@ -39,17 +39,16 @@ This tick box was added so that women who'd had an extra early screening round a
 This has been hard-defaulted to "Both" since 2018 — BSOs can no longer split batches by call/recall status — yet it's still rendered on-screen as if it were meaningful configuration, which invites the question "should I be setting this?" when the answer is always no.
 
 > [!IMPORTANT] Underlying Pattern
-> Across all the above issues, the common thread is **the form asks the user to do work the system should be doing</b> (working out age ranges by hand, and figuring out which controls no longer matter)** and fails to enforce the constraints that actually matter</b> (age band, date horizon). This is a validation-and-defaults problem more than a layout problem — the visual structure of the form is reasonably clear; it's the business logic behind it that's under-specified.
+> Across all the above issues, the common thread is the form asks the user to do work the system should be doing (working out age ranges by hand, and figuring out which controls no longer matter) and fails to enforce the constraints that actually matter (age band, date horizon). This is a validation-and-defaults problem more than a layout problem — the visual structure of the form is reasonably clear; it's the business logic behind it that's under-specified.
 
 ## Proposed changes
-The proposed redesign is expressed as seven acceptance criteria (AC1–AC7), each targeting one of the issues above:
+The proposed redesign is expressed as 7 acceptance criteria (AC1–AC7), each targeting one of the issues above:
 
 ![Changes AC1-AC7 shown on the "Create NTDD Batch" screen](/breast-screening-select/2026/10/BSS-NTDD-issues.png)
 
 ### Design rationale
 - **Smart defaults over manual entry:** by pre-filling the normal screening age range, BSOs won't need to check a spreadsheet every time they create a batch. The fields can still be changed by hand if a BSO genuinely needs a different age range, but for most batches, no calculation is needed at all.
-- **Progressive disclosure via removal, not hiding:** rather than greying out or collapsing the Date-of-Birth toggle, the AgeX tick box, and the Call/Recall field, the proposal is to remove them from the screen outright. Because none of them represent a live decision the user needs to make, keeping them — even in a disabled state — would still cost attention and invite "why is this here?".
-- **Checking values when it matters most:** instead of just a soft warning when the date is first entered, the system now properly checks the values at the point the user clicks Count — right before it acts on them. This catches someone typing over the pre-filled age fields with the wrong numbers, or pushing the NTD End Date out too far, which is exactly what caused the mistakes.
+- **Fewer options to choose from:** the proposal is to remove "Younger women" box, the "AgeX" tick box, and the "Call/Recall" field. Because none of them represent a live decision the user needs to make, keeping them — even in a disabled state — would still cost attention and invite "why is this here?".
 - **Clearer wording in the info panel:** this change is small but matters — it tells the user the real rule the system is using, rather than leaving them to guess (which is how mistakes happened before).
 
 ## What the redesigned screen looks like
@@ -70,7 +69,7 @@ Making the prototype look exactly like BS Select would have meant rebuilding the
 Before the proposed design is built, it should be validated with BSO admins — the primary users — to confirm the simplification actually reduces error and effort in practice, rather than just in theory.
 
 ### Research goals
-The goal is to determine if the proposed design changes to the "Create NTDD Batch screen" cause BSOs usability or other issues.
+The goal is to determine if the proposed design changes to the "Create NTDD Batch" screen cause BSOs usability or other issues.
 
 Specifically:
 - do participants notice changes in the information box
