@@ -18,7 +18,7 @@ We’re focusing on one screen within BS Select — the “Create NTDD Batch” 
 ## Purpose of the screen
 The "Create NTDD Batch" screen lets a BSO admin generate a batch of screening participants who are due (or overdue) their next screening appointment, based on their recorded "Next Test Due Date" (NTDD). The admin defines an age range and an "NTD End Date"; the system then selects everyone in that age range whose NTDD falls on or before that date (or who has no NTDD recorded at all).
 
-It is one of a batch-creation methods in BS Select — the others being RI/SP (recall interval / safety period) batches and failsafe batches. The NTDD batches are the method BSOs are being encouraged to adopt because they target participants by due date rather than a blanket age sweep.
+It is one of a batch-creation methods in BS Select — the others being RI/SP (recall interval / safety period) batches and failsafe batches. 
 
 ## Usability and data-quality issues identified
 
