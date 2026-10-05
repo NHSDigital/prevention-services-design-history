@@ -75,5 +75,5 @@ The goal is to determine if the proposed design changes to the "Create NTDD Batc
 Specifically:
 - do participants notice changes in the information box
 - do the new controls for selecting age range meet BSOs’ needs
-- does the removal of the "include younger women" and "call or recall" elements pose barriers
+- does the removal of the "Include younger women" and "Call or Recall" elements pose barriers
 - any differences between RI/SP and NTDD (including one of East of England) BSOs
