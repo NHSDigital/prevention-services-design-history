@@ -1,6 +1,6 @@
 ---
 title: Create NTDD batch (BS-Select)
-description: This description will appear on index pages and when sharing on social media.
+description: Maintaining BS Select, the legacy breast screening system holding participant data and supporting cohort selection
 date: 2026-10-05
 tags:
   - live
