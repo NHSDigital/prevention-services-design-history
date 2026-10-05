@@ -18,11 +18,11 @@ We’re focusing on one screen within BS Select — the “Create NTDD Batch” 
 ## Purpose of the screen
 The "Create NTDD Batch" screen lets a BSO admin generate a batch of screening participants who are due (or overdue) their next screening appointment, based on their recorded "Next Test Due Date" (NTDD). The admin defines an age range and an "NTD End Date"; the system then selects everyone in that age range whose NTDD falls on or before that date (or who has no NTDD recorded at all).
 
-It is one of a batch-creation methods in BS Select — the others being RI/SP (recall interval / safety period) batches and failsafe batches. 
+It is one of a batch-creation methods in BS Select — the others being RI/SP (recall interval / safety period) batches and failsafe batches.
 
 ## Usability and data-quality issues identified
 
-### As-Is: current screen and its problems
+### Current screen and its problems
 
 ![The current "Create NTDD Batch" BS Select screen](/breast-screening-select/2026/10/BSS-NTDD-original.png)
 
@@ -41,7 +41,7 @@ This has been hard-defaulted to "Both" since 2018 — BSOs can no longer split b
 > [!IMPORTANT] Underlying Pattern
 > Across all the above issues, the common thread is **the form asks the user to do work the system should be doing</b> (working out age ranges by hand, and figuring out which controls no longer matter)** and fails to enforce the constraints that actually matter</b> (age band, date horizon). This is a validation-and-defaults problem more than a layout problem — the visual structure of the form is reasonably clear; it's the business logic behind it that's under-specified.
 
-## Proposed changes:
+## Proposed changes
 The proposed redesign is expressed as seven acceptance criteria (AC1–AC7), each targeting one of the issues above:
 
 ![Changes AC1-AC7 shown on the "Create NTDD Batch" screen](/breast-screening-select/2026/10/BSS-NTDD-issues.png)
@@ -70,7 +70,7 @@ Making the prototype look exactly like BS Select would have meant rebuilding the
 Before the proposed design is built, it should be validated with BSO admins — the primary users — to confirm the simplification actually reduces error and effort in practice, rather than just in theory.
 
 ### Research goals
-The goal is to determine if the proposed design changes to the "Create NTDD Batch scree" cause BSOs usability or other issues.
+The goal is to determine if the proposed design changes to the "Create NTDD Batch screen" cause BSOs usability or other issues.
 
 Specifically:
 - do participants notice changes in the information box
