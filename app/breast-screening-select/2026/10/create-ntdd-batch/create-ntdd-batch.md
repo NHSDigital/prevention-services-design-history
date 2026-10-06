@@ -24,7 +24,7 @@ It is one of the batch-creation methods in BS Select — the others being RI/SP 
 
 ### Current screen
 
-![The current "Create NTDD Batch" BS Select screen](/breast-screening-select/2026/10/BSS-NTDD-original.png)
+![The current "Create NTDD Batch" BS Select screen](/breast-screening-select/2026/10/create-ntdd-batch/BSS-NTDD-original.png)
 
 ### NTD End Date
 Right now there's no limit on how far in the future the NTD End Date can be set. There's only a warning if it's more than 6 weeks away, but nothing stops the user going further. This means a batch could pick up women who were already screened in the last 12 months. Limiting the NTD End Date to 24 months (a parameter we can change later) would stop this from happening.
@@ -44,7 +44,7 @@ This has been hard-defaulted to "Both" since 2018 — BSOs can no longer split b
 ## Proposed changes
 The proposed redesign is expressed as 7 acceptance criteria (AC1–AC7), each targeting one of the issues above:
 
-![Changes AC1-AC7 shown on the "Create NTDD Batch" screen](/breast-screening-select/2026/10/BSS-NTDD-issues.png)
+![Changes AC1-AC7 shown on the "Create NTDD Batch" screen](/breast-screening-select/2026/10/create-ntdd-batch/BSS-NTDD-issues.png)
 
 ### Design rationale
 - **Smart defaults over manual entry:** by pre-filling the normal screening age range, BSOs won't need to check a spreadsheet every time they create a batch. The fields can still be changed by hand if a BSO genuinely needs a different age range, but for most batches, no calculation is needed at all.
@@ -53,12 +53,12 @@ The proposed redesign is expressed as 7 acceptance criteria (AC1–AC7), each ta
 
 ## What the redesigned screen looks like
 
-![Proposed "Create NTDD Batch" screen](/breast-screening-select/2026/10/BSS-NTDD-proposed-changes.png "The proposed screen is visually shorter, requires no external calculation to use correctly for the standard screening population, and prevents batches from being created with an invalid or outdated screening period.")
+![Proposed "Create NTDD Batch" screen](/breast-screening-select/2026/10/create-ntdd-batch/BSS-NTDD-proposed-changes.png "The proposed screen is visually shorter, requires no external calculation to use correctly for the standard screening population, and prevents batches from being created with an invalid or outdated screening period.")
 
 ## Prototype design
 A working prototype of the proposed screen has been built for usability testing:
 
-![Prototype Screen](/breast-screening-select/2026/10/BSS-NTDD-proto.png)
+![Prototype Screen](/breast-screening-select/2026/10/create-ntdd-batch/BSS-NTDD-proto.png)
 
 ### Why the prototype looks different from BS Select
 The prototype was built using the NHS prototype kit, which comes with its own look and feel built in. This is different from how BS Select actually looks — the fonts, spacing, colours, and the way the form fields are styled are all different from what BSOs see in the real product today.
