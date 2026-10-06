@@ -1,7 +1,7 @@
 ---
 title: Why we are considering changes to the batch creation screen
 description: The rationale behind the simpler version of the next test due date screen we are about to test
-date: 2026-10-05
+date: 2026-10-06
 tags:
   - live
   - ntdd batch
@@ -38,7 +38,7 @@ This tick box was added so that women who'd had an extra early screening round a
 ### Redundant static field: "Call or Recall"
 This has been hard-defaulted to "Both" since 2018 — BSOs can no longer split batches by call/recall status — yet it's still rendered on-screen as if it were meaningful configuration, which invites the question "should I be setting this?" when the answer is always no.
 
-> [!IMPORTANT] Underlying Pattern
+> [!IMPORTANT] Underlying pattern
 > Across all the above issues, the common thread is the form asks the user to do work the system should be doing (working out age ranges by hand, and figuring out which controls no longer matter) and fails to enforce the constraints that actually matter (age band, date horizon). This is a validation-and-defaults problem more than a layout problem — the visual structure of the form is reasonably clear; it's the business logic behind it that's under-specified.
 
 ## Proposed changes
@@ -73,6 +73,6 @@ The goal is to determine if the proposed design changes to the "Create NTDD Batc
 
 Specifically:
 - do participants notice changes in the information box
-- do the new controls for selecting age range meet BSOs’ needs
+- do the new controls for selecting age range meet BSOs needs
 - does the removal of the "Include younger women" and "Call or Recall" elements pose barriers
-- any differences between RI/SP and NTDD (including one of East of England) BSOs
+- any differences between RI/SP and NTDD BSOs
