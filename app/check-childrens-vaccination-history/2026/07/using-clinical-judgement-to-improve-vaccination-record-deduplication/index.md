@@ -4,7 +4,7 @@ description: How we plan to use clinical expertise to evaluate duplicate vaccina
 date: 2026-07-31
 ---
 
-In our alpha work on a [Check children’s vaccination history service](https://design-history.prevention-services.nhs.uk/check-childrens-vaccination-history/2026/03/what-is-check-childrens-vaccination-history/) we are learning how to collect, reconcile and display vaccination history to clinicians and parents, starting with MMR (and MMRV) vaccinations.
+In our alpha work on a [Check children’s vaccination history service](/check-childrens-vaccination-history/2026/03/what-is-check-childrens-vaccination-history/) we are learning how to collect, reconcile and display vaccination history to clinicians and parents, starting with MMR (and MMRV) vaccinations.
 
 We want to create a service that allows all providers to have access to a shared vaccination history for all children, no matter what system they are using, and for parents to have access to that same record, no matter who vaccinated their children or where.
 
