@@ -1,5 +1,5 @@
 ---
-title: Rapidly testing the HPV Self-testing kit instructions
+title: Rapidly testing the HPV self-testing kit instructions
 description: Summary of the usability testing round for the HPV Self-testing kit instructions in July 2026
 date: 2026-10-06
 tags:
@@ -35,7 +35,7 @@ In total, **79 people** took part. The sample included people who spoke English 
 
 The in-person testing took place in Sheffield, at an English learning centre. In total, we tested prototypes of the kits with 8 participants.
 
-There are 2 types of HPV Self-testing kits, Copan and Hologic. RDi, the kit provider, was able to send us 8 sealed prototypes (4 of each type) of the kits that containted the draft version of instructions. This made a huge difference as participants were able to physically interact with the kit as they would do if they had ordered a kit themselves.
+There are 2 types of HPV self-testing kits, Copan and Hologic. RDi, the kit provider, was able to send us 8 sealed prototypes (4 of each type) of the kits that contained the draft version of instructions. This made a huge difference as participants were able to physically interact with the kit as they would do if they had ordered a kit themselves.
 
 ![A prototype of an HPV self-testing kit with its draft instructions, photographed against a plain background. Left image shows the open box with instructions printed on the inside. Right image shows the prototype of the envelope in which the sample must be returned in. ](kitprototype.png "Prototype of the kit. Left image shows the open box. Right image shows the prototype of the return envelope.")
 
@@ -97,7 +97,7 @@ To improve the instructions, we:
 - improved imagery and use of colour to highlight important information and make steps easier to distinguish 
 - added clearer anatomical guidance, including labelling where the cervix is located
 - reordered steps to better reflect how people naturally use the kit 
-- moved warnings earlier in the process and adding additional warnings to prevent common mistakes, such as spilling liquid or handling the swab incorrectly 
+- moved warnings earlier in the process and added additional warnings to prevent common mistakes, such as spilling liquid or handling the swab incorrectly 
 - simplified return instructions so they consistently state that samples should be returned within 24 hours 
 - ensured supporting information and video content addressed common concerns, including insertion depth, movement during testing, and swabbing duration 
 - introduced clearer envelope labelling and an adhesive seal to make return packaging easier to identify and use 
