@@ -94,6 +94,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection('pathway-breast-screening', (collection) => {
     return collection
       .getFilteredByGlob([
+        'app/breast-screening-select/**/*.md', // BS Select
         'app/cohort-to-clinic/**/*.md', // Cohort to clinic
         'app/explore-team/**/*.md', // Explore
         'app/screening-invite/**/*.md', // Invite people
@@ -128,6 +129,7 @@ export default function (eleventyConfig) {
     'bowel-screening',
     'breast-screening-reporting',
     'breast-screening-pathway',
+    'breast-screening-select',
     'cohort-to-clinic',
     'select',
     'diabetic-eye-screening',
