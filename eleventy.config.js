@@ -140,6 +140,7 @@ export default function (eleventyConfig) {
     'screening-invite',
     'lung-health-check',
     'prostate-screening',
+    'inclusion-team',
     // Vaccination service collections
     'vaccinations',
     'book-a-vaccination',
