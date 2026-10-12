@@ -1,7 +1,7 @@
 ---
 title: A pilot to support maternity vaccination uptake
-description: As part of an early public beta, we are piloting a new area of RAVS that helps healthcare professionals manage vaccinations for pregnant patients. The aim is to make the vaccination process easier and improve vaccine uptake in pregnancy care.
-date: 2026-10-09
+description: Piloting a new area of RAVS that helps healthcare professionals manage vaccinations for pregnant patients.
+date: 2026-10-13
 tags:
   - maternity
   - vaccinations
