@@ -27,7 +27,7 @@ We've also found that each Trust has its own ways of working. Even where trusts 
 
 For this first version, we want to help staff see who has been vaccinated and who is eligible for the main vaccinations in pregnancy: RSV and pertussis.
 
-Trusts add a list of pregnant patients by uploading a CSV file that contains just two columns: ‘NHS number and ‘Due date’. The service connects to the Personal Demographics Service (PDS) API to match patient data, and the Immunisation FHIR API to check the vaccination information we currently hold about those patients.  
+Trusts add a list of pregnant patients by uploading a CSV file that contains just 2 columns: ‘NHS number and ‘Due date’. The service connects to the Personal Demographics Service (PDS) API to match patient data, and the Immunisation FHIR API to check the vaccination information we currently hold about those patients.  
 
 ![Screenshot showing the Add patients screen including important guidance about baby loss.](add-patients.jpg)
 
