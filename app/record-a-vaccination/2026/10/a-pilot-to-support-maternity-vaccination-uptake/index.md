@@ -21,7 +21,7 @@ In developing this pilot, we have spoken to people across 11 trusts to learn mor
 
 This research has shown that the process can be complex. Staff use multiple digital platforms to manually move data between systems, which makes it difficult to understand and then improve vaccine uptake. For example, when trusts send invitations to patients, they often manually add contact details to a separate messaging tool.  
 
-We've also found that each Trust has its own ways of working. Even where trusts use the same digital systems, the process of managing data and vaccinating patients can be very different. Staff adapt the systems they have to their specific settings and needs.  
+We've also found that each trust has its own ways of working. Even where trusts use the same digital systems, the process of managing data and vaccinating patients can be very different. Staff adapt the systems they have to their specific settings and needs.  
 
 ## Showing eligibility status
 
