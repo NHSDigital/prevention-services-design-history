@@ -39,15 +39,15 @@ We've placed a 'Raise an issue' link in three places within our service, allowin
 
 1. On the appointment tab of the screening appointment view.
 
-![???](issue-link-1.png)
+![Raise an issue link highlighted at the bottom of an appointment page](issue-link-1.png)
 
 2. Within the workflow sidebar of an active appointment.
 
-![???](issue-link-2.png)
+![Raise an issue link highlighted in the sidebar of an active appointment](issue-link-2.png)
 
 3. On the image reading opinion page (or outcome page if the case in arbitration).
 
-![???](issue-link-3.png)
+![Raise an issue link below the opinion options in image reading](issue-link-3.png)
 
 This replaces the 'Defer this case' feature that was on our image reading prototype (read our [Deferring a case from reading](/06/deferring-a-case/) design history). Raising an issue follows much of the same workflow, but now applies across an episode rather than just at the case level.
 
@@ -57,35 +57,35 @@ Regardless of when this link is clicked, the same form will appear asking the us
 
 In future we may look at adding an option to categorise the problem (especially if we want to use this same functionality for 'incidents' as well as 'issues') but the first version is just a simple free text box.
 
-![???](issue-modal.png)
+![A modal with a free text box where users can describe the issue they have encountered](issue-modal.png)
 
 We're conscious that when issues occur, it's rarely in isolation. For example, if a user is seeing the wrong participant's images because they have been taken using the wrong participant ID, there will probably be an associated episode with a similar problem that also needs to be fixed. We have plans for a future iteration where users can attach episodes for multiple participants to an issue and resolve them with a single action.
 
 There is a slight variation if an issue is raised during an appointment, with the text explaining that the appointment can still be concluded. The issues will likely be things that need to be subsequently fixed by an administrator, so we still need to allow the mammographer to go through the appointment workflow steps as normal.
 
-![???](issue-modal-appointment.png)
+![A free text to explain an issue but with different intro text](issue-modal-appointment.png)
 
 ### Showing open issues
 
 The Rubie navigation bar is a work in progress while we work out how the end-to-end service fits together. We've added a 'Review' link that uses a [badge component](https://design-system.nhsapp.service.nhs.uk/components/badge/) to show the number of active issues.
 
-![???](issue-count.png)
+![The Robie clinic view with a 'Review' link in teh main navigation bar accompanied by a number](issue-count.png)
 
 The link takes them to a page where issues can be viewed and resolved. Users can also take a look at any issues that have recently been resolved.
 
-![???](issues-list.png)
+![A list of active issues with details of each and a tab to see resolved issues](issues-list.png)
 
 We will also be highlighting individual issues within existing workflows, for example with a tag on an appointment within the clinic view.
 
-![???](issue-tag.png)
+![The clinic view with an appointment that has an issue raised against it](issue-tag.png)
 
 This tag would also be used in place of an opinion if an issue was raised during image reading.
 
-![???](issue-reading.png)
+![The reading opinion view with an 'Issue raised' tag instead of an opinion](issue-reading.png)
 
 When a user goes to view an appointment or case with an open issue, they would see a warning banner containing the details, who recorded it, and when.
 
-![???](issue-warning.png)
+![A yellow warning banner showing on an appointment page containing details of the isse](issue-warning.png)
 
 When an issue has already been raised, the various links update to 'Raise another issue', reminding the user that an issue already exists and deterring them from logging a duplicate problem.
 
@@ -93,17 +93,17 @@ When an issue has already been raised, the various links update to 'Raise anothe
 
 The 'View issue' links take the user to a dedicated page containing more thorough information that might be useful for the person dealing with the problem such as their NHS number or the image accession code.
 
-![???](issue-page.png)
+![A page where issue details are laid out in a table along with participant and episode info](issue-page.png)
 
 The primary action from that page is to 'Resolve issue'. Users can also cancel the issue if it was raised in error.
 
 The resolve issue workflow asks for a free-text explanation with an option to say who has checked the solution. We're yet to explore in detail which issues need verification to ensure clinical governance processes are followed. For this first version, we're allowing users to say their fix has been verified or that they have resolved things themselves.
 
-![???](resolve-issue.png)
+![A free text box asking users to explain the solution to fix an issue with radio options to choose who has veriefied it](resolve-issue.png)
 
 Once a problem has been cleared, the episode is unblocked allowing it to move to the next stage in the screening process. The issue page will be updated with details of the solution, and there will be links from the various places the appointmet or case can be accessed so users can see information about the fix.
 
-![???](resolved-issue.png)
+![The issue page updated with details of the fix](resolved-issue.png)
 
 ## Plans for the future
 
