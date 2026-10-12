@@ -33,7 +33,7 @@ Trusts add a list of pregnant patients by uploading a CSV file that contains jus
 
 Once that process is complete, the staff member who uploaded the list of patients receives an email notification.  
 
-The whole team can then see a table that for each patient that shows:
+The whole team can then see a table that shows each patient's:
 
 - name and NHS number
 - estimated due date and number of weeks pregnant
