@@ -11,7 +11,7 @@ As part of an early public beta, we are piloting a new area of RAVS that helps h
 
 This work builds on an alpha phase, which included an initial prototype and a period of research. Since then, we have been taking those learnings forward to design, build and test the service with users ahead of the pilot.
 
-[Add image here]
+![Screenshot showing the maternity landing page with links to Add patients, Patients and Patient upload history.](maternity-landing.jpg)
 
 The pilot will see maternity staff in a small group of trusts using this new area of RAVS in their day-to-day roles. We'll learn from their experience before rolling out the new functionality to other trusts across the country.  
 
@@ -29,7 +29,7 @@ For this first version, we want to help staff see who has been vaccinated and wh
 
 Trusts add a list of pregnant patients by uploading a CSV file that contains just two columns: ‘NHS number and ‘Due date’. The service connects to the Personal Demographics Service (PDS) API to match patient data, and the Immunisation FHIR API to check the vaccination information we currently hold about those patients.  
 
-[Add image here]
+![Screenshot showing the Add patients screen including important guidance about baby loss.](add-patients.jpg)
 
 Once that process is complete, the staff member who uploaded the list of patients receives an email notification.  
 
@@ -39,7 +39,7 @@ The whole team can then see a table that for each patient that shows:
 - estimated due date and number of weeks pregnant
 - eligibility status for RSV and pertussis
 
-[Add image here]
+![Screenshot showing the patient table, including name, NHS number, due date and vaccination eligibility.](patient-list.jpg)
 
 Maternity staff can then apply filters to their list of pregnant patients. For example, they can filter patients who are 28 weeks pregnant and eligible for RSV. This allows them to understand which patients are ready for each vaccination during its recommended vaccination window.  
 
