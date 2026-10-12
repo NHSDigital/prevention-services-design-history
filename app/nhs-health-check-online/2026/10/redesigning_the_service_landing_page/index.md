@@ -26,7 +26,7 @@ We incorporated several key behavioural design patterns:
 
 By shifting the approach away from simply delivering clear information to one of actively driving engagement with the content, both visually and structurally, telling a story and building anticipation, the metrics shifted dramatically. 
 
-Over the months since the launch of the new page, conversion has jumped significantly, to a 70-80% click-through rate over any two-week period, representing somewhere around a **30% increase in** conversion rate. 
+Over the months since the launch of the new page, conversion has jumped significantly, to a 70-80% click-through rate over any two-week period, representing somewhere around a **30% increase** in conversion rate. 
 
 ## Next steps
 
