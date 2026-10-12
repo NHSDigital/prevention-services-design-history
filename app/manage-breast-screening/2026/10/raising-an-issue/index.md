@@ -49,7 +49,7 @@ We've placed a 'Raise an issue' link in three places within our service, allowin
 
 ![???](issue-link-3.png)
 
-This replaces the 'Defer this case' feature that previously on our image reading prototype (read our [Deferring a case from reading](/06/deferring-a-case/) design history). Raising an issue follows much of the same workflow, but now applies across an episode rather than just at the case level.
+This replaces the 'Defer this case' feature that was on our image reading prototype (read our [Deferring a case from reading](/06/deferring-a-case/) design history). Raising an issue follows much of the same workflow, but now applies across an episode rather than just at the case level.
 
 ### Adding information about the issue
 
@@ -67,11 +67,13 @@ There is a slight variation if an issue is raised during an appointment, with th
 
 ### Showing open issues
 
-The Rubie navigation bar is a work in progress while we work out how the end-to-end service fits together. For now, we're experimenting with showing the number of active issues with a [badge component](https://design-system.nhsapp.service.nhs.uk/components/badge/) from the NHS design system.
-
-This would tell users how many open issues there are, with the link taking them to a page where they can be viewed and resolved.
+The Rubie navigation bar is a work in progress while we work out how the end-to-end service fits together. We've added a 'Review' link that uses a [badge component](https://design-system.nhsapp.service.nhs.uk/components/badge/) to show the number of active issues.
 
 ![???](issue-count.png)
+
+The link takes them to a page where issues can be viewed and resolved. Users can also take a look at any issues that have recently been resolved.
+
+![???](issues-list.png)
 
 We will also be highlighting individual issues within existing workflows, for example with a tag on an appointment within the clinic view.
 
@@ -85,17 +87,17 @@ When a user goes to view an appointment or case with an open issue, they would s
 
 ![???](issue-warning.png)
 
-When an issue has already been raised, the various links update to 'Raise another issue'. to remind the user that an issue already exists and deter them from logging a duplicate problem.
+When an issue has already been raised, the various links update to 'Raise another issue', reminding the user that an issue already exists and deterring them from logging a duplicate problem.
 
 ### Resolving issues
 
-The 'view issue' links take the user to a dedicated page containing more thorough information that might be useful for the person dealing with the problem such as their NHS number or the image accession code.
+The 'View issue' links take the user to a dedicated page containing more thorough information that might be useful for the person dealing with the problem such as their NHS number or the image accession code.
 
 ![???](issue-page.png)
 
 The primary action from that page is to 'Resolve issue'. Users can also cancel the issue if it was raised in error.
 
-The resolve issue workflow asks for a free-text explanation with an option to say who has checked the solution. We're yet to explore in detail which issues need verification to ensure clinical governance processes are followed, but for now we're allowing users to say they have resolved the problem themselves.
+The resolve issue workflow asks for a free-text explanation with an option to say who has checked the solution. We're yet to explore in detail which issues need verification to ensure clinical governance processes are followed. For this first version, we're allowing users to say their fix has been verified or that they have resolved things themselves.
 
 ![???](resolve-issue.png)
 
@@ -111,7 +113,7 @@ The full version of this feature may also include 'clinical incidents' (things t
 
 This would likely require some form of issue categorisation to be added to our workflow so each issue can be logged and triaged effectively. 
 
-As well as looking into more serios issues, we need to share this prototype with more users in administrative roles to find out about:
+As well as looking into more serious issues, we need to share this prototype with more users in administrative roles to find out about:
 
 * whether we're using the correct terminology around issues (open, resolved, etc)
 * how much detail needs to be recorded when raising an issue
@@ -119,3 +121,5 @@ As well as looking into more serios issues, we need to share this prototype with
 * the process when issues are resolved - who is informed and how does the episode get going again?
 * whether certain types of issues do not put episodes on hold (for example, when image views are labelled incorrectly, but they can still be read)
 * what reports might need to be generated in relation to outstanding and resolved issues
+
+Open issues are also going to have some implications on the [cohort to clinic](/screening-cohort-to-clinic/) side of screening. We need to work through these with colleagues in that team to ensure a seamless process throughout the service.
