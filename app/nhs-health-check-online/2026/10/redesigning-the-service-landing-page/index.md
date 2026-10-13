@@ -1,6 +1,7 @@
 ---
 title: "Redesigning the service landing page to improve conversion "
-date: 2026-10-12
+description: We redesigned the public landing page for Health Checks online to increase click-through into the service.
+date: 2026-10-13
 ---
 
 ## Context and problem
@@ -9,7 +10,7 @@ When users access an invite link to complete their NHS Health Check online from 
 
 The original version of this page relied strictly on standard components from the NHS Design System. One might characterise this as an ‘information first’ approach. The result was (naturally) largely plain text detailing what the Health Check online is, who it is for, and how it works. Although the content was refined and improved over several iterations, this remained a significant drop-out point for the service, with only around 40-50% of users continuing past this point, and the challenge was to improve on this performance. 
 
-Our hypothesis was that this approach treated the landing page more like an instruction manual rather than a motivating service gateway, creating cognitive load through the perceived volume of text but without generating early emotional engagement or perceived value.
+Our hypothesis was that this approach treated the landing page more like an instruction manual for the service, rather than an opportunity to motivate users to complete a health check. We were concerned that it might be creating avoidable cognitive load through the apparent volume of text, and without generating early emotional engagement or perceived value.
 
 ## Moving to an "engagement-first" approach
 
@@ -28,8 +29,7 @@ By shifting the approach away from simply delivering clear information to one of
 
 Over the months since the launch of the new page, conversion has jumped significantly, to a 70-80% click-through rate over any two-week period, representing somewhere around a **30% increase** in conversion rate. 
 
+![Original text-based design (left), and new design (right) using colour, photos and illustrations.](landing_pages.png "Figure 1: The leftmost screen shows the original landing page constructed using standard NHS components. The right screen shows the revised landing page, unique to Health Checks online.")
 ## Next steps
 
 Our next challenge is to find ways to understand the user journey following on from this point, where we are seeing a significant drop-out of users during the sign-in process.
-
-![Figure 1 - the original landing page (left), and the revised landing page (right)](landing_pages.png "Figure 1: The leftmost screen shows the original landing page constructed using standard NHS components. The right screen shows the revised landing page, unique to Health Checks online.")
