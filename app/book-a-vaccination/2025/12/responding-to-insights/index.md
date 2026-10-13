@@ -12,6 +12,8 @@ tags:
   - user feedback
   - content
   - iterations
+  - COVID-19 vaccine
+  - flu vaccine
 author: Jo Lumley
 ---
 

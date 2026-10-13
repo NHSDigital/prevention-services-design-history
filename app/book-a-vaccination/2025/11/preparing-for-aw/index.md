@@ -4,6 +4,8 @@ date: 2025-11-26
 tags:
   - appointments
   - continuous improvement
+  - COVID-19 vaccine
+  - flu vaccine
 author: Jo Lumley
 ---
 

@@ -2,6 +2,8 @@
 title: Mapping childhood vaccination data flows
 description: Mapping the data flows between GPs, SAIS providers and CHIS providers to understand issues and gaps affecting childhood vaccination records.
 date: 2026-04-20
+tags:
+  - MMR vaccine
 ---
 
 Our alpha work on a potential [Check children's vaccination history service](/check-childrens-vaccination-history/) is aimed at learning how to collect, reconcile and display vaccination history to clinicians and parents, starting with MMR (and MMRV) vaccinations.

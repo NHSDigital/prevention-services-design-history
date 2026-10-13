@@ -1,6 +1,8 @@
 ---
 title: Updating the consent journey for flu
 date: 2023-08-24
+tags:
+  - flu vaccine
 ---
 
 Having decided to pilot our service with Cumbria’s SAIS team in the autumn, we needed to update our designs for the flu journey (Cumbria’s team give flu vaccinations between October and December).

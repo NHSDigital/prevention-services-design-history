@@ -1,6 +1,8 @@
 ---
 title: Delegation for the 2026 to 2027 winter flu programme
 date: 2026-07-13
+tags:
+  - flu vaccine
 ---
 
 SAIS teams typically vaccinate children using the Patient Group Direction protocol (PGD).

@@ -1,6 +1,8 @@
 ---
 title: How health questions varied in the Mavis pilot
 date: 2024-09-05
+tags:
+  - HPV vaccine
 ---
 
 UKHSA has a template consent form which they recommend for use by SAIS teams to get parental consent for the HPV vaccination.

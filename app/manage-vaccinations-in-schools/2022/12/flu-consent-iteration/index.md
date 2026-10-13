@@ -21,6 +21,8 @@ screenshots:
     - Asthma steroids
     - Egg allergy
     - Anything else?
+tags:
+  - flu vaccine
 ---
 
 Following research with 4 SAIS team leads, we iterated our initial flu consent journey for parents to incorporate our findings.

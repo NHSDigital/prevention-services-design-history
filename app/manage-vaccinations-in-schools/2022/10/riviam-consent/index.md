@@ -16,4 +16,6 @@ screenshots:
     - Health questions
     - Confirmation
     - Email confirmation
+tags:
+  - flu vaccine
 ---
