@@ -4,9 +4,9 @@ date: 2024-11-26
 tags:
   - warnings
   - error messages
-  - maternity vaccinations
   - pertussis vaccine
   - RSV vaccine
+  - maternity
 ---
 
 ## Context
