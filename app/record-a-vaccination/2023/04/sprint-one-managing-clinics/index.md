@@ -4,6 +4,7 @@ date: 2023-04-17
 tags:
   - clinics
   - vaccination sessions
+  - appointments
 ---
 
 ### Designing a new service to manage clinics

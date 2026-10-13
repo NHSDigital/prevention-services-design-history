@@ -6,6 +6,7 @@ tags:
   - beta
   - prototype
   - screening
+  - appointments
 ---
 
 We’re exploring adding an appointment note feature, which highlights relevant information about a participant's screening appointment to admin staff and mammographers.

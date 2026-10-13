@@ -7,6 +7,7 @@ tags:
   - private beta
   - user research
   - screening
+  - appointments
 ---
 
 The work to rollout digital comms in breast using data from NBSS has been paused. Instead, digital comms will be rolled out along with our new Manage breast screening service. This design history documents what we have learned so far, and what we would have done next, to support the new team looking at this.

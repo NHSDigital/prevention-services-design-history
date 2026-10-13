@@ -6,6 +6,7 @@ author: Mari Wightman
 tags:
   - private beta
   - screening
+  - appointments
 ---
 
 The focus for [Team Invite](/screening-invite/) until recently was on rolling out digital communications in the routine breast screening pathway, using NHS Notify. We were in the private beta phase, working with a handful of breast screening offices (BSO) on how we could deliver invitations for the initial screening appointment. We were doing this by ingesting appointment data from National Breast Screening System (NBSS), via a MESH inbox, into the Manage Breast Screening component. However because we weren’t fully integrating with NBSS, we learnt that the level of service we could provide BSOs at this stage was limited, wouldn't fully meet their needs, and would be difficult to scale beyond a handful of BSOs.   
