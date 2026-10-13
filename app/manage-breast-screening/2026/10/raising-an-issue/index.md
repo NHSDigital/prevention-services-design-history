@@ -69,7 +69,7 @@ There is a slight variation if an issue is raised during an appointment, with th
 
 The Rubie navigation bar is a work in progress while we work out how the end-to-end service fits together. We've added a 'Review' link that uses a [badge component](https://design-system.nhsapp.service.nhs.uk/components/badge/) to show the number of active issues.
 
-![The Robie clinic view with a 'Review' link in teh main navigation bar accompanied by a number](issue-count.png)
+![The Rubie clinic view with a 'Review' link in the main navigation bar accompanied by a number](issue-count.png)
 
 The link takes them to a page where issues can be viewed and resolved. Users can also take a look at any issues that have recently been resolved.
 
