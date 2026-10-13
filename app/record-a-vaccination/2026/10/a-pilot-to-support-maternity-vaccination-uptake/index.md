@@ -41,7 +41,7 @@ The whole team can then see a table that shows each patient's:
 
 ![Screenshot showing the patient table, including name, NHS number, due date and vaccination eligibility.](patient-list.jpg)
 
-Maternity staff can then apply filters to their list of pregnant patients. For example, they can filter patients who are 28 weeks pregnant and eligible for RSV. This allows them to understand which patients are ready for each vaccination during its recommended vaccination window.  
+Maternity staff can then apply filters to their list of pregnant patients. For example, they can filter patients who are 28 weeks pregnant and eligible for RSV. This allows them to understand which patients are ready for each vaccination.  
 
 Finally, in this first version, trusts can export either a full or filtered list of patients to another CSV file. Staff can then use that list for a range of tasks, which includes sending invitations or learning about vaccination uptake.  
 
