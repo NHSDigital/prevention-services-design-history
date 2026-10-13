@@ -30,49 +30,51 @@ The tables below document:
 - who can perform which actions for each protocol
 - what information is recorded in each case.
 
-| Mavis&nbsp;role | Who the role can be assigned to |
-| :---- | :---- |
-| Nurse | Registered nurse or equivalent professional e.g. paramedic (Mavis assumes that any user logged in with a nurse role vaccinating in a PGD or VGD enabled session has signed the relevant documents for all vaccines) |
-| HCA | Healthcare Support Worker with appropriate training to administer vaccinations |
-| Prescriber | Registered prescriber such as a pharmacist, GP or prescribing nurse |
-| Admin | SAIS admin worker who isn’t trained to vaccinate |
+| Mavis&nbsp;role | Who the role can be assigned to                                                                                                                                                                                     |
+| :-------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Nurse           | Registered nurse or equivalent professional e.g. paramedic (Mavis assumes that any user logged in with a nurse role vaccinating in a PGD or VGD enabled session has signed the relevant documents for all vaccines) |
+| HCA             | Healthcare Support Worker with appropriate training to administer vaccinations                                                                                                                                      |
+| Prescriber      | Registered prescriber such as a pharmacist, GP or prescribing nurse                                                                                                                                                 |
+| Admin           | SAIS admin worker who isn’t trained to vaccinate                                                                                                                                                                    |
 
 ## 2025 to 2026
 
-| Protocol | PGD | PGD supply | PSD | National protocol |
-| :---- | :---- | :---- | :---- | :---- |
-| Vaccines | All | Nasal flu | Nasal flu[^1] | Injected flu |
-| **Action** | **Performed by** | | | |
-| Triage | Nurse | Nurse | Prescriber | Nurse |
-| Identify & pre-screen | Nurse | Nurse | HCA/Nurse[^2] | Nurse |
-| Vaccinate | Nurse | HCA | HCA/Nurse | HCA |
-| Record | Nurse | HCA | HCA/Nurse | HCA |
-| **Action** | **Recorded by** | | | |
-| Triage | User recording triage | User recording triage | User recording triage | User recording triage |
-| Identify & pre-screen | User recording vaccination | Option to select a nurse | User recording vaccination | Option to select a nurse |
-| Vaccinate | User recording vaccination | User recording vaccination | User recording vaccination | User recording vaccination |
-| Record | User recording vaccination | User recording vaccination | User recording vaccination | User recording vaccination |
+| Protocol              | PGD                        | PGD supply                 | PSD                        | National protocol          |
+| :-------------------- | :------------------------- | :------------------------- | :------------------------- | :------------------------- |
+| Vaccines              | All                        | Nasal flu                  | Nasal flu[^1]              | Injected flu               |
+| **Action**            | **Performed by**           |                            |                            |                            |
+| Triage                | Nurse                      | Nurse                      | Prescriber                 | Nurse                      |
+| Identify & pre-screen | Nurse                      | Nurse                      | HCA/Nurse[^2]              | Nurse                      |
+| Vaccinate             | Nurse                      | HCA                        | HCA/Nurse                  | HCA                        |
+| Record                | Nurse                      | HCA                        | HCA/Nurse                  | HCA                        |
+| **Action**            | **Recorded by**            |                            |                            |                            |
+| Triage                | User recording triage      | User recording triage      | User recording triage      | User recording triage      |
+| Identify & pre-screen | User recording vaccination | Option to select a nurse   | User recording vaccination | Option to select a nurse   |
+| Vaccinate             | User recording vaccination | User recording vaccination | User recording vaccination | User recording vaccination |
+| Record                | User recording vaccination | User recording vaccination | User recording vaccination | User recording vaccination |
 
 [^1]: PSD can be used for any vaccine in theory
+
 [^2]: Only if child meets PSD criteria, otherwise another protocol must be used
 
 ## 2026 to 2027
 
-| Protocol | PGD | PSD | VGD |
-| :---- | :---- | :---- | :---- |
-| Vaccines | All | Nasal flu[^3] | Nasal flu<br>Injected flu |
-| **Action** | **Performed by** | | |
-| Triage | Nurse | Prescriber | Nurse |
-| Identify & pre-screen | Nurse | HCA/Nurse[^4] | Nurse |
-| Vaccinate | Nurse | HCA/Nurse | HCA/Nurse |
-| Record | Nurse | HCA/Nurse | HCA/Nurse |
-| **Action** | **Recorded by** | | |
-| Triage | User recording triage | User recording triage | User recording triage |
+| Protocol              | PGD                        | PSD                        | VGD                                                                                          |
+| :-------------------- | :------------------------- | :------------------------- | :------------------------------------------------------------------------------------------- |
+| Vaccines              | All                        | Nasal flu[^3]              | Nasal flu<br>Injected flu                                                                    |
+| **Action**            | **Performed by**           |                            |                                                                                              |
+| Triage                | Nurse                      | Prescriber                 | Nurse                                                                                        |
+| Identify & pre-screen | Nurse                      | HCA/Nurse[^4]              | Nurse                                                                                        |
+| Vaccinate             | Nurse                      | HCA/Nurse                  | HCA/Nurse                                                                                    |
+| Record                | Nurse                      | HCA/Nurse                  | HCA/Nurse                                                                                    |
+| **Action**            | **Recorded by**            |                            |                                                                                              |
+| Triage                | User recording triage      | User recording triage      | User recording triage                                                                        |
 | Identify & pre-screen | User recording vaccination | User recording vaccination | If nurse recording, user recording vaccination<br>If HCA recording, option to select a nurse |
-| Vaccinate | User recording vaccination | User recording vaccination | If nurse recording, option to select a HCA<br>If HCA recording, user recording vaccination |
-| Record | User recording vaccination | User recording vaccination | User recording vaccination |
+| Vaccinate             | User recording vaccination | User recording vaccination | If nurse recording, option to select a HCA<br>If HCA recording, user recording vaccination   |
+| Record                | User recording vaccination | User recording vaccination | User recording vaccination                                                                   |
 
 [^3]: PSD can be used for any vaccine in theory
+
 [^4]: Only if child meets PSD criteria, otherwise another protocol must be used
 
 ## Changes needed to support the updated protocols

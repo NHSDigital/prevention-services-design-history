@@ -22,7 +22,7 @@ At busy times, such as during October 2025, we’ve had up to 20 people leaving 
 
 We wanted a snapshot of people’s experience of RAVS during a defined period of time and ideally based on a large number of responses.
 
-We also wanted to start tracking user satisfaction as one of our key performance indicators (KPIs). Our plan is to run  regular surveys at intervals of 3 or 4 months.
+We also wanted to start tracking user satisfaction as one of our key performance indicators (KPIs). Our plan is to run regular surveys at intervals of 3 or 4 months.
 
 ## What we asked in the survey
 
@@ -44,7 +44,7 @@ We sent this short email using GOV.UK Notify, the platform we use for all emails
 > We’d love to hear about your experience using Record a vaccination (RAVS) so that we can improve our service.
 >
 > Please take a minute to complete our short survey:
-[RAVS customer experience survey](#)
+> [RAVS customer experience survey](#)
 >
 > All your answers will be anonymous.
 >
@@ -59,103 +59,101 @@ Here’s a breakdown of the responses we got. Some of the questions were present
 
 ### Over the last 2 months how often have you used RAVS?
 
-| Frequency                            | Percentage of users   |
-| :----------------------------------- | --------------------: |
-| A few times a week                   | 44%                   |
-| Almost every day                     | 18%                   |
-| Once or twice                        | 15%                   |
-| Once a week                          | 13%                   |
-| Once a fortnight                     | 5%                    |
-| Not used RAVS                        | 5%                    |
+| Frequency          | Percentage of users |
+| :----------------- | ------------------: |
+| A few times a week |                 44% |
+| Almost every day   |                 18% |
+| Once or twice      |                 15% |
+| Once a week        |                 13% |
+| Once a fortnight   |                  5% |
+| Not used RAVS      |                  5% |
 
 ### How satisfied are you with RAVS overall?
 
-| Satisfaction level                   | Percentage of users   |
-| :----------------------------------- | --------------------: |
-| Very satisfied                       | 49%                   |
-| Satisfied                            | 42%                   |
-| Neither satisfied nor dissatisfied   | 6%                    |
-| Dissatisfied                         | 3%                    |
-| Very dissatisfied                    | 1%                    |
+| Satisfaction level                 | Percentage of users |
+| :--------------------------------- | ------------------: |
+| Very satisfied                     |                 49% |
+| Satisfied                          |                 42% |
+| Neither satisfied nor dissatisfied |                  6% |
+| Dissatisfied                       |                  3% |
+| Very dissatisfied                  |                  1% |
 
 ### I find RAVS easy to use
 
-| Agreement level                      | Percentage of users   |
-| :----------------------------------- | --------------------: |
-| Strongly agree                       | 54%                   |
-| Agree                                | 39%                   |
-| Neither agree nor disagree           | 4%                    |
-| Disagree                             | 2%                    |
-| Strongly disagree                    | 0%                    |
+| Agreement level            | Percentage of users |
+| :------------------------- | ------------------: |
+| Strongly agree             |                 54% |
+| Agree                      |                 39% |
+| Neither agree nor disagree |                  4% |
+| Disagree                   |                  2% |
+| Strongly disagree          |                  0% |
 
 ### I never need to go back to make changes
 
-| Agreement level                      | Percentage of users   |
-| :----------------------------------- | --------------------: |
-| Strongly agree                       | 31%                   |
-| Agree                                | 37%                   |
-| Neither agree nor disagree           | 15%                   |
-| Disagree                             | 16%                   |
-| Strongly disagree                    | 1%                    |
+| Agreement level            | Percentage of users |
+| :------------------------- | ------------------: |
+| Strongly agree             |                 31% |
+| Agree                      |                 37% |
+| Neither agree nor disagree |                 15% |
+| Disagree                   |                 16% |
+| Strongly disagree          |                  1% |
 
 ### I’m able to complete tasks efficiently in RAVS
 
-| Agreement level                      | Percentage of users   |
-| :----------------------------------- | --------------------: |
-| Strongly agree                       | 45%                   |
-| Agree                                | 44%                   |
-| Neither agree nor disagree           | 6%                    |
-| Disagree                             | 4%                    |
-| Strongly disagree                    | 1%                    |
+| Agreement level            | Percentage of users |
+| :------------------------- | ------------------: |
+| Strongly agree             |                 45% |
+| Agree                      |                 44% |
+| Neither agree nor disagree |                  6% |
+| Disagree                   |                  4% |
+| Strongly disagree          |                  1% |
 
 ### RAVS is reliable
 
-| Agreement level                      | Percentage of users   |
-| :----------------------------------- | --------------------: |
-| Strongly agree                       | 41%                   |
-| Agree                                | 46%                   |
-| Neither agree nor disagree           | 10%                   |
-| Disagree                             | 3%                    |
-| Strongly disagree                    | 0%                    |
+| Agreement level            | Percentage of users |
+| :------------------------- | ------------------: |
+| Strongly agree             |                 41% |
+| Agree                      |                 46% |
+| Neither agree nor disagree |                 10% |
+| Disagree                   |                  3% |
+| Strongly disagree          |                  0% |
 
 ### RAVS integrates well with the way we work
 
-| Agreement level                      | Percentage of users   |
-| :----------------------------------- | --------------------: |
-| Strongly agree                       | 39%                   |
-| Agree                                | 46%                   |
-| Neither agree nor disagree           | 10%                    |
-| Disagree                             | 4%                    |
-| Strongly disagree                    | 2%                    |
+| Agreement level            | Percentage of users |
+| :------------------------- | ------------------: |
+| Strongly agree             |                 39% |
+| Agree                      |                 46% |
+| Neither agree nor disagree |                 10% |
+| Disagree                   |                  4% |
+| Strongly disagree          |                  2% |
 
 ### I am a confident user of RAVS
 
-| Agreement level                      | Percentage of users   |
-| :----------------------------------- | --------------------: |
-| Strongly agree                       | 50%                   |
-| Agree                                | 43%                   |
-| Neither agree nor disagree           | 7%                    |
-| Disagree                             | 1%                    |
-| Strongly disagree                    | 0%                    |
+| Agreement level            | Percentage of users |
+| :------------------------- | ------------------: |
+| Strongly agree             |                 50% |
+| Agree                      |                 43% |
+| Neither agree nor disagree |                  7% |
+| Disagree                   |                  1% |
+| Strongly disagree          |                  0% |
 
 ### When RAVS is updated, the changes are clearly communicated
 
-| Agreement level                            | Percentage of users   |
-| :----------------------------------------- | --------------------: |
-| Strongly agree                             | 25%                   |
-| Agree                                      | 31%                   |
-| Neither agree nor disagree                 | 29%                   |
-| Disagree and strongly disagree combined    | 5%                    |
-| Not sure                                   | 10%                   |
+| Agreement level                         | Percentage of users |
+| :-------------------------------------- | ------------------: |
+| Strongly agree                          |                 25% |
+| Agree                                   |                 31% |
+| Neither agree nor disagree              |                 29% |
+| Disagree and strongly disagree combined |                  5% |
+| Not sure                                |                 10% |
 
- ### Does RAVS provide you with everything you need?
+### Does RAVS provide you with everything you need?
 
-
-| Answer  | Percentage of users   |
-| :------ | --------------------: |
-| Yes     | 86%                   |
-| No      | 14%                   |
-
+| Answer | Percentage of users |
+| :----- | ------------------: |
+| Yes    |                 86% |
+| No     |                 14% |
 
 ### Please tell us how RAVS could be improved
 

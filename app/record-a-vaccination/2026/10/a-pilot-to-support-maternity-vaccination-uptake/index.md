@@ -13,25 +13,25 @@ This work builds on an alpha phase, which included an initial prototype and a pe
 
 ![Screenshot showing the maternity landing page with links to Add patients, Patients and Patient upload history.](maternity-landing.jpg)
 
-The pilot will see maternity staff in a small group of trusts using this new area of RAVS in their day-to-day roles. We'll learn from their experience before rolling out the new functionality to other trusts across the country.  
+The pilot will see maternity staff in a small group of trusts using this new area of RAVS in their day-to-day roles. We'll learn from their experience before rolling out the new functionality to other trusts across the country.
 
 ## Current challenges
 
 In developing this pilot, we have spoken to people across 11 trusts to learn more about how they currently manage and vaccinate patients who are pregnant.
 
-This research has shown that the process can be complex. Staff use multiple digital platforms to manually move data between systems, which makes it difficult to understand and then improve vaccine uptake. For example, when trusts send invitations to patients, they often manually add contact details to a separate messaging tool.  
+This research has shown that the process can be complex. Staff use multiple digital platforms to manually move data between systems, which makes it difficult to understand and then improve vaccine uptake. For example, when trusts send invitations to patients, they often manually add contact details to a separate messaging tool.
 
-We've also found that each trust has its own ways of working. Even where trusts use the same digital systems, the process of managing data and vaccinating patients can be very different. Staff adapt the systems they have to their specific settings and needs.  
+We've also found that each trust has its own ways of working. Even where trusts use the same digital systems, the process of managing data and vaccinating patients can be very different. Staff adapt the systems they have to their specific settings and needs.
 
 ## Showing eligibility status
 
 For this first version, we want to help staff see who has been vaccinated and who is eligible for the main vaccinations in pregnancy: RSV and pertussis.
 
-Trusts add a list of pregnant patients by uploading a CSV file that contains just 2 columns: ‘NHS number and ‘Due date’. The service connects to the Personal Demographics Service (PDS) API to match patient data, and the Immunisation FHIR API to check the vaccination information we currently hold about those patients.  
+Trusts add a list of pregnant patients by uploading a CSV file that contains just 2 columns: ‘NHS number and ‘Due date’. The service connects to the Personal Demographics Service (PDS) API to match patient data, and the Immunisation FHIR API to check the vaccination information we currently hold about those patients.
 
 ![Screenshot showing the Add patients screen including important guidance about baby loss.](add-patients.jpg)
 
-Once that process is complete, the staff member who uploaded the list of patients receives an email notification.  
+Once that process is complete, the staff member who uploaded the list of patients receives an email notification.
 
 The whole team can then see a table that shows each patient's:
 
@@ -41,21 +41,21 @@ The whole team can then see a table that shows each patient's:
 
 ![Screenshot showing the patient table, including name, NHS number, due date and vaccination eligibility.](patient-list.jpg)
 
-Maternity staff can then apply filters to their list of pregnant patients. For example, they can filter patients who are 28 weeks pregnant and eligible for RSV. This allows them to understand which patients are ready for each vaccination.  
+Maternity staff can then apply filters to their list of pregnant patients. For example, they can filter patients who are 28 weeks pregnant and eligible for RSV. This allows them to understand which patients are ready for each vaccination.
 
-Finally, in this first version, trusts can export either a full or filtered list of patients to another CSV file. Staff can then use that list for a range of tasks, which includes sending invitations or learning about vaccination uptake.  
+Finally, in this first version, trusts can export either a full or filtered list of patients to another CSV file. Staff can then use that list for a range of tasks, which includes sending invitations or learning about vaccination uptake.
 
 ## Future maternity plans in RAVS
 
-Through this initial pilot, we expect to learn quickly and make improvements. We’re already working to remove some of its limitations at launch, which includes making it easier to add patients to the service.  
+Through this initial pilot, we expect to learn quickly and make improvements. We’re already working to remove some of its limitations at launch, which includes making it easier to add patients to the service.
 
-Our research sessions so far have shown that trusts would find it useful to see eligibility information about the flu vaccine, alongside pertussis and RSV. The team is already working on this.  
+Our research sessions so far have shown that trusts would find it useful to see eligibility information about the flu vaccine, alongside pertussis and RSV. The team is already working on this.
 
-We’ve also started speaking to maternity staff about sending invitations and reminders directly from RAVS.  
+We’ve also started speaking to maternity staff about sending invitations and reminders directly from RAVS.
 
-Currently, some trusts manually add contact details to yet another system before they can send invitations. Others do not have any messaging system at all and rely on their walk-in service to engage with patients.  
+Currently, some trusts manually add contact details to yet another system before they can send invitations. Others do not have any messaging system at all and rely on their walk-in service to engage with patients.
 
-It seems likely that invitations and reminders in this maternity area of RAVS will make the process of communicating with patients easier. And as a result, that could have a positive effect on vaccination uptake.  
+It seems likely that invitations and reminders in this maternity area of RAVS will make the process of communicating with patients easier. And as a result, that could have a positive effect on vaccination uptake.
 
 ## Watch the training video
 

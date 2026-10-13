@@ -13,7 +13,6 @@ author:
   - Laboni Paul
 ---
 
-
 Analysing breast screening performance has been difficult, relying on manually created, backdated data tables pulled from multiple systems that made it hard to get useful insights.
 
 This post captures key stages of the breast screening reporting team’s journey in modernising breast screening data reporting and what the team are doing next.

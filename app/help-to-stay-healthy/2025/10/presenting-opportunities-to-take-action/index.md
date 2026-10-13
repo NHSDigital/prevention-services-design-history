@@ -7,7 +7,6 @@ tags:
 - prototyping
 ---
 
-
 Hello! We’ve undergone a mild rebrand. We’re now known as the Weight Management team, still under Personalised Prevention Services.
 
 Before this we were the [Personalised Prevention Platform (PPP).](/help-to-stay-healthy/) At least for now we’ll continue to post under PPP to reflect the ambition for the project.
@@ -34,9 +33,9 @@ We’re seeing this in findings across personalised prevention services (PPS).
 
 We’re confident that any given individual can be presented with a range of options that could be well suited to them. For example:
 
-* apps people use by themselves, for example Active 10
-* in-person group programmes, for example an exercise class
-* regular community events, for example Parkrun
+- apps people use by themselves, for example Active 10
+- in-person group programmes, for example an exercise class
+- regular community events, for example Parkrun
 
 We wanted to test how we might present next steps in a clear and actionable manner.
 
@@ -48,8 +47,8 @@ There are limits to personalisation, especially in prevention. We can’t create
 
 Can we provide:
 
-* enough choice that each person finds at least one thing they want to try?
-* a small enough selection that people don't feel overwhelmed?
+- enough choice that each person finds at least one thing they want to try?
+- a small enough selection that people don't feel overwhelmed?
 
 ### 2. What’s the minimum viable information about an activity we can use?
 
@@ -59,25 +58,25 @@ We need to work out where and how we’ll get information about the services we 
 
 We’ve made some interesting experimental inroads with some help from the AI Health Coach team (thank you!), asking can algos and agents:
 
-* rapidly assemble a “starter for 10” of relevant local services based on set criteria?
-* represent a more sophisticated “automated link checker” maintenance approach to changes in information?
+- rapidly assemble a “starter for 10” of relevant local services based on set criteria?
+- represent a more sophisticated “automated link checker” maintenance approach to changes in information?
 
 Looking forwards, we need to bear in mind that other services might find the type of information we’re collating valuable too. How do we design our data for re-use as agnostically as possible?
 
 On top of this, it’s critical to acknowledge that the mechanics of some next steps could be complex, even if their central proposition is not. For example any given option could have multiple:
 
-* eligibility criteria
-* channels of delivery
-* ways to join &ndash; such as a choice of memberships
-* ways to use &ndash; such as access to different features based on membership
+- eligibility criteria
+- channels of delivery
+- ways to join &ndash; such as a choice of memberships
+- ways to use &ndash; such as access to different features based on membership
 
 It follows that rather than attempt to recreate and maintain lots of complex content, we need to be able to do “just enough”. We must start lean in terms of how much information we display, and aim to meet essential needs first.
 
 What is just enough for someone to:
 
-* understand the proposition?
-* know how to start?
-* be engaged?
+- understand the proposition?
+- know how to start?
+- be engaged?
 
 ### 3. How well does filtering work?
 
@@ -85,9 +84,9 @@ If we acknowledge personalisation can only go so far, logically we need to creat
 
 Do people understand the connection between the:
 
-* questions we’ve asked?
-* results themselves?
-* available filters in the results listing?
+- questions we’ve asked?
+- results themselves?
+- available filters in the results listing?
 
 How easy is it for the user to explore all available options?
 
@@ -113,8 +112,8 @@ For listings, we gradually moved from hard coded selections matched to participa
 
 This enabled us to:
 
-* continue to test our “local is high value” hypotheses
-* test a real dataset with real filters
+- continue to test our “local is high value” hypotheses
+- test a real dataset with real filters
 
 {% from "nhsuk/components/images/macro.njk" import image as nhsukImage %}
 {{ nhsukImage({
@@ -128,13 +127,13 @@ This enabled us to:
 
 For pages showing details, we moved from:
 
-* minimal and highly atomic content
-* zero imagery
+- minimal and highly atomic content
+- zero imagery
 
 to:
 
-* looser content retaining a strong structure
-* minimal imagery
+- looser content retaining a strong structure
+- minimal imagery
 
 {% from "nhsuk/components/images/macro.njk" import image as nhsukImage %}
 {{ nhsukImage({
@@ -199,5 +198,3 @@ What was surprising was how effective deliberately small tweaks were. The additi
 In prototype land, we continue along our user journey &ndash; checking in with people to see if any of our options are of interest to them, and introducing the basic elements to help with our “life-long dialogue”.
 
 In pilot land, we’re starting to assemble the user journey for onboarding and presenting opportunities, distilled and iterated from various prototypes.
-
-

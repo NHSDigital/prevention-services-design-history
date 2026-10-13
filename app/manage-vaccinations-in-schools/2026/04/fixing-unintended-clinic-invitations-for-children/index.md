@@ -2,6 +2,7 @@
 title: Fixing unintended clinic invitations for children in Mavis
 date: 2026-04-01
 ---
+
 ## The problem
 
 In Mavis, children "belonged" to a team's community clinic in the same way they belonged to a school: through a patient-location relationship. Once this relationship was created – for example, when a child was invited to a flu clinic – the child appeared in every future clinic session the team scheduled for any programme they were eligible for.
@@ -36,9 +37,9 @@ Mavis will not automatically add children to a clinic session when an invitation
 
 Teams can also send a consent request for a specific programme to someone who has booked into a clinic individually. This is done from the child record page.
 
-![Screenshot of the Home-educated school.](home-educated-school.png "‘Home-educated’ and ‘Unknown’ schools show the option to send clinic invitations (and download a spreadsheet for offline recording).")
+![Screenshot of the Home-educated school.](home-educated-school.png '‘Home-educated’ and ‘Unknown’ schools show the option to send clinic invitations (and download a spreadsheet for offline recording).')
 
-![Screenshot of a form that allows a SAIS admin to select which programmes they want to send clinic invitations for.](bulk-invite.png "Teams can bulk send initial clinic invitations for both home-educated children and children with an unknown school.")
+![Screenshot of a form that allows a SAIS admin to select which programmes they want to send clinic invitations for.](bulk-invite.png 'Teams can bulk send initial clinic invitations for both home-educated children and children with an unknown school.')
 
 ### Gillick competence and parental notification
 
@@ -59,4 +60,4 @@ Mavis will add the child to a clinic session for today, keeping a clear record o
 
 We will continue to improve this functionality as we work towards full clinic booking in Mavis.
 
-![Screenshot of a child’s HPV vaccination record.](child-programme-record.png "If a child hasn’t been vaccinated, you can record a new vaccination directly from their child record without needing to create a new session.")
+![Screenshot of a child’s HPV vaccination record.](child-programme-record.png 'If a child hasn’t been vaccinated, you can record a new vaccination directly from their child record without needing to create a new session.')

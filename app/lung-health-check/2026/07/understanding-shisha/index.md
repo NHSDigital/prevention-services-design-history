@@ -30,7 +30,7 @@ At the same time, shisha is often not used in a regular or routine way. People d
 
 Shisha is also often experienced in a more positive and social way. Users talked about flavour, relaxation and shared experiences with others. Because of this, it may not feel like a health risk in the same way as cigarette smoking. When people think about their health, they may not think to include shisha, which can lead to under-reporting.
 
-![Comparison of cigarette smoking and shisha smoking perceptions](shisha-perceptions.png "Participants often described shisha very differently from cigarette smoking")
+![Comparison of cigarette smoking and shisha smoking perceptions](shisha-perceptions.png 'Participants often described shisha very differently from cigarette smoking')
 
 ## Testing a new question to check users' eligibility
 
@@ -55,7 +55,7 @@ Our hope was that this design would encourage users who smoked shisha, but didn�
 
 We included "for a period of 1 year or longer" to try and clarify that users did not have to select types of tobacco that they might have only tried once.
 
-![Eligibility question listing different tobacco types including shisha](tobacco-types-question.png "Alternative eligibility question used during the research")
+![Eligibility question listing different tobacco types including shisha](tobacco-types-question.png 'Alternative eligibility question used during the research')
 
 ## Our questions don't always fit how shisha works
 
@@ -69,7 +69,7 @@ We saw a similar issue with questions about stopping smoking. For cigarette smok
 
 When questions don’t match people’s experience, they either guess, give up, or give an answer that does not reflect reality. This can lead to inaccurate data.
 
-![Question asking about stopping smoking shisha](shisha-stopping-question.png "Questions about stopping smoking were not always easy for shisha users to interpret")
+![Question asking about stopping smoking shisha](shisha-stopping-question.png 'Questions about stopping smoking were not always easy for shisha users to interpret')
 
 ## What this means for our designs
 

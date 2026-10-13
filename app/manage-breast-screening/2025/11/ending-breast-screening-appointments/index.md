@@ -12,7 +12,7 @@ tags:
   - screening
 ---
 
-We've been looking at all the reasons why a breast screening appointment might not take place or be fully completed. 
+We've been looking at all the reasons why a breast screening appointment might not take place or be fully completed.
 
 Various journeys have been added to our prototype so the appropriate information can be captured for each scenario.
 
@@ -48,12 +48,12 @@ Two [appointment statuses](/manage-breast-screening/2025/02/defining-appointment
 
 Some scenarios for why a participant's appointment cannot be started may include:
 
-* they do not want to be screened (opting out)
-* they're unavailable and need to reschedule
-* they're concerned about their breast implants
-* they fail the ID check at reception
-* the clinic can't support their needs
-* a technical issue at the clinic
+- they do not want to be screened (opting out)
+- they're unavailable and need to reschedule
+- they're concerned about their breast implants
+- they fail the ID check at reception
+- the clinic can't support their needs
+- a technical issue at the clinic
 
 For each of these, admin teams would view the appointment then select 'Cancel or reschedule appointment'.
 
@@ -77,12 +77,12 @@ The partial mammogram scenario covers any instance where at least one X-ray has 
 
 At each stage of the workflow, an 'Appointment cannot proceed' link is available. When users select this they are asked for a reason. This list is very similar to the 'Cancel appointment' options, but has been adapted to include some things that can only occur once the appointment has actually begun, such as:
 
-* they fail the ID check in the mammogram room
-* they don't understand instructions given to them
-* they need additional support that the clinic can't provide
-* they have a medical issue that prevents screening
-* they've had a total bilateral mastectomy
-* there are technical issues with equipment before any images are taken
+- they fail the ID check in the mammogram room
+- they don't understand instructions given to them
+- they need additional support that the clinic can't provide
+- they have a medical issue that prevents screening
+- they've had a total bilateral mastectomy
+- there are technical issues with equipment before any images are taken
 
 ![Screenshot of a form with reasons for stopping the appointment after it has begun and options for rescheduling](appointment-cannot-proceed.png)
 
@@ -108,24 +108,24 @@ If the participant tells the mammographer they have had a double mastectomy and 
 
 ## 3. Handling outstanding appointments after the clinic ends
 
-The only status that can be applied here is `Did not attend` (DNA). This is where the participant does not turn up for their appointment and does not make contact to actively cancel it. 
+The only status that can be applied here is `Did not attend` (DNA). This is where the participant does not turn up for their appointment and does not make contact to actively cancel it.
 
 When a breast screening clinic finishes, staff at BSOs currently run a series of end-of-clinic checks to ensure all appointments are accounted for. We've not yet designed a version of this in our service, but if any open appointments exist at the end of a clinic we will need a way to tell users about any DNA statuses they are about to create.
 
 There may be instances where participants have called to cancel but this information has yet to be entered into the system. We will be providing a way to make changes at this point before closing the clinic.
 
-## Testing each outcome 
+## Testing each outcome
 
 We're including scenarios that would trigger each of these journeys within our user testing.
 
 We're specifically looking to find out if:
 
-* we've captured all the reasons why an appointment needs to be cancelled or stopped
-* users can mark that an appointment needs to be rescheduled
-* users can opt out a participant
-* there are any other conditional end points that we've missed
+- we've captured all the reasons why an appointment needs to be cancelled or stopped
+- users can mark that an appointment needs to be rescheduled
+- users can opt out a participant
+- there are any other conditional end points that we've missed
 
-## Future plans 
+## Future plans
 
 We're starting to develop ideas for what happens to the output of this information. In future, tasks such as rescheduling or opting out could be automated, but for our pilot we need to provide clinic staff with the necessary details to enable any post-clinic actions.
 

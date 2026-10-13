@@ -13,29 +13,29 @@ opengraphImage:
   alt: Rubie (run breast screening in England) spelled out in crimson tiles against the backdrop of grey placeholder tiles
 ---
 
-Naming things is hard. And getting a group of people to agree on that name can be even more difficult. Here's the story of how we came to name the new digital breast screening service: Rubie. 
+Naming things is hard. And getting a group of people to agree on that name can be even more difficult. Here's the story of how we came to name the new digital breast screening service: Rubie.
 
 ![Rubie (run breast screening in England) spelled out in crimson tiles against the backdrop of grey placeholder tiles](rubie.png)
 
 ## First: some context
 
-The new digital breast screening service will replace several legacy systems: the main one is called NBSS (National breast screening system), there is also BSIS (Breast screening information system) and BS (Breast screening) Select. Some of these systems have been in use for decades, so people are well used to the acronyms.  
+The new digital breast screening service will replace several legacy systems: the main one is called NBSS (National breast screening system), there is also BSIS (Breast screening information system) and BS (Breast screening) Select. Some of these systems have been in use for decades, so people are well used to the acronyms.
 
 We figured that people would probably call it 'the new NBSS' and while that's... ok... we really wanted to show that the new system will do everything the existing systems do - but also more. We wanted to get across that this was something different. We wanted a name that was _appealing_.
 
-## We started at the beginning - where else? 
+## We started at the beginning - where else?
 
-As the [government guidance on naming a service](https://www.gov.uk/service-manual/design/naming-your-service) will tell you, you should start by describing what the service does. So we did.  
+As the [government guidance on naming a service](https://www.gov.uk/service-manual/design/naming-your-service) will tell you, you should start by describing what the service does. So we did.
 
-A small group of people who were good with words and ideas, all working on the service and led by [Liz Lutgendorff](https://www.linkedin.com/in/elizabethlutgendorff/), brainstormed nouns and verbs associated with breast screening.  
+A small group of people who were good with words and ideas, all working on the service and led by [Liz Lutgendorff](https://www.linkedin.com/in/elizabethlutgendorff/), brainstormed nouns and verbs associated with breast screening.
 
 We know that the service's users are professionals who will use it every day. Their needs include being able to clearly identify this new service by its name to avoid confusion with the many other services they use daily. They need to differentiate the name during any times of dual running with NBSS. The new name must reflect the increased scope and encompass all the systems that are being redeveloped.
 
-We also had some extra considerations from [Sarah Fisher](https://www.linkedin.com/in/sarah-fisher-6149b1242/) of our senior leadership team, and feedback from those who use the service. The name should describe _one_ breast screening service, national in scope and separate from the symptomatic service. It needed to avoid negative or unfortunate connotations. And it also needed to be a word or easy-to-say acronym or initialism.  
+We also had some extra considerations from [Sarah Fisher](https://www.linkedin.com/in/sarah-fisher-6149b1242/) of our senior leadership team, and feedback from those who use the service. The name should describe _one_ breast screening service, national in scope and separate from the symptomatic service. It needed to avoid negative or unfortunate connotations. And it also needed to be a word or easy-to-say acronym or initialism.
 
 ## A quick aside
 
-At the moment, we're describing one of the teams and what they're building as 'manage breast screening'. Of course, this gets shortened to 'Manage'. Immediately we're losing context and meaning when we're calling a service 'Manage'.  
+At the moment, we're describing one of the teams and what they're building as 'manage breast screening'. Of course, this gets shortened to 'Manage'. Immediately we're losing context and meaning when we're calling a service 'Manage'.
 
 Everything is about the management of something, so this just doesn't work hard enough. This is why we had the extra considerations.
 
@@ -55,7 +55,7 @@ The first group came out with some potential names:
 
 - Manage and provide breast screening (MaPS)
 
-We felt that we had some good contenders but none that immediately charmed us.  
+We felt that we had some good contenders but none that immediately charmed us.
 
 ## We got feedback... and took a break (not in that order)
 
@@ -71,7 +71,7 @@ At an all-teams day, we put the final shortlist to a vote and Rubie was a clear 
 
 ## The meaning of Rubie
 
-Rubie resonates because of what it symbolises:  
+Rubie resonates because of what it symbolises:
 
 - **hardness and durability** - rubies are one of the hardest natural materials: the aim is for the new service to be around for decades to come
 

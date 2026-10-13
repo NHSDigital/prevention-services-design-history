@@ -49,8 +49,8 @@ There was some confusion around not being able to add the same batch number and 
 
 The pharmacies started using the service during a moment of transition, when there were [2 different ways](/record-a-vaccination/2025/10/how-we-told-users-about-a-change-to-the-interface/) to record a vaccinations:
 
-* Find a patient – the old way
-* Record vaccinations – the new, [streamlined](/record-a-vaccination/2025/03/asking-fewer-better-questions/) interface
+- Find a patient – the old way
+- Record vaccinations – the new, [streamlined](/record-a-vaccination/2025/03/asking-fewer-better-questions/) interface
 
 Those that had used both generally preferred 'Record vaccinations' to 'Find a patient', saying it was ‘easier’ and ‘quicker’.
 
@@ -61,7 +61,7 @@ However, we found that some users were not aware there were 2 options and were o
 In the new 'Record vaccinations' journey, it currently takes 7 screens before you see the patient’s details and vaccination history. Users suggested this should come earlier, as they use this information to help determine eligibility.
 
 > You put all the data in… and then discover that the
-patient wasn’t actually eligible for it!
+> patient wasn’t actually eligible for it!
 
 This is something we plan to address early next year.
 
@@ -75,9 +75,9 @@ This was mentioned as a feature on some other sytems.
 
 The users suggested that it would:
 
-* save them time
-* ensure patients are eligible, before they're made to wait
-* enable fairer queuing, combining walk-ins and booked appointments
+- save them time
+- ensure patients are eligible, before they're made to wait
+- enable fairer queuing, combining walk-ins and booked appointments
 
 ## London flu confusion
 

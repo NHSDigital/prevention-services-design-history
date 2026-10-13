@@ -13,18 +13,17 @@ This is an additional service funded by the NHS London region which enables phar
 
 The groups are:
 
-* Homeless
-* Gypsy, Roma and Traveller communities
-* Sex worker
-* Learning disability
-* Mental health condition
-* In a detained estate or in contact with justice system
-* Migrant or asylum seeker
-* Victim of modern slavery
-* Drug or alcohol dependency
-* Another health exclusion group based on local need
-* Healthcare worker not covered by national criteria
-
+- Homeless
+- Gypsy, Roma and Traveller communities
+- Sex worker
+- Learning disability
+- Mental health condition
+- In a detained estate or in contact with justice system
+- Migrant or asylum seeker
+- Victim of modern slavery
+- Drug or alcohol dependency
+- Another health exclusion group based on local need
+- Healthcare worker not covered by national criteria
 
 Here’s how we added support for this in the service.
 

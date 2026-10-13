@@ -48,7 +48,8 @@ function checkH1Heading(line) {
  * @returns {{ message: string, suggestion?: string } | null}
  */
 function checkAbsoluteUrl(line) {
-  const siteUrlRe = /(https?:\/\/)?design-history\.prevention-services\.nhs\.uk\//gi
+  const siteUrlRe =
+    /(https?:\/\/)?design-history\.prevention-services\.nhs\.uk\//gi
 
   const message =
     'Use a relative URL instead of a full URL for links to other posts on the site.\n\n' +

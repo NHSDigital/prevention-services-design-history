@@ -53,8 +53,8 @@ We also want to give users a way to contact us when logged out.
 
 This might be used when:
 
-* there is an issue with their account preventing them from logging in
-* they are not yet a user of the service but want to contact us about potentially using it at their organisation
+- there is an issue with their account preventing them from logging in
+- they are not yet a user of the service but want to contact us about potentially using it at their organisation
 
 To enable this, we’ve designed a version of the same form with additional questions for the person’s name, email address and organisation (which uses an autocomplete):
 

@@ -8,6 +8,7 @@ tags:
   - live
   - breast screening
 ---
+
 ## Introduction
 
 Cohort Manager is a product designed to improve data quality in screening programmes by identifying, correcting, and managing demographic details, so the right people are selected for invitation. When records enter the screening pathway, ‘validation rules’ detect issues such as missing or incorrectly formatted information. These are flagged as data exceptions: some are resolved automatically, while others require manual intervention through the user interface (UI), where they can be “raised” with the right teams for resolution.
@@ -19,6 +20,7 @@ This addition builds on the foundations introduced in [our earlier post](/select
 ### Cohort Manager user groups
 
 Cohort Manager now serves three main user groups:
+
 - **National Service Desk (NSD)**: Pick up data exceptions and raise them with the National Back Office (NBO), Cohorting as a Service (CaaS), and Breast Screening (BS) Select teams to be resolved.
 - **BS Select Second Line Support Team**: Investigate complex participant data issues, such as possible confused or duplicate participant records. They require full historical visibility of reports and exceptions to track changes and resolve cases.
 - **Service Management Team (SMT)**: Handle customer queries from Breast Screening Offices (BSOs) and support incident investigation and reporting.
@@ -52,6 +54,7 @@ Search results appear in a table showing the most recent items first for faster 
 ## Search error scenarios
 
 When using the search feature, we considered the following common error cases:
+
 - **empty input**: the search box is left blank
 - **invalid format**: the NHS number entered does not match the required format
 
@@ -67,13 +70,14 @@ This highlights a gap: NHS should provide a dedicated design component for searc
 
 ## How it tested
 
-Prototype testing confirmed that the search met user expectations in terms of:  
+Prototype testing confirmed that the search met user expectations in terms of:
+
 - **the ability to view full details of each result**
-Testing confirmed that users could click into search results and see the complete information behind each exception or report. This was important because investigations often require more than just a summary — users need access to the full demographic details, exception history, and linked ServiceNow case IDs to understand the context and resolve issues accurately.
+  Testing confirmed that users could click into search results and see the complete information behind each exception or report. This was important because investigations often require more than just a summary — users need access to the full demographic details, exception history, and linked ServiceNow case IDs to understand the context and resolve issues accurately.
 - **clarity of information presented**
-The prototype was checked to ensure that the search results table displayed information in a clear, structured way. Key fields such as NHS number, demographics, exception status, and report type were easy to read and logically organised. This clarity reduced confusion, helped users quickly identify the right record, and avoided mistakes during investigations.
+  The prototype was checked to ensure that the search results table displayed information in a clear, structured way. Key fields such as NHS number, demographics, exception status, and report type were easy to read and logically organised. This clarity reduced confusion, helped users quickly identify the right record, and avoided mistakes during investigations.
 - **alignment with real-world workflows**
-The search feature was tested against actual scenarios faced by Service Management Team (SMT) and other user groups. For example, SMT users often need to trace the history of a participant’s record across multiple exceptions and reports. Testing showed that the search results supported this workflow by presenting historic data in newest‑to‑oldest order, making triage faster and investigations more consistent with how teams work in practice.
+  The search feature was tested against actual scenarios faced by Service Management Team (SMT) and other user groups. For example, SMT users often need to trace the history of a participant’s record across multiple exceptions and reports. Testing showed that the search results supported this workflow by presenting historic data in newest‑to‑oldest order, making triage faster and investigations more consistent with how teams work in practice.
 
 ## Our future expectation
 

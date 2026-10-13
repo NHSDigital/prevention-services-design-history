@@ -67,10 +67,10 @@ When assessing the impact of the pilot, we used data from NHS Notify and feedbac
 - We confirmed that digital channels enhanced accessibility of communication.
 - We learned that for a small number of participants the physical letter was the only way they wanted to be contacted.
 - We confirmed a gap in knowledge of how we can successfully reach:  
-   _ first time attendees
+  _ first time attendees
   _ those who haven’t engaged with the service in the past
   _ underserved communities  
-   _ people with access needs.  
+  _ people with access needs.  
   This will be prioritised in further research.
 
 Overall, the outcomes were promising and – even more importantly – helped us see opportunities for further improvement. We’re now taking feedback on board and preparing for the next phase of the project, an early adopter roll-out.

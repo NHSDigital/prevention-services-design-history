@@ -19,11 +19,11 @@ During summer 2025 we ran some pop-up, in-person user research sessions. We want
 
 This method enabled us to engage directly with groups who are often under-represented in research, giving them the opportunity to share feedback on the booking journey.
 
-Running research in person gives us a good perspective on how people interact with our service.  We were able to observe user behaviour in a real life setting, and get new insights.
+Running research in person gives us a good perspective on how people interact with our service. We were able to observe user behaviour in a real life setting, and get new insights.
 
 ## What we did
 
-The pop-up research was conducted over 2 days in local libraries in London and Birmingham.  We set up an NHS-branded stand, and spoke to 10 participants individually. Each session lasted around 10 to 30 minutes.
+The pop-up research was conducted over 2 days in local libraries in London and Birmingham. We set up an NHS-branded stand, and spoke to 10 participants individually. Each session lasted around 10 to 30 minutes.
 
 The pop-up approach engaged a diverse mix of participants across ages, backgrounds, and confidence levels.
 
@@ -31,7 +31,7 @@ The pop-up approach engaged a diverse mix of participants across ages, backgroun
 
 ### Key reflections
 
-Running this research in person meant that we heard from people who do not usually take part in digital research, including those less confident online.  It showed us barriers that users face that we do not usually see in remote research.
+Running this research in person meant that we heard from people who do not usually take part in digital research, including those less confident online. It showed us barriers that users face that we do not usually see in remote research.
 
 The sessions highlighted a gap between digital and non-digital users – users confident with digital tools were happy booking through NBS, while less confident users preferred to book via their GP or by going to a pharmacy.
 
@@ -43,7 +43,7 @@ The research reinforced the importance of designing for inclusion, with multiple
 
 Ease of use – Participants described the booking journey as simple and were able to move through the journey easily.
 
-Participants found several features of the booking journey reassuring and helpful, including: 
+Participants found several features of the booking journey reassuring and helpful, including:
 
 - clear details around vaccination sites – this gave them confidence that sites were suitable for their needs
 - being able to tell us about their access needs – this helped them feel reassured that their needs would be considered
@@ -63,26 +63,23 @@ Participants with lower digital confidence experienced some usability issues, in
 - mistaking tags and labels for buttons and clicking them
 - struggling to spot things like action links on certain pages
 
-
 ## What we changed
 
 We used the findings from the pop-up research to make some improvements to NBS, to try and make it easier to use for as many people as possible.
 
 ### Improving the availability display
 
-We used feedback from this research to improve the way we show daily availability.  The research showed that some people found the terms AM and PM unclear.
+We used feedback from this research to improve the way we show daily availability. The research showed that some people found the terms AM and PM unclear.
 
 ![screenshot showing before image of the choose date page, with content showing whether there is morning or afternoon availability for each day](daily-availability-view-old.png)
 
 We iterated content on this screen, to make it easier to read and understand, particularly for users with English as a second language, and users with lower digital confidence.
 
-
 ![screenshot showing after image of the choose date page, with updated content showing whether there is morning or afternoon availability for each day](daily-availability-view-new.png)
-
 
 ### Improving how we display GP practices
 
-We observed users during the pop-up research trying to click on the ‘GP practice’ tag on the site list page, expecting it to behave like a button.  We’ve also observed this during remote user research for this page.
+We observed users during the pop-up research trying to click on the ‘GP practice’ tag on the site list page, expecting it to behave like a button. We’ve also observed this during remote user research for this page.
 
 ![screenshot showing site list page, with the dark blue NHS tag to show that the site is a GP practice](site-list-gp-old.png)
 
@@ -92,4 +89,4 @@ We changed our design to use the NHS App tag, which has been modified to improve
 
 ## Next steps
 
-In further testing, the changes we made have been well understood by our users.  We released the AM/PM availability content in December 2025.  We plan to implement the GP practice tag during Spring 2026.
+In further testing, the changes we made have been well understood by our users. We released the AM/PM availability content in December 2025. We plan to implement the GP practice tag during Spring 2026.

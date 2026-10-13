@@ -57,9 +57,9 @@ We have currently chosen not to allow regional users to remove an organisationâ€
 
 This is because:
 
-* if this was done accidentally, it may prevent someone being given a vaccine or the information being shared, causing a clinical risk
-* even if an organisation is no longer commissioned to give a certain vaccine type, they may still need to retrospectively record those vaccinations
-* if the organisation closes or is no longer offering any vaccinations, they can be deactivated instead
+- if this was done accidentally, it may prevent someone being given a vaccine or the information being shared, causing a clinical risk
+- even if an organisation is no longer commissioned to give a certain vaccine type, they may still need to retrospectively record those vaccinations
+- if the organisation closes or is no longer offering any vaccinations, they can be deactivated instead
 
 We will keep this under review.
 

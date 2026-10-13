@@ -80,7 +80,6 @@ After talking through the various scenarios they come across during appointments
 
 Achieving point 2 will allow us to negate the need for workarounds, and pass the responsibility of requesting appointments to take more images to mammographers rather than radiologists or admin staff. As the ones who were there when the images were taken, they are in the best possible position to give a professional opinion on whether this is necessary.
 
-
 ## Straightforward options, separate outcomes
 
 One of our subject matter experts neatly summarised our goal when designing this part of the service:

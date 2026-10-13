@@ -22,9 +22,9 @@ We want to understand the existing data quality problems before we add more sour
 
 Our three aims are to:
 
-* Understand common problems in MMR records from CHIS and GP systems
-* Explore how to reconcile fragmented records into something coherent and reliable
-* Work out how a consolidated record can best be used by local teams and national systems.
+- Understand common problems in MMR records from CHIS and GP systems
+- Explore how to reconcile fragmented records into something coherent and reliable
+- Work out how a consolidated record can best be used by local teams and national systems.
 
 ## Our approach
 
@@ -34,9 +34,9 @@ We've started by recruiting CHIS leads to help us understand the data quality pr
 
 From there we'll:
 
-* Bring in parents and families to understand when and why accurate vaccination history matters to them, and test prototypes with realistic data.
-* Work with SAIS teams and clinicians to understand how to present vaccination history in a way that supports clinical decision-making.
-* Talk to stakeholders across the NHS landscape, including teams working on vaccination history in the NHS App, to understand where this work fits and avoid duplicating effort.
+- Bring in parents and families to understand when and why accurate vaccination history matters to them, and test prototypes with realistic data.
+- Work with SAIS teams and clinicians to understand how to present vaccination history in a way that supports clinical decision-making.
+- Talk to stakeholders across the NHS landscape, including teams working on vaccination history in the NHS App, to understand where this work fits and avoid duplicating effort.
 
 The longer-term shape is: understand individual records deeply, prototype ways to cleanse and surface them, build feedback loops, then work out how a consolidated record can be shared more widely and extended to other vaccines.
 
