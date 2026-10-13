@@ -8,6 +8,8 @@
  *   https://design-history.prevention-services.nhs.uk/ should use
  *   relative URLs instead, so that they work in previews and in case the URL
  *   changes in future.
+ * - Italics (*text* or _text_): against the NHS style guide, and the NHS
+ *   frontend does not include an italic font.
  *
  * When run directly, scans all markdown files under app/:
  *   npm run check:markdown
@@ -19,9 +21,10 @@
  */
 
 import { execSync } from 'child_process'
-import { readFileSync, readdirSync } from 'fs'
+import { existsSync, readFileSync, readdirSync } from 'fs'
 import { join } from 'path'
 import { fileURLToPath } from 'url'
+import MarkdownIt from 'markdown-it'
 
 /**
  * Checks if a line contains an H1 heading.
@@ -63,6 +66,44 @@ function checkAbsoluteUrl(line) {
     }
   }
   return null
+}
+
+const italicsMessage =
+  'Avoid italics. The [NHS content style guide](https://service-manual.nhs.uk/content/formatting#bold-italics-and-underlining) ' +
+  'says not to use them, and the NHS frontend does not include an italic font.\n\n' +
+  'Instead, consider rewording to emphasise words or phrases, for example by front-loading sentences, ' +
+  'using headings or bullets, or using words like "important". ' +
+  'You can also use bold (`**text**`), but sparingly.'
+
+const markdown = new MarkdownIt()
+
+/**
+ * Finds italic (emphasis) text by parsing the whole document, so that code
+ * blocks, inline code and multi-line emphasis are handled correctly.
+ *
+ * @param {string} text - full contents of a markdown file
+ * @returns {{ line: number, message: string }[]} one entry per line with italics
+ */
+function checkItalics(text) {
+  // Blank out frontmatter (keeping the lines) so it is not parsed as markdown
+  const source = text.replace(
+    /^---\r?\n[\s\S]*?\r?\n---[ \t]*(?=\r?\n|$)/,
+    (m) => m.replace(/[^\n]/g, '')
+  )
+
+  const lines = new Set()
+
+  for (const token of markdown.parse(source, {})) {
+    if (token.type !== 'inline' || !token.map) continue
+
+    let line = token.map[0]
+    for (const child of token.children) {
+      if (child.type === 'softbreak' || child.type === 'hardbreak') line++
+      if (child.type === 'em_open') lines.add(line + 1)
+    }
+  }
+
+  return [...lines].map((line) => ({ line, message: italicsMessage }))
 }
 
 const checks = [checkH1Heading, checkAbsoluteUrl]
@@ -107,11 +148,15 @@ export function scanAllFiles() {
   const mistakes = []
 
   for (const filePath of files) {
-    const lines = readFileSync(filePath, 'utf8').split('\n')
+    const text = readFileSync(filePath, 'utf8')
+    const lines = text.split('\n')
     for (let i = 0; i < lines.length; i++) {
       for (const result of checkLine(lines[i])) {
         mistakes.push({ path: filePath, line: i + 1, ...result })
       }
+    }
+    for (const result of checkItalics(text)) {
+      mistakes.push({ path: filePath, ...result })
     }
   }
 
@@ -132,6 +177,7 @@ export function getMistakes(baseRef) {
   }
   const diff = execSync(`git diff ${baseRef}...HEAD`, { encoding: 'utf8' })
   const mistakes = []
+  const addedLines = new Map()
   let currentFile = null
   let lineNumber = 0
 
@@ -158,6 +204,8 @@ export function getMistakes(baseRef) {
 
     if (rawLine.startsWith('+')) {
       lineNumber++
+      if (!addedLines.has(currentFile)) addedLines.set(currentFile, new Set())
+      addedLines.get(currentFile).add(lineNumber)
       const lineContent = rawLine.slice(1)
       for (const result of checkLine(lineContent)) {
         mistakes.push({ path: currentFile, line: lineNumber, ...result })
@@ -167,6 +215,15 @@ export function getMistakes(baseRef) {
       lineNumber++
     }
     // Deleted lines ('-') do not advance the new-file line number
+  }
+
+  // Italics need the whole document to be parsed, so check each changed file
+  // and keep only results on lines added in the diff
+  for (const [path, added] of addedLines) {
+    if (!existsSync(path)) continue
+    for (const result of checkItalics(readFileSync(path, 'utf8'))) {
+      if (added.has(result.line)) mistakes.push({ path, ...result })
+    }
   }
 
   return mistakes
