@@ -14,9 +14,10 @@ Test results is one of the most‑used parts of the NHS App. Recent changes to 
 
 Public confidence in how the NHS communicates results has been falling too. In 2025, fewer than half the public (43%) said the NHS is good at communicating about things like appointments and test results, down from 52% the year before.[^1]
 
-[^1]: The King’s Fund, National Voices and Healthwatch England, [*Still lost in the system: the urgent need for better NHS admin*](https://www.kingsfund.org.uk/insight-and-analysis/long-reads/still-lost-system-urgent-need-better-nhs-admin), April 2026.
+[^1]: The King’s Fund, National Voices and Healthwatch England, [_Still lost in the system: the urgent need for better NHS admin_](https://www.kingsfund.org.uk/insight-and-analysis/long-reads/still-lost-system-urgent-need-better-nhs-admin), April 2026.
 
 User needs for test results are broadly consistent:
+
 - timely access to their results, without having to chase
 - plain language they can understand
 - clear next steps – what to do, or reassurance that nothing is needed
@@ -45,11 +46,12 @@ We ran a discovery to see if there’s an opportunity to show results in a consi
 ## How users get results
 
 There are 3 main ways users get results in the NHS App:
+
 - the test results feed
 - documents
 - in‑app messages
 
-![NHS App home screen highlighting that results can appear in sections for Test results, Documents and Messages.](places-for-results.png "Results can reach users in 3 places in the NHS App – the test results feed, documents, and messages.")
+![NHS App home screen highlighting that results can appear in sections for Test results, Documents and Messages.](places-for-results.png 'Results can reach users in 3 places in the NHS App – the test results feed, documents, and messages.')
 
 Each has limitations, and they’re not mutually exclusive. For most screening results, users get both a message (in the app, by SMS, or by letter) and the same result in the test results feed.
 
@@ -68,7 +70,7 @@ Roughly speaking, this is the sequence by which results arrive in the NHS App�
 1. Identified and presented – the app works out which entries are test results and formats them for display
 1. Shown to the user – the result appears in the test results feed
 
-[^2]:EDIFACT (Electronic Data Interchange for Administration, Commerce and Transport) is an electronic messaging standard from the 1980s, originally created for exchanging business documents like invoices and orders. The NHS adopted it for pathology because it was a way to send structured data between systems long before the web existed. Results are sent as plain text with a coded structure.
+[^2]: EDIFACT (Electronic Data Interchange for Administration, Commerce and Transport) is an electronic messaging standard from the 1980s, originally created for exchanging business documents like invoices and orders. The NHS adopted it for pathology because it was a way to send structured data between systems long before the web existed. Results are sent as plain text with a coded structure.
 
 ### Documents
 
@@ -85,13 +87,14 @@ Teams can send users messages that include results. NHS Notify can send these a
 ## How the way users get results affects their experience
 
 How a result reaches someone shapes how they experience it. 3 things matter most:
+
 - the words used to convey it
 - the speed and discretion with which it arrives
 - the noise and structure it sits within
 
 ### Content design
 
-![NHS App screen titled ‘Cervical cytology screen test’ with a heading ‘Your results’ followed by 2 results. The first, ‘HPV Test’, has a laboratory comment reading ‘High risk HPV NOT detected’. The second, ‘Cervical cytology test’, has a laboratory comment reading ‘No Cytology result (HPV Primary Screening)’.](cervical-screening-results.png "An example of how cervical screening results appear for some users in the NHS App.")
+![NHS App screen titled ‘Cervical cytology screen test’ with a heading ‘Your results’ followed by 2 results. The first, ‘HPV Test’, has a laboratory comment reading ‘High risk HPV NOT detected’. The second, ‘Cervical cytology test’, has a laboratory comment reading ‘No Cytology result (HPV Primary Screening)’.](cervical-screening-results.png 'An example of how cervical screening results appear for some users in the NHS App.')
 
 The test results feed surfaces results directly from the lab. It’s possible for the lab or GP practice to add content before the result reaches the user, but in most cases users get results as they come from the lab. The results contain medical terms and are not designed to give reassurance or clarity. We have seen examples where users found the results confusing and distressing. Faced with a result they can’t understand, people turn to Google and AI tools to work out what it means.
 
@@ -126,6 +129,7 @@ The message inbox can fill with things like GP surgery satisfaction surveys, boo
 It’s possible for a user to have an inconsistent experience of 3 screening results in the NHS App within a short period.
 
 For example, a woman in her 50s could get:
+
 - cervical screening results as an in‑app message and a test results feed entry
 - breast screening results as a letter and an in‑app document
 - bowel screening results as a letter and a test results feed entry
@@ -139,6 +143,7 @@ We’ve not done primary research into the experience of getting results across 
 The discovery showed there’s an opportunity for us to improve how things work. Each set of results is its own combination of systems working together. We don’t want to improve results with a single fix for everything – that would take too long and is almost certain to fail. Instead, we’re looking to build something that improves the system as it exists now, where we can prove value quickly with a small number of services and grow the approach.
 
 In alpha we’ll answer:
+
 - can messages and test results work together consistently?
 - can we give teams more control over the result, the content that explains it, when it’s shown, and the next step offered?
 - can this work across services in Digital Prevention Services that handle results differently?

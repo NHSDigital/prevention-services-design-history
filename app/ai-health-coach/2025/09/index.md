@@ -90,13 +90,13 @@ We used the journey map, the pain points, and user needs to generate a series of
 We identified some of the capabilities or features we’d like to test and which may form a part of a health coach offering (and the pain points they addressed):
 
 - an intelligent, adaptive chatbot which provides guidance and support in real-time – asking questions, gathering insights, and building up a profile in a friendly and supportive tone.
-(Mental and emotional barriers; Lack of personalisation; Access barriers)
+  (Mental and emotional barriers; Lack of personalisation; Access barriers)
 - smart nudging through prompts or reminders to keep users from dropping out or disengaging, grounded in personalised evidence and aware of user context.
-(Difficulty navigating and poor join-up; Poor follow through and support)
+  (Difficulty navigating and poor join-up; Poor follow through and support)
 - a progress dashboard that tracks all your health behaviours in one place
-(Too much complexity; Poor follow-through and support)
+  (Too much complexity; Poor follow-through and support)
 - learning from patterns in how people use the service to make better recommendations.
-(Mental and emotional barriers; Lack of personalisation)
+  (Mental and emotional barriers; Lack of personalisation)
 
 We also proposed that Health Coach would, in the future, likely bring together data from numerous sources (and organisations) to create Healthy Lifestyle data record. We also resolved to explore the possibility of Health Coach appearing in the Better Health apps or NHS app.
 

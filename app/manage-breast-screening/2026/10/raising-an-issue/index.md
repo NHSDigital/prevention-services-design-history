@@ -29,7 +29,7 @@ When issues are identified, breast screening office (BSO) staff will usually com
 
 Once resolved, the appointment paperwork is returned to the workflow with the issue form attached as a record of what happened and what has been done.
 
-![Photo of a form used in BSOs to record wrongly labelled images](green-form.png "An example of a paper form used in a BSO for recording wrongly labelled images.")
+![Photo of a form used in BSOs to record wrongly labelled images](green-form.png 'An example of a paper form used in a BSO for recording wrongly labelled images.')
 
 ## Adding this process to Rubie
 
@@ -111,15 +111,15 @@ This is a relatively lightweight way to raise an resolve easily fixable problems
 
 The full version of this feature may also include 'clinical incidents' (things that may cause harm to a participant) which have more stringent guidelines regarding how they're handled than simple data issues.
 
-This would likely require some form of issue categorisation to be added to our workflow so each issue can be logged and triaged effectively. 
+This would likely require some form of issue categorisation to be added to our workflow so each issue can be logged and triaged effectively.
 
 As well as looking into more serious issues, we need to share this prototype with more users in administrative roles to find out about:
 
-* whether we're using the correct terminology around issues (open, resolved, etc)
-* how much detail needs to be recorded when raising an issue
-* whether we're making the option to raise an issue available in the right places
-* the process when issues are resolved - who is informed and how does the episode get going again?
-* whether certain types of issues do not put episodes on hold (for example, when image views are labelled incorrectly, but they can still be read)
-* what reports might need to be generated in relation to outstanding and resolved issues
+- whether we're using the correct terminology around issues (open, resolved, etc)
+- how much detail needs to be recorded when raising an issue
+- whether we're making the option to raise an issue available in the right places
+- the process when issues are resolved - who is informed and how does the episode get going again?
+- whether certain types of issues do not put episodes on hold (for example, when image views are labelled incorrectly, but they can still be read)
+- what reports might need to be generated in relation to outstanding and resolved issues
 
 Open issues are also going to have some implications on the [cohort to clinic](/screening-cohort-to-clinic/) side of screening. We need to work through these with colleagues in that team to ensure a seamless process throughout the service.

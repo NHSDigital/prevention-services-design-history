@@ -40,13 +40,13 @@ Baked into that solution is our riskiest assumption – and it’s a technical o
 
 In cervical screening, the test results feed surfaces results directly from the lab. It’s possible for the lab or GP practice to add content before the result reaches the user, but in most cases users get results as they come from the lab.
 
-The [Cervical Screening Management System (CSMS)](https://digital.nhs.uk/services/screening-services/cervical-screening-management-system) receives a copy of the result too, and uses NHS Notify to send a message to the user with the information they need to feel assured. 
+The [Cervical Screening Management System (CSMS)](https://digital.nhs.uk/services/screening-services/cervical-screening-management-system) receives a copy of the result too, and uses NHS Notify to send a message to the user with the information they need to feel assured.
 
-In order to give a team control over a result in the test results feed, we need to be able to identify a specific result. 
+In order to give a team control over a result in the test results feed, we need to be able to identify a specific result.
 
-![A diagram showing how we might change the presentation and content for a test result in the NHS App. If we can identify the result in the test results feed and match it to one from a prevention service, we can apply the service’s content, change the presentation of the result and release it into the app. We’ll also look at how we can co-ordinate it with the message sent to the app.](match-a-result.png "A simple diagram showing how systems fit together to deliver test results to the NHS App. If we can identify a specific test result, we might be able to change what is shown.")
+![A diagram showing how we might change the presentation and content for a test result in the NHS App. If we can identify the result in the test results feed and match it to one from a prevention service, we can apply the service’s content, change the presentation of the result and release it into the app. We’ll also look at how we can co-ordinate it with the message sent to the app.](match-a-result.png 'A simple diagram showing how systems fit together to deliver test results to the NHS App. If we can identify a specific test result, we might be able to change what is shown.')
 
-Multiple systems add data to the test results feed, each using different data formats, and there isn’t much consistency in how standards are applied. In theory this makes it hard to match a result in the feed with one held by a service. 
+Multiple systems add data to the test results feed, each using different data formats, and there isn’t much consistency in how standards are applied. In theory this makes it hard to match a result in the feed with one held by a service.
 
 But we think there’s an opportunity to help users do more with their results, so we want to find out how hard it really is.
 
@@ -72,10 +72,10 @@ A quick analysis taught us a lot about what results look like and whether we cou
 We drew a few conclusions based on the limited analysis.
 
 - We think it’s possible to enhance cervical screening test results for a large proportion of relevant users using the NHS App.
-- The number of coded results was higher than we thought, which makes it more feasible to identify and match results. 
+- The number of coded results was higher than we thought, which makes it more feasible to identify and match results.
 - ​Uncoded results need another approach, like fuzzy matching or human review. This is less reliable, introduces operational concerns, and may mean we fall back to the current experience gracefully for some users. ​
 
-This helped us learn more but it doesn’t completely de-risk the assumption. It informed our next step: a technical experiment. 
+This helped us learn more but it doesn’t completely de-risk the assumption. It informed our next step: a technical experiment.
 
 #### Limitations with the data
 
@@ -94,4 +94,5 @@ From looking at the app’s source code, we know we can change the way a result 
 This is our first experiment and we’re making a start on it with colleagues in Cervical Screening and clinical assurance. It underpins how our initial solution will work. Anything we learn will feed back into our understanding of how to solve the problem.
 
 [^1]: It’s easy to get lost with the terminology, especially as words can be used interchangeably with different meanings. We’ve grounded ourselves in Jeff Gothelf’s definition: _Hypotheses are statements that combine our assumptions about outcomes, user benefits, and features. They are structured to test whether a specific aspect of our service proposition is true._
+
 [^2]: Again, we’re using Jeff Gothelf’s definition: _Riskiest assumptions are the assumptions within your hypotheses that, if incorrect, would cause the entire idea to fail. Identifying these is crucial because they help you focus on what you need to learn first to validate or invalidate your hypothesis._

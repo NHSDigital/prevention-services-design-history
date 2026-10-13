@@ -10,20 +10,20 @@ Our team sits between prevention services and the NHS App. We want to make it e
 
 We want to add value to app users and teams within Digital Prevention Services Portfolio (DPSP). For users, by joining services up, surfacing what the NHS already knows, and giving people more ways to act. For teams, by helping them solve problems they all share. To find these opportunities, we spoke to service teams across the DPSP looking for places where:
 
-* connecting services would benefit users
-* teams were doing similar things, but in isolation
-* teams saw value but couldn’t justify the work within their immediate goals
+- connecting services would benefit users
+- teams were doing similar things, but in isolation
+- teams saw value but couldn’t justify the work within their immediate goals
 
 ## How we grouped ideas
 
 We grouped the ideas by the user experience they’d add to and the outcome they’d drive.
 
-| Theme                                                   | Outcome                                                      |
-| ------------------------------------------------------- | ------------------------------------------------------------ |
-| I see what I’ve had, what I’ve missed, and what’s next  | Increase uptake of health checks, screening, and vaccines    |
-| I find out about my risks and act on them               | More people access the right prevention services earlier     |
-| I get joined‑up care from screening to treatment        | More people are treated for illness earlier with less stress |
-| I manage my conditions and stop them getting worse      | Fewer people with long‑term conditions getting worse         |
+| Theme                                                  | Outcome                                                      |
+| ------------------------------------------------------ | ------------------------------------------------------------ |
+| I see what I’ve had, what I’ve missed, and what’s next | Increase uptake of health checks, screening, and vaccines    |
+| I find out about my risks and act on them              | More people access the right prevention services earlier     |
+| I get joined‑up care from screening to treatment       | More people are treated for illness earlier with less stress |
+| I manage my conditions and stop them getting worse     | Fewer people with long‑term conditions getting worse         |
 
 ## Ideas
 
@@ -89,8 +89,8 @@ We had a few ideas here that NHSE teams are already working on – for example, 
 
 We’re prioritising these ideas based on:
 
-* the value to users
-* the value to DPSP’s services
-* feasibility (clinical and technical)
+- the value to users
+- the value to DPSP’s services
+- feasibility (clinical and technical)
 
 Once we’ve done this, we’ll run a discovery on the highest‑priority idea to explore its viability.

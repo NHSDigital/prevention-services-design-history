@@ -24,15 +24,17 @@ Breast screening appointment planning is inherently complex. Services need to ru
 ### Creating real appointments
 
 The planning must be able to create real appointments by:
-- creating and sending fixed-time slots  
-- managing cancellations, non-attendance and rebooking  
-- ensuring communications (invitations, reminders and confirmations) happen in the right sequence  
-- accounting for individual needs such as accessibility requirements or language support  
+
+- creating and sending fixed-time slots
+- managing cancellations, non-attendance and rebooking
+- ensuring communications (invitations, reminders and confirmations) happen in the right sequence
+- accounting for individual needs such as accessibility requirements or language support
 
 This must be balanced against available capacity. Services need to:
-- understand whether they have enough appointments to meet demand  
-- optimise booking to reduce wasted slots  
-- respond quickly to disruption such as staff sickness, equipment issues or changes to mobile unit schedules  
+
+- understand whether they have enough appointments to meet demand
+- optimise booking to reduce wasted slots
+- respond quickly to disruption such as staff sickness, equipment issues or changes to mobile unit schedules
 
 ---
 
@@ -78,11 +80,11 @@ A reliable, national record of clinics and attendance supports better forecastin
 
 To keep focus and reduce risk, we are deliberately not tackling the following areas at this stage:
 
-- **Early-stage population forecasting or policy-led upstream planning:** these remain in analysis and discovery while the service specification and policy landscape evolve.  
-- **Changing the main digital communication channels:** such as invitation letters, to avoid introducing operational and clinic risk at this stage.  
-- **Changing how batches are generated:** these workflows will be revisited once the system becomes fully national.  
-- **Eliminating all local variation in BSO processes:** focus remains on supporting the core common workflow first.  
-- **Designing for all appointment types beyond mammography:** expansion may follow later, but the immediate focus is core routine screening appointments.  
+- **Early-stage population forecasting or policy-led upstream planning:** these remain in analysis and discovery while the service specification and policy landscape evolve.
+- **Changing the main digital communication channels:** such as invitation letters, to avoid introducing operational and clinic risk at this stage.
+- **Changing how batches are generated:** these workflows will be revisited once the system becomes fully national.
+- **Eliminating all local variation in BSO processes:** focus remains on supporting the core common workflow first.
+- **Designing for all appointment types beyond mammography:** expansion may follow later, but the immediate focus is core routine screening appointments.
 
 ---
 

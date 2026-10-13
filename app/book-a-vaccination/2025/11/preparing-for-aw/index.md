@@ -10,6 +10,7 @@ author: Jo Lumley
 As part of our preparation for the Autumn-winter 2025 flu and COVID campaigns, we’ve added some new features and made some improvements to the Book a vaccination journey.
 
 The improvements and changes we’ve made include:
+
 - changing from co-administration to single vaccination
 - campaign opening content
 - a link on our confirmation page, for users to return to the start of the journey
@@ -30,11 +31,11 @@ We show the switching option on the site list page. If users find co-admin offer
 
 ![Screenshot of a page showing a list of dates.  Inset text near the top shows that a co-admin appointment has been chosen, and shows a link to switch to a single vaccine appointment](date-list-switching.png)
 
-We also show the switching option on the date selection page.  This allows users to switch back to single vaccine appointments if co-admin availability is low at the site they’ve chosen.
+We also show the switching option on the date selection page. This allows users to switch back to single vaccine appointments if co-admin availability is low at the site they’ve chosen.
 
 ## Campaign opening content
 
-For the autumn-winter 2025 campaign, we opened the online booking journey on 1 September 2025.  However appointments were only available from 1 October 2025.  We wrote some content for certain screens to help users understand why they could not book a date before 1 October.
+For the autumn-winter 2025 campaign, we opened the online booking journey on 1 September 2025. However appointments were only available from 1 October 2025. We wrote some content for certain screens to help users understand why they could not book a date before 1 October.
 
 ### Start page
 
@@ -50,6 +51,6 @@ We used inset text on the date selection page.
 
 ## Return to start link
 
-We’ve previously had feedback from users that they would like to be able to make bookings for more than 1 person at a time.  We plan to implement joint bookings, but this won’t be until later in the campaign.  To help users who need to book for more than 1 person, we added a link to our confirmation page, to allow users to return to the start of the journey.
+We’ve previously had feedback from users that they would like to be able to make bookings for more than 1 person at a time. We plan to implement joint bookings, but this won’t be until later in the campaign. To help users who need to book for more than 1 person, we added a link to our confirmation page, to allow users to return to the start of the journey.
 
 ![screenshot of booking confirmation page, with action link to return users to the start of the journey, to make another booking, or manage an existing booking](confirmation-return-link.png)

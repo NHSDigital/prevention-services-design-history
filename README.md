@@ -8,9 +8,9 @@ See [the guide](https://design-history.prevention-services.nhs.uk/guide/) for de
 
 There are posts on:
 
-* [why we write design histories](https://design-history.prevention-services.nhs.uk/guide/why-we-write-design-histories/)
-* [what to include in a design history](https://design-history.prevention-services.nhs.uk/guide/what-to-include-in-a-design-history/)
-* [how to publish a design history entry](https://design-history.prevention-services.nhs.uk/guide/how-to-publish/)
+- [why we write design histories](https://design-history.prevention-services.nhs.uk/guide/why-we-write-design-histories/)
+- [what to include in a design history](https://design-history.prevention-services.nhs.uk/guide/what-to-include-in-a-design-history/)
+- [how to publish a design history entry](https://design-history.prevention-services.nhs.uk/guide/how-to-publish/)
 
 There is also a [sample post template](https://design-history.prevention-services.nhs.uk/guide/a-sample-template/) and a [guide to using Markdown](https://design-history.prevention-services.nhs.uk/guide/using-markdown/).
 

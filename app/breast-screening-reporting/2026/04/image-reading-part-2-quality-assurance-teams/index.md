@@ -19,7 +19,6 @@ Part 3 will share our thoughts on supporting image readers and Directors of Brea
 
 ## Quality Assurance and film reading
 
-
 Screening Quality Assurance Service (SQAS) teams examine the data to see how well Breast Screening Offices (BSOs) are meeting standards. There are often rational explanations for numbers looking worse than might be expected, but sometimes the numbers do indicate a problem. SQAS investigate and write a commentary to explain the situation and escalate if corrective action is needed.
 
 To do this, SQAS use the annual Film Reading Quality Assurance (FRQA) report in the Breast Screening Information System (BSIS) to assess the programme’s performance.
@@ -40,13 +39,13 @@ Highlighting numbers outside the norm would mean QA teams can direct their atten
 
 QA teams currently search through a guidance document each year to find what is relevant to interpreting the data. Bringing this guidance into the report would mean they have what they need at their fingertips.
 
-![A page of FRQA guidance explaining how Quality Assurance teams should interpret film reading performance data](FRQA-Guidance-p15.png "Guidance supporting the interpretation of data is currently held separately in a long document")
+![A page of FRQA guidance explaining how Quality Assurance teams should interpret film reading performance data](FRQA-Guidance-p15.png 'Guidance supporting the interpretation of data is currently held separately in a long document')
 
 ### Visual cues to support more fluid workflows
 
 Currently, QA teams have to drill down into each subsection of the report to find what they are looking for. Adding visual cues would help them locate the data more quickly.
 
-![The current FRQA report menu showing a list of report sections without visual indicators of what each section contains](FRQA-report-menu.png "The current menu does not indicate the contents of each report")
+![The current FRQA report menu showing a list of report sections without visual indicators of what each section contains](FRQA-report-menu.png 'The current menu does not indicate the contents of each report')
 
 ### An easy way to compare similar BSOs
 
@@ -118,7 +117,7 @@ Currently, there is no way to analyse the impact on performance of the time it t
 
 We created a storyboard to illustrate a future where we can address several of these issues.
 
-![A storyboard showing a future journey where Quality Assurance teams use visual cues, contextual guidance, highlighted exceptions, reader-level metrics and BSO comparisons to investigate performance more efficiently](QA-storyboard.png "A storyboard illustrating how we think we can support more efficient working and deeper insight")
+![A storyboard showing a future journey where Quality Assurance teams use visual cues, contextual guidance, highlighted exceptions, reader-level metrics and BSO comparisons to investigate performance more efficiently](QA-storyboard.png 'A storyboard illustrating how we think we can support more efficient working and deeper insight')
 
 - Frame 1: Instead of having to manually open every report to see what is in it, QA teams are given visual cues to indicate the contents.
 

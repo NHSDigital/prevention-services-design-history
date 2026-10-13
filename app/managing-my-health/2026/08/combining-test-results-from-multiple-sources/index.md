@@ -23,11 +23,11 @@ The short answer is yes – and we have two working prototypes to show for it.
 
 ## Why we joined the hackathon
 
-The hackathon was arranged by the NHS App’s Health Information team, bringing together multiple teams working on different parts of the app to consider the user journey holistically. 
+The hackathon was arranged by the NHS App’s Health Information team, bringing together multiple teams working on different parts of the app to consider the user journey holistically.
 
 Users currently find test results in different areas of the NHS App, depending on where the data comes from. As we [discovered](/managing-my-health/2026/07/helping-users-do-more-with-results/), this inconsistency could lower users’ confidence in a stressful moment. Organising results by source, rather than by what the user needs, makes the experience confusing and disjointed.
 
-The number of test result sources available in the NHS App is expected to grow. Without a more coherent technical approach, users may increasingly need to navigate multiple areas of the app to find related results. 
+The number of test result sources available in the NHS App is expected to grow. Without a more coherent technical approach, users may increasingly need to navigate multiple areas of the app to find related results.
 
 The hack gave us two focused days to test whether we could [do the hard work to make things simple](https://www.gov.uk/guidance/government-design-principles#do-the-hard-work-to-make-it-simple).
 
@@ -41,9 +41,9 @@ The exam question seemed simple but hid underlying complexity: **How might we he
 
 Before writing any code, the group mapped the data fields available from each source against a common set of information a user needs: test name, date, result value, reference range, unit, and so on.
 
-![A Mural canvas showing a field-by-field comparison of available data across IM1 EMIS, IM1 TPP, GP Connect, Home Test, PDM and NHS Online Results sources.](data-mapping.png "Data field mapping across sources produced during the hack. The exercise showed that despite different underlying formats, the data is similar enough in structure and meaning to be normalised into a common model.")
+![A Mural canvas showing a field-by-field comparison of available data across IM1 EMIS, IM1 TPP, GP Connect, Home Test, PDM and NHS Online Results sources.](data-mapping.png 'Data field mapping across sources produced during the hack. The exercise showed that despite different underlying formats, the data is similar enough in structure and meaning to be normalised into a common model.')
 
-The mapping showed that despite different underlying formats, the data is similar enough to be normalised into a common structure. 
+The mapping showed that despite different underlying formats, the data is similar enough to be normalised into a common structure.
 
 Next, we set out to build prototypes to try to prove it in practice.
 
@@ -53,17 +53,18 @@ We split into two sub-teams.
 
 One focused on user-centred design, building a web prototype in the NHS Prototype Kit to explore how a combined results feed might look and feel for users – including early work on categorising results by type rather than by source.
 
-![A prototype screen titled ‘Tests and results’, showing a list of results grouped by month. Each result card displays a result-type tag such as ‘Imaging’, a red dot for unread status, the test name, and the date. A filter control at the top shows ‘Showing 20 results’.](web-prototype.png "The web prototype showing a combined, filterable test results list grouped by date. Results are tagged by type rather than by data source.")
+![A prototype screen titled ‘Tests and results’, showing a list of results grouped by month. Each result card displays a result-type tag such as ‘Imaging’, a red dot for unread status, the test name, and the date. A filter control at the top shows ‘Showing 20 results’.](web-prototype.png 'The web prototype showing a combined, filterable test results list grouped by date. Results are tagged by type rather than by data source.')
 
 The other started by mapping out the existing architectural landscape: identifying where data feeds originate, what format they use, and where in the architecture combining them would be most feasible. From that, we identified the most realistic short-to-medium term opportunity and built a technical prototype around it.
 
-![Architecture diagram showing a proposed test adapter sitting between the NHS App and multiple data sources including PFS API, GPC Adapter, HomeTest Adapter and PDM Adapter. A Test Adapter BFF feeds into the NHS App. A separate box shows internal app services: Cache, Matches, Routing and Enrichment.](architecture-diagram.png "One possible architecture for a test results adapter, sketched during the hack. The diagram shows the adapter sitting between the NHS App and the various upstream data sources, with internal services handling matching, routing and enrichment.")
+![Architecture diagram showing a proposed test adapter sitting between the NHS App and multiple data sources including PFS API, GPC Adapter, HomeTest Adapter and PDM Adapter. A Test Adapter BFF feeds into the NHS App. A separate box shows internal app services: Cache, Matches, Routing and Enrichment.](architecture-diagram.png 'One possible architecture for a test results adapter, sketched during the hack. The diagram shows the adapter sitting between the NHS App and the various upstream data sources, with internal services handling matching, routing and enrichment.')
 
 ### The technical prototype
 
 To create a single, coherent feed, we built an adapter. This adapter acts as a translator, combining data from several different NHS systems into one unified list.
 
 We combined results from two main areas:
+
 1. GP records: data from a user’s general practice system (which could be one of two sources).
 2. Patient Data Manager (PDM): a source for test results not ordered by the user’s GP, like home-testing or self-reporting.
 
@@ -100,7 +101,7 @@ The adapter appends results from PDM to the GP list but doesn’t yet try to ide
 
 ### Where the adapter should live
 
-We prototyped this as a standalone service. An alternative was to integrate the logic directly into the existing NHS App PFS API. Both approaches are workable. 
+We prototyped this as a standalone service. An alternative was to integrate the logic directly into the existing NHS App PFS API. Both approaches are workable.
 
 The final choice depends on team ownership and deployment constraints, and needs input from other teams. We’re considering operating models towards the end of the alpha, so we can come back to this later.
 
@@ -110,15 +111,15 @@ Users can receive push notifications for new messages in the app, but not test r
 
 ## Key outcomes
 
-We learned a lot inside two days of focused work, and the collaborative nature of the hackathon shared those insights around the room too. 
+We learned a lot inside two days of focused work, and the collaborative nature of the hackathon shared those insights around the room too.
 
 We made real progress on one of the core hypotheses in our alpha, and now have the beginnings of a method behind it which we can iterate on. Choosing the existing NHS App PFS API as that common format, rather than pushing raw FHIR into the app, gives us a pattern that’s stable and efficient – exactly the coherent technical approach we set out to find.
 
-It was also great to learn from Health Information’s previous research about organising by type and time, not source. It lines up the design thinking from our [early sketch](/managing-my-health/2026/07/enhanced-test-results-sketch/) with how users actually think about their results, and it’s a pattern that offers up other opportunities. 
+It was also great to learn from Health Information’s previous research about organising by type and time, not source. It lines up the design thinking from our [early sketch](/managing-my-health/2026/07/enhanced-test-results-sketch/) with how users actually think about their results, and it’s a pattern that offers up other opportunities.
 
 Together these two outcomes take a chunk of risk out from the hypotheses we’ve made.
 
-Everyone reflected on how good it was to work together, in person, across teams that are usually apart. It reminded a couple of the team about how [teams across government have collaborated to improve services before](https://designnotes.blog.gov.uk/2023/12/15/working-as-a-community-to-iterate-the-task-list-pattern/). 
+Everyone reflected on how good it was to work together, in person, across teams that are usually apart. It reminded a couple of the team about how [teams across government have collaborated to improve services before](https://designnotes.blog.gov.uk/2023/12/15/working-as-a-community-to-iterate-the-task-list-pattern/).
 
 We also formed stronger relationships in those two days, which will help us collaborate on improving the NHS App for users in the near future.
 

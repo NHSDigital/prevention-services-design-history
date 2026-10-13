@@ -15,9 +15,10 @@ Duplicates are an unavoidable feature of how vaccination data flows across the N
 Without shared definitions, we risk designing and building solutions to different problems without realising it.
 
 Shared definitions give us a common language for harder problems, like:
-* how to detect duplicates
-* how to resolve them
-* who should be responsible for doing so.
+
+- how to detect duplicates
+- how to resolve them
+- who should be responsible for doing so.
 
 Those problems require research, clinical input, and design exploration. Getting the language right first makes that work possible.
 
@@ -49,7 +50,7 @@ These are less settled than the core definitions. We're including them because t
 
 **Tolerance.** The degree of uncertainty acceptable when resolving duplicates programmatically. The right level of tolerance is likely a policy question, shaped by the clinical risk of an incorrect resolution, rather than a purely technical one.
 
-## Working definitions 
+## Working definitions
 
 Not every project needs to agree on definitions. But in a domain where the data is imperfect and the decisions have clinical consequences, shared language established early makes harder conversations easier later. It reduces the risk of the team quietly solving different problems, and means disagreements surface as genuine differences of view rather than quirks of language.
 

@@ -17,11 +17,11 @@ Because we need to be able to give users the option of giving us a mobile number
 
 This created an accessibility issue. If users tried to click continue without entering any information, the service would show an error message, asking them to enter at least one method of communication.
 
-![screenshot showing a screen with four text inputs for collecting mobile number or email address](contact-details-old.png) 
+![screenshot showing a screen with four text inputs for collecting mobile number or email address](contact-details-old.png)
 
 ## What we did
 
-Because we ask users on the previous page whether they consent to receiving confirmation and reminder messages about their vaccination appointments, we require them to provide us with at least one method of communication. 
+Because we ask users on the previous page whether they consent to receiving confirmation and reminder messages about their vaccination appointments, we require them to provide us with at least one method of communication.
 
 We noticed that the pattern used in the existing contact details page did not match the guidance on the design system in the NHS digital service manual.
 
@@ -29,7 +29,7 @@ We decided to use checkboxes with a conditional reveal to help users enter their
 
 ![screenshot showing a screen with conditionally revealing checkboxes for email and mobile, and a data exclusive checkbox for users who don’t have either](contact-details-new.png)
 
-We added a screen where we allowed users to check the details they had just provided, and correct them if they had made a mistake. 
+We added a screen where we allowed users to check the details they had just provided, and correct them if they had made a mistake.
 
 ![screenshot showing a screen allowing users to check the contact information they entered](cya-contact.png)
 

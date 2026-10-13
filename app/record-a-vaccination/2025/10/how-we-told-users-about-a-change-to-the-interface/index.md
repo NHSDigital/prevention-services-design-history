@@ -68,5 +68,3 @@ After 30 November, we also will remove the ‘New’ tags from the header, and r
 
 > [!NOTE] Update
 > Removing the old interface was delayed, and took place on 27&nbsp;January&nbsp;2026.
-
-
