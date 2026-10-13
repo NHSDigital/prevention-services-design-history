@@ -34,6 +34,8 @@ She was impressed that the Rubie team travelled to meet her in person. She liked
 
 > After meeting them I said, I’m going to tell everyone that you are the people who are going to fix digital.
 
+![Programme manager Lesley Peacock in her office](lesley.jpg "Programme manager Lesley Peacock")
+
 ## How the teams are working together 
 
 The Rubie team and the breast screening office meet via video call weekly and act as one (extended) team. At the start there were formalities to get through – standard operating procedure documents to write and go aheads to get from IT. These were done together, which helped build trust.
