@@ -8,6 +8,8 @@
  *   https://design-history.prevention-services.nhs.uk/ should use
  *   relative URLs instead, so that they work in previews and in case the URL
  *   changes in future.
+ * - Italics (*text* or _text_): against the NHS style guide, and the NHS
+ *   frontend does not include an italic font.
  *
  * When run directly, scans all markdown files under app/:
  *   npm run check:markdown
@@ -64,7 +66,36 @@ function checkAbsoluteUrl(line) {
   return null
 }
 
-const checks = [checkH1Heading, checkAbsoluteUrl]
+/**
+ * Checks if a line contains italic text (*text* or _text_).
+ *
+ * @param {string} line
+ * @returns {{ message: string, suggestion?: string } | null}
+ */
+function checkItalics(line) {
+  const message =
+    'Avoid italics. The [NHS content style guide](https://service-manual.nhs.uk/content/formatting#bold-italics-and-underlining) ' +
+    'says not to use them, and the NHS frontend does not include an italic font.\n\n' +
+    'Instead, consider rewording to emphasise words or phrases, for example by front-loading sentences, ' +
+    'using headings or bullets, or using words like "important". ' +
+    'You can also use bold (`**text**`), but sparingly.'
+
+  // Ignore inline code, link/image targets and bare URLs
+  const stripped = line
+    .replace(/`[^`]*`/g, (m) => ' '.repeat(m.length))
+    .replace(/\]\([^)]*\)/g, (m) => ' '.repeat(m.length))
+    .replace(/https?:\/\/\S+/g, (m) => ' '.repeat(m.length))
+
+  const asteriskRe = /(?<![*\w\\])\*(?![\s*])[^*]*?(?<![\s*\\])\*(?![*\w])/
+  const underscoreRe = /(?<![\w\\])_(?![\s_])[^_]*?(?<![\s_\\])_(?![\w])/
+
+  if (asteriskRe.test(stripped) || underscoreRe.test(stripped)) {
+    return { message }
+  }
+  return null
+}
+
+const checks = [checkH1Heading, checkAbsoluteUrl, checkItalics]
 
 /**
  * Runs all checks against a single line and returns any mistakes found.
