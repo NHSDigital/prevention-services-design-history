@@ -139,7 +139,11 @@ export function getMistakes(baseRef) {
     // e.g. "diff --git a/app/test.md b/app/test.md"
     const diffFileMatch = rawLine.match(/^diff --git a\/.+ b\/(.+)$/)
     if (diffFileMatch) {
-      currentFile = diffFileMatch[1].endsWith('.md') ? diffFileMatch[1] : null
+      const filePath = diffFileMatch[1]
+      currentFile =
+        filePath.startsWith('app/') && filePath.endsWith('.md')
+          ? filePath
+          : null
       lineNumber = 0
       continue
     }
