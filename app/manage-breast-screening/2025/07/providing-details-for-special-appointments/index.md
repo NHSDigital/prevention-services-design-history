@@ -6,6 +6,7 @@ tags:
   - beta
   - prototype
   - screening
+  - appointments
 ---
 
 Radiographers and clinic admin staff need to know if people attending breast screening require any additional support. This is so they can arrange reasonable adjustments that will allow their mammogram to be completed successfully.

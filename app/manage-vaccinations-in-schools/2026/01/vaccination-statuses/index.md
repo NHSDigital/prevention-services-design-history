@@ -1,6 +1,12 @@
 ---
 title: How Mavis determines children’s vaccination statuses
 date: 2026-01-12
+tags:
+  - flu vaccine
+  - HPV vaccine
+  - MenACWY vaccine
+  - Td/IPV vaccine
+  - MMR vaccine
 ---
 
 [[toc]]

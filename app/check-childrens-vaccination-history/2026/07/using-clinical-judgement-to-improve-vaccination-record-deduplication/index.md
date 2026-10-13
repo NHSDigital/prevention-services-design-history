@@ -2,6 +2,8 @@
 title: Using clinical judgement to improve vaccination record deduplication
 description: How we plan to use clinical expertise to evaluate duplicate vaccination records and determine a methodology for selecting a primary record.
 date: 2026-07-31
+tags:
+  - MMR vaccine
 ---
 
 In our alpha work on a [Check children’s vaccination history service](/check-childrens-vaccination-history/2026/03/what-is-check-childrens-vaccination-history/) we are learning how to collect, reconcile and display vaccination history to clinicians and parents, starting with MMR (and MMRV) vaccinations.

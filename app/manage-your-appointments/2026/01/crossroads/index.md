@@ -7,6 +7,7 @@ opengraphImage:
   alt: The select days screen from the NHS Manage Your Appointments service
 tags:
 - availability
+- appointments
 ---
 
 Recently, we've been working on allowing people to edit more than one day at once. Sounds simple. Dear reader, prepare yourself for a shock: It isn't. In fact, it's sparked quite the debate in our team.

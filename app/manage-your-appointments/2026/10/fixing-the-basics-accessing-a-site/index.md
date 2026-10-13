@@ -12,6 +12,8 @@ tags:
 
 - appointments
 
+- guidance
+
 ---
 
 To add a site to Manage Your Appointments (MYA), users complete an onboarding form. In the form they nominate one or two lead users for the site, who then have access to it once it's created. Those lead users can then add more users if necessary.

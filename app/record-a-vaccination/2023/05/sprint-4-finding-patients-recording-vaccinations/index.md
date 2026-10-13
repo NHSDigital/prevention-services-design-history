@@ -3,6 +3,7 @@ title: "Sprint four: finding patients and recording vaccinations"
 date: 2023-05-22
 tags:
   - finding patients
+  - appointments
 ---
 
 ## Searching for patients and finding information about them and their booking

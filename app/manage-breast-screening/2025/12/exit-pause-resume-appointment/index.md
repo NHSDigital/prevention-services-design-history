@@ -10,6 +10,7 @@ tags:
   - beta
   - prototype
   - screening
+  - appointments
 ---
 
 We've added the functionality for users to exit, pause and resume a breast screening appointment.

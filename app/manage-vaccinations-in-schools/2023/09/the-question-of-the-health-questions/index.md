@@ -1,6 +1,8 @@
 ---
 title: The question of the health questions
 date: 2023-09-18
+tags:
+  - flu vaccine
 ---
 
 All our consent journeys include health questions. If a parent agrees for their child to have a vaccination in school, they answer a series of questions about the child’s health. Nurses triage the answers to these questions to make sure the child stays safe.

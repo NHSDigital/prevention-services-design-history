@@ -15,6 +15,10 @@ screenshots:
     - Consent for MMR given
     - Consent for 3-in-1 and MenACWY
     - Asking for type of relationship to child
+tags:
+  - HPV vaccine
+  - Td/IPV vaccine
+  - MenACWY vaccine
 ---
 
 There are three separate consent journeys for school-aged immunisations.

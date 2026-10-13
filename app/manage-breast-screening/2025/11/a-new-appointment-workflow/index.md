@@ -10,6 +10,7 @@ tags:
   - beta
   - prototype
   - screening
+  - appointments
 ---
 
 We’ve been working on some changes affecting navigation between stages of a screening appointment. We’ve been calling this the ‘workflow’ to distinguish it as a distinct journey for use by mammographers during the appointment - separate from viewing an appointment record.
