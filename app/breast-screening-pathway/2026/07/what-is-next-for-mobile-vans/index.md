@@ -34,7 +34,7 @@ Connectivity is influenced by many factors, including network coverage, internet
 
 Rather than thinking about designing for mobile sites and static sites separately, we should be working towards creating flexible services that can operate in a variety of environments and can remain resilient under constraints.   
 
-We think there is value in running small-scale experiments with Rubie on mobile vans as early as possible. Working with BSOs that have [different connectivity profiles](https://design-history.prevention-services.nhs.uk/breast-screening-pathway/2026/06/connectivity-fallbacks-mobile-vans/) will help us understand how the service performs under varying conditions, identify opportunities to improve performance, and explore possible fallback processes. 
+We think there is value in running small-scale experiments with Rubie on mobile vans as early as possible. Working with BSOs that have [different connectivity profiles](/breast-screening-pathway/2026/06/connectivity-fallbacks-mobile-vans/) will help us understand how the service performs under varying conditions, identify opportunities to improve performance, and explore possible fallback processes. 
 
  
 
@@ -114,7 +114,7 @@ All the experimentation in this next phase of work will help us towards deliveri
 > [!NOTE]
 > ### To read more about our research into mobile vans go to: 
 >
-> [Breast screening in mobile vans](https://design-history.prevention-services.nhs.uk/breast-screening-pathway/2026/03/breast-screening-in-mobile-vans/)
+> [Breast screening in mobile vans](/breast-screening-pathway/2026/03/breast-screening-in-mobile-vans/)
 > 
 > [Connectivity and fallbacks in mobile breast screening](/breast-screening-pathway/2026/06/connectivity-fallbacks-mobile-vans/)
 
