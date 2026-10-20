@@ -73,6 +73,8 @@ Future work should take into consideration the following recommendations.
 
 We have updated the prototype to keep the age and date of birth radio buttons. Jointly with the programme team, we will assess the impacts of the removal of the “Include younger women…” checkbox. If this is agreed, we will decide how to best communicate it to BSOs and other interested parties.
 
+![Updated prototype](updated-prototype.png 'Updated prototype summarising proposed changes')
+
 We also want to understand more about how BSOs use dates of birth and the Helper tool to build batches, and whether the service should do some of that work for them.
 
 We thought that removing a checkbox and a pair of radio buttons were small changes, but they turned out to have implications beyond what we could have imagined without speaking to BSOs.
