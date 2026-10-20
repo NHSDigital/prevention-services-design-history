@@ -60,9 +60,6 @@ The interviews showed that even small changes to batching screens on BS Select c
 
 ## What this means for Rubie
 
-Rubie will need to support BSOs in going from population estimates to batches and:
-
-- enable safety checks
-- help staff gain certainty and detect where numbers are out
+Rubie (Run breast screening in England) will need to support BSOs in going from population estimates to batches, helping staff gain certainty or detect where numbers are out and ideally, why.
 
 Rubie teams will need to decide which local variations to support and where to steer towards a simpler standardised process, which will help BSOs become more resilient in the face of staff changes.
