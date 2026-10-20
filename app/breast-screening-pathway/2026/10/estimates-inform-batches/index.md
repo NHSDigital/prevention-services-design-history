@@ -9,9 +9,7 @@ tags:
 author: Veronika Jermolina
 ---
 
-Making sure no one is missed is a key goal for every breast screening office (BSO). 
-
-In a [recent round of interviews](/breast-screening-select/2026/10/ntdd-batch-usability-findings/), we deepened our understanding of how BSOs create batches of participants who will be invited for screening. 
+Making sure no one is missed is a key goal for every breast screening office (BSO). In a [recent round of interviews](/breast-screening-select/2026/10/ntdd-batch-usability-findings/), we deepened our understanding of how BSOs create batches of participants who will be invited for screening. 
 
 ## Round plans, estimates and batches
 
