@@ -1,6 +1,6 @@
 ---
-title: How estimates inform batches
-description: What we learned about who does batching in BSOs, how they check their numbers and what this means for Rubie
+title: From estimates to batches
+description: Who does batching in BSOs, how they check their numbers and what this means for Rubie
 date: 2026-10-20
 tags:
   - batching
