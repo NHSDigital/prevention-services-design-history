@@ -1,7 +1,7 @@
 ---
 title: From estimates to batches
 description: Who does batching in BSOs, how they check their numbers and what this means for Rubie
-date: 2026-10-20
+date: 2026-10-21
 tags:
   - batching
   - forecasting
@@ -43,7 +43,7 @@ The people working together are often a manager and their deputy: for example, a
 Their goal is to check each other's work, refine estimates, move towards more precise numbers, spot outliers and make sure no one is missed.
 
 > [!NOTE]
-> “I will do the specification, then run that past the admin lead. If she is happy with what I’ve estimated against her round plan of population estimates, we know it’s right. If it’s way out, then we review”
+> "I will do the specification, then run that past the admin lead. If she is happy with what I’ve estimated against her round plan of population estimates, we know it’s right. If it’s way out, then we review"
 
 ## BSOs do it differently
 
@@ -54,12 +54,15 @@ Some BSOs use ages to set who is invited, while others use dates of birth. Some 
 > [!NOTE]
 > "It's a 3-year screening round and we split it into 3 one-year batches by month of birth: those born from January to April, May to August and September to December"
 
-## Small changes have big implications
+## What this means for Rubie
 
 The interviews showed that even small changes to batching screens on BS Select can affect policies, training and processes beyond what we had anticipated.
 
-## What this means for Rubie
+Rubie (Run breast screening in England) will need to support BSOs in going from population estimates to batches, helping staff gain certainty or detect where numbers are out and, ideally, why.
 
-Rubie (Run breast screening in England) will need to support BSOs in going from population estimates to batches, helping staff gain certainty or detect where numbers are out and ideally, why.
+Batching is currently shared between people and across systems, including spreadsheets, NBSS and BS Select. Rubie will make the experience more coherent by putting alternatives in front of BSOs and getting their feedback. 
 
-Rubie teams will need to decide which local variations to support and where to steer towards a simpler standardised process, which will help BSOs become more resilient in the face of staff changes.
+> [!NOTE]
+> "We've seen a lot of changes over the years. When we first got NBSS there was a whole department that did batching for us. They [batches] were always sent to us. We then had to learn batching. Change is scary at first but then you get used to it."
+
+Rubie teams are yet to learn which local variations to support and where to steer towards a simpler standardised process.
