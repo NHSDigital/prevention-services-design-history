@@ -47,7 +47,7 @@ Their goal is to check each other's work, refine estimates, move towards more pr
 
 ## BSOs do it differently
 
-Each BSO has its own process and way of doing things. In London, each of the 6 BSOs sends its requirements to the hub, which specifies the batches on their behalf. 
+Each BSO has its own process and way of doing things. In London, each of the 6 BSOs sends its requirements to the central admin hub, which specifies the batches on their behalf. 
 
 Some BSOs use ages to set who is invited, while others use dates of birth. Some split their population by month of birth and screen a third of their cohort once a year. 
 
