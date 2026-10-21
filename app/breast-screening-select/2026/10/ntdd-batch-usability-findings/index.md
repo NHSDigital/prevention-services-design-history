@@ -26,14 +26,14 @@ In October 2026 we tested these changes with 8 BSOs. We wanted to learn whether:
 
 We ran 30-minute remote usability testing sessions. Some staff joined alone and some with colleagues from admin, programme management and radiology.
 
-4 BSOs used NTDD and 4 used RI/SP as their main batching method. BSOs using RI/SP rarely see this screen, so most of what we learned came from NTDD BSOs.
+4 BSOs used NTDD and 4 used [RI/SP (recall interval / safety period)](/breast-screening-pathway/2025/12/understanding-batching/) as their main batching method. BSOs using RI/SP rarely see this screen, so most of what we learned came from NTDD BSOs.
 
 ## Removing the age radio buttons affects existing processes
 
 The new design removed the “Age / Date of Birth” radio buttons. This confused 2 BSOs, who told us it would mean changing how they work. They estimate batches in Excel using dates of birth.
 
 > [!NOTE]
-> "We don't screen like that. We do by date of birth"
+> "We don't screen like that. We do it by date of birth"
 
 Another BSO relied on the Helper tool to calculate the exact dates to enter:
 
