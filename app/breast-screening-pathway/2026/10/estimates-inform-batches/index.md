@@ -9,7 +9,7 @@ tags:
 author: Veronika Jermolina
 ---
 
-Making sure no one is missed is a key goal for every breast screening office (BSO). In a [recent round of interviews](/breast-screening-select/2026/10/ntdd-batch-usability-findings/), we deepened our understanding of how BSOs create batches of participants who will be invited for screening. 
+Making sure no one is missed is a key goal for every breast screening office (BSO). In a [recent round of interviews](/breast-screening-select/2026/10/ntdd-batch-usability-findings/), we deepened our understanding of how BSOs create batches of participants who will be invited for screening.
 
 ## Round plans, estimates and batches
 
@@ -17,13 +17,13 @@ BSOs [adjust and refine their plans](/breast-screening-pathway/2026/03/what-bsos
 
 - a round plan typically looks 3 years ahead 
 - estimates look 1 year ahead and are based on annual population figures
-- batches look 6 to 8 weeks ahead and set out who will be invited
+- batches look about 6 weeks ahead and set out who will be invited
 
 The round plan is adjusted based on estimates and round length. Estimates are done once a year. Batching is a more frequent activity, with BSOs telling us they specify 1 to 3 batches a week. Some BSOs create a batch for each GP practice. Others group several GP practices into a batch. One BSO that visits each location every year told us they usually include about 4.
 
 ## Comparing numbers as a safety check
 
-If the estimates match the batches within tens of people, BSOs know they are on track.
+If the number of participants in the estimate matches the number in the batch to within tens of people, BSOs know they are on track.
 
 For smaller BSOs if the numbers are out by 100 or more, they know something is off. Staff interrogate the figures and check for errors or GP practice mergers. For larger BSOs, 100 could be an acceptable difference. 
 
