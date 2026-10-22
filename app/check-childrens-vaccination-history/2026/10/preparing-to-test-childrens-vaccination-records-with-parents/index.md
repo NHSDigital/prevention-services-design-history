@@ -1,7 +1,7 @@
 ---
 title: Preparing to test children’s vaccination records with parents
 description: How we designed a simple MMR vaccination status and careful wording to show parents their children’s records, without claiming more than the record can support.
-date: 2026-09-30
+date: 2026-10-31
 author: Martin Wright
 ---
 
@@ -101,10 +101,12 @@ Vaccination records are only a record of what has happened. They don’t show wh
 
 For doses a child isn’t old enough for yet, we show when they’re usually given, based on the schedule. For example, ‘1st dose usually given at 12 months’.
 
-We show doses in a consistent shape in every situation:
+We show doses chronologically, supported by the schedule, to help parents understand the information they are seeing. 
 
-- the schedule, with records slotted in against it where they exist
-- a separate area for extra doses we can’t map to the schedule, which is a known reality of working with vaccination records
+On the page a parent will see
+
+- Doses expected according to the schedule, with records slotted in against it where they exist
+- Extra doses we can’t map to the schedule appear in chronological order alongside the scheduled doses.
 
 If a dose record is missing, we talk about the record, not the child. ‘We do not have a record of this dose’ is more specific and more honest than ‘this dose was missed’, and it better reflects the reality of vaccination record keeping. The outcome in both cases is the same: talk to a clinician and let them make a clinical judgement about the best next step for the child.
 
@@ -136,6 +138,7 @@ In testing with real records, we want to learn:
 - whether they take a proportionate next step
 - whether the design creates contact with GPs or SAIS teams that didn’t need to happen
 - whether parents read ‘May be missing a dose’ as ‘your child missed a dose’
+- does presenting a chronological view of vaccinations help parents match what they're seeing to their own memory, or their child's Red Book?
 - how parents who chose separate measles, mumps and rubella vaccines respond to being told an MMR dose may be missing
 - what information parents need in order to understand their child’s vaccination history, and what would give them confidence that the record is accurate
 
@@ -147,14 +150,11 @@ For school-age children, the next step directs parents to their GP or their SAIS
 
 This is an open question. We don’t know whether SAIS teams have capacity for these enquiries, and we suspect many parents don’t know what a SAIS is, or how to find and contact theirs.
 
-## Expanding to more programmes
+## Real world limitations
+
+This is just a thin slice test, limited to MMR records in a prototype.
 
 Clinicians and admin staff make sense of a child’s vaccination history using the whole record. They can see other vaccinations, and they can look in GP systems and CHIS records to put the history together. Our page can’t do that. For now it only sees MMR.
 
-As we add more vaccination programmes, it will see more, but it still won’t see inside GP systems or CHIS records. That’s why every warning state points parents to a clinician. The page can tell a parent that something in the record needs looking at. Only someone with the full picture can say what it means for their child.
+In a real service it could see more, but it still won’t see inside GP systems or CHIS records. That’s why every warning state points parents to a clinician. The page can tell a parent that something in the record needs looking at. Only someone with the full picture can say what it means for their child.
 
-When we add more programmes, we’ll look again at whether a child’s wider vaccination history can help us:
-
-- understand a missing MMR record: a child with all their other vaccinations is a very different signal from a child with none
-- further refine the language
-- get the parent and their child to the right outcome
