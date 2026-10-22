@@ -21,7 +21,7 @@ We had already learned a lot by testing our questions with people who smoke shis
 
 In this post, we explain why we chose co-design, how we ran the workshops, and what we learned about using co-design as a research and design method.
 
-[insert image here]
+![Seven people working in small groups around tables. Two research team members, one community leader and four participants are taking part. Some participants are drawing or writing while others discuss the activities together. Paper, pens and other workshop materials are spread across the tables.](co-design-workshop.png "Members of the research team working with participants around the tables in Croydon")
 
 ## Why we chose co-design
 
