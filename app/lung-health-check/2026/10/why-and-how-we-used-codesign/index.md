@@ -51,7 +51,7 @@ They could include:
 - social occasions
 - important life events
 
-[insert image here]
+![Hand-drawn timeline stretching from age 0 to the present. The participant started because they liked the smell of shisha, then began smoking with their father at age 18. They stopped because of coughing, started smoking a lot again while living in Iran, then stopped again after being diagnosed with asthma at around 28. After moving to the UK and their asthma improving, they started again at around 33. Since then, they have smoked shisha monthly or weekly with their partner.](timeline-task-hammersmith.png "An example from our Hammersmith workshop of one participant’s shisha history timeline")
 
 The aim was to see how people naturally remembered and described their smoking history, so we told participants not to worry about being accurate.
 
