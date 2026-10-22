@@ -63,9 +63,9 @@ We gave them blank NHS-style pages and asked:
 
 > What would you ask someone so they could tell their shisha story accurately?
 
-[insert image here]
+![A handwritten set of questions on a piece of A4 paper with an NHS England header and footer. The first question asks 'have you ever smoked shisha?' with yes and no as possible answers. The second asks 'why did you start smoking?' with the answers 'friends', 'see how it feels', 'don't want people to look down on me' and 'sign of intelligence'. The third asks 'how long did you smoke for (roughly)?' with options of 3 years, 5 years, 10 years, 6 months and 20 years. The final question asks 'how much did you smoke?' with 'too difficult to answer' written in brackets.](question-task-croydon.png "An example of some question designs that were created during the Croydon workshop")
 
-This gave participants something practical to create, rather than asking them what they thought of our ideas.
+This gave participants something practical to create, rather than asking them what they thought of our ideas. Sometimes, if participants were not confident in drawing or writing questions themselves, members of the research team helped. 
 
 The conversations that happened while people completed the activities were just as useful as what they put on paper. We took notes to record the important things people told us during these conversations.
 
