@@ -100,13 +100,13 @@ One thing we changed was our opening question.
 
 In the first workshop, we asked:
 
-> “If somebody wanted to understand your relationship with shisha, what would they need 	to know?”
+> If somebody wanted to understand your relationship with shisha, what would they need to know?
 
 This worked, but people's answers overlapped with the timeline activity that followed.
 
 For the second workshop, we made the opening broader:
 
-> “What are the first three things you think of when you hear the word shisha?”
+> What are the first three things you think of when you hear the word shisha?
 
 This gave us more insight into people's immediate associations with shisha, while leaving their personal history for the timeline activity.
 
