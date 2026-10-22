@@ -21,7 +21,7 @@ We've designed a feature in our service ([Rubie](/breast-screening-pathway/2026/
 
 Various issues (such as images with incorrect labels or mammograms being taken under the wrong participant ID) can arise at any point before appointments, during appointments, at image reading, or sometime in-between.
 
-These are mostly problems with data that can be resolved with back-end fixes, either in our service or one of the other systems used in breast screening. They're not necessarily things that would require users to [stop or pause a mammogram appointment](/2025/12/exit-pause-resume-appointment/).
+These are mostly problems with data that can be resolved with back-end fixes, either in our service or one of the other systems used in breast screening. They're not necessarily things that would require users to [stop or pause a mammogram appointment](/manage-breast-screening/2025/12/exit-pause-resume-appointment/).
 
 ## How issues are currently handled
 
@@ -49,7 +49,7 @@ We've placed a 'Raise an issue' link in three places within our service, allowin
 
 ![Raise an issue link below the opinion options in image reading](issue-link-3.png)
 
-This replaces the 'Defer this case' feature that was on our image reading prototype (read our [Deferring a case from reading](/06/deferring-a-case/) design history). Raising an issue follows much of the same workflow, but now applies across an episode rather than just at the case level.
+This replaces the 'Defer this case' feature that was on our image reading prototype (read our [Deferring a case from reading](/manage-breast-screening/2026/06/deferring-a-case/) design history). Raising an issue follows much of the same workflow, but now applies across an episode rather than just at the case level.
 
 ### Adding information about the issue
 
