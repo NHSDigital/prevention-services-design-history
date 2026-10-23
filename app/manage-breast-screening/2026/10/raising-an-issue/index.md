@@ -5,7 +5,7 @@ date: 2026-10-12
 author: Danny Chadburn
 opengraphImage:
   src: /manage-breast-screening/2026/10/raising-an-issue/issue-modal.png
-  alt: ???
+  alt: A modal with a free text box where users can describe the issue they have encountered
 tags:
   - beta
   - prototype
