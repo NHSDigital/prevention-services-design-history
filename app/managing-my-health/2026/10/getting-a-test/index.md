@@ -10,42 +10,41 @@ author:
   - Frankie Roberto
 ---
 
-In our work on [how we help people get more from their test results](/managing-my-health/2026/07/helping-users-do-more-with-results/), we've spoken to many teams who help people get tests, and [looked at how their results appear in the NHS App](/managing-my-health/2026/08/examples-of-results/). We've also spoken to people about their experience of testing.
+In our work on [how we help people get more from their test results](/managing-my-health/2026/07/helping-users-do-more-with-results/), we’ve spoken to many teams who help people get tests, and [looked at how their results appear in the NHS App](/managing-my-health/2026/08/examples-of-results/). We’ve also spoken to people about their experience of testing.
 
-We want to make sure we're thinking broadly about how this all fits together for the person getting the test. So we sketched how the whole experience could join up better in the NHS App.
-This is an early idea, not a decision. We're sharing it to start a conversation with the NHS App team and others working on testing.
+We want to make sure we’re thinking broadly about how this all fits together for the person getting the test. So we sketched how the whole experience could join up better in the NHS App.
+
+This is an early idea, not a decision. We’re sharing it to start a conversation with the NHS App teams and others working on testing.
 
 ## How people get a test today
 
 The NHS App already provides many ways for people to get a test. But they’re spread across different parts of the app and different NHS services, rather than being grouped together.
 
-Today, someone can start their journey to get a test from:
+Today, someone who needs a test might:
 
-- a message which links to a third-party service to book a test
-- using the ‘Health A to Z’ section, finding a condition in the conditions A to Z, then going to a condition page, which links to various NHS.UK finders and external services
-- using the same ‘Health A to Z’ section, but finding a test in the tests and treatments A to Z instead, then going to a test page, which links to similar finders and services
-- using ‘Find services near you’, then a service, then an NHS.UK finder (for example, for a sight test)
-- going to ‘Appointments’, then ‘Book an appointment’, then either ‘Ask about a health problem’ or ‘Check for GP appointments’ – which may let you book an appointment for a test or ask for one via triage, depending on the GP practice
+- get a message which links to a third-party service to book a test
+- go to the ‘Health A to Z’ section, find a condition in the conditions A to Z, then follow links from the condition page to various NHS.UK finders and external services
+- go to the same ‘Health A to Z’ section, but find a test in the tests and treatments A to Z instead, then follow links from the test page to similar finders and services
+- use ‘Find services near you’ to choose a service, then go to an NHS.UK finder (for example, for a sight test)
+- go to ‘Appointments’, then ‘Book an appointment’, then either ‘Ask about a health problem’ or ‘Check for GP appointments’ – which, depending on the GP practice, may let them book an appointment for a test or ask for one via triage
 
 There’s also a ‘Test results’ section, but this is for viewing results rather than getting a test. It also currently separates GP-ordered results from hospital-ordered results (for people with access to Patients Know Best).
 
-This means there’s no obvious place in the app for people who know they need a test to quickly get one. They either have to be invited by a message, navigate GP triage, or find the information within the various NHS.UK content pages via the A to Zs.
+This means there’s no obvious place in the app for people who know they need a test to quickly get one. They have to be invited by a message, navigate GP triage, or find the information within the various NHS.UK content pages via the A to Zs.
 
 ## Building on earlier ideas
 
-Another team explored renaming the 'Test results' section to 'Tests and results' and adding a new area for home-ordered tests, alongside GP-ordered and hospital-ordered results, so that it would contain:
+Another team explored renaming the ‘Test results’ section to ‘Tests and results’ and adding a new area for home-ordered tests, so that it would contain:
 
 - GP-ordered tests
 - hospital-ordered tests
 - home-ordered tests and results
 
-The third section would let people see results from home-ordered tests, and order new home test kits.
+The third area would let people see results from home-ordered tests, and order new home test kits.
 
-This would give HomeTest a clear home in the app. It also puts getting a test next to test results, where many people already look.
+This would give home-ordered test a place in the app. It also puts getting a test next to test results, where many people already look.
 
 We wanted to see if we could build on this to cover all the ways people get a test, not just home test kits.
-
-Our sketch keeps the idea of a Tests section, with a 'Get a test' button next to results.
 
 ## Organising around the user need, not the organisation
 
@@ -72,7 +71,7 @@ To explore the idea, we sketched a prototype of how a ‘Get a test’ journey m
 
 In our sketch, we started by renaming the ‘Test results’ section to just ‘Tests’.
 
-Within this section, we’ve added a ‘Get a test’ button at the top, followed by recent test results presented as a [single combined feed](/managing-my-health/2026/08/combining-test-results-from-multiple-sources/).
+Within this section, we’ve added a ‘Get a test’ button at the top, followed by recent test results presented as a single combined feed.
 
 ![2 screens from the NHS App. The first is the home page, with a ‘Tests’ link in place of ‘Test results’. The second is the Tests section, with a ‘Get a test’ button at the top, followed by a list of recent test results, a banner promoting a free hepatitis C test kit, and a link to hospital test results provided by Patients Know Best.](get-a-test.png 'The ‘Tests’ section, with a ‘Get a test’ button above recent test results.')
 
@@ -110,19 +109,17 @@ The next pages depend on the option chosen. For example, people might:
 
 ### Checking and confirming
 
-Finally, a summary page lets people check what they’ve chosen before confirming, followed by a confirmation page.
+Finally, a summary page lets people check what they’ve chosen before confirming, followed by a confirmation page. Once they close this, people return to the ‘Tests’ page, which shows the status of their upcoming test.
 
 ![3 NHS App screens. ‘Check the details’ summarises the test, how to get it (a self-test kit) and the delivery address, with a ‘Confirm and submit order’ button. ‘HIV self-test kit ordered’ says it will arrive in the post within 7 days, and that the kit will include instructions on how to take a small blood sample. The Tests section now shows the HIV self-test kit as ‘Awaiting dispatch’ above the list of test results.](check-and-confirm.png 'Checking the details, the confirmation page, and the order showing in the Tests section.')
 
 ## Starting small
 
-The important first step is creating a coherent place to start. Links and embedded journeys can come first, with more of the journey moving into the app as services are integrated.
+The important first step is creating a coherent place to start.
 
 We could start with a small number of common tests where there’s a clear user need and existing routes we can bring together. At first, some options might use existing NHS.UK finders, embedded web journeys or links to other services.
 
-Over time, we could add more tests and routes, and more of the journey could happen directly within the app. For example, people could eventually order a test kit or book an appointment directly, and then see the status of that order or appointment in the same place.
-
-The important first step is creating a coherent place to start, rather than waiting for every underlying service to be fully integrated.
+Over time, we could add more tests and routes, and more of the journey could happen directly within the app. For example, people could order a test kit or book an appointment within the app, and then see the status of that order or appointment.
 
 ## One journey, many ways in
 
@@ -134,10 +131,10 @@ Messages, invitations, campaigns and health information can continue to help peo
 
 This is related to, but not dependent on, the idea of [combining test results from multiple sources](/managing-my-health/2026/08/combining-test-results-from-multiple-sources/) – GP practices, hospitals, home test kits and other NHS data sources – into a single feed. The 2 ideas complement each other.
 
-Both ideas also follow the precedent set by the NHS App team, who did the hard work of going from 4 inboxes, separated by the source of the data, to a single combined inbox.
+Both ideas also follow the precedent set by the NHS App teams, who did the hard work of going from 4 inboxes, separated by the source of the data, to a single combined inbox.
 
 ## What happens next
 
-We're working with other teams on the whole experience of testing, from getting a test to getting the result.
+We’re working with other teams on the whole experience of testing, from getting a test to getting the result.
 
 We’re collaborating with the NHS App teams on some research to explore these ideas in more detail.
