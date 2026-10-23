@@ -8,6 +8,9 @@ tags:
   - testing
 author:
   - Frankie Roberto
+opengraphImage:
+  src: /managing-my-health/2026/10/getting-a-test/choosing-a-test.png
+  alt: NHS App screen asking ‘Which test do you need to get?’, with a list of tests including blood pressure, bowel screening, chlamydia, HIV and hepatitis C.
 ---
 
 In our work on [how we help people get more from their test results](/managing-my-health/2026/07/helping-users-do-more-with-results/), we’ve spoken to many teams who help people get tests, and [looked at how their results appear in the NHS App](/managing-my-health/2026/08/examples-of-results/). We’ve also spoken to people about their experience of testing.
