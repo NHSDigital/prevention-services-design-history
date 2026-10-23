@@ -1,7 +1,7 @@
 ---
 title: Exploring a ‘Get a test’ journey in the NHS App
 description: There are already many ways to get a test through the NHS App, but they’re organised around NHS services rather than what people need. We’re proposing a single place to start.
-date: 2026-10-19
+date: 2026-10-26
 tags:
   - information architecture
   - NHS App
