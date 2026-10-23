@@ -15,7 +15,7 @@ opengraphImage:
   alt: Members of the research team working with participants around tables during a co-design workshop
 ---
 
-As part of our work on a [digital service for lung cancer screening,](https://www.digital-prevention-services.nhs.uk/screening/lung/) we need to collect accurate information about people's smoking history. Earlier research showed that [shisha does not fit neatly into questions designed around cigarette smoking,](https://design-history.prevention-services.nhs.uk/lung-health-check/2026/07/understanding-shisha/) because people's patterns of use can be social, occasional and change significantly over time.
+As part of our work on a [digital service for lung cancer screening,](https://www.digital-prevention-services.nhs.uk/screening/lung/) we need to collect accurate information about people's smoking history. Earlier research showed that [shisha does not fit neatly into questions designed around cigarette smoking,](/lung-health-check/2026/07/understanding-shisha/) because people's patterns of use can be social, occasional and change significantly over time.
 
 We had already learned a lot by testing our questions with people who smoke shisha. But testing our existing designs meant we were still starting with our own assumptions about what we needed to ask. We decided to try co-design instead: starting with people's lived experiences and asking them to help us explore how a shisha smoking history could be described and recorded.
 
