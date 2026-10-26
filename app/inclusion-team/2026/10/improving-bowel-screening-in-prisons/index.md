@@ -12,7 +12,7 @@ author:
 ---
 
 Lou Downe famously said that 10% of service design is designing, 90% is creating conditions for the service design to happen. It’s very much true in complex and complicated organisations, such as the NHS. The projects are usually full of interdependencies, and solutions can rarely be offered in isolation. It was no different in the recent project exploring improvements for bowel screening in prisons. The work was rooted in the principle that everyone has a right to an equitable healthcare service and supported key goals of [Fit for the future: 10 Year Health Plan for England](https://www.gov.uk/government/publications/10-year-health-plan-for-england-fit-for-the-future/). 
-This is how we navigated the complexity to reach impactful outcomes. 
+This is how we navigated the complexity to reach impactful outcomes.
 
 ### Service context
 
