@@ -1,7 +1,7 @@
 ---
 title: Improving bowel screening in prisons
 description: Exploring opportunities to improve bowel screening in prisons was a complex design challenge that required collaboration across organisational boundaries. This is how we navigated it to reach impactful outcomes.
-date: 2026-10-22
+date: 2026-10-26
 tags:
   - bowel screening
   - prisons

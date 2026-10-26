@@ -1,7 +1,7 @@
 ---
 title: What we learned about designing for people in prison through user research
 description: What we learned while doing research on screening, healthcare and the experiences of people in prison.
-date: 2026-10-22
+date: 2026-10-23
 tags:
   - bowel screening
   - prisons
