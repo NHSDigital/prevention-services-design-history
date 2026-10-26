@@ -31,7 +31,7 @@ The model changes state on the day the schedule says a dose is due. There is no 
 
 ## Making the status more informative for parents
 
-We use our binary model to make decisions, for example, whether to invite a child to get vaccinated, but to ensure the parent takes the appropriate action, the language behind it has to be more nuanced.
+We use our binary model to make decisions; for example, whether to invite a child to get vaccinated. But to ensure the parent takes the appropriate action, the language behind it has to be more nuanced.
 
 It must give meaning to the record compared with the schedule in a way that helps the parent understand and act, without claiming anything the record can’t support.
 
@@ -101,7 +101,7 @@ Vaccination records are only a record of what has happened. They don’t show wh
 
 For doses a child isn’t old enough for yet, we show when they’re usually given, based on the schedule. For example, ‘1st dose usually given at 12 months’.
 
-We show doses chronologically, supported by the schedule, to help parents understand the information they are seeing. 
+We show doses chronologically, supported by the schedule, to help parents understand the information they are seeing.
 
 On the page a parent will see
 
@@ -152,9 +152,14 @@ This is an open question. We don’t know whether SAIS teams have capacity for t
 
 ## Real world limitations
 
-This is just a thin slice test, limited to MMR records in a prototype.
+This is just a thin slice test, limited to MMR records sourced from CHIS and GP systems and those recorded at the point of care in Mavis.
 
-Clinicians and admin staff make sense of a child’s vaccination history using the whole record. They can see other vaccinations, and they can look in GP systems and CHIS records to put the history together. Our page can’t do that. For now it only sees MMR.
+Clinicians and admin staff make sense of a child’s vaccination history using the whole record. They can see other vaccinations, and they can look directly into GP systems and CHIS records to put the history together. Our prototype can’t do that. For now it only sees MMR.
 
-In a real service it could see more, but it still won’t see inside GP systems or CHIS records. That’s why every warning state points parents to a clinician. The page can tell a parent that something in the record needs looking at. Only someone with the full picture can say what it means for their child.
+That’s why every warning state points parents to a clinician. The page can tell a parent that something in the record needs looking at. Only someone with the full picture can say what it means for their child.
 
+## What happens next
+
+As we test this prototype with parents, we’ll be learning more about how they understand their child’s vaccination history. We’ll be iterating the design to make it more useful and easier to use.
+
+Ultimately, we want to share what we've learned more widely in DPSP to feed into the ongoing strategic work to make children's vaccination records available directly to parents and patients.
