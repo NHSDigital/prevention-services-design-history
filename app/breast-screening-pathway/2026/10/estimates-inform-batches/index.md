@@ -36,7 +36,7 @@ Over time, experienced staff develop a sense of what a safe difference is, but t
 
 One staff member prepares the yearly estimate once the annual population figures come through. These estimates are often done in spreadsheets. 
 
-Another staff member takes those estimates to 'specify the batches' in NBSS, then 'create batches' in BS Select. 
+Another staff member takes those estimates to specify then create batches in NBSS and BS Select, the two pieces of software currently in use. 
 
 The people working together are often a manager and their deputy: for example, a programme manager and deputy, an admin lead and deputy or an office manager and deputy.
 
