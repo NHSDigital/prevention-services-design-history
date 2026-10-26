@@ -1,6 +1,6 @@
 ---
-title: Working together to improve screening in prisons
-description: Exploring improvements to bowel screening in prisons was a complex design challenge that required collaboration across organisational boundaries. This is how we navigated it to reach impactful outcomes.
+title: Improving bowel screening in prisons
+description: Exploring opportunities to improve to bowel screening in prisons was a complex design challenge that required collaboration across organisational boundaries. This is how we navigated it to reach impactful outcomes.
 date: 2026-10-22
 tags:
   - bowel screening
@@ -11,8 +11,7 @@ author:
   - Magdalena Mips
 ---
 
-Lou Downe famously said that 10% of service design is designing, 90% is creating conditions for the service design to happen. It’s very much true in complex and complicated organisations, including the NHS. The projects are usually full of interdependencies, and solutions can rarely be offered in isolation.  The same was true of our recent project exploring improvements for bowel screening in prisons. It was rooted in the principle that everyone has a right to an equitable healthcare service and supported key goals of the Fit for the future: 10 Year Health Plan for England. 
-
+Lou Downe famously said that 10% of service design is designing, 90% is creating conditions for the service design to happen. It’s very much true in complex and complicated organisations, such as the NHS. The projects are usually full of interdependencies, and solutions can rarely be offered in isolation. It was no different in our recent project exploring improvements for bowel screening in prisons. The work was rooted in the principle that everyone has a right to an equitable healthcare service and supported key goals of the Fit for the future: 10 Year Health Plan for England. 
 This is how we navigated the complexity to reach impactful outcomes. 
 
 ### Service context
@@ -40,12 +39,15 @@ Currently, people who are being detained in prison can decide whether to be GMS 
 * When someone says “yes” to GMS registration and record sharing, their prison GP is noted on Spine and healthcare information becomes known to the prison healthcare team
 * When someone says “no” to GMS registration, they still have access to the prison GP, and either: 
   - stay registered with their community GP on Spine if they were already registered with them
-  - have no GP recorded on Spine (with GP status “unknown” or lack of information) 
+  - have no GP recorded on Spine (with GP status “unknown” or lack of information).
+ 
+This introduces some complexity into how bowel screening for the prison population is managed and requires a manual workaround by the prison healthcare teams and bowel screening hubs to ensure those who are eligible receive an invitation.   
 
 ### Service approach for meaningful outcomes 
 
 To deepen our understanding of the problem and find actionable opportunities, we followed user-centred design and an end-to-end service approach.  
-This introduces some complexity into how bowel screening for the prison population is managed and requires a manual workaround by the prison healthcare teams and bowel screening hubs to ensure those who are eligible receive an invitation.  
+
+![Dependencies of the project shown on a diagram: screening teams: Bowel screening programme, Bowel screening digital team, NHSE teams: Health and Justice Information Service, Health and Justice, Spine including Personal Demographic Service, Patient Index, Detained estates staff and healthcare teams: Prison staff (including admin and healthcare), Immigration Removal Centres staff, Secure Mental Health Institutions staff, Regional NHS teams: local commissioners, health promotion officers, bowel screening hubs, GPs](project-dependencies1.png)
 
 We wanted to understand all the steps and operational processes that enabled them, including the manual workaround, so that we could identify opportunities. The steps included: 
 * an entry into the prison,
@@ -57,7 +59,7 @@ We wanted to understand all the steps and operational processes that enabled the
 
 To understand the lived experience of the participants and what it takes to provide bowel screening in prisons, we ran extensive research. We visited 4 prisons to speak to those who were detained and the staff. We had 7 deep dives with prison healthcare staff and 2 cross-prison focus groups. Also, we ran in-depth interviews with 2 people with prior involvement with the criminal justice system. To learn more, read Designing for people in prison: what we learned through user research. 
 
-Working across organisational boundaries 
+**Working across organisational boundaries** 
 
 To untangle organisational and delivery context, we worked in collaboration with around 80 subject matter experts (SMEs) and stakeholders across NHS England. They included the:  
 * National Digital Screening team
