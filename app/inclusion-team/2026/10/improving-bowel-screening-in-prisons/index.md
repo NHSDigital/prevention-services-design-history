@@ -57,7 +57,7 @@ We wanted to understand all the steps and operational processes that enabled the
 
 **Research in prisons**
 
-To understand the lived experience of the participants and what it takes to provide bowel screening in prisons, we ran extensive research. We visited 4 prisons to speak to those who were detained and the staff. We had 7 deep dives with prison healthcare staff and 2 cross-prison focus groups. Also, we ran in-depth interviews with 2 people with prior involvement with the criminal justice system. To learn more, read Designing for people in prison: what we learned through user research. 
+To understand the lived experience of the participants and what it takes to provide bowel screening in prisons, we ran extensive research. We visited 4 prisons to speak to those who were detained and the staff. We had 7 deep dives with prison healthcare staff and 2 cross-prison focus groups. Also, we ran in-depth interviews with 2 people with prior involvement with the criminal justice system. To learn more, read [Designing for people in prison. What we learned through user research](/designing-for-people-in-prison-ur/). 
 
 **Working across organisational boundaries** 
 
@@ -79,7 +79,7 @@ We had dived into dependencies between GMS registration, Spine/ Personal Demogra
 
 Towards the end of the project, we ran an in-person recommendation feasibility review workshop with key stakeholders from different teams involved in delivery of bowel screening for the prison population. We used a simplified version of a service map to communicate process and insights and played it back to SMEs. As we were going through each of the stages, we were answering questions and taking further feedback. It brought everyone on the same page and gave us a great reference for the next part. 
 
-We ran ideation aimed at addressing issues, followed by a review of the ideas. It proved to be an interactive and engaging way to enable open discussion about advantages and disadvantages of each, and honest conversation about checks and balances. After a couple of hours, we had favourites for final recommendations. 
+We ran ideation aimed at addressing issues, followed by a review of the ideas. It proved to be an interactive and engaging way to enable open discussion about advantages and disadvantages of each, and honest conversation about checks and balances. After a couple of hours, we had suitable options for final recommendations. 
 
 The session was followed by an online check-in where we went through another review of the strategic recommendations. Collectively, these activities generated insights that directly informed and shaped the final recommendations. 
 
