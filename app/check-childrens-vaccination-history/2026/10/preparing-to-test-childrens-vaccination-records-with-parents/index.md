@@ -7,11 +7,11 @@ author: Martin Wright
 
 In our alpha, we’re investigating MMR vaccination history. Our next step is a controlled test where parents see their own children’s records, so we can test our assumptions with real data.
 
-First, we had to design what they will see: a status that tells them whether anything needs to happen, and wording that describes what the record shows without claiming more than it can support.
+First, we had to design what they will see: a vaccination status for their child, a clear next step where one is needed, and wording that describes what the record shows without claiming more than it can support.
 
 ## The status model
 
-From our experience working with clinicians and parents through Mavis, we know the most important information is vaccination status: whether a child is up to date with their vaccinations or not, and what needs to happen next.
+From our experience working with clinicians and parents through Mavis (Manage vaccinations in schools), we know the most important information is vaccination status: whether a child is up to date with their vaccinations or not, and what needs to happen next.
 
 Determining status is a calculation. We use 3 pieces of data:
 
@@ -116,8 +116,6 @@ The dose detail and the status headline do different jobs. The dose detail stays
 
 Every vaccination status includes caveats:
 
-“This record shows the information we currently have. Recent vaccinations may not have reached us yet, and vaccinations given by another service or in another country may not be included.”
-
 ![Text reading ‘This record shows the information we currently have. Recent vaccinations may not have reached us yet, and vaccinations given by another service or in another country may not be included. If anything looks wrong or missing, contact help and support.’](./caveats.png '**Figure 4:** The caveats shown with every vaccination status, with a link to help and support')
 
 We link to support for anyone who needs to question or update the information shown.
@@ -126,7 +124,7 @@ We link to support for anyone who needs to question or update the information sh
 
 We tested these designs with a small sample of parents in a hallway-style usability test, using fictional records. This helped us refine the language and ensure that the records were understandable.
 
-But it also confirmed our biggest assumption: the real test needs real vaccination records and real data. Parents could read the records, but found it hard to engage with the record of imaginary children: the stakes were too low, and the effort too high.
+But it also confirmed our biggest assumption: the real test needs real vaccination records and real data. Parents could read the records, but found it hard to engage with the hypothetical scenarios: the stakes were too low, and the effort too high.
 
 Parents assumed that NHS systems were joined up and their own child’s vaccination record would be accurate and complete, when, in reality, it may not be. With a fictional record, they had nothing to check it against, so this assumption went untested. This assumption was common amongst the parents we spoke to, but may not be amongst some groups such as families who have moved to England from abroad, where the inconsistencies are often more obvious.
 
@@ -162,4 +160,4 @@ That’s why every warning state points parents to a clinician. The page can tel
 
 As we test this prototype with parents, we’ll be learning more about how they understand their child’s vaccination history. We’ll be iterating the design to make it more useful and easier to use.
 
-Ultimately, we want to share what we've learned more widely in DPSP to feed into the ongoing strategic work to make children's vaccination records available directly to parents and patients.
+Ultimately, we want to share what we've learned more widely across the Digital Prevention Services Portfolio (DPSP) to feed into the ongoing strategic work to make children's vaccination records available directly to parents and patients.
