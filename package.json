@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@11ty/eleventy": "^3.1.7",
-    "@x-govuk/nhsuk-eleventy-plugin": "^1.4.4",
+    "@x-govuk/nhsuk-eleventy-plugin": "^1.5.0",
     "http-server": "^14.1.1"
   },
   "devDependencies": {
