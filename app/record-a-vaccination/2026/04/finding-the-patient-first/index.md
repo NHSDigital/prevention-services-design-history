@@ -29,7 +29,7 @@ Once the first vaccination has been recorded, we then ask users if they’d like
 
 This diagram shows the flow:
 
-![Diagram showing a flow with a first set of questions labelled ‘Find a patient and review history’, followed by ‘Vaccination date, location, vaccinator, vaccine type and batch’, then ‘Estimated due date (pregnancy), consent, injection site’, then ‘Check’ and ‘Done’. Then an arrow leads from the ‘Done’ screen to the group labelled ‘Find a patient’, and another arrow shows the ‘Vaccination date, location, vaccinator, vaccine type and batch’ group being skipped for the next patient.](question-order-before.png "The question order that we first launched with")
+![Diagram showing a flow with a first set of questions labelled ‘Find a patient and review history’, followed by ‘Vaccination date, location, vaccinator, vaccine type and batch’, then ‘Estimated due date (pregnancy), consent, injection site’, then ‘Check’ and ‘Done’. Then an arrow leads from the ‘Done’ screen to the group labelled ‘Find a patient’, and another arrow shows the ‘Vaccination date, location, vaccinator, vaccine type and batch’ group being skipped for the next patient.](question-order-before.png 'The question order that we first launched with')
 
 ## Feedback
 
@@ -40,7 +40,7 @@ However, after launching the new interface and during [a period of dual running 
 In particular, some users mentioned that it is useful to check the patient's details in order to make sure they are eligible for the vaccination. For example, one user said:
 
 > You put all the data in… and then discover that the
-patient wasn’t actually eligible for it!
+> patient wasn’t actually eligible for it!
 
 This was news to us, as our previous research had indicated that checking eligibility was done verbally before even starting to prepare and record the vaccination.
 
@@ -61,7 +61,7 @@ In response to the feedback, we’ve changed the order so that the step of findi
 
 This diagram shows the new flow:
 
-![Diagram showing a flow with a first set of questions labelled ‘Vaccination date, location, vaccinator, vaccine type and batch’, followed by another set labelled ‘Find a patient and review history’, followed by ‘Estimated due date (pregnancy), consent, injection site’, then followed by a screen labelled ‘Check’ and one labelled ‘Done’. Then an arrow leads from the ‘Done’ screen to the group labelled ‘Find a patient’.](question-order-after.png "The new question order")
+![Diagram showing a flow with a first set of questions labelled ‘Vaccination date, location, vaccinator, vaccine type and batch’, followed by another set labelled ‘Find a patient and review history’, followed by ‘Estimated due date (pregnancy), consent, injection site’, then followed by a screen labelled ‘Check’ and one labelled ‘Done’. Then an arrow leads from the ‘Done’ screen to the group labelled ‘Find a patient’.](question-order-after.png 'The new question order')
 
 When a vaccination has been recorded, if the user selects the option to record the same vaccination for the next patient, they still skip the questions that are less likely to differ from one patient to the next (date, location, vaccinator, vaccine type and batch) in order to save time.
 

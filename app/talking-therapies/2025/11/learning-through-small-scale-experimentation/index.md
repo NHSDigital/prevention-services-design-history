@@ -5,7 +5,6 @@ description: A pilot sending messages to GP patients about NHS Talking Therapies
 date: 2025-11-24
 ---
 
-
 The talking therapies team in Personalised Prevention Services are working alongside the NHSE Talking Therapies and Behavioural Science teams to improve the uptake of NHS Talking Therapies by underserved groups (people who would benefit from the service but are not accessing it at the level that would be expected). This work ties to the 2025 Autumn Statement, where additional funding is being provided to increase the capacity of NHS Talking Therapies services.
 
 Previously a discovery identified some of the barriers faced by people in underserved groups. We are now testing responses to those barriers. Our initial focus is a service to deliver messaging campaigns at scale with the ability to target these underserved groups.
@@ -15,6 +14,7 @@ Previously a discovery identified some of the barriers faced by people in unders
 People who experience common mental health problems are not accessing the NHS treatments which could help them to get better. This means that their well‑being, their ability to work and flourish in everyday life, is not as good as it could be.
 
 The discovery also showed that there is a lack of awareness around the ability to self‑refer and that people hold back because of concerns about:
+
 - privacy
 - availability of appointments
 - taking up space from someone who needs it more than them
@@ -60,11 +60,11 @@ We then worked to test the ‘clarity’ message in a real life setting by sendi
 
 This was the user journey that patients went through:
 
-![User journey showing screens where a user gets an app notification, visits the NHS.UK service then finds the therapy provider local to them](service-blueprint.png "The user journey – from getting a message to starting with a therapy provider")
+![User journey showing screens where a user gets an app notification, visits the NHS.UK service then finds the therapy provider local to them](service-blueprint.png 'The user journey – from getting a message to starting with a therapy provider')
 
 Based on data gathered in the first 7 days, it was decided that a follow-on message would be sent 8 days after the first message with a view to increasing referrals even further. The first line of the message was changed slightly so that it made conversational sense to the user. Unfortunately, it wasn't possible to implement shortened URLs for the pilot because of the number of different campaign IDs we wanted to use to track various messages through the pilot.
 
-![A screenshot of two messages shown to users. The first message reads "Feeling anxious, low or stuck? NHS Talking Therapies offers free, confidential support for adults. You can refer yourself directly to the service. You don't need a diagnosed mental health condition or to talk to your GP" Then links the user the NHS service finder. The second message reads "Just a reminder that NHS Talking Therapies offers free, confidential support for adults who are feeling anxious, low or stuck. You can refer yourself directly to the service. You don't need a diagnosed mental health condition or to talk to your GP." Then links the user to NHS service finder](messages.png "The messages we sent to users")
+![A screenshot of two messages shown to users. The first message reads "Feeling anxious, low or stuck? NHS Talking Therapies offers free, confidential support for adults. You can refer yourself directly to the service. You don't need a diagnosed mental health condition or to talk to your GP" Then links the user the NHS service finder. The second message reads "Just a reminder that NHS Talking Therapies offers free, confidential support for adults who are feeling anxious, low or stuck. You can refer yourself directly to the service. You don't need a diagnosed mental health condition or to talk to your GP." Then links the user to NHS service finder](messages.png 'The messages we sent to users')
 
 Despite the GP surgery onboarding to the NHS App just before the pilot started, the messages were sent via SMS only. The reason for this decision was that the practice was new to using the NHS App for push notifications, and they believed that because users in their geography suffer from high levels of digital illiteracy, they would not respond well to NHS App notifications.
 

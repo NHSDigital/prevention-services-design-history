@@ -230,7 +230,7 @@ We need to work harder to:
 
 We need to create a fast and simple set of interactions to provide guidance to users without interrupting the flow.
 
-Probably the biggest challenge thrown up by the research sessions is the need to onboard people without them losing focus on what brought them to the service in the first place. The journey needs to work hard to remain concise and maintain a strong relationship to the _subject_ that brought the user to it.
+Probably the biggest challenge thrown up by the research sessions is the need to onboard people without them losing focus on what brought them to the service in the first place. The journey needs to work hard to remain concise and maintain a strong relationship to the subject that brought the user to it.
 
 ---
 

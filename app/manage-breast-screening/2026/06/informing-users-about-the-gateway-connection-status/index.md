@@ -22,12 +22,12 @@ It allows the efficient transfer of data between the imaging machines in breast 
 
 The general plan is:
 
-* when a user starts (or resumes) an appointment on our service, the gateway adds the participant details to a 'worklist'
-* the worklist syncs with the modality machine(s) at the BSU, showing which participants are ready to be scanned
-* the mammographer selects the person from the modality worklist, and begins taking images
-* as soon as the first image has been taken, the gateway starts sending image data to our service
-* information is transferred live, so image thumbnails and any associated metadata will display on our service almost instantly
-* once the appointment is complete (either fully concluded or prematurely stopped), the gateway tells the modality machine that the participant can be removed from the worklist
+- when a user starts (or resumes) an appointment on our service, the gateway adds the participant details to a 'worklist'
+- the worklist syncs with the modality machine(s) at the BSU, showing which participants are ready to be scanned
+- the mammographer selects the person from the modality worklist, and begins taking images
+- as soon as the first image has been taken, the gateway starts sending image data to our service
+- information is transferred live, so image thumbnails and any associated metadata will display on our service almost instantly
+- once the appointment is complete (either fully concluded or prematurely stopped), the gateway tells the modality machine that the participant can be removed from the worklist
 
 ### Improvements to the current setup
 
@@ -41,9 +41,9 @@ Automating these relatively minor tasks could turn into a significant time savin
 
 By transmitting details between our service and the modality, we are:
 
-* removing the need to pre-upload clinic lists
-* making it quicker for mammographers to pick the right participant from the worklist (by only showing active appointments)
-* allowing users to confirm images are OK, add extra details, or immediately correct any errors before they are sent to the PACS (Picture Archiving and Communication System)
+- removing the need to pre-upload clinic lists
+- making it quicker for mammographers to pick the right participant from the worklist (by only showing active appointments)
+- allowing users to confirm images are OK, add extra details, or immediately correct any errors before they are sent to the PACS (Picture Archiving and Communication System)
 
 ## What our users need to know
 
@@ -51,17 +51,17 @@ After observing mammogram appointments and speaking with radiographers, we've es
 
 To help things run smoothly, we should tell them:
 
-* when each participant is confirmed on the worklist
-* when there's a connection problem and that the participant is not on the worklist
-    * how to retry the connection and hopefully fix the issue
-    * how to switch to an alternative method of collecting image information if things aren't working
-* what to do If the person is on the worklist, but image details are not transferring correctly
+- when each participant is confirmed on the worklist
+- when there's a connection problem and that the participant is not on the worklist
+  - how to retry the connection and hopefully fix the issue
+  - how to switch to an alternative method of collecting image information if things aren't working
+- what to do If the person is on the worklist, but image details are not transferring correctly
 
 ## The 'everything is OK' status
 
 ![A green tick icon next to 'Added to worklist' text displayed in the main infomration bar of a mammogram appointment.](added-to-worklist.png)
 
-Once an appointment has started, an 'On worklist' message accompanied by a green tick lets users know that the data transfer has taken place as intended. This is displayed alongside the appointment date and time, and the 'Accn' - an accession number, which is a unique ID assigned to each mammogram appointment. 
+Once an appointment has started, an 'On worklist' message accompanied by a green tick lets users know that the data transfer has taken place as intended. This is displayed alongside the appointment date and time, and the 'Accn' - an accession number, which is a unique ID assigned to each mammogram appointment.
 
 This status gives them confidence that once they have completed steps 1 and 2 in the appointment workflow, they can move from looking at our service to the modality machine and the participant will be there.
 
@@ -71,9 +71,9 @@ This status gives them confidence that once they have completed steps 1 and 2 in
 
 While we hope that the system is reliable, no service can guarantee 100% uptime.
 
-So if something fails, we display a 'Not on worklist' message. This is accompanied by a red cross (to help users notice there is a problem) and a link to 'retry' the connection. 
+So if something fails, we display a 'Not on worklist' message. This is accompanied by a red cross (to help users notice there is a problem) and a link to 'retry' the connection.
 
-Our users have told us that they don't want to be doing anything complicated in the middle of a mammogram appointment to resolve issues. With that in mind, we've built a simple screen that either appears when they hit the retry link, or before they get to the 'Take images' appointment stage. 
+Our users have told us that they don't want to be doing anything complicated in the middle of a mammogram appointment to resolve issues. With that in mind, we've built a simple screen that either appears when they hit the retry link, or before they get to the 'Take images' appointment stage.
 
 ![A page giving users options of what to do when the participant is not on the worklist (retry connection or switch to manual mode).](retry-connection.png)
 
@@ -89,7 +89,7 @@ If their attempt to reconnect fails, they can keep trying, or choose to switch t
 
 After they have switched to manual, a 'Worklist issue, manual mode enabled' status appears for the remainder of this appointment. We have removed the link to retry as we want users to move forward and get the appointment completed, rather than returning to make further attempts to restore the connection.
 
-As this status means the participant is not on the worklist, we've included instructions on how to proceed. This requires the mammographer to set up an 'unscheduled procedure' on the imaging machine with details of the participant and appointment then [manually record details of images taken](/manage-breast-screening/2025/12/recording-images-taken/#manual-image-flow-backup-workflow#manual-image-flow-backup-workflow) on our service. 
+As this status means the participant is not on the worklist, we've included instructions on how to proceed. This requires the mammographer to set up an 'unscheduled procedure' on the imaging machine with details of the participant and appointment then [manually record details of images taken](/manage-breast-screening/2025/12/recording-images-taken/#manual-image-flow-backup-workflow#manual-image-flow-backup-workflow) on our service.
 
 The image data will need to be merged with the participant record later on (in a yet-to-be-determined admin process).
 
@@ -111,7 +111,7 @@ These expandable components were placed at the bottom of the page where image in
 
 ![Detailed steps for what to do if the images displayed are poor quality or if there are technilca issues with the mammogram machine.](old-troubleshooting-2.png)
 
-We showed these to some users, with a heavy caveat that we didn't yet have the full details of how things would work. 
+We showed these to some users, with a heavy caveat that we didn't yet have the full details of how things would work.
 
 The feedback was that these steps were far too complicated to follow during a mammogram appointment. This was not the time or place to be following complicated workflows.
 
@@ -127,10 +127,10 @@ We're working under the assumption that the gateway will remain open and keep tr
 
 As well as simplifying the steps, some of the previous explanations have been removed:
 
-* In instances of 'Poor image quality', mammographers are already trained in what to do. If they decide to take new images these will be automatically synced. If they do not sync, that is covered by other troubleshooting steps so does not warrant a separate troubleshooting item.
-* Where there is a 'Technical issue with the mammogram machine', users already have suitable options.
-    * If no images have been taken, they can 'Exit appointment' and follow the relevant steps
-    * If at least one image has been taken, they can use the 'Not all mammograms taken' checkbox and use the 'Technical issues' option to provide details
+- In instances of 'Poor image quality', mammographers are already trained in what to do. If they decide to take new images these will be automatically synced. If they do not sync, that is covered by other troubleshooting steps so does not warrant a separate troubleshooting item.
+- Where there is a 'Technical issue with the mammogram machine', users already have suitable options.
+  - If no images have been taken, they can 'Exit appointment' and follow the relevant steps
+  - If at least one image has been taken, they can use the 'Not all mammograms taken' checkbox and use the 'Technical issues' option to provide details
 
 ## What we're doing next
 

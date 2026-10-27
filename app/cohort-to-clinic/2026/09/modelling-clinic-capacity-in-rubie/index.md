@@ -23,10 +23,10 @@ Looking at underlying patterns and working out what BSOs actually want and need 
 
 Our model is designed to:
 
-* take advantage of familiar concepts and language
-* support established (or desired) ways of working while avoiding current limitations
-* be flexible enough to meet the variety of local needs
-* avoid assumptions about how a BSO organises their capacity
+- take advantage of familiar concepts and language
+- support established (or desired) ways of working while avoiding current limitations
+- be flexible enough to meet the variety of local needs
+- avoid assumptions about how a BSO organises their capacity
 
 Our structure uses four nested levels, from the smallest to the largest: slots, sessions, schedules and clinics.
 
@@ -36,9 +36,9 @@ A slot is the short unit of time used to carry out a screening appointment, for 
 
 Slots can be repurposed, for example a BSO might need to:
 
-* block out staff breaks
-* combine slots to create longer blocks of time for special appointments
-* hold slots as spare capacity for rebooking or self-referrals
+- block out staff breaks
+- combine slots to create longer blocks of time for special appointments
+- hold slots as spare capacity for rebooking or self-referrals
 
 A slot becomes an appointment when a participant is booked into it.
 
@@ -48,16 +48,16 @@ A slot becomes an appointment when a participant is booked into it.
   alt: "A list of screening slots, showing potential slot types and merging",
   caption: "A prototype we’re testing for managing slots"
 }) }}
- 
+
 ## Sessions
 
 A session represents one “clinic day” of slots.
 
 Common slot patterns can be captured in session templates for easy reuse. For example, a template might:
 
-* set aside 6 slots in the middle of the day for a staff lunch break
-* reserve four slots at the end of the day for additional capacity, separate from automated batch appointments
-* contain some double slots for special appointments
+- set aside 6 slots in the middle of the day for a staff lunch break
+- reserve four slots at the end of the day for additional capacity, separate from automated batch appointments
+- contain some double slots for special appointments
 
 We’re mindful that using templates should not create fixed, unchangeable instances: users must still be able to adjust individual slots.
 
@@ -67,7 +67,7 @@ We’re mindful that using templates should not create fixed, unchangeable insta
   alt: "A selection session template options, presented as summary cards",
   caption: "A prototype we’re testing for clinic session templates"
 }) }}
-   
+
 ## Schedules
 
 A schedule is a block of confirmed time and capacity, usually agreed as a rota, containing sessions. Each schedule has a start date and an end date, for example a 6 week block of confirmed capacity.
@@ -77,7 +77,7 @@ A schedule is a block of confirmed time and capacity, usually agreed as a rota, 
   alt: "A calendar style interface showing the start and end date of a schedule",
   caption: "A prototype we’re testing for schedules"
 }) }}
- 
+
 ## Clinics
 
 At the top level, a clinic is a container for multiple schedules.

@@ -14,7 +14,6 @@ author:
   - Laboni Paul
 ---
 
-
 Breast Screening Information Systems (BSIS) primarily enables Quality Assurance (QA) staff to monitor and ensure the safety of breast screening services by identifying any failures to comply with performance standards. The Film Reading Quality Assurance (FRQA) report in BSIS, alongside the Interval Cancer report, is used mainly by image readers, unit directors and QA to understand image reading performance across services. QA use this report to find instances where image reading may be poorer than expected and follow up with services to understand why.
 
 This work is helping us rethink image reading data reporting so that we can improve and replace BSIS’ FRQA report and prepare for the future breast screening service. It also gives us a way to test the platform and tooling needed to replace other breast screening reports over time.
@@ -88,7 +87,7 @@ Below is an example of a chart found in the current BSIS FRQA report, re-created
 
 ## What we found
 
-Data for the new breast screening will reside in Azure. Based on our testing so far, Azure-based platforms and code-driven visualisation tools better supported the requirements of image reading analysis. 
+Data for the new breast screening will reside in Azure. Based on our testing so far, Azure-based platforms and code-driven visualisation tools better supported the requirements of image reading analysis.
 
 This is because they better support:
 
@@ -98,7 +97,7 @@ This is because they better support:
 
 ## What happens next
 
-We have been testing some of the riskiest assumptions in the proposed architecture and plan of work. Some of these assumptions include the ability to obscure identifiable data and provide role-based access to users - these are some of the critical needs for a secure and scalable data platform. On achieving this, we are now demonstrating the core set-up of the data platform that provides a workspace for ad-hoc analysis and can automate data dashboards. 
+We have been testing some of the riskiest assumptions in the proposed architecture and plan of work. Some of these assumptions include the ability to obscure identifiable data and provide role-based access to users - these are some of the critical needs for a secure and scalable data platform. On achieving this, we are now demonstrating the core set-up of the data platform that provides a workspace for ad-hoc analysis and can automate data dashboards.
 
 ## Looking further ahead
 

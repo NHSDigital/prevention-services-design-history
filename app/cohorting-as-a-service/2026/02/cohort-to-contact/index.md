@@ -7,6 +7,7 @@ date: 2026-02-17
 In prevention, a large part of what we do is about directing the right people to the right intervention; alternatively put, ‘cohort to contact’. However, the terminology we use to describe the activities required to do this is inconsistent.
 
 This isn’t surprising, as many of these terms are complex and highly contextual. Meaning can differ:
+
 - across different areas of prevention, for example, the term ‘targeted’ has a unique definition in screening set by the UK National Screening Committee
 - between national and local contexts, for example, with the term ‘segmentation’ carrying much more weight for national initiatives with large initial cohorts
 - depending on whether a noun or verb is used, for example, ‘targeted’ as mentioned above vs ‘targeting’ in a campaign management context

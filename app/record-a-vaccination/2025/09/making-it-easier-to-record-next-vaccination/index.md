@@ -5,6 +5,7 @@ tags:
   - streamlining
   - persisting answers
 ---
+
 As part of the work we've done to streamline the recording journey, we've added 2 new options for users once they've saved their first vaccination of the session. They can choose to record:
 
 - the same patient's next vaccination
@@ -14,7 +15,7 @@ As part of the work we've done to streamline the recording journey, we've added 
 
 The option to easily record another vaccination for the same patient, often referred to by users as co-admin (administering 2 or more vaccines at the same time) has been a common request in user feedback.
 
-We also know that in some settings, users might be recording the same vaccination for  successive patients, for example if they are running a vaccination clinic just for flu vaccinations.
+We also know that in some settings, users might be recording the same vaccination for successive patients, for example if they are running a vaccination clinic just for flu vaccinations.
 
 These new recording options are part of the wider work we've been doing to simplify the recording journey for our users. See our previous post on [asking fewer, better questions](/record-a-vaccination/2025/03/asking-fewer-better-questions/).
 
@@ -119,7 +120,7 @@ On the screen where we show the options for what you can do next after a vaccina
 - switched the order of the choices, making the option to record the 'same patient's next vaccination' the top option
 - added an option to record a different vaccination for another patient
 
-To address users' concerns about potentially losing track of the selections that were being applied to the next patient in the 'give the same vaccination to another patient' journey, we are exploring using [headings with captions]( https://service-manual.nhs.uk/design-system/styles/typography) for the 2 new branch journeys.
+To address users' concerns about potentially losing track of the selections that were being applied to the next patient in the 'give the same vaccination to another patient' journey, we are exploring using [headings with captions](https://service-manual.nhs.uk/design-system/styles/typography) for the 2 new branch journeys.
 
 Our hypothesis being that the 'caption' displayed above the heading will help users understand which journey they are in.
 
@@ -131,4 +132,3 @@ Once the new streamlined recording journey is live, we will monitor:
 - how long it takes users to record a vaccination using the different options, and if the 'extra' journeys save time
 
 And we'll need to carry out further user research to understand if these new journeys have made it easier for users to record multiple successive vaccinations.
-

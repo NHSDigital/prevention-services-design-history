@@ -145,7 +145,6 @@ Other benefits of working with existing paper processes include:
 
 The diagram shows how we might be able to streamline the process, reduce manual work and remove duplication.
 
-
 ![Diagram showing how we could solve multiple problems and speed up BQA reporting](bqa-reporting-future-state-concept.png)
 
 ## What’s next

@@ -3,6 +3,8 @@ title: "Making sense of complex vaccination histories: what we’ve learned so f
 description: What we learned from testing MMR dose schedule designs with SAIS teams, including where our labelling helped clinicians and where it signalled more confidence than the data justified.
 date: 2026-07-28
 author: Ben Dawson and Martin Wright
+tags:
+  - MMR vaccine
 ---
 
 ## The problem

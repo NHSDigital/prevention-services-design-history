@@ -4,6 +4,7 @@ author: Caroline Finucane
 date: 2025-10-23
 tags:
   - COVID-19 vaccine
+  - flu vaccine
 ---
 
 **This autumn, as the COVID-19 vaccination programme launched, our digital services team needed to move quickly to respond to confusion around eligibility.**
@@ -12,7 +13,7 @@ Many patients turned up at pharmacies expecting to receive a booster, but had to
 
 We needed to act fast to help reduce pressure on community pharmacies and offer clarity for patients.
 
-Many of the ineligible people coming forward had likely come through our own booking service, which is intentionally designed to let people self-refer if they believe they are eligible. 
+Many of the ineligible people coming forward had likely come through our own booking service, which is intentionally designed to let people self-refer if they believe they are eligible.
 
 ## Why this confusion happened
 
@@ -40,11 +41,12 @@ Mindful of the frustration people were feeling, we wanted the tone of our email 
 
 > We understand this might be confusing, especially if you had the vaccine last year.
 
-![Screenshot of the targeted follow-up messages we sent out](comms.png "The follow-up messages we sent, to set expectations")
+![Screenshot of the targeted follow-up messages we sent out](comms.png 'The follow-up messages we sent, to set expectations')
 
-![Screenshot of the amended booking service start page](flu-start-page.png "Our warning on the flu booking start page")
+![Screenshot of the amended booking service start page](flu-start-page.png 'Our warning on the flu booking start page')
 
 ## What we know
+
 ### Many people go straight for the green button
 
 While the COVID-19 vaccination booking service automatically screens out users who are not eligible by age, the [flu vaccination booking service](https://www.nhs.uk/nhs-services/vaccination-and-booking-services/book-flu-vaccination/) allows users to **self-refer** for a COVID-19 booster if they believe they meet the criteria.
@@ -65,9 +67,9 @@ We're waiting for more data to back this assumption - but this is something rese
 
 ### 'Immunosuppressed' is a grey area
 
-But it's likely the confusion wasn't *just* about age.
+But it's likely the confusion wasn't just about age.
 
-Every season, it seems that some patients self-refer believing they have a weakened immune system that qualifies them for the jab -  but in fact they do not, or no longer, meet the criteria. For example, someone who recently came off treatment might not realise they're no longer eligible.
+Every season, it seems that some patients self-refer believing they have a weakened immune system that qualifies them for the jab - but in fact they do not, or no longer, meet the criteria. For example, someone who recently came off treatment might not realise they're no longer eligible.
 
 > I’m asthmatic. Got to the time section. Got thrown off. Filled out details and said not eligible. I've had it every year for as long as I remember.
 
@@ -84,17 +86,17 @@ But let's focus on what we can do.
 Now we know: **when eligibility rules change, clarity matters more than ever.**
 
 We've learned that:
+
 - people often don’t read content, especially if they’ve seen similar screens before
 - even well-placed messaging can be missed or misunderstood
 - many people don't know if they qualify for an NHS vaccination
 
 And next time, we will:
-- **make it clear that things have *changed***, not just what the new rules are
+
+- **make it clear that things have changed**, not just what the new rules are
 - **personalise communications** where possible (e.g. “Because you’re under 75…”)
 - **align national messaging and digital services** more closely to set expectations
 
 These lessons will shape how we communicate eligibility in future campaigns, and in the upcoming [Check and book an RSV vaccination service](https://www.service-catalogue.nhs.uk/services/check-my-vaccination-record) in the NHS App, currently in alpha.
 
 We're constantly learning and improving how we design digital services. As we work to increase uptake of seasonal vaccinations, we also have a responsibility to support those who are no longer eligible - with clear, compassionate communication that helps everyone understand where they stand.
-
-

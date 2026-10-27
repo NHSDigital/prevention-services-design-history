@@ -121,7 +121,8 @@ const newComments = mistakes
   .filter(
     (m) =>
       !botComments.some(
-        (c) => c.path === m.path && c.line === m.line && c.body === commentBody(m)
+        (c) =>
+          c.path === m.path && c.line === m.line && c.body === commentBody(m)
       )
   )
   .map((m) => ({

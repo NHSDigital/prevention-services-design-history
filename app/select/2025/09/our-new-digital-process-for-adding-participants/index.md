@@ -8,14 +8,17 @@ tags:
   - live
   - breast screening
 ---
+
 ## Why do some participants need adding?
 
 Participants in England are automatically added to the breast screening cohort if they meet the following criteria:
+
 - aged between 44 and 73
 - registered with a GP practice
 - not male
 
 However, breast screening offices (BSOs) sometimes need to screen people who fall outside of this. For example:
+
 - participants who aren’t registered with a GP practice but would still like to be screened
 - participants over the age of 71 who are eligible to self-refer for breast screening but haven’t previously been known to the programme
 - participants who are eligible for very high risk (VHR) breast screening but are below the routine breast screening age
@@ -27,7 +30,7 @@ In these cases, BSOs need a way to manually add participants to their system, Br
 
 Previously, BSOs would raise requests to add participants by filling in a Word document form (either digitally or by printing it out and scanning it back in again) and sending it by email to the National Service Desk for the request to be actioned manually.
 
-![Screenshot of the Word document form which was used previously to request for participants to be added to BS Select. It contains 3 options for reasons for adding participants, followed by fields for entering the participant's demographic details, as well as space for details of the individual making the request](fm0001-word-document-add-form.png "Word document form which was used previously to request for participants to be added to BS Select")
+![Screenshot of the Word document form which was used previously to request for participants to be added to BS Select. It contains 3 options for reasons for adding participants, followed by fields for entering the participant's demographic details, as well as space for details of the individual making the request](fm0001-word-document-add-form.png 'Word document form which was used previously to request for participants to be added to BS Select')
 
 We heard from users that the previous process was clunky, time-consuming and involved lots of manual steps. We also heard that users faced challenges with tracking requests and monitoring those made by colleagues, meaning BSOs were reliant on manually tracking requests using spreadsheets.
 
@@ -35,9 +38,10 @@ We heard from users that the previous process was clunky, time-consuming and inv
 
 To reduce inefficiencies and provide a better experience for users, we converted the Word document mentioned above to a digital form that sits within the NHS National IT Customer Support Portal.
 
-![Screenshot from the homepage of the National IT Customer Support Portal. It contains a search box, as well as the ability to view knowledge articles, submit a case and see a list of recently used case types, and see cases the user has raised previously. There is also a section for service status which allows users to check for services outages and report if they have been affected](national-it-customer-support-portal-homepage.png "Screenshot of the NHS National IT Customer Support Portal homepage")
+![Screenshot from the homepage of the National IT Customer Support Portal. It contains a search box, as well as the ability to view knowledge articles, submit a case and see a list of recently used case types, and see cases the user has raised previously. There is also a section for service status which allows users to check for services outages and report if they have been affected](national-it-customer-support-portal-homepage.png 'Screenshot of the NHS National IT Customer Support Portal homepage')
 
 Benefits of this include:
+
 - removing manual steps associated with saving and completing a Word form locally, improving clinical safety by reducing risk of user error
 - being able to view and track requests directly within the portal, addressing a common user pain point of relying on emails previously
 - offering greater tracking and auditability to support with reporting and investigations in response to incidents
@@ -46,7 +50,7 @@ Another major benefit of the portal is that it is hosted on ServiceNow, which ca
 
 The design aimed to closely replicate the previous Word document form initially to provide a familiar experience for users, whilst minimising the change impact on BSOs. However, our ambition is to make further enhancements to the form in future releases based on users’ feedback.
 
-![Screenshot of the new registration form within the National IT Customer Support Portal. It features fields containing details of the requester - some of which are pre-populated from their account, space to leave an alternate contact's details so a colleague can be notified about the request, a field to enter the BSO code of the requester, followed by fields for the participant's demographic details and the reason they are being added](new-registration-for-bs-select-form.png "Screenshot of the new digital form for adding participants to BS Select within the National IT Customer Support portal")
+![Screenshot of the new registration form within the National IT Customer Support Portal. It features fields containing details of the requester - some of which are pre-populated from their account, space to leave an alternate contact's details so a colleague can be notified about the request, a field to enter the BSO code of the requester, followed by fields for the participant's demographic details and the reason they are being added](new-registration-for-bs-select-form.png 'Screenshot of the new digital form for adding participants to BS Select within the National IT Customer Support portal')
 
 ## Testing with users
 
@@ -66,7 +70,6 @@ User feedback from the pilot was really positive, with users citing ease of use 
 
 > It's so much easier. We used to have to complete the document, save it, add it to an email, and now it's like it's just automatic so it's much better.
 
-
 ## Rolling the new process out to all users
 
 Testing and piloting gave us confidence to proceed to public beta and roll the digital form out for all BSOs. As part of this, we kept the legacy process available for users for a period of just over one month to give them time to transition.
@@ -74,15 +77,15 @@ Testing and piloting gave us confidence to proceed to public beta and roll the d
 ### Where are we now?
 
 The new digital process for adding participants has now been live for all BSOs for around 7 weeks and we have seen strong uptake so far:
+
 - 77% of requests in the first month came in via the portal
 - 66 (86%) of the 77 English BSOs have used the portal to raise at least one request
 
 In addition to monitoring usage data, we have continued collecting feedback from users during the public beta phase. Insights gathered so far suggest high levels of satisfaction with the digital add process. In particular, users feel the new process is easier than raising requests via email, with feedback frequently citing the simplicity of using the portal to add participants:
 
->… it is so straightforward and simple, and it takes, like literally a minute, not even that.
+> … it is so straightforward and simple, and it takes, like literally a minute, not even that.
 
 As of 16 September 2025, requests to add participants to BS Select are no longer accepted by email, with users being asked to submit them via the portal instead.
-
 
 ## Further information
 

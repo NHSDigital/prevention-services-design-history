@@ -5,6 +5,8 @@ related:
   items:
     - text: Consent study
       href: https://research-information.bris.ac.uk/en/publications/implementing-new-consent-procedures-for-the-schools-based-hpv-vac
+tags:
+  - HPV vaccine
 ---
 
 Consent needs to be inclusive, and must avoid digital exclusion.

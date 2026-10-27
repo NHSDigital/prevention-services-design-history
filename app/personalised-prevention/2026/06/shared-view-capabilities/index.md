@@ -12,7 +12,7 @@ This design history is about how as Personalised Prevention Services (PPS) we ha
 
 ## Context
 
-Personalised Prevention Services began following the findings from the [Personalised Prevention Platform discovery](/help-to-stay-healthy/2025/03/discovery-summary/) and building on the opportunity of NHS Health Check online, which offers first-of-kind self-testing and risk calculation service.  We have now matured into a portfolio of 6 services covering different stages of our prevention user journey.  Each of our services is deliberately developing digital capabilities that solve distinct parts of the challenge to support people to understand their health risks and make healthier choices.
+Personalised Prevention Services began following the findings from the [Personalised Prevention Platform discovery](/help-to-stay-healthy/2025/03/discovery-summary/) and building on the opportunity of NHS Health Check online, which offers first-of-kind self-testing and risk calculation service. We have now matured into a portfolio of 6 services covering different stages of our prevention user journey. Each of our services is deliberately developing digital capabilities that solve distinct parts of the challenge to support people to understand their health risks and make healthier choices.
 
 We want to develop reusable, common components and capabilities for use both across our PPS services and the wider system. In the future, these will offer a joined-up experience for users and be the building blocks for the health system to deliver a reimagined end-to-end digital prevention journey.
 
@@ -28,7 +28,7 @@ We ran a series of mini workshops with each team to map the capabilities and com
 
 We have brought together the conversations from our mini workshops to create a map of the PPS journey with all the different capabilities our services are delivering now. The details of what each team is doing for each capability is clearly distinguished on the map alongside where capabilities beyond PPS were being used. This allows us to identify overlap and opportunities for collaboration.
 
-![Large diagram titled "PPS journey" showing a complex service pathway across six stages: "Consider action", "Understand risks", "Find support", "Take action", and "Maintain health", with "Service stages" labels at the top and bottom. The journey is organised in horizontal lanes under "the change we want to see", with rows labelled for different perspectives including "Citizen", "Priority for now", and "Future opportunities".](pps-journey.png "Service map of the PPS journey")
+![Large diagram titled "PPS journey" showing a complex service pathway across six stages: "Consider action", "Understand risks", "Find support", "Take action", and "Maintain health", with "Service stages" labels at the top and bottom. The journey is organised in horizontal lanes under "the change we want to see", with rows labelled for different perspectives including "Citizen", "Priority for now", and "Future opportunities".](pps-journey.png 'Service map of the PPS journey')
 
 ### Bringing teams together around our service map
 

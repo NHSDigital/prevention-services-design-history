@@ -14,7 +14,7 @@ author:
 
 ## The scope
 
-Digital Best Start in Life aims to provide joined up information and resources connected with each child's health record (in the NHS App) to help parents and carers access the support they need, and the wider vision for improving children’s health by making it easier for families to access information and use digital services. 
+Digital Best Start in Life aims to provide joined up information and resources connected with each child's health record (in the NHS App) to help parents and carers access the support they need, and the wider vision for improving children’s health by making it easier for families to access information and use digital services.
 
 As part of this, the Blood Spot Notifications pilot focuses on improving how parents receive newborn screening results. It aims to create a more accessible, timely and user-friendly experience, while reducing reliance on existing manual and paper-based processes.
 
@@ -53,7 +53,7 @@ From research and stakeholder feedback, we found that:
 
 During Alpha, we recommend making screening results available directly in the NHS App, within the child’s profile.
 
-Parents would receive a simple notification when a “not suspected” result is ready to view, allowing them to benefit from a digitial first approach. 
+Parents would receive a simple notification when a “not suspected” result is ready to view, allowing them to benefit from a digitial first approach.
 
 This approach:
 
@@ -68,7 +68,6 @@ This approach:
 We carried out research with 7 parents of infants under 12 months old to understand how screening results are currently communicated and how this could be improved.
 
 We explored three formats:
-
 
 - The existing printed letter
 - A digital version of the letter (message format)
@@ -87,10 +86,9 @@ These prototypes were tested side by side in research sessions. This allowed us 
 
 We used these insights to iterate the digital designs and make evidence-based recommendations for improving the existing letter. Content and layouts will continue to be tested in future rounds.
 
+![Sample NHS letter template for newborn blood spot screening results. The document includes placeholder fields for a baby’s details (name, NHS number, date of birth, address) and a date. A large box on the right reads “Sample copy for user research purposes only – does not contain any clinical information.” The letter explains that the baby is not thought to have any of the screened conditions and reminds readers that screening is not 100% accurate. It lists conditions tested for, including congenital hypothyroidism, cystic fibrosis, phenylketonuria, sickle cell disease, and others. The letter advises keeping the result in the child health record (“red book”), provides space for contact details of a health visitor, and includes links to NHS and GOV.UK websites for more information.](example-newborn-blood-spot-results-letter.png 'The existing printed letter.')
 
-![Sample NHS letter template for newborn blood spot screening results. The document includes placeholder fields for a baby’s details (name, NHS number, date of birth, address) and a date. A large box on the right reads “Sample copy for user research purposes only – does not contain any clinical information.” The letter explains that the baby is not thought to have any of the screened conditions and reminds readers that screening is not 100% accurate. It lists conditions tested for, including congenital hypothyroidism, cystic fibrosis, phenylketonuria, sickle cell disease, and others. The letter advises keeping the result in the child health record (“red book”), provides space for contact details of a health visitor, and includes links to NHS and GOV.UK websites for more information.](example-newborn-blood-spot-results-letter.png "The existing printed letter.")
-
-![NHS app screen showing newborn blood spot screening results for a baby. Test date 21 September 2025, with overall result “No conditions suspected.” A summary explains the baby is not thought to have any of the screened conditions and notes tests are not 100% accurate. A list of conditions (including cystic fibrosis, sickle cell disease, and PKU) all show “Not suspected.” Bottom navigation shows Home, Messages, and Profile.](newborn-blood-spot-results-in-app.png "A screenshot of the mockup used for testing.")
+![NHS app screen showing newborn blood spot screening results for a baby. Test date 21 September 2025, with overall result “No conditions suspected.” A summary explains the baby is not thought to have any of the screened conditions and notes tests are not 100% accurate. A list of conditions (including cystic fibrosis, sickle cell disease, and PKU) all show “Not suspected.” Bottom navigation shows Home, Messages, and Profile.](newborn-blood-spot-results-in-app.png 'A screenshot of the mockup used for testing.')
 
 ---
 

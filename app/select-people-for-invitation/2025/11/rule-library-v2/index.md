@@ -9,9 +9,9 @@ tags:
   - user research
 ---
 
-Our initial way to add rules was through a rule builder form, which required a high degree of technical understanding. Our first version of the [rule library](/select-people-for-invitation/2025/03/rule-library/) was a way of pre-populating that form with certain values to make the process easier for users. 
+Our initial way to add rules was through a rule builder form, which required a high degree of technical understanding. Our first version of the [rule library](/select-people-for-invitation/2025/03/rule-library/) was a way of pre-populating that form with certain values to make the process easier for users.
 
-Our research showed this was a big step forward in making it easier for users to add commonly used rules, however there was still a lot of scope for improvement. We anticipated this might be the case as the first rule library implementation was very much a minimum viable product approach - we wanted to add value quickly and learn more about the way users interact with the system. 
+Our research showed this was a big step forward in making it easier for users to add commonly used rules, however there was still a lot of scope for improvement. We anticipated this might be the case as the first rule library implementation was very much a minimum viable product approach - we wanted to add value quickly and learn more about the way users interact with the system.
 
 ## The problems we wanted to fix
 
@@ -49,9 +49,3 @@ Initial user feedback has been very positive. Users find these new tailored rule
 The development work to roll this out is ongoing and we're continuing to review the types of rules that are being used in live campaigns. The library caters for the commonly used rules, but for more unusual ones the old rule builder form is still required. We've begun to refer to this as the "custom rule builder" and made the rule library the default way to add rules. Access to the "custom rule builder" is restricted to a certain user role, so if we onboard new users to SPI we can prevent them adding any type of rule which isn't in the library - which makes the service a bit safer for new users.
 
 We have also defined a process for users to request new rules be added to the library.
-
-
-
-
-
-
