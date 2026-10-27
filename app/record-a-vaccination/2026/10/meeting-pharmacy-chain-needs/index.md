@@ -1,74 +1,87 @@
 ---
-title: Showing appointments in RAVS
-description: A first step to integrating Record a vaccination and Manage your appointments
+title: Meeting the needs of pharmacy chains
+description: The first of 2 posts about meeting the needs of pharmacy chains
 date: 2026-09-11
 tags:
-  - appointments
-  - service integration
+  - onboarding
+  - permissions
+  - reporting
+  - user management
 ---
 
-As a first step towards integrating Record a vaccination (RAVS) and Manage your appointments (MYA), we've decided to add an appointments section to RAVS.
+In recent months, a key focus for the RAVS UCD team has been around meeting the needs of teams who work in the head office of a pharmacy chain and have company-wide responsibilities for managing vaccinations. 
 
 ## Background
 
-RAVS and MYA are separate staff-facing NHS services that are often used by the same people.
+Pharmacy chains, also known as multiples, are companies that have several pharmacy branches or stores. The smaller multiples have fewer than 10 branches and the largest more than 1,000. 
 
-Typically, the users who access both services are healthcare workers based in pharmacies. They manage their NHS vaccination bookings in MYA and then record the NHS vaccinations they give in RAVS.
+We've learned that every pharmacy chain or multiple is different so a 'head office' role can mean different things.  But most of the 'head office' teams we spoke to, especially at larger chains, expected to be able to:
 
-Currently you have to log in to each service separately to view appointments and record vaccinations.
+-	bulk onboard their branches
+-	run reports on the number of vaccinations done across all their branches
+-	
+Our existing service only allowed users to sign up for 1 pharmacy at the time, and to create reports for 1 pharmacy at the time. There was no company-wide view of operations. 
 
-We often hear from users in pharmacies that a daily pain point is having to log in to so many separate systems and remember passwords for each one. Some pharmacists have asked us explicitly why MYA and RAVS are not 1 service. The short explanation is that they were developed separately at different times.
+We considered different ways to adapt the service, starting with the sign-up form.
 
-## What we did
+## We tried adapting the existing sign-up form 
 
-When our teams discussed how we could bring the 2 services closer together, a full integration – where you would log in to 1 service to do to all the things you can currently do in MYA and RAVS – was not deemed feasible in the timeframe we were considering.
+Our initial focus was on how to help pharmacy chains bulk onboard their branches to RAVS as we saw this as the most pressing need. 
+We already had [a sign up flow that enabled an individual pharmacy to sign up for RAVS](https://design-history.prevention-services.nhs.uk/record-a-vaccination/2025/08/enabling-pharmacies-to-sign-up/). 
 
-So our focus was on a solution that would offer some benefits to users of both services even if it fell short of a full integration.
+First, we tried enhancing our existing sign-up flow by adding the option of signing up for a chain, and allowing the user in this journey to:
 
-We decided to explore pulling a view of the day’s appointments from MYA into RAVS via an API. And then allowing users to start recording from this appointments view, skipping the usual first step of the recording journey in RAVS which involves searching for the patient.
+-	select multiple pharmacies instead of just a single pharmacy
+-	add more than 1 initial lead administrator
 
-![Screenshot showing the 'Today's appointments' page in RAVS.](appointment-view-in-RAVS.png)
+![Screenshot showing the page in the sign-up journey that asks 'Are you signing up for 1 pharmacy or a pharmacy chain?'(are-you-signing-up-for-1-pharmacy.png)
 
-Our design also included separate tabs to show completed and cancelled appointments.
+![Screenshot showing the page in the sign-up journey that asks 'Select the pharmacies where you wnat to start using RAVS'(select-pharmacies.png)
 
-As well as showing the day's appointments, we decided to show future and previous appointments up to 7 days in the future and 7 days in the past.
+![Screenshot showing the page in the sign-up journey where you can add more than 1 lead administrator(add-lead-admins.png)
 
-Users would still need to access MYA to keep their appointment availability up to date.
+After completing this initial form, the lead administrators would need to log in to RAVS for each individual branch to add more users.  
 
-We thought the main benefits for users would be:
+### Feedback from user research
 
-- they would no longer need to log into MYA on a daily basis, as the bookings for that day would be available in RAVS
+The proposed sign-up journey worked well for small to medium-sized chains (fewer than 50 branches) but was challenging for large chains. 
 
-- they would skip the step of searching for the patient in the recording journey in RAVS because they would already see the patient’s details in the new appointments section
+#### Key takeaways from large chains
 
-- at the end of the day, they would easily see a list of people who had not attended their appointment
+-	Some participants from large chains were worried that by signing up and becoming a lead administrator, they would be responsible for all the admin associated with onboarding their branches and users. To fit with their ways of working and organisational structure, they wanted to share the sign-up burden with their regional managers rather than do it all centrally.
+-	There was not enough information in the sign-up form to explain the role of a lead administrator and that made it difficult for participants to decide who in their organisation should be a lead administrator. 
+-	They expected to be able to search the long list of pharmacies in their company, not just scroll down to select branches.
+-	They wanted greater ongoing control of users at their branches beyond the onboarding stage.
 
-- they may no longer need to print a list of the day's appointments – we heard from the MYA team that users often do this, for example to have NHS numbers at hand when they record a vaccination, or to check patients in at the front desk
+## We made more changes to the sign-up form 
 
-## What we learned from user research
+In the next iteration of the sign-up journey, we made several changes, mostly aimed at suggesting that larger chains could sign up their pharmacies in batches if they wanted to share the task of onboarding more widely, for example delegating some of it to regional managers. 
 
-These were the key findings from user research with 11 participants who used both RAVS and MYA (10 in pharmacies and 1 in a trust).
+On the page where you select pharmacies, we added:
 
-- Many users expressed that this was long awaited addition to RAVS.
+-	on-page guidance suggesting that large chains may want to sign up pharmacies in batches rather than all in 1 go
+-	a search input so users could more easily find and select pharmacies
 
-- Everyone was pleased to be able to start recording a vaccination from the appointments page in RAVS – participants said that not having to input an NHS number to find the patient would increase speed and accuracy.
+![Screenshot showing the updated Select pharmacies page with a search input(select-pharmacies-with-search.png)
 
-- The appointments page showed the right amount of information about each booking, including NHS number, date of birth, age and contact details.
+On the page where you add lead administrators, we added on-page guidance explaining what a lead administrator means as well as details of the permission levels users can have in RAVS. 
 
-- In terms of seeing appointments in the future and the past, there was a broad consensus that looking forward 7 days would be enough – this was considered helpful for planning vaccination clinics and managing stock. Looking back was less important – 1 to 7 days was sufficient.
+![Screenshot showing the updated Add lead admninistrators page with extra guidance(add-lead-admins-with-guidance.png)
 
-- Easily seeing who had not attended was considered useful as the user could then follow up with that patient and see if they still needed an appointment.
+We also created a separate step-by-step guide to signing up as a chain, with screenshots of every page in the flow, and details of the different permission levels and roles in RAVS.
 
-- Users would still want to print the day’s appointments with the only difference that they would print from RAVS instead of from MYA. We heard that this is something they would still need to do for operational reasons, for example so that front desk staff, who may not have access to RAVS or MYA, have a list of bookings to check patients in.
+### Feedback from user research
 
-## What we changed
+We tested this journey with several large chains. 
 
-We made some minor changes to our designs based on user feedback. For example, for past appointments, we amended the designs to only go as far back as yesterday.
+-	For most large pharmacy chains, the approach of onboarding branches in batches worked well. 
+-	For others, especially those that manage all operations centrally, it offered little or no benefit and might not be appropriate. 
+-	There was still confusion over the role of a lead administrator and over the number of lead administrators you could have in total across all your branches.
+-	Participants told us that they don't read user guides. At best they skim them or turn to them when they get stuck. 
 
-Some users suggested some further improvements which we have not explored but have added to our backlog. For example, some participants told us they would value check-in or partial save features that could enable front desk staff to input some information in advance of the actual vaccination.
+## What next?
 
-Some users also wanted a single system with one log in, in other words a full integration of MYA and RAVS.
+After our second round of user research, we discussed the feedback we'd had so far and concluded that it was lukewarm at best. 
+Our onboarding designs worked OK for some head office users but not all. Furthermore, these same users had expressed that they wanted to be able to view and manage their pharmacies in 1 place after onboarding had taken place.
 
-## What’s next
-
-The MYA team are working on an API so that appointment information can be sent to RAVS. Once that is available, we will hand over designs to the RAVS dev team.
+We decided to put our onboarding designs to one side and go back to the drawing board. See our next post on [creating an admin interface](link to next post).
