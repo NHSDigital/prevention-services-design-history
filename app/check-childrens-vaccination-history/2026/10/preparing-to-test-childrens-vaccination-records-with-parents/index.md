@@ -1,8 +1,7 @@
 ---
 title: Preparing to test children’s vaccination records with parents
 description: How we designed a simple MMR vaccination status and careful wording to show parents their children’s records, without claiming more than the record can support.
-date: 2026-10-31
-author: Martin Wright
+date: 2026-10-27
 ---
 
 In our alpha, we’re investigating MMR vaccination history. Our next step is a controlled test where parents see their own children’s records, so we can test our assumptions with real data.
