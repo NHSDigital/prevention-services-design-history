@@ -27,7 +27,7 @@ We considered different ways to adapt the service, starting with the sign-up for
 ## We tried adapting the existing sign-up form 
 
 Our initial focus was on how to help pharmacy chains bulk onboard their branches to RAVS as we saw this as the most pressing need. 
-We already had [a sign up flow that enabled an individual pharmacy to sign up for RAVS](https://design-history.prevention-services.nhs.uk/record-a-vaccination/2025/08/enabling-pharmacies-to-sign-up/). 
+We already had [a sign up flow that enabled an individual pharmacy to sign up for RAVS](/record-a-vaccination/2025/08/enabling-pharmacies-to-sign-up/). 
 
 First, we tried enhancing our existing sign-up flow by adding the option of signing up for a chain, and allowing the user in this journey to:
 
