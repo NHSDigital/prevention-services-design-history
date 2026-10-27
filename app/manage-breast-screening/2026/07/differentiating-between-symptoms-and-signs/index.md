@@ -22,7 +22,7 @@ We've made an update so mammographers can enter details of any concerning signs 
 
 The workflow in our prototype was designed around the medical information conversation that mammographers have during an appointment with the screening participant.
 
-Participants will be asked if they are currently experiencing any breast problems such as lumps, swelling or skin changes. If the participant says _"yes"_, we have a way to add information such as the location and duration of the symptom.
+Participants will be asked if they are currently experiencing any breast problems such as lumps, swelling or skin changes. If the participant says "yes", we have a way to add information such as the location and duration of the symptom.
 
 ![One of our 'add a symptom' pages, where users can add details such as the location and duration of a lump.](symptoms-form.png)
 
@@ -50,7 +50,7 @@ Our UCD team collectively came up with various ways to incorporate this feature.
 
 - **Do nothing** - Users can select 'not known' for any questions they can't answer and add a written note that the symptom was an observed sign. We decided that structured data was necessary so we could handle this information appropriately
 - **Remove the form validation** - Users could skip any questions they were unable to answer without getting an error message. However, this would mean removing validation for all symptoms which would affect the overall quality of data being collected.
-- **Add a pre-qualifying question** - We could introduce a step that asks users _"Is this a disclosed symptom or observed sign?"_ before capturing the details. This would give us structured data, but would likely cause too much disruption to the journey if they had to do this every time they added something.
+- **Add a pre-qualifying question** - We could introduce a step that asks users "Is this a disclosed symptom or observed sign?" before capturing the details. This would give us structured data, but would likely cause too much disruption to the journey if they had to do this every time they added something.
 
 ### The viable options
 

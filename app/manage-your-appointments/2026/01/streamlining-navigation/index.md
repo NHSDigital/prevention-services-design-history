@@ -44,7 +44,7 @@ We experimented with the labels for this new navigation. Because the day view sh
 
 We tested descriptive labels like “Daily appointments,” “Weekly availability,” and “Monthly availability.”
 
-However, the testing revealed that we were overthinking it. The descriptive labels actually created _more_ cognitive load. We reverted to standard calendar terminology: “Day view”, “Week view”, and “Month view”. These were universally understood, regardless of the underlying data differences.
+However, the testing revealed that we were overthinking it. The descriptive labels actually created more cognitive load. We reverted to standard calendar terminology: “Day view”, “Week view”, and “Month view”. These were universally understood, regardless of the underlying data differences.
 
 ![The day view page with new secondary navigation](day-view.png 'Secondary navigation now allows users to switch between day, week, and month quickly, mirroring standard calendar systems')
 
@@ -54,7 +54,7 @@ We also tackled a long-standing debt in our information architecture: the mislea
 
 ![The old create availabilty page](create-availability.png 'The old create availability screen displayed a history of creation events rather than a list of live availability')
 
-Users generally expect a list of items to represent the _current state_ (what is currently live). However, our list displayed a _history of events_ (when availability was created). If a user later edited a slot, this list would not update, so the interface often contradicted reality. This makes it hard for users to understand precisely which appointment slots were “live” and available to book.
+Users generally expect a list of items to represent the current state (what is currently live). However, our list displayed a history of events (when availability was created). If a user later edited a slot, this list would not update, so the interface often contradicted reality. This makes it hard for users to understand precisely which appointment slots were “live” and available to book.
 
 ### Unifying the actions
 

@@ -138,7 +138,8 @@ As long as one image has been taken during the mammogram, the case will still be
 
 Radiologists will see the images, along with a summary of any issues encountered during the appointment.
 
-_Note: We are in the early stages of developing the image reading side of our service and these screenshots are early drafts._
+> [!NOTE]
+> We are in the early stages of developing the image reading side of our service and these screenshots are early drafts.
 
 ![The image reader opinion screen showing image quality details recorded by a mammographer](review-imperfect.png "Based on the 'Image quality' note, the reader could decide they are good enough for them to give an opinion ('Normal' or 'Recall for assessment'). Or, they could choose to request a technical recall for one or more images.")
 

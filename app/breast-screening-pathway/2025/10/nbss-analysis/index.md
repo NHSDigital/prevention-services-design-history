@@ -19,8 +19,8 @@ In this first series of articles, we discuss how the Pathway Team set about on o
 
 As part of this work, we're exploring and documenting how NBSS works to support our transition and in recognition of its vital role.
 
-> - **From opaque legacy to practical insights**: replacing mission-critical systems is more than code migration; it requires _data reasoning_.
-> - We mapped _**what users do**_ (menu codes, journeys), _**what is stored**_ (forms, screens, reports, tables), and _**how data changes**_ (routines, classes).
+> - **From opaque legacy to practical insights**: replacing mission-critical systems is more than code migration; it requires data reasoning.
+> - We mapped **what users do** (menu codes, journeys), **what is stored** (forms, screens, reports, tables), and **how data changes** (routines, classes).
 > - **How we worked**: automated metadata extraction to build an inventory and quantify complexity; items represent decision points, business rules and data trails.
 > - **Key findings**: function codes drive workflows; a few codes (e.g. `SAD` and `SMSTA`) lead to clusters of screens, reports and routines; one code can touch multiple forms and tables; one report can source data from diverse data-paths making tracing logic harder without an inventory.
 > - **Operational impact**: opaque artefacts complicate migration; our investigation helps teams answer in minutes, not days, reducing risk and speeding planning.
@@ -93,7 +93,7 @@ To better comprehend the system's capabilities, we first obtained access to an N
 
 Data is the core of any system, without which, processes, extracts, and inputs are meaningless. Therefore, our first analysis phase was to establish a catalog of the structures, understand how the database technology works, list the types of data contained within in it, how to access the data, and how to extract it.
 
-NBSS data sits on InterSystems Caché/IRIS, an **object database** with a full SQL layer. Data resides in multidimensional **globals** (nested key-value files stored on disk) projected into _tables_ for SQL and _classes_ for objects, so analysts can use whichever access mode suits their needs[^4].
+NBSS data sits on InterSystems Caché/IRIS, an **object database** with a full SQL layer. Data resides in multidimensional **globals** (nested key-value files stored on disk) projected into tables for SQL and classes for objects, so analysts can use whichever access mode suits their needs[^4].
 
 For example, `^Client(123,"Episode",45)=...` references a global titled `Client` with subscripts `123`, `Episode`, and `45`.
 
@@ -117,7 +117,7 @@ With a basic understanding in place, we moved onto exploring the system in more 
 
 ## Explore
 
-We documented our initial findings on Confluence pages according to our assessment perspective, for example we covered **technical** assessment[^7] and **process** assessment[^8]. Beyond these perspectives, we focused heavily on _data_, specifically:
+We documented our initial findings on Confluence pages according to our assessment perspective, for example we covered **technical** assessment[^7] and **process** assessment[^8]. Beyond these perspectives, we focused heavily on data, specifically:
 
 - **user journeys** throughout NBSS
 - data **capture and manipulation** across screens
@@ -142,7 +142,7 @@ Function codes are simple constructs that
 
 The system allows defining function codes for **`Standard`** and **`Administrator`** user types. `Standard` are typically screening office managers or junior office managers; `Administrator` can exercise more control over the configuration of the system and who generally require deeper knowledge of the inner workings of NBSS.
 
-The NBSS function codes are a _starting point_ into screening workflows, like printing reports or editing data, and users can typically start with any function code available to them.
+The NBSS function codes are a starting point into screening workflows, like printing reports or editing data, and users can typically start with any function code available to them.
 
 ### Permissions
 

@@ -36,7 +36,7 @@ Remote methods alone were not going to get us there.
 
 ## **What we did**
 
-To quote Steve Blank, author of The Lean Startup, we needed to _“get out of the building.”_
+To quote Steve Blank, author of The Lean Startup, we needed to “get out of the building.”
 
 We contacted public libraries across different regions and asked if we could conduct pop-up research sessions for a day. Libraries were happy to support us. We set up a table with an NHS research banner and approached visitors, inviting them to take part in a 20-minute session.
 
