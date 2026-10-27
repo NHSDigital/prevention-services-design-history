@@ -1,6 +1,6 @@
 ---
-title: Improving our medical history forms
-description: A series of updates made to address issues identified by our users when testing screening appointment workflows.
+title: Improving how we capture medical history for each breast
+description: We've given users a simpler way to state which breast previous surgery or treatment relates too, and added new paths when they provide details of a mastectomy.
 date: 2026-10-26
 author: Danny Chadburn
 opengraphImage:
@@ -27,7 +27,17 @@ Our initial designs laid the options out in two columns (right and left), and as
 
 During testing we've discovered this was creating frustration for users. We were forcing them to answer questions for both breasts, even when a participant had only had a procedure on one side.
 
-![The procedures, surgery and treatment options for breast cancer presented in two columns with validation errors for sections not completed](validation-errors.png 'A typical scenario when adding details of previous breast cancer in the right breast that was treated with a lumpectomy. The user would see six validation errors unless they made a selection for all questions on both sides.')
+<figure class="nhsuk-image">
+  <div style="background: #f2f8fd; padding: 24px; text-align: center;">
+    <img
+      src="validation-errors.png"
+      alt="The procedures, surgery and treatment options for breast cancer presented in two columns with validation errors for sections not completed"
+      style="display: block; width: 320px; max-width: 100%; height: auto; margin: 0 auto;">
+  </div>
+  <figcaption class="nhsuk-image__caption">
+    A typical scenario when adding details of previous breast cancer in the right breast that was treated with a lumpectomy. The user would see six validation errors unless they made a selection for all questions on both sides.
+  </figcaption>
+</figure>
 
 We'd provided a comprehensive set of options to cover every scenario, but the screen was cluttered with a mass of inputs and repeated label text which made it cumbersome to use in a live screening.
 
@@ -39,7 +49,14 @@ Users simply need to select what happened and then (where relevant) state on whi
 
 This significantly cuts down on the number of clicks required from users to record the information, as well as being more pleasing on the eye.
 
-![The procedures, surgery and treatment options for breast cancer presented as checkboxes with conditional radio buttons to choose a side](one-sided.png)
+<figure class="nhsuk-image">
+  <div style="background: #f2f8fd; padding: 24px; text-align: center;">
+    <img
+      src="one-sided.png"
+      alt="The procedures, surgery and treatment options for breast cancer presented as checkboxes with conditional radio buttons to choose a side"
+      style="display: block; width: 320px; max-width: 100%; height: auto; margin: 0 auto;">
+  </div>
+</figure>
 
 We've applied this one-column solution on all the forms that collect information on medical interventions (breast cancer, breast implants, mastectomy or lumpectomy, and benign lumps).
 
@@ -47,10 +64,10 @@ We've applied this one-column solution on all the forms that collect information
 
 Our user research also uncovered two confusing elements related to these forms that we needed to rectify. In our prototype there were:
 
-1. multiple ways to add a mastectomy
-2. two types of mastectomy
+1. different ways to add a mastectomy (depending on the reason it was done)
+2. different types of mastectomy
 
-### 1. Multiple ways to add a mastectomy
+### 1. Different ways to add a mastectomy
 
 A mastectomy is one of the treatment options following a breast cancer diagnosis. But there are other reasons why someone may have a mastectomy, such as reducing cancer risk or as a part of gender transition.
 
@@ -68,7 +85,14 @@ That meant some users were completing details of past instances of breast cancer
 
 They were also confused when reaching this question:
 
-![The old question on our mastectomy or lumpectomy form asking users to record the reason](surgery-reason.png)
+<figure class="nhsuk-image">
+  <div style="background: #f2f8fd; padding: 24px; text-align: center;">
+    <img
+      src="surgery-reason.png"
+      alt="The old question on our mastectomy or lumpectomy form asking users to record the reason"
+      style="display: block; width: 320px; max-width: 100%; height: auto; margin: 0 auto;">
+  </div>
+</figure>
 
 So rather than having this at the end of the process, we've decided to ask it first as a separate step, and add in breast cancer as one of the options.
 
@@ -76,7 +100,7 @@ So rather than having this at the end of the process, we've decided to ask it fi
 
 If breast cancer is selected, we divert users to the breast cancer form. If any of the other reasons are chosen they continue with the rest of the elective mastectomy or lumpectomy questions.
 
-### 2. Two types of mastectomy
+### 2. Different types of mastectomy
 
 After a mastectomy it may still be necessary for a participant to have breast cancer screening. Even though the procedure removes the majority of the breast, there's still a chance cancer could develop in any remaining tissue.
 
@@ -90,7 +114,14 @@ There is some residual tissue left behind after pretty much every mastectomy. It
 
 Our updated forms simplify this into a single selection.
 
-![A checkbox for users to record a mastectomy then choose what side this relates to](mastectomy-simple-option.png)
+<figure class="nhsuk-image">
+  <div style="background: #f2f8fd; padding: 24px; text-align: center;">
+    <img
+      src="mastectomy-simple-option.png"
+      alt="A checkbox for users to record a mastectomy then choose what side this relates to"
+      style="display: block; width: 320px; max-width: 100%; height: auto; margin: 0 auto;">
+  </div>
+</figure>
 
 ## New unilateral and bilateral mastectomy paths
 
@@ -116,8 +147,11 @@ Most medical information is shown in a summary below the opinion options, but fo
 
 ![A warning banner alerting an image reader to a unilateral mastectomy](mastectomy-image-reading.png)
 
-Different image combinations can be expected in different scenarios. For example, if there's a unilateral mastectomy on the right side the mammographer may take two images of the left breast, but only a CC on the right.
-
-Or if there's a bilateral mastectomy the mammographer may take LCC and RCC images, but no MLOs.
+Different image combinations can be expected in different scenarios. For example, if there's a unilateral mastectomy on the right side the mammographer may take two images of the left breast, but only a CC on the right. Or if there's a bilateral mastectomy the mammographer may take LCC and RCC images, but no MLOs.
 
 We need to update our prototype to reflect the real-world situations encountered by our users and put these updates in front of them to see if we've effectively addressed the issues they had identified.
+
+As well as addressing any feedback, the next iteration of this update will include solutions for:
+
+- displaying image thumbnails during reading when there are only images of one breast to consider
+- updating our opinion paths (technical recall and recall for assessment) so they don't include components related to the breast that has been removed
