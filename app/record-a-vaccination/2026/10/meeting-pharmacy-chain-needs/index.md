@@ -1,7 +1,7 @@
 ---
 title: Meeting the needs of pharmacy chains
 description: The first of 2 posts about meeting the needs of pharmacy chains
-date: 2026-09-11
+date: 2026-10-30
 tags:
   - onboarding
   - permissions
@@ -19,7 +19,7 @@ We've learned that every pharmacy chain or multiple is different so a 'head offi
 
 -	bulk onboard their branches
 -	run reports on the number of vaccinations done across all their branches
--	
+
 Our existing service only allowed users to sign up for 1 pharmacy at the time, and to create reports for 1 pharmacy at the time. There was no company-wide view of operations. 
 
 We considered different ways to adapt the service, starting with the sign-up form.
@@ -34,11 +34,11 @@ First, we tried enhancing our existing sign-up flow by adding the option of sign
 -	select multiple pharmacies instead of just a single pharmacy
 -	add more than 1 initial lead administrator
 
-![Screenshot showing the page in the sign-up journey that asks 'Are you signing up for 1 pharmacy or a pharmacy chain?'(are-you-signing-up-for-1-pharmacy.png)
+![Screenshot showing the page in the sign-up journey that asks 'Are you signing up for 1 pharmacy or a pharmacy chain?'](are-you-signing-up-for-1-pharmacy.png)
 
-![Screenshot showing the page in the sign-up journey that asks 'Select the pharmacies where you wnat to start using RAVS'(select-pharmacies.png)
+![Screenshot showing the page in the sign-up journey that asks 'Select the pharmacies where you wnat to start using RAVS'](select-pharmacies.png)
 
-![Screenshot showing the page in the sign-up journey where you can add more than 1 lead administrator(add-lead-admins.png)
+![Screenshot showing the page in the sign-up journey where you can add more than 1 lead administrator](add-lead-admins.png)
 
 After completing this initial form, the lead administrators would need to log in to RAVS for each individual branch to add more users.  
 
@@ -62,11 +62,11 @@ On the page where you select pharmacies, we added:
 -	on-page guidance suggesting that large chains may want to sign up pharmacies in batches rather than all in 1 go
 -	a search input so users could more easily find and select pharmacies
 
-![Screenshot showing the updated Select pharmacies page with a search input(select-pharmacies-with-search.png)
+![Screenshot showing the updated Select pharmacies page with a search input](select-pharmacies-with-search.png)
 
 On the page where you add lead administrators, we added on-page guidance explaining what a lead administrator means as well as details of the permission levels users can have in RAVS. 
 
-![Screenshot showing the updated Add lead admninistrators page with extra guidance(add-lead-admins-with-guidance.png)
+![Screenshot showing the updated Add lead admninistrators page with extra guidance](add-lead-admins-with-guidance.png)
 
 We also created a separate step-by-step guide to signing up as a chain, with screenshots of every page in the flow, and details of the different permission levels and roles in RAVS.
 
