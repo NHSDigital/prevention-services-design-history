@@ -70,8 +70,8 @@ function checkAbsoluteUrl(line) {
 
 const italicsMessage =
   'Avoid italics. The [NHS content style guide](https://service-manual.nhs.uk/content/formatting#bold-italics-and-underlining) ' +
-  'says not to use them, and the NHS frontend does not include an italic font.\n\n' +
-  'Instead, consider rewording to emphasise words or phrases, for example by front-loading sentences, ' +
+  'says not to use them. Markdown italics are displayed as plain text, so they will not appear emphasised.\n\n' +
+  'Instead, use other ways to emphasise words or phrases, for example by front-loading sentences, ' +
   'using headings or bullets, or using words like "important". ' +
   'You can also use bold (`**text**`), but sparingly.'
 
