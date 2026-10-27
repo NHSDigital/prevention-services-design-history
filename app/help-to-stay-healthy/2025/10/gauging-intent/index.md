@@ -89,7 +89,7 @@ A reporting approach benefits from being reliable and removes unnecessary work f
 However, we also must consider:
 
 - informal or small scale community based options, for example a litter picking club
-- services that don’t _want_ to report on an individual level, for example any service offering anonymity of any kind
+- services that don’t want to report on an individual level, for example any service offering anonymity of any kind
 - facilities which have zero registration or reporting, for example a public gym in a park
 
 All these examples are completely viable &ndash; the lack of “being joined up” is not a reason to exclude them.

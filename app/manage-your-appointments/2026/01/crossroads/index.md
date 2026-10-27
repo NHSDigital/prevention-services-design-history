@@ -62,7 +62,7 @@ This also doesn’t allow editing of the day pattern.
 
 There are other scenarios where grouping might not be necessary for future requirements.
 
-One example is a scenario in which a site runs out of adult Flu vaccine. In this instance, they need to remove all adult Flu services from the upcoming availability. This _would_ be possible with groups; however, once the site reestablishes supply, it would be impossible to edit the orriginal availability in bulk. Rather, the site would have to create new availability just for adult Flu appointments.
+One example is a scenario in which a site runs out of adult Flu vaccine. In this instance, they need to remove all adult Flu services from the upcoming availability. This would be possible with groups; however, once the site reestablishes supply, it would be impossible to edit the orriginal availability in bulk. Rather, the site would have to create new availability just for adult Flu appointments.
 
 We also want to support working patterns in the future. For example, a site that has two vaccinators who work different hours. This becomes very hard to manage without some way to link days together.
 

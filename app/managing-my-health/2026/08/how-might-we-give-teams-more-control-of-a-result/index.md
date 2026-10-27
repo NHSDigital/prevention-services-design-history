@@ -26,7 +26,7 @@ During our alpha, we’re looking at whether we can support prevention services 
 - Can we give teams more control over the result, the content that explains it, when it’s shown, and the next step offered?
 - Can this work across services in Digital Prevention Services that handle results differently?
 
-Over a few workshops, we’ve iterated on these hypotheses and pulled out the risky assumptions[^2]. We’re not working on all of those at once, and have focused on the _riskiest_ assumptions first.
+Over a few workshops, we’ve iterated on these hypotheses and pulled out the risky assumptions[^2]. We’re not working on all of those at once, and have focused on the riskiest assumptions first.
 
 ## Initial thinking on a solution
 
@@ -93,6 +93,10 @@ From looking at the app’s source code, we know we can change the way a result 
 
 This is our first experiment and we’re making a start on it with colleagues in Cervical Screening and clinical assurance. It underpins how our initial solution will work. Anything we learn will feed back into our understanding of how to solve the problem.
 
-[^1]: It’s easy to get lost with the terminology, especially as words can be used interchangeably with different meanings. We’ve grounded ourselves in Jeff Gothelf’s definition: _Hypotheses are statements that combine our assumptions about outcomes, user benefits, and features. They are structured to test whether a specific aspect of our service proposition is true._
+[^1]: It’s easy to get lost with the terminology, especially as words can be used interchangeably with different meanings. We’ve grounded ourselves in Jeff Gothelf’s definition:
 
-[^2]: Again, we’re using Jeff Gothelf’s definition: _Riskiest assumptions are the assumptions within your hypotheses that, if incorrect, would cause the entire idea to fail. Identifying these is crucial because they help you focus on what you need to learn first to validate or invalidate your hypothesis._
+    > Hypotheses are statements that combine our assumptions about outcomes, user benefits, and features. They are structured to test whether a specific aspect of our service proposition is true.
+
+[^2]: Again, we’re using Jeff Gothelf’s definition:
+
+    > Riskiest assumptions are the assumptions within your hypotheses that, if incorrect, would cause the entire idea to fail. Identifying these is crucial because they help you focus on what you need to learn first to validate or invalidate your hypothesis.

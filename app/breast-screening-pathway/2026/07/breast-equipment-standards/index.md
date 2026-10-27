@@ -103,7 +103,7 @@ DICOM is important for Rubie because it affects how:
 | Patient Weight    | Referring Physician. | Body Part Examined + Modality-Specific Attributes | Planar Configuration       |
 |                   |                      |                                                   | Samples per Pixel          |
 
-_Table of DICOM Metadata reproduced from MDPI article "Thirty years of the DICOM standard" by Michele Larobina_ [^4]
+Table of DICOM Metadata reproduced from MDPI article "Thirty years of the DICOM standard" by Michele Larobina [^4]
 
 DICOM ensures that images produced by one provider’s machine can be viewed and archived on systems from another.
 

@@ -14,7 +14,7 @@ Test results is one of the most‑used parts of the NHS App. Recent changes to 
 
 Public confidence in how the NHS communicates results has been falling too. In 2025, fewer than half the public (43%) said the NHS is good at communicating about things like appointments and test results, down from 52% the year before.[^1]
 
-[^1]: The King’s Fund, National Voices and Healthwatch England, [_Still lost in the system: the urgent need for better NHS admin_](https://www.kingsfund.org.uk/insight-and-analysis/long-reads/still-lost-system-urgent-need-better-nhs-admin), April 2026.
+[^1]: The King’s Fund, National Voices and Healthwatch England, [Still lost in the system: the urgent need for better NHS admin](https://www.kingsfund.org.uk/insight-and-analysis/long-reads/still-lost-system-urgent-need-better-nhs-admin), April 2026.
 
 User needs for test results are broadly consistent:
 

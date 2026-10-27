@@ -13,7 +13,9 @@ A medical device is anything intended by the manufacturer to be used by human be
 
 Medical devices in the UK are governed by [The Medical Devices Regulations (2002)](https://www.legislation.gov.uk/uksi/2002/618/regulation/10). These regulations are managed by the Medicines and Healthcare products Regulatory Agency (MHRA), and since these regulations only really cover physical devices, the MHRA has helpfully provided [guidance for the labelling of software (link opens PDF document)](https://assets.publishing.service.gov.uk/media/64a7d22d7a4c230013bba33c/Medical_device_stand-alone_software_including_apps__including_IVDMDs_.pdf).
 
-Specifically with regard to apps it states that, _"A prospective buyer should be able to identify that the app meets the relevant essential requirements prior to purchase. As such, a developer should display the UKCA mark on the primary landing page and as a screen shot in any app store."_
+Specifically with regard to apps it states that:
+
+> A prospective buyer should be able to identify that the app meets the relevant essential requirements prior to purchase. As such, a developer should display the UKCA mark on the primary landing page and as a screen shot in any app store.
 
 It is this guidance that led to the inclusion of a lengthy information panel below the ‘Start now’ button on the initial page of the NHS Health Check online service.
 
