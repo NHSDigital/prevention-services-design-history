@@ -36,7 +36,7 @@ The money savings from connecting vans included:
 
 Connected vans helped reduce the time mammographers spent doing admin work, like transferring images to hard drives and other ‘closing clinics’ tasks, giving them more time for clinical work.
 
-> We are saving time downloading and uploading clinic lists to NBSS, which is equivalent to 3 slots or 10 to 20 minutes per day. But not always, it can result in fewer slots too.
+> "We are saving time downloading and uploading clinic lists to NBSS, which is equivalent to 3 slots or 10 to 20 minutes per day. But not always, it can result in fewer slots too."
 
 Other BSOs estimated that they saved 45 minutes to an hour a day.
 
