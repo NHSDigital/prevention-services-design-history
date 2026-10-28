@@ -29,12 +29,17 @@ We considered different ways to adapt the service, starting with the sign-up for
 Our initial focus was on how to help pharmacy chains bulk onboard their branches to RAVS as we saw this as the most pressing need. 
 We already had [a sign up flow that enabled an individual pharmacy to sign up for RAVS](/record-a-vaccination/2025/08/enabling-pharmacies-to-sign-up/). 
 
-First, we tried enhancing our existing sign-up flow by adding the option of signing up for a chain, and allowing the user in this journey to:
+First, we tried enhancing our existing sign-up flow by adding the option of signing up for a chain. This used data from the Organisation Data Service (ODS) that identifies pharmacy headquarters and groups individual pharmacy branches under the parent organisation.
+
+![Screenshot showing the page in the sign-up journey that asks 'Are you signing up for 1 pharmacy or a pharmacy chain?'](are-you-signing-up-for-1-pharmacy.png)
 
 -	select multiple pharmacies instead of just a single pharmacy
 -	add more than 1 initial lead administrator
 
-![Screenshot showing the page in the sign-up journey that asks 'Are you signing up for 1 pharmacy or a pharmacy chain?'](are-you-signing-up-for-1-pharmacy.png)
+Users could then:  
+
+- select all the pharmacy branches they wanted to onboard
+- add several lead administrators who would have access to those pharmacies 
 
 ![Screenshot showing the page in the sign-up journey that asks 'Select the pharmacies where you wnat to start using RAVS'](select-pharmacies.png)
 
