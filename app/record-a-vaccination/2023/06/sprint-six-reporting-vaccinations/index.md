@@ -9,7 +9,7 @@ Our initial discovery revealed that in current point-of-care systems, reporting 
 
 We also uncovered several major sources of frustration for reporters when running, creating and sharing reports about patient or staff vaccinations across some systems. In addition to taking up users' time, these issues presented data risks.
 
-> "If I run a report, I get every field. 35 columns, and maybe only want 10. I want to filter out or customise them. Better for data quality and saves deleting what I don’t want. I am running reports daily. There is some useful stuff in there, but I just want control."
+> If I run a report, I get every field. 35 columns, and maybe only want 10. I want to filter out or customise them. Better for data quality and saves deleting what I don’t want. I am running reports daily. There is some useful stuff in there, but I just want control.
 
 For example, in some or all systems, users:
 
@@ -25,7 +25,7 @@ For example, in some or all systems, users:
 - Have no means to check who has access to patient records, or to control access through a read-only account.
 - Cannot easily view records captured by a given vaccinator over a specific time period.
 
-> "Why is this limiting? I don't understand it. It gives me headaches… A year's worth of reporting when I can only do 2 weeks at a time. This took me hours!"
+> Why is this limiting? I don't understand it. It gives me headaches… A year's worth of reporting when I can only do 2 weeks at a time. This took me hours!
 
 ## Supporting users to report vaccination event data
 
