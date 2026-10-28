@@ -13,14 +13,14 @@ We have been exploring how we can better meet the needs of teams who work in the
 
 ## Background
 
-Pharmacy chains, also known as multiples, are companies that have many pharmacy branches or stores. The smaller multiples have fewer than 10 branches and the largest more than 1,000. 
+Pharmacy chains, also known as multiples, are companies that have several pharmacy branches or stores. The smaller multiples have fewer than 10 branches and the largest more than 1,000. 
 
 We've learned that every pharmacy chain or multiple is different so a 'head office' role can mean different things.  But most of the teams we spoke to, especially at larger chains, expected to be able to:
 
 -	bulk onboard their branches
 -	run reports on the number of vaccinations done across all their branches
 
-Our existing service only allowed users to sign up for 1 pharmacy at the time, and to create reports for 1 pharmacy at the time. There was no company-wide view of operations. 
+Our existing service only allowed users to sign up for 1 pharmacy at the time, and to create reports for 1 pharmacy. There was no company-wide view of operations. 
 
 We considered different ways to adapt the service, starting with the sign-up form.
 
