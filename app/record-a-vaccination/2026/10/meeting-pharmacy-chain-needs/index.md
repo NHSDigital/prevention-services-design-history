@@ -82,6 +82,7 @@ We tested this journey with several large chains.
 ## What next?
 
 After our second round of user research, we discussed the feedback we'd had so far and concluded that it was lukewarm at best. 
+
 Our onboarding designs worked OK for some head office users but not all. Furthermore, these same users had expressed that they wanted to be able to view and manage their pharmacies in 1 place after onboarding had taken place.
 
 We decided to put our onboarding designs to one side and go back to the drawing board. See our next post on [creating an admin interface](link to next post).
