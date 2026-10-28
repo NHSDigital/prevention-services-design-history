@@ -1,7 +1,7 @@
 ---
 title: Improving how we capture medical history for each breast
 description: We've given users a simpler way to state which breast previous surgery or treatment relates too, and added new paths when they provide details of a mastectomy.
-date: 2026-10-26
+date: 2026-10-29
 author: Danny Chadburn
 opengraphImage:
   src: /manage-breast-screening/2026/10/improving-medical-history-forms/one-sided.png
