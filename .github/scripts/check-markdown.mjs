@@ -116,6 +116,9 @@ const blockquoteQuotePairs = new Map([
   ['“', '”'],
   ['‘', '’']
 ])
+const blockquoteClosingQuotes = new Map(
+  [...blockquoteQuotePairs].map(([opening, closing]) => [closing, opening])
+)
 
 const blockquoteQuoteMessage =
   'Do not add quotation marks at the start or end of blockquote lines. The markdown renderer adds them automatically, ' +
@@ -148,14 +151,94 @@ function checkBlockquoteQuotes(text) {
       const firstContentIndex = blockContentLines.findIndex((line) =>
         line.trim()
       )
-      const firstContent = blockContentLines[firstContentIndex]
-      const blockOpeningIndex = firstContent?.search(/\S/)
-      const blockOpeningQuote = firstContent?.[blockOpeningIndex]
-      const lastContent = blockContentLines.findLast((line) => line.trim())
-      const lastContentIndex = lastContent?.search(/\s*$/) - 1
-      const blockHasWrappingQuotes =
-        blockquoteQuotePairs.get(blockOpeningQuote) ===
-        lastContent?.[lastContentIndex]
+      const lastContentIndex = blockContentLines.findLastIndex((line) =>
+        line.trim()
+      )
+      const lineOffsets = []
+      let blockContent = ''
+      for (const [lineIndex, content] of blockContentLines.entries()) {
+        lineOffsets.push(blockContent.length)
+        blockContent += `${content}\n`
+        if (lineIndex === blockContentLines.length - 1) {
+          blockContent = blockContent.slice(0, -1)
+        }
+      }
+
+      const pairedQuotePositions = new Map()
+      const pairQuotePositions = (first, second) => {
+        pairedQuotePositions.set(first, second)
+        pairedQuotePositions.set(second, first)
+      }
+      const straightQuoteOpenings = new Map()
+      const curlyQuoteOpenings = []
+      for (let position = 0; position < blockContent.length; position++) {
+        const quote = blockContent[position]
+        if (
+          (quote === "'" || quote === '’') &&
+          /[\p{L}\p{N}]/u.test(blockContent[position - 1] ?? '') &&
+          /[\p{L}\p{N}]/u.test(blockContent[position + 1] ?? '')
+        ) {
+          continue
+        }
+        const closingQuote = blockquoteQuotePairs.get(quote)
+        if (closingQuote === quote) {
+          if (straightQuoteOpenings.has(quote)) {
+            pairQuotePositions(straightQuoteOpenings.get(quote), position)
+            straightQuoteOpenings.delete(quote)
+          } else {
+            straightQuoteOpenings.set(quote, position)
+          }
+        } else if (blockquoteQuotePairs.has(quote)) {
+          curlyQuoteOpenings.push({ quote, position })
+        } else if (blockquoteClosingQuotes.has(quote)) {
+          const openingIndex = curlyQuoteOpenings.findLastIndex(
+            ({ quote: openingQuote }) =>
+              blockquoteQuotePairs.get(openingQuote) === quote
+          )
+          if (openingIndex !== -1) {
+            const [{ position: openingPosition }] = curlyQuoteOpenings.splice(
+              openingIndex,
+              1
+            )
+            pairQuotePositions(openingPosition, position)
+          }
+        }
+      }
+
+      const leadingBoundaryPositions = new Set()
+      const firstContent = blockContentLines[firstContentIndex] ?? ''
+      let leadingIndex = firstContent.search(/\S/)
+      while (
+        leadingIndex < firstContent.length &&
+        blockquoteQuoteMark.test(firstContent[leadingIndex])
+      ) {
+        leadingBoundaryPositions.add(
+          lineOffsets[firstContentIndex] + leadingIndex
+        )
+        leadingIndex++
+      }
+
+      const trailingBoundaryPositions = new Set()
+      const lastContent = blockContentLines[lastContentIndex] ?? ''
+      let trailingIndex = lastContent.search(/\s*$/) - 1
+      while (
+        trailingIndex >= 0 &&
+        blockquoteQuoteMark.test(lastContent[trailingIndex])
+      ) {
+        trailingBoundaryPositions.add(
+          lineOffsets[lastContentIndex] + trailingIndex
+        )
+        trailingIndex--
+      }
+
+      const wrappingQuotePositions = new Set()
+      for (const position of leadingBoundaryPositions) {
+        const pairedPosition = pairedQuotePositions.get(position)
+        if (trailingBoundaryPositions.has(pairedPosition)) {
+          wrappingQuotePositions.add(position)
+          wrappingQuotePositions.add(pairedPosition)
+        }
+      }
 
       // NOTEs use a left rule instead of the renderer's quote marks, so we skip them from the check.
       if (!/^\s*>\s*\[!NOTE\](?:\s|$)/.test(blockLines[0])) {
@@ -172,7 +255,13 @@ function checkBlockquoteQuotes(text) {
             boundaryIndex <= trailingIndex &&
             blockquoteQuoteMark.test(content[boundaryIndex])
           ) {
-            removeIndexes.add(boundaryIndex)
+            const position = lineOffsets[lineIndex] + boundaryIndex
+            if (
+              !pairedQuotePositions.has(position) ||
+              wrappingQuotePositions.has(position)
+            ) {
+              removeIndexes.add(boundaryIndex)
+            }
             boundaryIndex++
           }
           boundaryIndex = trailingIndex
@@ -180,28 +269,14 @@ function checkBlockquoteQuotes(text) {
             boundaryIndex >= leadingIndex &&
             blockquoteQuoteMark.test(content[boundaryIndex])
           ) {
-            removeIndexes.add(boundaryIndex)
+            const position = lineOffsets[lineIndex] + boundaryIndex
+            if (
+              !pairedQuotePositions.has(position) ||
+              wrappingQuotePositions.has(position)
+            ) {
+              removeIndexes.add(boundaryIndex)
+            }
             boundaryIndex--
-          }
-          const trailingQuote = content[trailingIndex]
-          const matchingOpeningQuote = [...blockquoteQuotePairs].find(
-            ([openingQuote, closingQuote]) =>
-              closingQuote === trailingQuote &&
-              content.slice(leadingIndex, trailingIndex).includes(openingQuote)
-          )?.[0]
-          const trailingQuoteIsInline =
-            matchingOpeningQuote &&
-            !(
-              lineIndex === firstContentIndex &&
-              leadingIndex === blockOpeningIndex &&
-              blockquoteQuoteMark.test(blockOpeningQuote)
-            )
-          if (
-            trailingQuoteIsInline &&
-            !blockHasWrappingQuotes &&
-            !removeIndexes.has(leadingIndex)
-          ) {
-            removeIndexes.delete(trailingIndex)
           }
           if (removeIndexes.size === 0) return line
 
@@ -267,7 +342,7 @@ function findMarkdownFiles(dir) {
 /**
  * Scans all markdown files under app/ and returns mistakes.
  *
- * @returns {{ path: string, line: number, message: string, suggestion?: string }[]}
+ * @returns {{ path: string, line: number, endLine?: number, message: string, suggestion?: string }[]}
  */
 export function scanAllFiles() {
   const files = findMarkdownFiles('app')
@@ -289,6 +364,7 @@ export function scanAllFiles() {
       mistakes.push({
         path: filePath,
         line: result.line,
+        endLine: result.endLine,
         message: result.message,
         suggestion: result.suggestion
       })
@@ -303,7 +379,7 @@ export function scanAllFiles() {
  * Used by the PR review script to post inline comments on changed lines only.
  *
  * @param {string} baseRef - git ref to diff against, e.g. 'origin/main'
- * @returns {{ path: string, line: number, message: string, suggestion?: string }[]}
+ * @returns {{ path: string, line: number, endLine?: number, message: string, suggestion?: string }[]}
  */
 export function getMistakes(baseRef) {
   // Reject unexpected characters to prevent shell command injection
@@ -366,7 +442,8 @@ export function getMistakes(baseRef) {
       if (addedLine) {
         mistakes.push({
           path,
-          line: addedLine,
+          line: result.line,
+          endLine: result.endLine,
           message: result.message,
           suggestion: result.suggestion
         })
