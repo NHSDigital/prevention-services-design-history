@@ -25,6 +25,7 @@ import { existsSync, readFileSync, readdirSync } from 'fs'
 import { join } from 'path'
 import { fileURLToPath } from 'url'
 import MarkdownIt from 'markdown-it'
+import markdownItFootnote from 'markdown-it-footnote'
 
 /**
  * Checks if a line contains an H1 heading.
@@ -75,7 +76,7 @@ const italicsMessage =
   'using headings or bullets, or using words like "important". ' +
   'You can also use bold (`**text**`), but sparingly.'
 
-const markdown = new MarkdownIt()
+const markdown = new MarkdownIt().use(markdownItFootnote)
 
 /**
  * Finds italic (emphasis) text by parsing the whole document, so that code
