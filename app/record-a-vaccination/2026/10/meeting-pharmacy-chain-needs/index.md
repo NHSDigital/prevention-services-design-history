@@ -9,7 +9,7 @@ tags:
   - user management
 ---
 
-In recent months, a key focus for the RAVS UCD team has been around meeting the needs of teams who work in the head office of a pharmacy chain and have company-wide responsibilities for managing vaccinations. 
+We have been exploring how we can better meet the needs of teams who work in the head office of a pharmacy chain and have company-wide responsibilities for managing vaccinations. 
 
 ## Background
 
