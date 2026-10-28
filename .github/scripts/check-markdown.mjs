@@ -10,6 +10,8 @@
  *   changes in future.
  * - Italics (*text* or _text_): against the NHS style guide, and the NHS
  *   frontend does not include an italic font.
+ * - Quote marks around blockquotes: the renderer adds quotation marks
+ *   automatically, so explicit marks result in double quotes.
  *
  * When run directly, scans all markdown files under app/:
  *   npm run check:markdown
@@ -107,6 +109,130 @@ function checkItalics(text) {
   return [...lines].map((line) => ({ line, message: italicsMessage }))
 }
 
+const blockquoteQuoteMark = /["'“”‘’]/
+const blockquoteQuotePairs = new Map([
+  ['"', '"'],
+  ["'", "'"],
+  ['“', '”'],
+  ['‘', '’']
+])
+
+const blockquoteQuoteMessage =
+  'Do not add quotation marks at the start or end of blockquote lines. The markdown renderer adds them automatically, ' +
+  'so explicit quotation marks will appear twice.'
+
+/**
+ * Finds quotation marks at the start or end of blockquote lines.
+ *
+ * @param {string} text - full contents of a markdown file
+ * @returns {{ line: number, endLine: number, message: string, suggestion: string }[]} wrapped blockquotes
+ */
+function checkBlockquoteQuotes(text) {
+  const lines = text.split('\n')
+  const mistakes = []
+  let index = 0
+
+  while (index < lines.length) {
+    if (/^\s*>/.test(lines[index])) {
+      const start = index
+      const blockLines = []
+      while (index < lines.length && /^\s*>/.test(lines[index])) {
+        blockLines.push(lines[index])
+        index++
+      }
+
+      const blockContentLines = blockLines.map((line) => {
+        const prefix = line.match(/^\s*>[ \t]*/)[0]
+        return line.slice(prefix.length)
+      })
+      const firstContentIndex = blockContentLines.findIndex((line) =>
+        line.trim()
+      )
+      const firstContent = blockContentLines[firstContentIndex]
+      const blockOpeningIndex = firstContent?.search(/\S/)
+      const blockOpeningQuote = firstContent?.[blockOpeningIndex]
+      const lastContent = blockContentLines.findLast((line) => line.trim())
+      const lastContentIndex = lastContent?.search(/\s*$/) - 1
+      const blockHasWrappingQuotes =
+        blockquoteQuotePairs.get(blockOpeningQuote) ===
+        lastContent?.[lastContentIndex]
+
+      // NOTEs use a left rule instead of the renderer's quote marks, so we skip them from the check.
+      if (!/^\s*>\s*\[!NOTE\](?:\s|$)/.test(blockLines[0])) {
+        const suggestionLines = blockLines.map((line, lineIndex) => {
+          const prefix = line.match(/^\s*>[ \t]*/)[0]
+          const content = line.slice(prefix.length)
+          const leadingIndex = content.search(/\S/)
+          if (leadingIndex === -1) return line
+
+          const trailingIndex = content.search(/\s*$/) - 1
+          const removeIndexes = new Set()
+          let boundaryIndex = leadingIndex
+          while (
+            boundaryIndex <= trailingIndex &&
+            blockquoteQuoteMark.test(content[boundaryIndex])
+          ) {
+            removeIndexes.add(boundaryIndex)
+            boundaryIndex++
+          }
+          boundaryIndex = trailingIndex
+          while (
+            boundaryIndex >= leadingIndex &&
+            blockquoteQuoteMark.test(content[boundaryIndex])
+          ) {
+            removeIndexes.add(boundaryIndex)
+            boundaryIndex--
+          }
+          const trailingQuote = content[trailingIndex]
+          const matchingOpeningQuote = [...blockquoteQuotePairs].find(
+            ([openingQuote, closingQuote]) =>
+              closingQuote === trailingQuote &&
+              content.slice(leadingIndex, trailingIndex).includes(openingQuote)
+          )?.[0]
+          const trailingQuoteIsInline =
+            matchingOpeningQuote &&
+            !(
+              lineIndex === firstContentIndex &&
+              leadingIndex === blockOpeningIndex &&
+              blockquoteQuoteMark.test(blockOpeningQuote)
+            )
+          if (
+            trailingQuoteIsInline &&
+            !blockHasWrappingQuotes &&
+            !removeIndexes.has(leadingIndex)
+          ) {
+            removeIndexes.delete(trailingIndex)
+          }
+          if (removeIndexes.size === 0) return line
+
+          const cleanedContent = content
+            .split('')
+            .filter((_, charIndex) => !removeIndexes.has(charIndex))
+            .join('')
+          return line.slice(0, prefix.length) + cleanedContent
+        })
+
+        if (
+          suggestionLines.some(
+            (line, lineIndex) => line !== blockLines[lineIndex]
+          )
+        ) {
+          mistakes.push({
+            line: start + 1,
+            endLine: index,
+            message: blockquoteQuoteMessage,
+            suggestion: suggestionLines.join('\n')
+          })
+        }
+      }
+    } else {
+      index++
+    }
+  }
+
+  return mistakes
+}
+
 const checks = [checkH1Heading, checkAbsoluteUrl]
 
 /**
@@ -141,7 +267,7 @@ function findMarkdownFiles(dir) {
 /**
  * Scans all markdown files under app/ and returns mistakes.
  *
- * @returns {{ path: string, line: number, message: string }[]}
+ * @returns {{ path: string, line: number, message: string, suggestion?: string }[]}
  */
 export function scanAllFiles() {
   const files = findMarkdownFiles('app')
@@ -159,6 +285,14 @@ export function scanAllFiles() {
     for (const result of checkItalics(text)) {
       mistakes.push({ path: filePath, ...result })
     }
+    for (const result of checkBlockquoteQuotes(text)) {
+      mistakes.push({
+        path: filePath,
+        line: result.line,
+        message: result.message,
+        suggestion: result.suggestion
+      })
+    }
   }
 
   return mistakes
@@ -169,7 +303,7 @@ export function scanAllFiles() {
  * Used by the PR review script to post inline comments on changed lines only.
  *
  * @param {string} baseRef - git ref to diff against, e.g. 'origin/main'
- * @returns {{ path: string, line: number, message: string }[]}
+ * @returns {{ path: string, line: number, message: string, suggestion?: string }[]}
  */
 export function getMistakes(baseRef) {
   // Reject unexpected characters to prevent shell command injection
@@ -224,6 +358,19 @@ export function getMistakes(baseRef) {
     if (!path.startsWith('app/') || !existsSync(path)) continue
     for (const result of checkItalics(readFileSync(path, 'utf8'))) {
       if (added.has(result.line)) mistakes.push({ path, ...result })
+    }
+    for (const result of checkBlockquoteQuotes(readFileSync(path, 'utf8'))) {
+      const addedLine = [...added].find(
+        (line) => line >= result.line && line <= result.endLine
+      )
+      if (addedLine) {
+        mistakes.push({
+          path,
+          line: addedLine,
+          message: result.message,
+          suggestion: result.suggestion
+        })
+      }
     }
   }
 
