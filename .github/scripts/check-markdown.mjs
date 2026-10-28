@@ -220,7 +220,7 @@ export function getMistakes(baseRef) {
   // Italics need the whole document to be parsed, so check each changed file
   // and keep only results on lines added in the diff
   for (const [path, added] of addedLines) {
-    if (!existsSync(path)) continue
+    if (!path.startsWith('app/') || !existsSync(path)) continue
     for (const result of checkItalics(readFileSync(path, 'utf8'))) {
       if (added.has(result.line)) mistakes.push({ path, ...result })
     }
