@@ -34,7 +34,7 @@ Multiple systems are used to manage breast screening across the country, which i
 
 Legacy systems and dated user interfaces do not lend themselves to in-appointment use, causing inefficiencies with staff using paper methods to capture information and transferring their notes back into the system later.
 
-<!-- **Between 2022-2023, 3.04 million women were invited for breast screening. For each participant invited, a screening form is printed, resulting in millions of paper forms being produced.* -->
+<!-- Between 2022-2023, 3.04 million women were invited for breast screening. For each participant invited, a screening form is printed, resulting in millions of paper forms being produced. -->
 
 “In 2022-23, the number of women invited for screening was 3.04 million”
 Source: [Breast Screening Programme, England, 2022-23](https://digital.nhs.uk/data-and-information/publications/statistical/breast-screening-programme/england---2022-23/mainreport2223)

@@ -39,6 +39,8 @@
   },
   "devDependencies": {
     "@x-govuk/eslint-config": "^0.0.3",
+    "markdown-it": "^15.0.3",
+    "markdown-it-footnote": "^4.0.0",
     "prettier": "^3.9.10",
     "stylelint": "^17.16.0",
     "stylelint-config-gds": "^3.0.0"
