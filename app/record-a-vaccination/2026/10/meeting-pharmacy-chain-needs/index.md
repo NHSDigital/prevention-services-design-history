@@ -46,8 +46,6 @@ After completing this initial form, the lead administrators would need to log in
 
 The proposed sign-up journey worked well for small to medium-sized chains (fewer than 50 branches) but was challenging for large chains. 
 
-#### Key takeaways from large chains
-
 -	Some participants from large chains were worried that by signing up and becoming a lead administrator, they would be responsible for all the admin associated with onboarding their branches and users. To fit with their ways of working and organisational structure, they wanted to share the sign-up burden with their regional managers rather than do it all centrally.
 -	There was not enough information in the sign-up form to explain the role of a lead administrator and that made it difficult for participants to decide who in their organisation should be a lead administrator. 
 -	They expected to be able to search the long list of pharmacies in their company, not just scroll down to select branches.
