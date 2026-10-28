@@ -33,9 +33,6 @@ First, we tried enhancing our existing sign-up flow by adding the option of sign
 
 ![Screenshot showing the page in the sign-up journey that asks 'Are you signing up for 1 pharmacy or a pharmacy chain?'](are-you-signing-up-for-1-pharmacy.png)
 
--	select multiple pharmacies instead of just a single pharmacy
--	add more than 1 initial lead administrator
-
 Users could then:  
 
 - select all the pharmacy branches they wanted to onboard
