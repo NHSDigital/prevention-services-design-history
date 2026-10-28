@@ -36,7 +36,7 @@ First, we tried enhancing our existing sign-up flow by adding the option of sign
 Users could then:  
 
 - select all the pharmacy branches they wanted to onboard
-- add several lead administrators who would have access to those pharmacies 
+- add lead administrators who would have access to those pharmacies 
 
 ![Screenshot showing the page in the sign-up journey that asks 'Select the pharmacies where you wnat to start using RAVS'](select-pharmacies.png)
 
@@ -81,7 +81,7 @@ We tested this journey with several large chains.
 
 ## What next?
 
-After our second round of user research, we discussed the feedback we'd had so far and concluded that it was lukewarm at best. 
+After our second round of user research, we discussed the feedback we'd had so far and concluded that it was lukewarm. 
 
 Our onboarding designs worked OK for some head office users but not all. Furthermore, these same users had expressed that they wanted to be able to view and manage their pharmacies in 1 place after onboarding had taken place.
 
