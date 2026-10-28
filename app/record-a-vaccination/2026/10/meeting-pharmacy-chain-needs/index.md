@@ -13,7 +13,7 @@ In recent months, a key focus for the RAVS UCD team has been around meeting the 
 
 ## Background
 
-Pharmacy chains, also known as multiples, are companies that have several pharmacy branches or stores. The smaller multiples have fewer than 10 branches and the largest more than 1,000. 
+Pharmacy chains, also known as multiples, are companies that have many pharmacy branches or stores. The smaller multiples have fewer than 10 branches and the largest more than 1,000. 
 
 We've learned that every pharmacy chain or multiple is different so a 'head office' role can mean different things.  But most of the 'head office' teams we spoke to, especially at larger chains, expected to be able to:
 
