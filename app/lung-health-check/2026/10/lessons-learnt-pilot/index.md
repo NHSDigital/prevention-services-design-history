@@ -1,7 +1,7 @@
 ---
 title: Lessons learnt from piloting a digital lung cancer screening assessment
 description: Lessons our team learnt from piloting a digital service for lung cancer screening
-date: 2026-10-28
+date: 2026-10-30
 tags:
   - lung cancer screening
   - pilot
