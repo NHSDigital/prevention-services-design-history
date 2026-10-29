@@ -24,7 +24,7 @@ During these vaccination sessions, most of the answers RAVS requires will be the
 
 Previous user research & feedback had highlighted this was a problem for users, but we needed to pull it together into a new concept.
 
-> Our user researcher led some kick-off sessions, where we reviewed & shaped the problem; inviting people from across RAVS, and related teams.
+Our user researcher led some kick-off sessions, where we reviewed & shaped the problem; inviting people from across RAVS, and related teams.
 
 These are some of the initial user needs we decided to explore:
 
