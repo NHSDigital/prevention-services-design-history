@@ -1,6 +1,6 @@
 ---
 title: Meeting the needs of pharmacy chains
-description: The first of 2 posts about meeting the needs of pharmacy chains.
+description: Exploring how to meet the needs of users who are responsible for managing vaccinations for a chain of pharmacies.
 date: 2026-10-29
 tags:
   - onboarding
