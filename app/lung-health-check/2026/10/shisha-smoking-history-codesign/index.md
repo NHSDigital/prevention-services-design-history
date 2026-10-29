@@ -15,11 +15,11 @@ opengraphImage:
   alt: People taking part in a co-design workshop about shisha smoking history
 ---
 
-As part of our work on a digital service for [lung cancer screening,](https://www.nhs.uk/tests-and-treatments/lung-cancer-screening/) we need to find a way for people who smoke or have smoked shisha to describe their smoking history accurately. Our earlier research had already shown that [shisha smoking does not always fit questions designed around cigarette use,](app/lung-health-check/2026/07/understanding-shisha/index.md) so we worked directly with people with lived experience of shisha to explore what a better approach could look like. Through two co-design workshops, we learned more about how people remember their shisha use, what makes their smoking histories difficult to describe, and what this means for the questions we design.
+As part of our work on a digital service for [lung cancer screening,](https://www.nhs.uk/tests-and-treatments/lung-cancer-screening/) we need to find a way for people who smoke or have smoked shisha to describe their smoking history accurately. Our earlier research had already shown that [shisha smoking does not always fit questions designed around cigarette use,](/lung-health-check/2026/07/understanding-shisha/index.md) so we worked directly with people with lived experience of shisha to explore what a better approach could look like. Through two co-design workshops, we learned more about how people remember their shisha use, what makes their smoking histories difficult to describe, and what this means for the questions we design.
 
 ## How we worked with communities
 
-We ran two in-person co-design workshops with people aged 50 and over who currently or previously smoked shisha. Our previous design history, [Why and how we used co-design to understand shisha smoking history,](app/lung-health-check/2026/10/why-and-how-we-used-codesign/index.md) explains how we worked with community organisations in Hammersmith and Croydon, and how we designed and ran the workshops.
+We ran two in-person co-design workshops with people aged 50 and over who currently or previously smoked shisha. Our previous design history, [Why and how we used co-design to understand shisha smoking history,](/lung-health-check/2026/10/why-and-how-we-used-codesign/index.md) explains how we worked with community organisations in Hammersmith and Croydon, and how we designed and ran the workshops.
 
 ![A workshop in a community room with participants seated in small groups around several tables. One person is standing between the tables introducing an activity while other people are seated and listening. The tables contain printed workshop materials, sheets of paper, pens, sticky notes, water bottles and other materials for completing the activities.](co-design-research.png "The facilitator introducing a co-creation activity at our Croydon workshop, with community leaders and DPSP colleagues supporting participants at each table")
 
@@ -91,7 +91,7 @@ Different communities used different words for shisha, like hookah, nargileh and
 
 Participants also highlighted the importance of explaining why the NHS wants this information.
 
-This matters because [previous research has shown that people may not always think of shisha in the same way as cigarette smoking.](app/lung-health-check/2026/07/understanding-shisha/index.md) If people do not recognise their behaviour as relevant to a question, they may not report it.
+This matters because [previous research has shown that people may not always think of shisha in the same way as cigarette smoking.](/lung-health-check/2026/07/understanding-shisha/index.md) If people do not recognise their behaviour as relevant to a question, they may not report it.
 
 Our questions therefore need to use clear, recognisable terminology, with alternative names where they help people understand what we mean. We also need to explain why we are asking, so people understand why their historical shisha use is relevant and how the information will be used.
 
