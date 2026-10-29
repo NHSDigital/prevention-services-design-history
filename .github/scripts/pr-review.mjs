@@ -61,14 +61,23 @@ const existingComments = await commentsResponse.json()
 // Normalise comments: `line` is null for outdated diff comments, fall back to `original_line`
 const botComments = existingComments
   .filter((c) => c.user.login === BOT_USER)
-  .map((c) => ({ ...c, line: c.line ?? c.original_line }))
+  .map((c) => ({
+    ...c,
+    line: c.line ?? c.original_line,
+    start_line:
+      c.start_line ?? c.original_start_line ?? c.line ?? c.original_line
+  }))
 
 // Resolve threads for comments that no longer have a matching mistake
 // (line was fixed or file was deleted)
 const staleComments = botComments.filter(
   (c) =>
     !mistakes.some(
-      (m) => m.path === c.path && m.line === c.line && commentBody(m) === c.body
+      (m) =>
+        m.path === c.path &&
+        m.line === c.start_line &&
+        (m.endLine ?? m.line) === c.line &&
+        commentBody(m) === c.body
     )
 )
 
@@ -122,12 +131,18 @@ const newComments = mistakes
     (m) =>
       !botComments.some(
         (c) =>
-          c.path === m.path && c.line === m.line && c.body === commentBody(m)
+          c.path === m.path &&
+          c.start_line === m.line &&
+          c.line === (m.endLine ?? m.line) &&
+          c.body === commentBody(m)
       )
   )
   .map((m) => ({
     path: m.path,
-    line: m.line,
+    ...(m.endLine && m.endLine !== m.line
+      ? { start_line: m.line, start_side: 'RIGHT' }
+      : {}),
+    line: m.endLine ?? m.line,
     side: 'RIGHT',
     body: commentBody(m)
   }))
