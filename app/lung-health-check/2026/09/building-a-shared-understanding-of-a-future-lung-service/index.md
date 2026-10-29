@@ -24,7 +24,7 @@ To understand these parts of the service, we needed to bring together knowledge 
 
 To do this, we researched, designed, ran and analysed four workshops over four weeks.
 
-Through the workshops we learned: 
+Through the workshops we learned:
 
 - knowledge about how the existing offline lung health check operates is concentrated within 20 [Cancer Alliances](https://www.england.nhs.uk/cancer/cancer-alliances-improving-care-locally/)
 - understanding how Cancer Alliances operate will help us design a broader digital service
@@ -33,7 +33,6 @@ Through the workshops we learned:
 - that cohorting, the process of identifying people who share characteristics that make them eligible for a lung health check, needs to be considered as part of future service design
 
 We will be launching a mini-discovery with the 20 Cancer Alliances to learn more.
-
 
 ## The areas we needed to understand better
 
@@ -55,6 +54,7 @@ To make the best use of the time available and create consistency across worksho
 The template was based on outcomes gathered from the lung programme team, Digital Screening leadership and our own team. We developed it using the following design principles.
 
 **1. We will create a consistent story across all workshops by using a share purpose:**
+
 > The programme and digital teams will create a shared understanding of what we want to achieve, and why, for each of the priority areas.
 
 **2. We will make sure each workshop contributes to a shared set of outcomes, while tailoring those outcomes to the specific topic being explored.**
@@ -62,7 +62,7 @@ The template was based on outcomes gathered from the lung programme team, Digita
 We used the same outcomes framework across all four workshops. This helped us maintain consistency while exploring different topics and made it easier to compare findings.
 
 | Outcome                | Purpose                                                                                     |
-|------------------------|---------------------------------------------------------------------------------------------|
+| ---------------------- | ------------------------------------------------------------------------------------------- |
 | Define the theme       | Establish a shared understanding of the topic being discussed                               |
 | Understand the process | Identify the essential steps, activities and requirements in the current and future process |
 | Explore impacts        | Understand how decisions affect participants, patients, providers and the programme         |
@@ -75,14 +75,14 @@ We used the same outcomes framework across all four workshops. This helped us ma
 
 **3. We will help participants quickly understand the context by showing how each workshop relates to previous and future work.**
 
-![Screenshot of a timeline showing the sequence of workshops and subsequent activities.](what-happens-after-this-workshop.png "A timeline helped to keep momentum between workshops")
+![Screenshot of a timeline showing the sequence of workshops and subsequent activities.](what-happens-after-this-workshop.png 'A timeline helped to keep momentum between workshops')
 
 **4. We will help participants quickly understand how the session will work by beginning every workshop with a participation charter. This includes making reasonable adjustments where needed.**
 
 Below is an example of what the charter included:
 
 > [!NOTE] Before we get started
-> 
+>
 > We are not expecting to cover everything today. We want to share our thinking and identify the most important areas to discuss. We will arrange follow-up conversations where needed.
 >
 > During the workshop:
@@ -111,10 +111,10 @@ The workshop schedule needed to reflect the time and people available. It also n
 
 We adopted a weekly cycle that fit around team availability and workshop scheduling.
 
-![Gantt chart showing the sequence of workshop activities, including research, workshop design, workshop delivery, analysis and write-up.](workshop-cadence-Gantt-chart.png "We broke down workshop activities into 1-week sprints")
+![Gantt chart showing the sequence of workshop activities, including research, workshop design, workshop delivery, analysis and write-up.](workshop-cadence-Gantt-chart.png 'We broke down workshop activities into 1-week sprints')
 
-|             Workshop activity             | Time allocated |
-|-------------------------------------------|----------------|
+| Workshop activity                         | Time allocated |
+| ----------------------------------------- | -------------- |
 | Pre-workshop topic research and synthesis | 2 days         |
 | Workshop design                           | 1 day          |
 | Workshop iterations and planning          | 1 day          |

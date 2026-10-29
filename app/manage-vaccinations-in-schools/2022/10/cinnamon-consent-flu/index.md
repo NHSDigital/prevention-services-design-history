@@ -10,6 +10,8 @@ screenshots:
     - No consent
     - Medical answers yes
     - Success
+tags:
+  - flu vaccine
 ---
 
 Cinnamon is a digital [‘Immunisation e-Consent’ tool](https://www.cinnamondigitalapplications.co.uk/eConsent).

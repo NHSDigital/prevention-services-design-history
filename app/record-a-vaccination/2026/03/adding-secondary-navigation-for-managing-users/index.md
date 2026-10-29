@@ -21,7 +21,7 @@ This change went live on 12 March 2026.
 
 There is not yet a secondary navigation component within the [NHS design system](https://service-manual.nhs.uk/design-system), so we have based the design on the [X-GOVUK secondary navigation prototype component](https://govuk-prototype-components.x-govuk.org/secondary-navigation/).
 
-![Screenshot of a page titled 'Secondary navigation' followed by the text 'Allow users to navigate between pages scoped to a section' and then a preview of the component.](x-govuk-secondary-navigation.png "Secondary navigation component from X-GOVUK")
+![Screenshot of a page titled 'Secondary navigation' followed by the text 'Allow users to navigate between pages scoped to a section' and then a preview of the component.](x-govuk-secondary-navigation.png 'Secondary navigation component from X-GOVUK')
 
 The secondary navigation displays horizontally on desktop, but switches to a vertical layout on mobile. It uses an unordered list (`<ul>`) within a navigation element (`<nav>`).
 

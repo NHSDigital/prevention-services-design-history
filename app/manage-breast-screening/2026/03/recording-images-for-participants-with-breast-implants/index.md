@@ -14,13 +14,13 @@ tags:
 
 We've improved how images are recorded by mammographers when a participant with breast implants attends a breast screening appointment.
 
-In these instances, a specialist mammogram method called the 'Eklund technique' is used. This involves adjusting the implants so as much breast tissue as possible can be captured in the X-rays. 
+In these instances, a specialist mammogram method called the 'Eklund technique' is used. This involves adjusting the implants so as much breast tissue as possible can be captured in the X-rays.
 
 Our service needs to provide a way for mammographers to accurately record Eklund views. This information can then be shown to image readers when reviewing the case to ensure they don't miss the additional images.
 
 ## Why we needed to make this update
 
-We have two ways of getting image information into our system: 
+We have two ways of getting image information into our system:
 
 - automatically from the mammography machine via an image transfer gateway, or
 - manually, where mammographers provide details of the images they have taken
@@ -55,7 +55,7 @@ Our design facilitates this, but doesn't include any mechanism to prevent users 
 
 ### Inconsistent labelling
 
-We've used the terms Right Eklund and Left Eklund, which matches the option 'EK' (for Eklund) available to users in NBSS when selecting views taken on each breast. 
+We've used the terms Right Eklund and Left Eklund, which matches the option 'EK' (for Eklund) available to users in NBSS when selecting views taken on each breast.
 
 However, the image labels used in PACS (the Picture Archiving and Communication System used in breast screening units) are RCCID, LCCID, RMLOID and LMLOID - the standard view codes, plus the 'ID' code appended.
 

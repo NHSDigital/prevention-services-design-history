@@ -17,7 +17,7 @@ We did user research with 119 call handlers. We wanted to understand:
 
 - how they support callers during the vaccination booking journey
 - what challenges they face
-- where the National Booking Service (NBS) could better meet their and their callers needs. 
+- where the National Booking Service (NBS) could better meet their and their callers needs.
 
 Call handlers have an important role helping people who cannot or prefer not to book online. It's important to hear from them and understand their experience.
 

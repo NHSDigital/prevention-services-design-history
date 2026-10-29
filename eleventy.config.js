@@ -7,6 +7,11 @@ import { findFileWithoutExtension } from './lib/find-file-without-extension.js'
 
 const serviceName = 'Digital prevention services design history'
 
+const analyticsHost = 'https://analytics.digital-prevention-services.nhs.uk'
+const analyticsWebsiteId = 'bb2ba8c7-ccd5-4359-ad09-6ddeffbaf2ec'
+const cspInlineScriptHash =
+  'sha256-tDOvXJi1PXbg0CWjLCCYSNHRXtps26K4JXkE3M6u/c0='
+
 export default function (eleventyConfig) {
   eleventyConfig.addPlugin(nhsukEleventyPlugin, {
     stylesheets: ['/styles/application.css'],
@@ -41,6 +46,10 @@ export default function (eleventyConfig) {
           {
             text: 'Tags',
             href: '/tags'
+          },
+          {
+            text: 'Privacy notice',
+            href: '/privacy-notice'
           }
         ],
         text: 'All data and personal information shown in prototypes are fictional and for demonstration purposes only.'
@@ -51,9 +60,55 @@ export default function (eleventyConfig) {
       'https://design-history.prevention-services.nhs.uk/'
   })
 
+  eleventyConfig.addTransform('analytics-script', (content) => {
+    if (!content.includes('<head>')) return content
+
+    return content
+      .replace(
+        '<head>',
+        `<head>
+<meta http-equiv="Content-Security-Policy" content="default-src 'self';
+  script-src 'self' ${analyticsHost} https://player.vimeo.com '${cspInlineScriptHash}';
+  connect-src 'self' ${analyticsHost};
+  style-src 'self' 'unsafe-inline';
+  img-src 'self' data:;
+  media-src 'self' https://user-images.githubusercontent.com;
+  font-src 'self' https://assets.nhs.uk;
+  object-src 'none';
+  base-uri 'self';
+  form-action 'self';
+  frame-src https://player.vimeo.com;">
+`
+      )
+      .replace(
+        '</head>',
+        // After application.js so analytics does not delay it.
+        `<script defer src="${analyticsHost}/script.js"
+  data-website-id="${analyticsWebsiteId}"
+  data-host-url="${analyticsHost}"
+  data-domains="design-history.prevention-services.nhs.uk"></script>
+</head>`
+      )
+  })
+
   // Images and PDFs
-  const imageAndDocumentExtensions = ['ai', 'avif', 'gif', 'jpg', 'jpeg', 'png', 'pdf', 'sketch', 'svg', 'tiff', 'webp']
-  const allCases = imageAndDocumentExtensions.flatMap((ext) => [ext, ext.toUpperCase()])
+  const imageAndDocumentExtensions = [
+    'ai',
+    'avif',
+    'gif',
+    'jpg',
+    'jpeg',
+    'png',
+    'pdf',
+    'sketch',
+    'svg',
+    'tiff',
+    'webp'
+  ]
+  const allCases = imageAndDocumentExtensions.flatMap((ext) => [
+    ext,
+    ext.toUpperCase()
+  ])
   eleventyConfig.addPassthroughCopy(`./app/**/*.{${allCases.join(',')}}`)
 
   // Nunjucks filters
@@ -94,6 +149,7 @@ export default function (eleventyConfig) {
   eleventyConfig.addCollection('pathway-breast-screening', (collection) => {
     return collection
       .getFilteredByGlob([
+        'app/breast-screening-select/**/*.md', // BS Select
         'app/cohort-to-clinic/**/*.md', // Cohort to clinic
         'app/explore-team/**/*.md', // Explore
         'app/screening-invite/**/*.md', // Invite people
@@ -128,6 +184,7 @@ export default function (eleventyConfig) {
     'bowel-screening',
     'breast-screening-reporting',
     'breast-screening-pathway',
+    'breast-screening-select',
     'cohort-to-clinic',
     'select',
     'diabetic-eye-screening',
@@ -138,6 +195,7 @@ export default function (eleventyConfig) {
     'screening-invite',
     'lung-health-check',
     'prostate-screening',
+    'inclusion-team',
     // Vaccination service collections
     'vaccinations',
     'book-a-vaccination',

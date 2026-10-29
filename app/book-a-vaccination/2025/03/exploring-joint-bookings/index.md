@@ -76,6 +76,7 @@ Most users found selecting appointment slots straightforward.​ One participant
 After testing the joint bookings design during user research, we've added it to the joint roadmap for the National Booking Service (NBS) and the Manage Your Appointments (MYA) Service.
 
 We aim to deliver joint bookings in stages starting during autumn-winter 2025 in this order:
+
 - single cohort joint bookings (on RSV only, during autumn/winter 2025)
 - multi-cohort joint bookings (on COVID, during spring 2026)
 - joint bookings with co-admin (by autumn/winter 2026)

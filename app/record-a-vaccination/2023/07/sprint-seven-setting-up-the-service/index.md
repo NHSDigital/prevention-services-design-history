@@ -1,6 +1,8 @@
 ---
 title: "Sprint seven: setting up the service"
 date: 2023-07-03
+tags:
+  - appointments
 ---
 
 ## Setting up a point-of-care service

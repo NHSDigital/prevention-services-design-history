@@ -9,6 +9,7 @@ opengraphImage:
   alt: Graphic with the title ‘What’s new’ and then a date underneath it and some lines to represent content.
 
 ---
+
 To inform users about updates to the service in a more consistent way, we've decided to add a What's new page to the service.
 
 The idea is that if users want to know what's changed since they last logged in, there will be somewhere they can find this information. We hope in time, that having this new page, may also reduce the need to use other channels, such as email, to notify users about changes.
@@ -72,4 +73,3 @@ We'll decide on a case by case basis what to include on the page and whether we 
 We do not plan to include fixes for bugs that have only affected a small number of users.
 
 The page went live on 3 March 2026. We will monitor visits and ask users for direct feedback in future research sessions.
-

@@ -26,7 +26,7 @@ The [NHS vaccination strategy](https://www.england.nhs.uk/long-read/nhs-vaccinat
 
 Whilst all of the detail isn't yet known, the theme of greater local autonomy is clear. To that end we have engaged with ICBs to learn about how they see the future landscape and what role SPI might play for them.
 
-This is leading to the possibility of new user groups either commissioning or operating SPI, possibly ICBs or maybe operational teams within an ICB such as a neighbourhood health team. 
+This is leading to the possibility of new user groups either commissioning or operating SPI, possibly ICBs or maybe operational teams within an ICB such as a neighbourhood health team.
 
 ## What have we learned so far
 
@@ -34,7 +34,7 @@ We have done 9 interviews with ICBs, and the findings have been very positive. S
 
 - ICBs are keen to provide a choice of vaccination providers to the public
 - Currently they aren't able to send targeted invitations, they rely on generic communications
-- The ability to send invitations isn't equal across all vaccination providers 
+- The ability to send invitations isn't equal across all vaccination providers
 - They see a benefit in being able to send invitations to very specifically targeted geographical areas (e.g. around the location of a mobile unit)
 - They would like to be able to respond quickly in the event of an outbreak
 
@@ -50,13 +50,8 @@ Contact the SPI team if you would like access to the full research findings repo
 
 ## What are we doing next
 
-The next step is to work more closely with ICBs and the local health systems. 2 ICBs have expressed an interest in being early adopters, and we are in the process of planning a series of workshops. 
+The next step is to work more closely with ICBs and the local health systems. 2 ICBs have expressed an interest in being early adopters, and we are in the process of planning a series of workshops.
 
-Throughout those workshops we hope to learn more about how they see the vaccination landscape evolving, about their user needs and to develop SPI alongside them. 
-
+Throughout those workshops we hope to learn more about how they see the vaccination landscape evolving, about their user needs and to develop SPI alongside them.
 
 [![zoomed out view of a Mural planning board](workshop-plan1.png)](workshop-plan1.png)
-
-
-
-

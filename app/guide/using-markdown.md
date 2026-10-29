@@ -91,6 +91,7 @@ This would be displayed as:
   Breaking into HTML here and deliberately used a new namespace for the links in case someone does
   end up using actual footnotes in this document
 -->
+
 Here's a simple footnote,<sup id="fnref:example:1"><a class="nhsuk-link" href="#fn:example:1" aria-describedby="footnotes-label">1</a></sup> and here's a longer one.<sup id="fnref:example:2"><a class="nhsuk-link" href="#fn:example:2" aria-describedby="footnotes-label">2</a></sup>
 
 <ol class="app-footnotes-list">

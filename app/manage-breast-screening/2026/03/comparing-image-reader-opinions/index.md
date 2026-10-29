@@ -16,7 +16,7 @@ We've been looking at the steps we need second readers to take when reviewing br
 
 In breast screening, each set of mammograms taken is reviewed independently by two image readers. They each give their opinion on whether any further assessment is necessary. This process is usually conducted 'blind' so the reader who looks at the images second can't see what opinion the first reader gave. The other way of reading is 'open' where the second reader sees what the first said prior to giving their own opinion.
 
-While studies have been done that suggest blind reading is a more effective cancer detection method, there's no conclusive evidence to prove it is better than open reading.  The blind method is generally used in breast screening offices (BSOs) so the second opinion given is unprejudiced by the first.
+While studies have been done that suggest blind reading is a more effective cancer detection method, there's no conclusive evidence to prove it is better than open reading. The blind method is generally used in breast screening offices (BSOs) so the second opinion given is unprejudiced by the first.
 
 In the current breast screening system the second reader does not get a chance to ever see the first reader's opinion when blind reading is in operation. The experts we work with have suggested that even when a second read is initially given blind, there may be value in showing the first read to help spot obvious mistakes and avoid unnecessary arbitration.
 
@@ -35,9 +35,9 @@ They may also request images from prior mammograms or skip a case, but we'll be 
 
 We assessed the various opinion combinations and the relevant next steps. For example:
 
-* `IF` 1st read `IS` Normal `AND` 2nd read `IS` Normal `THEN` go to next case
-* `IF` 1st read `IS` Normal `AND` 2nd read `IS` Recall for assessment `THEN` review difference of opinion
-* `IF` 1st read `IS` Technical recall `AND` 2nd read `IS` Technical recall `THEN` review recall image requirements
+- `IF` 1st read `IS` Normal `AND` 2nd read `IS` Normal `THEN` go to next case
+- `IF` 1st read `IS` Normal `AND` 2nd read `IS` Recall for assessment `THEN` review difference of opinion
+- `IF` 1st read `IS` Technical recall `AND` 2nd read `IS` Technical recall `THEN` review recall image requirements
 
 Our proposed solution to handle these is to present a post-opinion screen after second reads that changes based on the combination.
 
@@ -51,9 +51,9 @@ We would also need to show readers the consequence of their decision (i.e. this 
 
 Our initial experiments with ways to display these elements included making choices around:
 
-* having an alert to show there's been a difference of opinion or stating this in the page heading
-* showing the read results next to each other or one above the other
-* asking a question about what to do next (with radio options) or presenting action buttons
+- having an alert to show there's been a difference of opinion or stating this in the page heading
+- showing the read results next to each other or one above the other
+- asking a question about what to do next (with radio options) or presenting action buttons
 
 ### A few examples
 
@@ -64,6 +64,7 @@ Our initial experiments with ways to display these elements included making choi
 ![Different opinions presented side-by-side with buttons to keep or change opinion](compare-buttons.png)
 
 ## Our preferred design
+
 The side-by-side design with final opinion buttons will be tested with users from BSOs.
 
 ![A 'Recall for assessment' first read shown next to a 'Normal' second read with buttons to keep or change opinion](compare-recall-normal.png "If a second reader says 'Normal' after the first has asked for a recall, they can keep their opinion but will be asked to add details to clarify why they do not agree.")
@@ -118,7 +119,7 @@ This may be a good or a bad thing. An extra opinion on a case is often valuable 
 
 ### Removing duplicate effort
 
-The 'early' post-opinion screen described above allows users to adopt the details already added from the first read. While this may potentially save time, we need to understand if this is better overall than having the extra assurance of both readers identifying the same issue. 
+The 'early' post-opinion screen described above allows users to adopt the details already added from the first read. While this may potentially save time, we need to understand if this is better overall than having the extra assurance of both readers identifying the same issue.
 
 ### Preparing for the future
 

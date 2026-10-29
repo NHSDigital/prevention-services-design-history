@@ -9,9 +9,9 @@ tags:
 
 A central piece of our proposition (and that of PPS strategy in general) is the idea of a cycle. Our team is exploring how me might work as a “connecting capability”:
 
-* introducing users to relevant next steps based on what we can know about them (finding support)
-* encouraging them to make a start (take action)
-* then checking in to see how things are going (maintain a healthier lifestyle)
+- introducing users to relevant next steps based on what we can know about them (finding support)
+- encouraging them to make a start (take action)
+- then checking in to see how things are going (maintain a healthier lifestyle)
 
 {% from "nhsuk/components/images/macro.njk" import image as nhsukImage %}
 {{ nhsukImage({
@@ -25,18 +25,18 @@ We’ve explored a user’s very first contact with our service &ndash; [introdu
 
 This post examines how we figure out which (if any) opportunities a user intends to take up, now that we’ve presented them. How can we know if someone has:
 
-* downloaded and started to use an app, for example Active 10?
-* attended a community event, for example a Parkrun?
-* used a public facility, for example an outdoor gym?
+- downloaded and started to use an app, for example Active 10?
+- attended a community event, for example a Parkrun?
+- used a public facility, for example an outdoor gym?
 
 We need to be able to do this so we can:
 
-* check in with someone in a personalised way &ndash; we can approach the user with a “subject”
-* understand what is working for someone and what isn’t
-* examine feedback to improve our recommendations for all users
-* understand which options are popular
-* potentially provide feedback to services
-* get a better picture of outcomes
+- check in with someone in a personalised way &ndash; we can approach the user with a “subject”
+- understand what is working for someone and what isn’t
+- examine feedback to improve our recommendations for all users
+- understand which options are popular
+- potentially provide feedback to services
+- get a better picture of outcomes
 
 In the abstract this might seem straightforward. We show the user options, they pick, then we check in later to see how it’s going. Easy right?
 
@@ -72,11 +72,11 @@ In our research sessions, we noted a lot of inconsistency in understanding this 
 
 Aside from causing confusion, an approach like this isn’t realistic because:
 
-* we’re asking for an **immediate** commitment from the user
-* that commitment is required before the user has access to all the information they may need
-* demanding commitment this quickly creates unreliability at a key point, risking false positives
-* to create an interface that requires a declaration means you must remove all other ways to continue, creating friction in exactly the wrong place
-* there is literally no user need here, we’re making the user do the work to join things up for us
+- we’re asking for an **immediate** commitment from the user
+- that commitment is required before the user has access to all the information they may need
+- demanding commitment this quickly creates unreliability at a key point, risking false positives
+- to create an interface that requires a declaration means you must remove all other ways to continue, creating friction in exactly the wrong place
+- there is literally no user need here, we’re making the user do the work to join things up for us
 
 The drawbacks of this approach are self-evident, but we felt we needed to demonstrate very clearly the fundamental difficulty (and problematic nature) of relying on the user and interface to do the work of joining up for us.
 
@@ -88,9 +88,9 @@ A reporting approach benefits from being reliable and removes unnecessary work f
 
 However, we also must consider:
 
-* informal or small scale community based options, for example a litter picking club
-* services that don’t _want_ to report on an individual level, for example any service offering anonymity of any kind
-* facilities which have zero registration or reporting, for example a public gym in a park
+- informal or small scale community based options, for example a litter picking club
+- services that don’t want to report on an individual level, for example any service offering anonymity of any kind
+- facilities which have zero registration or reporting, for example a public gym in a park
 
 All these examples are completely viable &ndash; the lack of “being joined up” is not a reason to exclude them.
 
@@ -102,16 +102,16 @@ We can also work to assemble clues and indications as to someone’s intent.
 
 Perhaps we can gain clues in the background by using analytics to:
 
-* track and save result sets as the user explores options
-* track visits into detail pages
-* measure dwell time, scroll depth and so on in such pages
-* track outbound clicks
+- track and save result sets as the user explores options
+- track visits into detail pages
+- measure dwell time, scroll depth and so on in such pages
+- track outbound clicks
 
 We can also experiment more with providing opportunities for the user to communicate interest:
 
-* favouriting or liking
-* asking the user what they think of an option in-page
-* include tools to send or share option details
+- favouriting or liking
+- asking the user what they think of an option in-page
+- include tools to send or share option details
 
 ![Screen grab showing multiple links including a 'what do you think' question](clues-ui.png 'We can encourage but not rely on user interaction')
 

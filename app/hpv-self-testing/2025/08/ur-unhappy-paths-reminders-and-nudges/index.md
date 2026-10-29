@@ -122,8 +122,8 @@ This is an improvement on previous rounds, where SMS invitations were often perc
 
 Participants expected reminders to be timely:
 
--	all participants felt a reminder within a week would be appropriate
--	delays longer than this risk users forgetting due to busy lifestyles
+- all participants felt a reminder within a week would be appropriate
+- delays longer than this risk users forgetting due to busy lifestyles
 
 ### Nudge to complete order
 
@@ -138,8 +138,8 @@ All participants noted the shorter format compared to reminders and appreciated 
 However, some participants wanted additional support:
 
 - 1 participant wanted more information to create a sense of urgency
--	2 participants suggested including a link to provide feedback or explain why they had not completed the order
--	1 participant wanted the option to opt out at this stage
+- 2 participants suggested including a link to provide feedback or explain why they had not completed the order
+- 1 participant wanted the option to opt out at this stage
 
 ### Nudge to return sample
 
@@ -163,17 +163,17 @@ Participants were generally able to understand when an error had occurred, but c
 
 In the invitation, clarify whether HPV self-testing replaces cervical screening.
 
-Users need clear, upfront information on whether self-testing is an alternative or part of a wider screening pathway. 
+Users need clear, upfront information on whether self-testing is an alternative or part of a wider screening pathway.
 
 Include clearer information on how HPV self-testing works, its reliability, and how it compares to traditional screening. This will help build trust and support informed decision-making.
 
 Participants expected reminders sooner than 28 days. Testing earlier reminders (for example within 7 days) may reduce drop-off and improve completion rates.
 
-Enhance nudge content with optional support: 
+Enhance nudge content with optional support:
 
--	additional context to encourage action
--	a way to provide feedback on why they have not completed the journey
--	a clear opt-out option
+- additional context to encourage action
+- a way to provide feedback on why they have not completed the journey
+- a clear opt-out option
 
 Sending an SMS alongside email increases trust and engagement. Maintaining consistency across channels will help reduce perceptions of messages being scams.
 

@@ -80,7 +80,6 @@ After talking through the various scenarios they come across during appointments
 
 Achieving point 2 will allow us to negate the need for workarounds, and pass the responsibility of requesting appointments to take more images to mammographers rather than radiologists or admin staff. As the ones who were there when the images were taken, they are in the best possible position to give a professional opinion on whether this is necessary.
 
-
 ## Straightforward options, separate outcomes
 
 One of our subject matter experts neatly summarised our goal when designing this part of the service:
@@ -139,7 +138,8 @@ As long as one image has been taken during the mammogram, the case will still be
 
 Radiologists will see the images, along with a summary of any issues encountered during the appointment.
 
-_Note: We are in the early stages of developing the image reading side of our service and these screenshots are early drafts._
+> [!NOTE]
+> We are in the early stages of developing the image reading side of our service and these screenshots are early drafts.
 
 ![The image reader opinion screen showing image quality details recorded by a mammographer](review-imperfect.png "Based on the 'Image quality' note, the reader could decide they are good enough for them to give an opinion ('Normal' or 'Recall for assessment'). Or, they could choose to request a technical recall for one or more images.")
 

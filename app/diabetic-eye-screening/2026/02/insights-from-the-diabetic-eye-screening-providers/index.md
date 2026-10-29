@@ -13,10 +13,9 @@ Across the discussions, diabetic eye screening programme (DESPs) shared practica
 
 Across the sessions, discussion was structured around three core themes:
 
-1.	operational challenges faced by DESPs
-2.	data, system, and information gaps
-3.	opportunities to reduce burden and improve delivery
-
+1. operational challenges faced by DESPs
+2. data, system, and information gaps
+3. opportunities to reduce burden and improve delivery
 
 ## Key themes from DESP engagement
 
@@ -34,7 +33,6 @@ Across the sessions, discussion was structured around three core themes:
 
 - Exceptional scenarios further complicate workflows. Patients may be banned by their GP due to poor behaviour; however, DESPs felt strongly that if these patients engage appropriately within DESP services, they should not be automatically removed from the screening register.
 
-
 ### 2. Data, system, and information gaps
 
 - Across discussions, DESPs consistently highlighted gaps in data quality, visibility, and system behaviour that undermine confidence in cohort accuracy.
@@ -51,7 +49,6 @@ Across the sessions, discussion was structured around three core themes:
 
 - An edge case was discussed where demographic details change within DESP systems but not within GP records, creating discrepancies that are difficult to reconcile.
 
-
 ### 3. Opportunities to reduce burden and improve delivery
 
 - DESPs identified several opportunities where improvements could reduce manual effort, increase confidence in data, and improve overall service delivery.
@@ -60,13 +57,12 @@ Across the sessions, discussion was structured around three core themes:
 
 - There is also strong interest in automating and monitoring key transitions, particularly the movement from informal to formal death. DESPs emphasised the value of understanding what triggers patient adds and deletes, especially following death status changes, to reduce investigation work and improve trust in system behaviour.
 
-
 ## Next steps
 
 - Investigate the exclusion of S-flagged records, recognising that these are currently handled differently across providers (DES team to investigate).
 - Confirm whether legal or information governance constraints prevent S-flagged data from flowing into DESP. CaaS cannot identify an S-flagged record, it will continue to be sent as a delete.
 - Work with CaaS to assess which pain points can be addressed within the current MVP, identifying:
-1. 	Requirements in scope for MVP
-2.	Requirements suitable for post-MVP delivery
-3. Requirements that may be out of scope due to capacity or constraints
 
+1.  Requirements in scope for MVP
+2.  Requirements suitable for post-MVP delivery
+3.  Requirements that may be out of scope due to capacity or constraints

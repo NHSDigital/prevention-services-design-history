@@ -33,14 +33,16 @@
     "serve": "http-server ./_site"
   },
   "dependencies": {
-    "@11ty/eleventy": "^3.1.6",
-    "@x-govuk/nhsuk-eleventy-plugin": "^1.4.3",
+    "@11ty/eleventy": "^3.1.7",
+    "@x-govuk/nhsuk-eleventy-plugin": "^1.5.0",
     "http-server": "^14.1.1"
   },
   "devDependencies": {
-    "@x-govuk/eslint-config": "^0.0.2",
-    "prettier": "^3.9.6",
-    "stylelint": "^17.14.1",
+    "@x-govuk/eslint-config": "^0.0.3",
+    "markdown-it": "^15.0.3",
+    "markdown-it-footnote": "^4.0.0",
+    "prettier": "^3.9.10",
+    "stylelint": "^17.16.0",
     "stylelint-config-gds": "^3.0.0"
   },
   "private": true,

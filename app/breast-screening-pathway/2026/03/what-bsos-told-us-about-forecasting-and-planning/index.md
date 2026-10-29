@@ -28,13 +28,13 @@ We knew BSOs did things differently. For example, most use mobile vans that hous
 
 We picked a diverse range of BSOs to visit:
 
--   **rural and** **urban:** in terms of geography and populations served
+- **rural and** **urban:** in terms of geography and populations served
 
--   **static and mobile:** predominant mode of delivering screening
+- **static and mobile:** predominant mode of delivering screening
 
--   **small and large** population served
+- **small and large** population served
 
--   **unusual practices:** yearly visits to sites, simple planning artefacts, etc.
+- **unusual practices:** yearly visits to sites, simple planning artefacts, etc.
 
 We knew we couldn't visit everyone so by targeting the 'edges' along these dimensions, we hoped to see challenges amplified and that other BSO experiences would fall somewhere along the behavioural spectrum.
 
@@ -81,8 +81,6 @@ The different horizons served to answer different questions:
 
 ![Image showing multiple planning horizons: next week, 1-2 months ahead, 1 year ahead, 3 years ahead, 9 years ahead](multiple-horizons.png)
 
-
-
 ### The circularity of peaks and staffing
 
 Any surge or dip in the number of people screened will be repeated in 3, 6 and 9 years, or until it is smoothed out by inviting people early. This is because broadly the same people in the same locations are screened every 3 years.
@@ -95,17 +93,17 @@ Beyond that, GP practices that have their populations screened every 3 years wil
 
 Staffing across the screening pathway is the biggest barrier to planning and absorbing surges in demand. Staffing levels beyond screening - for example, if someone needs to be invited back to biopsy and goes on to have surgery also needs to be considered.
 
-### Paper and spreadsheets 
+### Paper and spreadsheets
 
 Paper and spreadsheets tend to power BSOs' planning efforts and generally seem to work well for them.
 
 These tools and practices developed over time:
 
--   the systems (including but not limited to BS Select and NBSS) require manual data entry as their integration is technically difficult and has not been historically prioritised
+- the systems (including but not limited to BS Select and NBSS) require manual data entry as their integration is technically difficult and has not been historically prioritised
 
--   the lack of integration led to a reliance on humans to connect the data between systems leading to an increased risk of mistakes
+- the lack of integration led to a reliance on humans to connect the data between systems leading to an increased risk of mistakes
 
--   where this led to incidents (such as when someone was not invited when they were due or when the right results were not sent to the right person), BSO staff created processes to double and triple check that no one is missed
+- where this led to incidents (such as when someone was not invited when they were due or when the right results were not sent to the right person), BSO staff created processes to double and triple check that no one is missed
 
 These tools are often complex and there may only be 1 or 2 people in the BSO who understand how to use them. This is a huge risk to the resilience of the programme when staff leave or retire.
 
@@ -113,15 +111,15 @@ These tools are often complex and there may only be 1 or 2 people in the BSO who
 
 When we started, we thought that the batching method was largely binary ([either using NTDD or RISP](/breast-screening-pathway/2025/12/understanding-batching/)). But in reality, BSOs tailored how they were grouping people differently:
 
--   by GP practice location or group
+- by GP practice location or group
 
--   by participant location
+- by participant location
 
--   by mobile van location
+- by mobile van location
 
--   by next test due date
+- by next test due date
 
--   By a combination of factors
+- By a combination of factors
 
 Batching was complex and BSOs didn't always understand the principles of the batching method. Instead, they relied on the knowledge they inherited from predecessors or neighbouring BSOs, passing down good and bad practices, along with batching methods and the sequence in which sites are visited.
 
@@ -141,15 +139,15 @@ We started work with the national programme team to make further changes that wi
 
 We ran an ideation workshop with the new cohort to clinic team who will be taking this work forward. Some of the ideas that came up in the workshop were:
 
--   The service meticulously making sure no one is lost and reassuring users
+- The service meticulously making sure no one is lost and reassuring users
 
--   Intelligent alerts to prevent incidents
+- Intelligent alerts to prevent incidents
 
--   A system that gathers data and gets better over time
+- A system that gathers data and gets better over time
 
--   A joined-up system that knows about the users, including about their disabilities or preferred locations
+- A joined-up system that knows about the users, including about their disabilities or preferred locations
 
--   Integration with the app to send and receive invites and confirm attendance
+- Integration with the app to send and receive invites and confirm attendance
 
 ![Sketch of an idea showing a system that always counts people, alerts them, is connected and is always learning](c2c-idea-sketch-1.png)
 

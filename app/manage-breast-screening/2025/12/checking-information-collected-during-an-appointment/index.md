@@ -10,11 +10,12 @@ tags:
   - beta
   - prototype
   - breast screening
+  - appointments
 ---
 
 We're creating a way for mammographers to efficiently check the information they've collected during an appointment before they mark it as complete.
 
-With current paper-based processes, any information recorded during the mammogram is later transcribed into a digital system. By asking for things to be confirmed before ending the appointment, we're aiming to make the overall process more efficient. 
+With current paper-based processes, any information recorded during the mammogram is later transcribed into a digital system. By asking for things to be confirmed before ending the appointment, we're aiming to make the overall process more efficient.
 
 ## Bringing the appointment to a close
 
@@ -30,9 +31,9 @@ It shows all data submitted through a service, with links to change each entry w
 - see they have completed all the required sections
 - notice and correct any errors before sending data
 
-![Screenshot of a page titled "Help users to check answers" which contains an example of a summary list](check-answers.png  "The check answers pattern in the NHS design system")
+![Screenshot of a page titled "Help users to check answers" which contains an example of a summary list](check-answers.png 'The check answers pattern in the NHS design system')
 
-This works for users who have time to review the accuracy of each line when registering with a GP surgery, applying for a passport, or filing their self assessment. 
+This works for users who have time to review the accuracy of each line when registering with a GP surgery, applying for a passport, or filing their self assessment.
 
 But a mammography is a more time pressured environment. Our users will have already seen a summary of data when it was entered, and they have told us they don't want to have to repeatedly confirm things they've already done.
 
@@ -74,7 +75,7 @@ That can be slightly different for each section depending on what's going to be 
 
 ![An example medical information component showing details in the medical hisory, symptoms and breast features sections](medical-information.png)
 
-The full medical history about benign lumps consists of procedures and treatment location. 
+The full medical history about benign lumps consists of procedures and treatment location.
 
 ![An example of all the details recorded for a benign lump](benign-lumps.png)
 
@@ -112,10 +113,10 @@ But sometimes they will need to add information, or make changes to what they en
 
 On the first iteration of this review step, we tested two journeys when adding new or amending existing information:
 
-* returning them to the review step without seeing a confirmation page for what they've entered
-* taking them back to an earlier step in the workflow where they could see what has been entered, but had no easy way to return to the final review
+- returning them to the review step without seeing a confirmation page for what they've entered
+- taking them back to an earlier step in the workflow where they could see what has been entered, but had no easy way to return to the final review
 
-Neither option felt right, so we've added in a series of mini confirmation pages. From the review page, users can perform any necessary action, confirm that they've entered the data correctly, and then go back to the final check information step. 
+Neither option felt right, so we've added in a series of mini confirmation pages. From the review page, users can perform any necessary action, confirm that they've entered the data correctly, and then go back to the final check information step.
 
 If a new symptom comes up in conversation while images are being taken, or they forgot to record that the participant is currently taking HRT, this information can be added quickly without the mammographer losing their place in the process.
 
@@ -123,9 +124,9 @@ If a new symptom comes up in conversation while images are being taken, or they 
 
 ![The confirmation page that appears after adding symptom info before returning to the review page](lump-confirmation.png 'After adding the symptom details, users are shown a confirmation page before they continue their journey back to the review step.')
 
-## What we’re doing next 
+## What we’re doing next
 
-We've shown this to some of the subject matter experts working within our team, and have included scenarios to test its usefulness in upcoming user testing. 
+We've shown this to some of the subject matter experts working within our team, and have included scenarios to test its usefulness in upcoming user testing.
 
 The initial feedback suggests that users are appreciative of the brevity of what is displayed.
 
