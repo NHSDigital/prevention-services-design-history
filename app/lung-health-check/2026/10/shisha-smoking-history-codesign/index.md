@@ -11,7 +11,7 @@ tags:
 author:
   - Michael Watson
 opengraphImage:
-  src: /lung-health-check/2026/10/learning-how-to-capture-shisha-smoking-history/co-design-workshop.png
+  src: /lung-health-check/2026/10/shisha-smoking-history-codesign/co-design-research.png
   alt: People taking part in a co-design workshop about shisha smoking history
 ---
 
@@ -21,7 +21,7 @@ As part of our work on a digital service for [lung cancer screening,](https://ww
 
 We ran two in-person co-design workshops with people aged 50 and over who currently or previously smoked shisha. Our previous design history, [Why and how we used co-design to understand shisha smoking history,](app/lung-health-check/2026/10/why-and-how-we-used-codesign/index.md) explains how we worked with community organisations in Hammersmith and Croydon, and how we designed and ran the workshops.
 
-[insert image here]
+![A workshop in a community room with participants seated in small groups around several tables. One person is standing between the tables introducing an activity while other people are seated and listening. The tables contain printed workshop materials, sheets of paper, pens, sticky notes, water bottles and other materials for completing the activities.](co-design-research.png "The facilitator introducing a co-creation activity at our Croydon workshop, with community leaders and DPSP colleagues supporting participants at each table")
 
 ## What we learned
 
@@ -49,7 +49,7 @@ Instead, they often anchored their memories around significant events, including
 - COVID-19
 - developing health problems
 
-[insert image here]
+![A hand-drawn timeline showing how one participant’s shisha smoking changed over time. The participant started smoking shisha with a friend while at high school, then stopped during pregnancy. After 3 years, the participant started smoking again with family and sometimes smoked at other times as well. The timeline also mentions changes after COVID-19, the cheaper price of shisha compared with cigarettes, and moving from Iran to the UK, before showing another period of stopping.](Hammersmith-timeline-example.png "An example from our Hammersmith workshop of one participant’s shisha history timeline, which talked about pregnancy, COVID-19 and the price of cigarettes") 
 
 These events often marked significant changes in how much someone smoked or whether they smoked at all.
 
@@ -81,7 +81,7 @@ When asked to design questions, participants frequently wanted to understand why
 
 They mentioned friends, family, cafés, celebrations, relaxation, stress and cultural traditions.
 
-[insert image here]
+![A handwritten workshop question asks 'What are the first 3 things that come to mind when you hear the word shisha?' Sticky notes underneath contain responses including 'social', 'addiction', 'cafes not at home', 'people think it's healthy - not aware of effects', and 'lots of different substances, not just tobacco'.](croydon-intro-task.png "An example from our Croydon workshop of what people think about when they hear the word shisha")
 
 We may not need to collect all of this information for the risk calculation. But understanding that context helps us design questions that reflect how people themselves think about shisha.
 
