@@ -10,7 +10,7 @@ author:
   - Ash Finnegan
 ---
 
-Age-Based Messaging (ABM) is currently being piloted in Essex. The service sends timely information, guidance and reminders to parents and carers to support their child's health and development.
+Our age-based messaging (ABM) service is currently being piloted in Essex. The service sends timely information, guidance and reminders to parents and carers to support their child's health and development.
 
 The pilot officially launched in July 2026. For this phase, birth mothers are being asked for consent before receiving messages. While this approach helps us understand user attitudes towards the service, it has resulted in a slower rollout than initially anticipated as parents are being approached individually.
 
@@ -18,29 +18,29 @@ The current pilot cohort is expected to conclude between October and November 20
 
 Following the pilot, we plan to conduct surveys and user research with participants to understand:
 
-- Their experience of receiving the messages
-- Whether the messages influenced behaviour
-- Areas for improvement
-- The overall value of the service
+- their experience of receiving the messages
+- whether the messages influenced behaviour
+- areas for improvement
+- the overall value of the service
 
 ## Our approach
 
 The Essex pilot provides an opportunity to test the service with a smaller user group before wider rollout.
 
-Alongside live delivery, we have started a re-discovery phase to understand how Age-Based Messaging could develop and scale in future. This work looks beyond the initial seven messages and explores how the service could create value for parents, public health and the wider NHS.
+Alongside live delivery, we have started a re-discovery phase to understand how age-based messaging could develop and scale in future. This work looks beyond the initial seven messages and explores how the service could create value for parents, public health and the wider NHS.
 
 Our activities include:
 
-- Reviewing existing research and evidence
-- Mapping the current information landscape for parents
-- Understanding user needs and behaviours
-- Aligning with public health priorities
-- Exploring future content, service models and outcomes
-- Engaging with stakeholders across healthcare and public health
+- reviewing existing research and evidence
+- mapping the current information landscape for parents
+- understanding user needs and behaviours
+- aligning with public health priorities
+- exploring future content, service models and outcomes
+- engaging with stakeholders across healthcare and public health
 
-We know that many health visitors, GPs and local services already communicate with parents. However, much of this communication is manual, resource-intensive and varies considerably by location. Age-Based Messaging provides an opportunity to deliver some information more consistently and at scale.
+We know that many health visitors, GPs and local services already communicate with parents. However, much of this communication is manual, resource-intensive and varies considerably by location. Age-based messaging provides an opportunity to deliver some information more consistently and at scale.
 
-## How the Service works
+## How the service works
 
 The service consists of two key components:
 
@@ -54,13 +54,13 @@ The technical process used to identify eligible recipients and deliver messages 
 
 This approach helps ensure information reaches both NHS App users and those who rely on SMS communications.
 
-![Overview of the current Age-Based Messaging journey showing six messages sent between birth and 6 months. The table maps each message topic, delivery timing, user problem, intended outcomes and success metrics, covering GP registration, health reviews, weaning and vitamin uptake.](messagebreakdown.png)
+![Overview of the current age-based messaging journey showing six messages sent between birth and 6 months. The table maps each message topic, delivery timing, user problem, intended outcomes and success metrics, covering GP registration, health reviews, weaning and vitamin uptake.](messagebreakdown.png)
 
 ## Multi-channel delivery
 
-As part of the current service journey, information about the birth mother is made available through PDS(Personal Demographics Service) following the birth of a child. The first Age-Based Message is sent 7 days after birth.
+As part of the current service journey, information about the birth mother is made available through Personal Demographics Service (PDS) following the birth of a child. The first age-based message is sent 7 days after birth.
 
-Messages are delivered through NHS Notify using a multi-channel approach. The NHS App is the primary delivery channel. If a message remains unread after 3 days, an SMS version is automatically sent as a fallback. This helps ensure messages can reach both NHS App users and those who may not regularly access the app.
+Messages are delivered through [NHS Notify](https://notify.nhs.uk) using a multi-channel approach. The NHS App is the primary delivery channel. If a message remains unread after 3 days, an SMS version is automatically sent as a fallback. This helps ensure messages can reach both NHS App users and those who may not regularly access the app.
 
 Message content has been adapted for each channel, with separate versions designed for NHS App messaging and SMS delivery.
 
@@ -70,25 +70,25 @@ We use PDS records to help identify eligible recipients and ensure messages are 
 
 Examples include:
 
-- Baby deceased
-- Parent or Carer deceased
-- Sensitive record flagged
-- Parent opted out
+- baby deceased
+- parent or Carer deceased
+- sensitive record flagged
+- parent opted out
 
 These checks form an important part of the service's safeguarding and governance approach.
 
-## Our Happy Path user journey
+## Our ‘happy path’ user journey
 
 Our current happy path assumes:
 
-1. Parent is identified through PDS
-2. Introductory message is received
-3. Parent recognises who the message is from
-4. Parent understands the value of the service
-5. Parent engages with the content
-6. Parent acts on relevant calls to action
-7. Parent continues engaging
-8. Parent feels informed and supported
+1. parent is identified through PDS
+2. introductory message is received
+3. parent recognises who the message is from
+4. parent understands the value of the service
+5. parent engages with the content
+6. parent acts on relevant calls to action
+7. parent continues engaging
+8. parent feels informed and supported
 
 ![Overview and service blueprint for ABM.](service-blueprint.jpg)
 
@@ -97,30 +97,30 @@ Our current happy path assumes:
 
 Within this, the research has suggested that users may respond in one or more of the followings ways:
 
-- Act immediately - Completes the call to action right away (e.g., clicks link, books check).
-- Save for later - Flags or bookmarks the notification to review when convenient.
-- Act later - Intends to take action but delays completion.
-- Forget - Reads the message but fails to follow through without reminders.
-- Ignore or disengage - Ignores or actively opts out of future communications.
+- act immediately - completes the call to action right away (e.g., clicks link, books check).
+- save for later - flags or bookmarks the notification to review when convenient.
+- act later - intends to take action but delays completion.
+- forget - reads the message but fails to follow through without reminders.
+- ignore or disengage - ignores or actively opts out of future communications.
 
 A particular risk is silent disengagement, where users remain enrolled but stop opening, reading or acting on messages.
 
 ## Current relationship with Best Start in Life
 
-The current sender name for ABM messages is Best Start in Life (BSIL).
+The current sender name for age-based messages is ‘Best Start in Life’ (BSIL).
 
 Messages frequently signpost to BSIL content and other trusted NHS resources. Users can also choose to sign up for the BSIL email newsletter if they would like more detailed guidance and support.
 
 As we continue to develop the service, further work is needed to understand:
 
-- Where ABM and BSIL overlap
-- How the two services complement one another
-- How to avoid duplication
-- Whether the service name should evolve to better reflect the purpose of Age-Based Messaging
+- where ABM and BSIL overlap
+- how the two services complement one another
+- how to avoid duplication
+- whether the service name should evolve to better reflect the purpose of age-based messaging
 
-The relationship between Age-Based Messaging and Best Start in Life continues to be an important area of exploration. While the current messages signpost to Best Start in Life content and are sent under the Best Start in Life sender name, it has become clear that further work is needed to clarify where the two services overlap and where they are distinct.
+The relationship between age-based messaging and [Best Start in Life](https://beststartinlife.gov.uk) continues to be an important area of exploration. While the current messages signpost to Best Start in Life content and are sent under the Best Start in Life sender name, it has become clear that further work is needed to clarify where the two services overlap and where they are distinct.
 
-Research has also shown that the term "Age-Based Messaging" is not always intuitive or user-friendly. As the service develops, we will explore alternative naming options and clearer ways of describing the service, helping users understand what it is, why they are receiving messages and what value it provides.
+Research has also shown that the term "age-based messaging" is not always intuitive or user-friendly. As the service develops, we will explore alternative naming options and clearer ways of describing the service, helping users understand what it is, why they are receiving messages and what value it provides.
 
 The content strategy is currently under review as part of the scaling and discovery work.
 
