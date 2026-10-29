@@ -8,9 +8,6 @@ tags:
   - Digital Best Start
 author:
   - Ash Finnegan
-opengraphImage:
-  src: /your-service/2025/12/post-title/image-name.png
-  alt: Alternative text for the lead image
 ---
 
 Age-Based Messaging (ABM) is currently being piloted in Essex. The service sends timely information, guidance and reminders to parents and carers to support their child's health and development.
