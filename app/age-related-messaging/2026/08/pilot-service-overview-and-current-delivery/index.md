@@ -1,7 +1,7 @@
 ---
 title: Pilot, Service Overview and Current Delivery
 description: Some updates now that the service is live.
-date: 2026-08-12
+date: 2026-10-29
 tags:
   - age-based messaging
   - pilot
