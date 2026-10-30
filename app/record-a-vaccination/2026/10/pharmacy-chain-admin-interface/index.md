@@ -23,6 +23,7 @@ But we then decided to rethink our approach as it became increasingly clear that
 
 
 ## A new admin interface
+
 We explored creating an interface specifically for users who have company-wide responsisbilities where they could not only onboard their pharmacies but also manage users and create reports. 
 
 This involved creating a different view of RAVS which we've been calling the "admin interface", and a new user type or permission level of "group administrator".  
@@ -33,7 +34,7 @@ In our new designs, a group administrator logging into RAVS for their pharmacy c
 
 ![Screenshot showing the dashboard for a pharmacy chain with total numbers of vaccinations and options to view data by day, vaccination type and pharmacy branch.](dashboard.png)
 
-2.	A **Pharmacies** section listing all their branches using RAVS, and the number of users at each branch with options to add more pharmacies, and to manage users at an individual pharmacy.
+2.	A **Pharmacies** section listing all their branches using RAVS, with options to add or onboard more pharmacies and to manage an individual pharmacy branch. 
 
 ![Screenshot showing the Pharmacies page of the admin interface with all pharmacies using RAVS shown in a list.](pharmacies-page.png)
 
@@ -53,6 +54,7 @@ In our new designs, a group administrator logging into RAVS for their pharmacy c
 
 
 ## Feedback from user research
+
 Overall, participants from large pharmacy chains were very positive about the new designs. 
 
 -	Being able to run reports across all their branches and manage pharmacies plus users centrally was universally popular and considered a great timesaver. 
@@ -81,26 +83,34 @@ Following this round of UR, we made some further changes to the designs, includi
 
 We decided not to address any changes to the dashboard until users had an opportunity to use it and we'd obtained further feedback.
 
-## Onboarding happened sooner than expected and not as planned[EE5.1]
+## Onboarding happened sooner than expected and not as planned
+
 We had been aiming to get our new CP admin interface, or at least a version of it, live by the end of August ahead of the busy flu and COVID-19 autumn/winter vaccination campaign – to make it easier for chains to sign up for RAVS. 
 
 But due to the launch of the national MenB campaign in July 2026 and the accompanying requirement for participating pharmacies to record MenB vaccinations in RAVS, a huge number of pharmacies suddenly needed to onboard to RAVS before we had time to develop the new interface.
+
 Despite our various efforts to design a way for chains to bulk onboard their branches themselves, we ended up with only the existing sign-up form being available which could only be used to sign up 1 pharmacy at the time. 
+
 Because we knew how onerous it would be for the large chains to use the existing form, we offered to help in another way. We contacted all the chains with 40 plus pharmacies and told them that if they gave us a list of all the pharmacies and associated lead admins they wanted to onboard, we would do it for them. Our dev team was able to run a script to add these pharmacies and users in bulk to RAVS. 
 
 Several chains took up this offer though others signed up their branches individually using the sign-up form despite the effort involved. 
 
 ## Making the admin interface available to users
+
 When it came to developing the admin interface, we decided to prioritise the Reports section so that we could make this section available to users as soon as possible. 
 
 Since the chains had ended up onboarding to RAVS without the admin interface, enabling them to sign up pharmacies and users was less of an immediate need. 
 
 On the other hand, now that the chains had started recording MenB vaccinations, they would want to run reports across all their branches by the end of the first month of vaccinations. 
+
 In August 2026, we went live with a simplified version of the interface that included the Reports and the Pharmacies sections, but not the Dashboard or Users sections.
+
 The initial version of the Pharmacies section showed all the pharmacy branches that were signed up to RAVS, and all users at these branches including their permissions. But it did not include the functionality to add users or change a user's status or permissions.  
+
 But critically in the Reports section, a group admin could run a report that includes vaccination data across all their branches. 
 
 In October 2026, we released a first version of the Users section, enabling group admins to see all group admins at their company and to add more group admins.
 
 ## What's next
+
 We are planning to make a full version of the CP admin interface available over the next few months, releasing additional features in increments. 
