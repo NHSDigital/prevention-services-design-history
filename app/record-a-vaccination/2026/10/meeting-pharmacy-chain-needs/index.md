@@ -15,7 +15,7 @@ We have been exploring how we can better meet the needs of teams who work in the
 
 Pharmacy chains, also known as multiples, are companies that have several pharmacy branches or stores. The smaller multiples have fewer than 10 branches and the largest more than 1,000. 
 
-We've learned that every pharmacy chain or multiple is different so a 'head office' role can mean different things.  But most of the teams we spoke to, especially at larger chains, expected to be able to:
+We've learned that every pharmacy chain or multiple is different so a "head office" role can mean different things.  But most of the teams we spoke to, especially at larger chains, expected to be able to:
 
 -	bulk onboard their branches
 -	run reports on the number of vaccinations done across all their branches
@@ -86,4 +86,4 @@ After our second round of user research, we discussed the feedback we'd had so f
 
 Our onboarding designs worked OK for some head office users but not all. Furthermore, these same users had expressed that they wanted to be able to view and manage their pharmacies in 1 place after onboarding had taken place.
 
-We decided to put our onboarding designs to one side and go back to the drawing board.
+We decided to put our onboarding designs to one side and go back to the drawing board. See our next post on [creating an admin interface for pharmacy chains](/record-a-vaccination/2026/10/pharmacy-chain-admin-interface).
