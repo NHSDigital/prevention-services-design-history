@@ -44,7 +44,7 @@ In our new designs, a group administrator logging into RAVS for their pharmacy c
 
 ![Screenshot showing Reports landing page.](create-a-report.png)
 
-![Screenshot showing page where you select the pharmacy branches you want to include in a report.](select-pharmacies-report.png)
+![Screenshot showing page where you select the pharmacy branches you want to include in a report.](select-pharmacies-reports.png)
 
 
 ## Feedback from user research
