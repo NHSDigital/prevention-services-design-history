@@ -28,6 +28,8 @@ In our new designs, a group administrator logging into RAVS for their pharmacy c
 
 ![Screenshot showing the dashboard for a pharmacy chain with total numbers of vaccinations and options to view data by day, vaccination type and pharmacy branch.](dashboard.png)
 
+![Screenshot showing the dashboard for a pharmacy chain with total numbers of vaccinations and options to view data by day, vaccination type and pharmacy branch.](dashboard.jpg)
+
 2.	A **Pharmacies** section listing all their branches using RAVS, and the number of users at each branch with options to add more pharmacies, and to manage users at an individual pharmacy.
 
 ![Screenshot showing the Pharmacies page of the admin interface with all pharmacies using RAVS shown in a list.](pharmacies-page.png)
