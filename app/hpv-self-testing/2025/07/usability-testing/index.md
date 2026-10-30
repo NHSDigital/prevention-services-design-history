@@ -75,7 +75,7 @@ Out of 17 participants:
 
 > Due to me being registered blind I rely on a screen reader to access various web pages and apps. If a web page or app is inaccessible for me to use, I do feel excluded...anything like unlabelled components such as buttons, links, graphics etc...
 
-> I rely purely on-screen reader software to read websites and app to me so if things are not labelled accurately, then I am unable to understand the content"
+> I rely purely on-screen reader software to read websites and app to me so if things are not labelled accurately, then I am unable to understand the content
 
 **6 participants** self-identified as having varying levels of neurodivergent conditions. ​
 

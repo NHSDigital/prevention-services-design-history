@@ -26,7 +26,7 @@ For example, a customer could set up a Winter Vaccination Service that allows pa
 
 During testing, we learned users understood this term, and the relationship between the different parts that make up a service.
 
-> “The terminology differs slightly from what teams use now, but it’s not difficult to understand.”
+> The terminology differs slightly from what teams use now, but it’s not difficult to understand.
 
 ![Manage your settings home screen](t8ed1m9yur6shm72g49qqefk42ji.png)
 
