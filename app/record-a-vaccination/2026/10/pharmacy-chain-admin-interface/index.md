@@ -26,7 +26,44 @@ In our new designs, a group administrator logging into RAVS for their pharmacy c
 
 1.	A **Dashboard** showing high-level vaccination data for all the pharmacy branches in their company.
 
-![Screenshot showing ...](insert image name)
+![Screenshot showing ...](dashboard.png)
 
+2.	A **Pharmacies** section listing all their branches using RAVS, and the number of users at each branch with options to add more pharmacies, and to manage users at an individual pharmacy.
 
+![Screenshot showing ...](pharmacies-page.png)
+
+![Screenshot showing ...](add-pharmacies-page.png)
+
+![Screenshot showing ...](manage-pharmacies-page.png)
+
+3.	A **Users** section where they can view and manage all their users, including other group administrators. In this section a user can be added to several pharmacies in 1 go.
+   
+![Screenshot showing ...](users-page.png)
+
+4.	A **Reports** section, where they can create a report that includes vaccination data from all their branches.
+
+![Screenshot showing ...](create-a-report.png)
+
+## Feedback from user research
+Overall, participants from large pharmacy chains were very positive about the new designs. 
+
+-	Being able to run reports across all their branches and manage pharmacies plus users centrally was universally popular and considered a great timesaver. 
+-	Adding pharmacies and users (onboarding) was considered intuitive.
+-	Participants appreciated having visibility and some control of their pharmacies and users within RAVS – for example the option to add more users or reactivate users.
+
+They suggested several changes that would make the admin interface even more useful.
+
+-	They thought the dashboard could meet all their basic reporting needs instantly if it showed the number and type of vaccinations done by each pharmacy and by timeframe. 
+-	They told us that some of the timeframes you can currently select when you create a report are not useful, such as last 7 days, last 14 days and last 31 days. It would be more useful to have last calendar week (previous Monday to Sunday) and last calendar month.
+-	As well as being able to reactivate individual users 1 at the time, they'd like a way of reactivating all users across all their branches at the start of a campaign. 
+-	A couple of participants observed that there was no way of adding a vaccination programme which is something they'd like to be able to do centrally.
+
+Most participants said they would still want to be able to access RAVS at individual branches, for example to investigate an issue or make a correction to a record. 
+
+## Iterations to the CP admin interface
+
+Following this round of UR, we made some further changes to the designs, including:
+
+-	changes to the timeframes users can select for reports – specifically adding last calendar week and last calendar month and removing the options of last 7 days, last 14 days and last 31 days 
+-	adding the functionality for a group admin to access an individual branch directly, as if they were a lead admin at that pharmacy – which would enable them to view and amend vaccination records recorded by that branch 
 
