@@ -34,7 +34,7 @@ In our new designs, a group administrator logging into RAVS for their pharmacy c
 
 ![Screenshot showing ...](add-pharmacies-page.png)
 
-![Screenshot showing ...](manage-pharmacies-page.png)
+![Screenshot showing ...](manage-pharmacy-page.png)
 
 3.	A **Users** section where they can view and manage all their users, including other group administrators. In this section a user can be added to several pharmacies in 1 go.
    
