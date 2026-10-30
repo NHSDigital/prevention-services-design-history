@@ -26,23 +26,26 @@ In our new designs, a group administrator logging into RAVS for their pharmacy c
 
 1.	A **Dashboard** showing high-level vaccination data for all the pharmacy branches in their company.
 
-![Screenshot showing ...](dashboard.png)
+![Screenshot showing the dashboard for a pharmacy chain with total numbers of vaccinations and options to view data by day, vaccination type and pharmacy branch.](dashboard.png)
 
 2.	A **Pharmacies** section listing all their branches using RAVS, and the number of users at each branch with options to add more pharmacies, and to manage users at an individual pharmacy.
 
-![Screenshot showing ...](pharmacies-page.png)
+![Screenshot showing the Pharmacies page of the admin interface with all pharmacies using RAVS shown in a list.](pharmacies-page.png)
 
-![Screenshot showing ...](add-pharmacies-page.png)
+![Screenshot showing page where you can add more pharmacy branches.](add-pharmacies-page.png)
 
-![Screenshot showing ...](manage-pharmacy-page.png)
+![Screenshot showing an individual pharmacy branch page, where you view and manage users for that branch.](manage-pharmacy-page.png)
 
 3.	A **Users** section where they can view and manage all their users, including other group administrators. In this section a user can be added to several pharmacies in 1 go.
    
-![Screenshot showing ...](users-page.png)
+![Screenshot showing the Users page of the admin interface, which lists both group admninistrators and users at individual branches.](users-page.png)
 
 4.	A **Reports** section, where they can create a report that includes vaccination data from all their branches.
 
-![Screenshot showing ...](create-a-report.png)
+![Screenshot showing Reports landing page.](create-a-report.png)
+
+![Screenshot showing page where you select the pharmacy branches you want to include in a report.](select-pharmacies-report.png)
+
 
 ## Feedback from user research
 Overall, participants from large pharmacy chains were very positive about the new designs. 
