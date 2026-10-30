@@ -67,7 +67,7 @@ We're waiting for more data to back this assumption - but this is something rese
 
 ### 'Immunosuppressed' is a grey area
 
-But it's likely the confusion wasn't _just_ about age.
+But it's likely the confusion wasn't just about age.
 
 Every season, it seems that some patients self-refer believing they have a weakened immune system that qualifies them for the jab - but in fact they do not, or no longer, meet the criteria. For example, someone who recently came off treatment might not realise they're no longer eligible.
 
@@ -93,7 +93,7 @@ We've learned that:
 
 And next time, we will:
 
-- **make it clear that things have _changed_**, not just what the new rules are
+- **make it clear that things have changed**, not just what the new rules are
 - **personalise communications** where possible (e.g. “Because you’re under 75…”)
 - **align national messaging and digital services** more closely to set expectations
 

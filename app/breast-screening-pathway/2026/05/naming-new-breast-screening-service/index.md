@@ -21,7 +21,7 @@ Naming things is hard. And getting a group of people to agree on that name can b
 
 The new digital breast screening service will replace several legacy systems: the main one is called NBSS (National breast screening system), there is also BSIS (Breast screening information system) and BS (Breast screening) Select. Some of these systems have been in use for decades, so people are well used to the acronyms.
 
-We figured that people would probably call it 'the new NBSS' and while that's... ok... we really wanted to show that the new system will do everything the existing systems do - but also more. We wanted to get across that this was something different. We wanted a name that was _appealing_.
+We figured that people would probably call it 'the new NBSS' and while that's... ok... we really wanted to show that the new system will do everything the existing systems do - but also more. We wanted to get across that this was something different. We wanted a name that was appealing.
 
 ## We started at the beginning - where else?
 
@@ -31,7 +31,7 @@ A small group of people who were good with words and ideas, all working on the s
 
 We know that the service's users are professionals who will use it every day. Their needs include being able to clearly identify this new service by its name to avoid confusion with the many other services they use daily. They need to differentiate the name during any times of dual running with NBSS. The new name must reflect the increased scope and encompass all the systems that are being redeveloped.
 
-We also had some extra considerations from [Sarah Fisher](https://www.linkedin.com/in/sarah-fisher-6149b1242/) of our senior leadership team, and feedback from those who use the service. The name should describe _one_ breast screening service, national in scope and separate from the symptomatic service. It needed to avoid negative or unfortunate connotations. And it also needed to be a word or easy-to-say acronym or initialism.
+We also had some extra considerations from [Sarah Fisher](https://www.linkedin.com/in/sarah-fisher-6149b1242/) of our senior leadership team, and feedback from those who use the service. The name should describe a single breast screening service, national in scope and separate from the symptomatic service. It needed to avoid negative or unfortunate connotations. And it also needed to be a word or easy-to-say acronym or initialism.
 
 ## A quick aside
 

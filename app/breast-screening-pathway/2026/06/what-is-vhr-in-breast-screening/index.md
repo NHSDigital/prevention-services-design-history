@@ -26,7 +26,7 @@ The volumes of eligible participants are relatively small compared to routine br
 | Moderate risk/ family history (Not part of national screening) | ~ 300k–600k                   | ~ 5–10%                                    |
 | Very high risk (VHR)                                           | ~ 17k (based on 2024-25 data) | ~ 7–12% (can be higher with MRI protocols) |
 
-_Data sourced from [NHS](https://digital.nhs.uk/data-and-information/publications/statistical/breast-screening-programme/england-2024-2025/mainreport2425), NICE and GOV.UK sources. Routine and VHR are based on breast screening reporting data, however moderate risk are evidence informed estimates._
+Data sourced from [NHS](https://digital.nhs.uk/data-and-information/publications/statistical/breast-screening-programme/england-2024-2025/mainreport2425), NICE and GOV.UK sources. Routine and VHR are based on breast screening reporting data, however moderate risk are evidence informed estimates.
 
 ## Key differences between routine screening and VHR screening
 
