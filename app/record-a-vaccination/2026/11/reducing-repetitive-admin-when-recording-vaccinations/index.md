@@ -1,7 +1,7 @@
 ---
 title: Reducing repetitive admin when recording vaccinations
 description: How might we help users prepare for back-to-back appointments, so they do not have to enter the same information again and again?
-date: 2026-11-01
+date: 2026-11-02
 tags:
   - clinics 
   - patient lists
