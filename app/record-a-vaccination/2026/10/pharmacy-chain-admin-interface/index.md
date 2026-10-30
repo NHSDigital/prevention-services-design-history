@@ -24,7 +24,7 @@ But we then decided to rethink our approach as it became increasingly clear that
 
 ## A new admin interface
 
-We explored creating an interface specifically for users who have company-wide responsisbilities where they could not only onboard their pharmacies but also manage users and create reports. 
+We explored creating an interface specifically for users who have company-wide responsibilities where they could not only onboard their pharmacies but also manage users and create reports. 
 
 This involved creating a different view of RAVS which we've been calling the "admin interface", and a new user type or permission level of "group administrator".  
 
