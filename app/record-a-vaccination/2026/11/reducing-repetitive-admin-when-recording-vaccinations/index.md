@@ -1,6 +1,6 @@
 ---
 title: Reducing repetitive admin when recording vaccinations
-description: How might we help users to prepare in advance for back-to-back appointments, vaccinations in care homes and visits to housebound patients, so they do not have to enter the same information again and again.
+description: How might we help users prepare for back-to-back appointments, so they do not have to enter the same information again and again?
 date: 2026-11-01
 tags:
   - clinics 
@@ -10,6 +10,9 @@ author:
   - Benjy Stanton
   - Anna Sutton
   - Mark Harnett
+opengraphImage:
+  src: /record-a-vaccination/2026/11/reducing-repetitive-admin-when-recording-vaccinations/pharmacy-user-research.jpeg
+  alt: Two men outside a pharmacy, smiling at the camera.
 ---
 
 {{ description }}
@@ -55,6 +58,8 @@ Our initial list of stages:
 
 We ended up creating two prototypes.
 
+### Pharmacy appointments prototype
+
 One for pharmacy appointments that enhanced our upcoming appointments iteration. It explored the following ideas:
 
 - patient check-in
@@ -63,11 +68,25 @@ One for pharmacy appointments that enhanced our upcoming appointments iteration.
 - partial save – which could enable recording to start before the patient enters the consultation room
 - capture cancellation reason
 
+![A list of today's vaccination appointments](todays-appointments.png)
+
+![A way to capture a reason for a cancelled appointment](cancel-appointments.png)
+
+![The appointment list showing counts for specific themes such as cancellations or walk-ins](appointments-data.png)
+
+### Care home clinic prototype
+
 The other prototype we created focused on the care home clinics scenario. This prototype was similar, but explored how users might set up a clinic to save them time later. This prototype allowed them to:
 
 - set default answers for the whole clinic
 - pre-load a list of patients in advance
 - capture a cancellation reason
+
+![A list of upcoming vaccination clinics](clinics-landing.png)
+
+![A list of defaults that can be set for each clinic](create-clinic.png)
+
+![A list of patients in the clinic with links to record or cancel](view-clinic.png)
 
 ## What we learnt from user research
 
@@ -78,3 +97,5 @@ We learnt that, for small community pharmacies, the concepts in the prototype di
 However, the clinics prototype was more successful. We’ve decided to take this forward with a focus on helping GPs to create flexible presets and patients lists when vaccinating in housebound and care home settings.  
 
 Our next step will be to create another, more focused, prototype so we can do further user research and usability testing.
+
+![Two men outside a pharmacy, smiling at the camera.](pharmacy-user-research.jpeg "Benjy and Mark doing user research around London")
