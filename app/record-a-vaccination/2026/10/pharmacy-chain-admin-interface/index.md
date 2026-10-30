@@ -9,7 +9,7 @@ tags:
   - user management
 ---
 
-In trying to meet the needs of pharmacy chains, we did 2 rounds of [design and user research focusing on bulk onboarding](record-a-vaccination/2026/10/meeting-pharmacy-chain-needs). 
+In trying to meet the needs of pharmacy chains, we did 2 rounds of [design and user research focusing on bulk onboarding](/record-a-vaccination/2026/10/meeting-pharmacy-chain-needs/). 
 
 But we then decided to rethink our approach as it became increasingly clear that head office teams also wanted:
 
