@@ -1,7 +1,7 @@
 ---
 title: How we’re running a pilot
 description: Some updates now that the service is live.
-date: 2026-10-29
+date: 2026-10-30
 tags:
   - age-based messaging
   - pilot
