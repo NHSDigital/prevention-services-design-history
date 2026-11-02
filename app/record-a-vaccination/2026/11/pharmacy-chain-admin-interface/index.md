@@ -29,7 +29,8 @@ This involved creating a different view of RAVS which we've been calling the "ad
 
 In our new designs, a group administrator logging into RAVS for their pharmacy chain has access to 4 sections:
 
-1. A **Dashboard** showing high-level vaccination data for all the pharmacy branches in their company.
+### 1. Dashboard
+A **Dashboard** showing high-level vaccination data for all the pharmacy branches in their company.
 
 ![Screenshot showing the dashboard for a pharmacy chain with total numbers of vaccinations and options to view data by day, vaccination type and pharmacy branch.](dashboard1.png)
 
