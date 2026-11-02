@@ -27,15 +27,15 @@ We explored creating an interface specifically for users who have company-wide r
 
 This involved creating a different view of RAVS which we've been calling the "admin interface", and a new user type or permission level of "group administrator".  
 
-In our new designs, a group administrator logging into RAVS for their pharmacy chain has access to 4 sections:
+In our new designs, a group administrator logging into RAVS for their pharmacy chain can access 4 sections.
 
 ### 1. Dashboard
-A **Dashboard** showing high-level vaccination data for all the pharmacy branches in their company.
+The **Dashboard** shows high-level vaccination data for all the pharmacy branches in their company.
 
 ![Screenshot showing the dashboard for a pharmacy chain with total numbers of vaccinations and options to view data by day, vaccination type and pharmacy branch.](dashboard1.png)
 
 ### 2. Pharmacies
-A **Pharmacies** section listing all their branches using RAVS, with options to add or onboard more pharmacies and to manage an individual pharmacy branch.
+The **Pharmacies** section lists all the branches using RAVS, with options to add or onboard more pharmacies and to manage an individual pharmacy branch.
 
 ![Screenshot showing the Pharmacies page of the admin interface with all pharmacies using RAVS shown in a list.](pharmacies-page.png)
 
@@ -44,12 +44,12 @@ A **Pharmacies** section listing all their branches using RAVS, with options to 
 ![Screenshot showing an individual pharmacy branch page, where you view and manage users for that branch.](manage-pharmacy-page2.png)
 
 ### 3. Users
-A **Users** section where they can view and manage all their users, including other group administrators. In this section a user can be added to several pharmacies in 1 go.
+The **Users** section shows all their users, with options to manage existing users and add other users, including more group administrators.
 
 ![Screenshot showing the Users page of the admin interface, which lists both group admninistrators and users at individual branches.](users-page.png)
 
 ### 4. Reports
-A **Reports** section, where they can create a report that includes vaccination data from all their branches.
+The **Reports** section allows them to create a report that includes vaccination data from all their branches.
 
 ![Screenshot showing Reports landing page.](create-a-report.png)
 
