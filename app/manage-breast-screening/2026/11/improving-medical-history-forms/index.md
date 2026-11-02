@@ -21,9 +21,9 @@ We’ve made some updates to our medical history forms to make data entry more e
 
 ## Removing inefficiencies
 
-Some of our medical history forms require users to record what procedures or treatment the participant has previously had. We collect this information then pass it to images readers along with the mammograms to help with their assessment of the case.
+Some of our medical history forms require users to record what procedures or treatment the participant has previously had. We collect this information then pass it to image readers along with the mammograms to help with their assessment of the case.
 
-Our initial designs laid the options out in two columns (right and left), and asked users to say what has (or hasn't) been done on each side. Read our [Capturing medical history](/manage-breast-screening/2025/09/capturing-medical-history/) design history for more background context.
+Our initial designs laid the options out in two columns (right and left) and asked users to say what has (or hasn't) been done on each side. Read our [Capturing medical history](/manage-breast-screening/2025/09/capturing-medical-history/) design history for more background context.
 
 During testing we've discovered this was creating frustration for users. We were forcing them to answer questions for both breasts, even when a participant had only had a procedure on one side.
 
@@ -39,13 +39,13 @@ During testing we've discovered this was creating frustration for users. We were
   </figcaption>
 </figure>
 
-We'd provided a comprehensive set of options to cover every scenario, but the screen was cluttered with a mass of inputs and repeated label text which made it a lot to take in during a live screening.
+We'd provided a comprehensive set of options to cover every scenario, but the screen was cluttered with a mass of inputs and repetitive label text which made it a lot to comprehend during a live screening.
 
 ### Moving to a 'pick a thing, then a side' pattern
 
 To reduce friction, we've replaced the two-column grid with a single list of procedures and treatments.
 
-Users simply need to select what happened and then (where relevant) state on which side it was done.
+Users select what happened and then (where relevant) state on which side it was done.
 
 With fewer fields to validate this makes it easer for users to record the information, as well as being more pleasing on the eye.
 
@@ -75,7 +75,7 @@ We present these as separate options within our medical history section.
 
 ![The medical history options on the 'review medical information' step of our appointment workflow](add-medical-history.png)
 
-If the mastectomy was for breast cancer, we need to collect details about other surgery and treatments. If it was for another reason (such as reducing cancer risk or as a part of gender transition) there's a much simpler set of questions to answer.
+If the mastectomy was for breast cancer, we need to collect details about other surgery and treatments. If it was for another reason (such as reducing cancer risk or as a part of gender transition) there's a shorter set of questions to answer.
 
 During testing, users were selecting 'Mastectomy or lumpectomy' but upon finding out it was because of breast cancer, not noticing the link we'd added to direct them them towards a more appropriate form.
 
@@ -83,11 +83,11 @@ During testing, users were selecting 'Mastectomy or lumpectomy' but upon finding
 
 This meant they were completing details of past instances of breast cancer on a form that didn't have the relevant set of fields.
 
-To help ensure users are using the correct path, we've moved the question at the end of the 'Mastectomy or lumpectomy' form about why the surgery was done to be a new separate first step, with breast cancer as one of the options.
+To help ensure users are using the correct path, we've moved the question that was previously at the end of the 'Mastectomy or lumpectomy' form to be a new separate first step. We now require users to say why the surgery was done, with breast cancer as one of the options.
 
 ![A new first step on our mastectomy or lumpectomy form asking users to say the reason this was done](new-first-step.png)
 
-If breast cancer is selected, we divert users to the breast cancer form. If any of the other reasons are chosen they continue with the rest of the elective mastectomy or lumpectomy questions.
+If breast cancer is selected, we divert users to the breast cancer form. If any of the other reasons are chosen they continue with the rest of the mastectomy or lumpectomy questions.
 
 ### 2. Different types of mastectomy
 
@@ -122,7 +122,7 @@ If the surgery was done on one side only (unilateral), the default selection is 
 
 ![A question asking users if they need to take any images of a breast after recording a unilateral mastectomy](mastectomy-follow-up-unilateral.png)
 
-If a mastectomy has been done on both sides (bilateral) then we advise that no images need to be taken. Continuing will end the appointment with an 'Attended not screened' status added. This information will be fed through to those arranging future screening invites.
+If a mastectomy has been done on both sides (bilateral) then we advise that no images need to be taken. Continuing will end the appointment with an 'Attended not screened' status added. This information will be fed through to those arranging future invites so they can choose to exclude them from screening.
 
 Users can decide to change the selection and take images of either or both sides.
 
