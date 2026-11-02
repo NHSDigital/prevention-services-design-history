@@ -49,6 +49,8 @@ In our new designs, a group administrator logging into RAVS for their pharmacy c
 
 ![Screenshot showing Reports landing page.](create-a-report.png)
 
+![Screenshot showing the page in reports where you can select which pharmacies to include.](select-pharmacies-reports.png)
+
 ## Feedback from user research
 
 Overall, participants from large pharmacy chains were very positive about the new designs.
