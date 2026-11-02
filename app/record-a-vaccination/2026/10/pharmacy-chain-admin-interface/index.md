@@ -32,7 +32,7 @@ In our new designs, a group administrator logging into RAVS for their pharmacy c
 
 1.	A **Dashboard** showing high-level vaccination data for all the pharmacy branches in their company.
 
-![Screenshot showing the dashboard for a pharmacy chain with total numbers of vaccinations and options to view data by day, vaccination type and pharmacy branch.](dashboard.png)
+![Screenshot showing the dashboard for a pharmacy chain with total numbers of vaccinations and options to view data by day, vaccination type and pharmacy branch.](dashboard1.png)
 
 2.	A **Pharmacies** section listing all their branches using RAVS, with options to add or onboard more pharmacies and to manage an individual pharmacy branch. 
 
