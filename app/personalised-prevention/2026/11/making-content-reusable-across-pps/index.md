@@ -21,7 +21,7 @@ We reviewed existing service journeys and research, spoke to delivery teams and 
 
 We needed to work through a real journey to understand what could be reused, what needed to vary and how teams could apply the learning in practice.
 
-![Process-flow diagram mapping a blood pressure monitoring journey from invitation and access through login, onboarding, measurement and return to the service. Colour-coded notes show clinical and non-clinical routes, measurement options and follow-up content.](/personalised-prevention/2026/11/making-content-reusable-across-pps/image1.jpg "Figure 1: Mapping the journey for reporting a blood pressure reading")
+![Process-flow diagram mapping a blood pressure monitoring journey from invitation and access through login, onboarding, measurement and return to the service. Colour-coded notes show clinical and non-clinical routes, measurement options and follow-up content.](/personalised-prevention/2026/11/making-content-reusable-across-pps/image1.png "Figure 1: Mapping the journey for reporting a blood pressure reading")
 
 ## Using blood pressure as a test case
 
@@ -57,7 +57,7 @@ Each pattern can contain a combination of stable, adaptable and local content, d
 
 Rather than prescribing content, the patterns are intended to provide a reusable structure that teams can apply to similar problems. A completed pattern would describe the problem, when it applies, what should remain stable, what can be adapted or provided locally, and relevant examples and evidence from services.
 
-![Pattern-library page for “Stop and return”. The page presents the purpose, usage guidance and a reusable flow for leaving a service, taking a blood pressure reading and returning later.](/personalised-prevention/2026/11/making-content-reusable-across-pps/image2.jpg "Figure 2: An example from the pattern library. 'Stop and return' captures reusable clinical and behavioural guidance for journeys where users need to leave the service and return later.")
+![Pattern-library page for “Stop and return”. The page presents the purpose, usage guidance and a reusable flow for leaving a service, taking a blood pressure reading and returning later.](/personalised-prevention/2026/11/making-content-reusable-across-pps/image2.png "Figure 2: An example from the pattern library. 'Stop and return' captures reusable clinical and behavioural guidance for journeys where users need to leave the service and return later.")
 
 One recurring challenge was supporting users to leave a service to obtain a blood pressure reading and then return to complete their journey.
 
