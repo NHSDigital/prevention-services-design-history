@@ -40,7 +40,7 @@ In our new designs, a group administrator logging into RAVS for their pharmacy c
 
 ![Screenshot showing page where you can add more pharmacy branches.](add-pharmacies-page.png)
 
-![Screenshot showing an individual pharmacy branch page, where you view and manage users for that branch.](manage-pharmacy-page.png)
+![Screenshot showing an individual pharmacy branch page, where you view and manage users for that branch.](manage-pharmacy-page1.png)
 
 3.	A **Users** section where they can view and manage all their users, including other group administrators. In this section a user can be added to several pharmacies in 1 go.
    
