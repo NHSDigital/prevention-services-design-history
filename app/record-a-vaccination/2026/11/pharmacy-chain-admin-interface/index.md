@@ -1,7 +1,7 @@
 ---
 title: Creating an admin interface for pharmacy chains
 description: How we created a new interface and a new permission level in RAVS for pharmacy chains.
-date: 2026-11-02
+date: 2026-11-04
 tags:
   - onboarding
   - permissions
