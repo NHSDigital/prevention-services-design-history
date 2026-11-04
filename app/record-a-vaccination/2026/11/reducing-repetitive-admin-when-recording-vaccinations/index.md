@@ -25,7 +25,7 @@ By clinic, we mean a vaccination setting or session where many patients are gett
 
 During these vaccination sessions, most of the answers RAVS requires will be the same for each patient. For example, vaccinator, batch number, eligibility, setting don’t change. The repetition is inefficient and may draw focus away from the patient.
 
-Previous user research & feedback had highlighted this was a problem for users, but we needed to pull it together into a new concept.
+Previous user research and feedback had highlighted this was a problem for users, but we needed to pull it together into a new concept.
 
 Our user researcher led some kick-off sessions, where we reviewed & shaped the problem; inviting people from across RAVS, and related teams.
 
