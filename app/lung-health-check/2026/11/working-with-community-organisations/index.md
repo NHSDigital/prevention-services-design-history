@@ -11,7 +11,7 @@ tags:
 author:
   - Michael Watson
 opengraphImage:
-  src: /lung-health-check/2026/11/working-with-community-organisations/shisha-community-research.png
+  src: /lung-health-check/2026/11/working-with-community-organisations/community-leaders-hammersmith.png
   alt: Community leaders, NHS colleagues and participants taking part in a shisha co-design workshop
 ---
 
@@ -37,7 +37,7 @@ The organisations also:
 - supported conversations around the tables
 - translated where needed
 
-[insert image here]
+![Workshop participants seated in small groups around tables in a bright community room. Several people are talking together while others are writing on workshop materials. The tables contain printed activity sheets, sticky notes, marker pens, water bottles and other workshop materials.](community-leaders-hammersmith.png "community leaders and NHS colleagues working with participants in the Hammersmith workshop")
 
 ## Local knowledge changed how we planned the workshops
 
@@ -61,7 +61,7 @@ This was particularly useful because people were talking about personal subjects
 
 Having familiar people in the room helped people share their experiences. After one workshop, the community organisation told us that people had felt comfortable talking about their cultural perspectives and personal experiences. They also told us that our approach had helped people talk openly about shisha.
 
-[insert image here]
+![A workshop facilitator stands at the front of a community room talking with participants seated around several tables during a group discussion. Three people are visible around the main table, with another person partly visible in the foreground. Papers, workshop materials, sticky notes, pens and water bottles are spread across the tables, showing the setup for a facilitated discussion activity.](group-discussion-croydon.png "An open group discussion about shisha experiences taking place in Croydon")
 
 ## Local knowledge helped us make the research more appropriate
 
