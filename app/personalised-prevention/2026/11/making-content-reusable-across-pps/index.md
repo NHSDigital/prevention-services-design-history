@@ -11,7 +11,7 @@ author:
   - Tricia Dever
 ---
 
-This design history describes how we used the blood pressure reporting journey to explore how content could be reused across Personalised Prevention Services (PPS). It builds on our earlier work to create a [shared view of PPS capabilities](https://design-history.prevention-services.nhs.uk/personalised-prevention/2026/06/shared-view-capabilities/) and the [blood pressure journey and reusability spike](https://design-history.prevention-services.nhs.uk/personalised-prevention/2026/09/blood-pressure-journey-spike/). We wanted to understand what content reuse would mean in practice, beyond reusing existing journeys or individual pieces of content.
+This design history describes how we used the blood pressure reporting journey to explore how content could be reused across Personalised Prevention Services (PPS). It builds on our earlier work to create a [shared view of PPS capabilities](/personalised-prevention/2026/06/shared-view-capabilities/) and the [blood pressure journey and reusability spike](/personalised-prevention/2026/09/blood-pressure-journey-spike/). We wanted to understand what content reuse would mean in practice, beyond reusing existing journeys or individual pieces of content.
 
 ## Context
 
