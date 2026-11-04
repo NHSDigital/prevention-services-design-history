@@ -25,7 +25,7 @@ We needed to work through a real journey to understand what could be reused, wha
 
 ## Using blood pressure as a test case
 
-The [blood pressure spike](https://design-history.prevention-services.nhs.uk/personalised-prevention/2026/09/blood-pressure-journey-spike/) gave us an opportunity to test this thinking through a real journey. Blood pressure reporting appears across several PPS services and was already being explored as a technically reusable capability, partly because other teams were interested in using it as a standalone service. It also brought together wider content challenges, including completing activities offline, leaving and returning to a journey, validating information, handling safety concerns and explaining results.
+The [blood pressure spike](/personalised-prevention/2026/09/blood-pressure-journey-spike/) gave us an opportunity to test this thinking through a real journey. Blood pressure reporting appears across several PPS services and was already being explored as a technically reusable capability, partly because other teams were interested in using it as a standalone service. It also brought together wider content challenges, including completing activities offline, leaving and returning to a journey, validating information, handling safety concerns and explaining results.
 
 Mapping the end-to-end journey helped us distinguish between problems specific to blood pressure and problems likely to appear elsewhere in PPS. For example, the challenge of leaving a digital service to complete an activity offline is not unique to blood pressure. Looking across these problems showed that reuse depended not only on the subject matter, but on the role different content played in the journey.
 
