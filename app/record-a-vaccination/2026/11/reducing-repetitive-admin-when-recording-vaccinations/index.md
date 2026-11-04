@@ -49,7 +49,7 @@ For each scenario we identified groups of tasks that could be done at different 
 Our initial list of stages:
 
 1. Prepare in advance
-2. Check-in on the day
+2. Check in on the day
 3. See who's next
 4. Vaccinate
 5. See a final report
