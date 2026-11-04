@@ -1,6 +1,6 @@
 ---
 title: Pilot approach working collaboratively with suppliers to support DES Cohorting
-description: 
+description: Exploring how collaborative working with suppliers, pilot sites and programme stakeholders supports the DES Cohorting pilot by gathering feedback, reviewing progress and informing the next phases of delivery.
 date: 2026-11-04
 author: Harleen Kaur Dhillon
 tags: cascade
