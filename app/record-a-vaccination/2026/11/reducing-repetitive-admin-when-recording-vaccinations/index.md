@@ -60,7 +60,7 @@ We ended up creating two prototypes.
 
 ### Pharmacy appointments prototype
 
-One for pharmacy appointments that enhanced our upcoming appointments iteration. It explored the following ideas:
+The first prototype enhanced our existing designs for [showing appointments in RAVS](/record-a-vaccination/2026/09/appointments-in-ravs/). It explored the following ideas:
 
 - patient check-in
 - add walk-in patient
