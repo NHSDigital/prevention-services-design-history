@@ -94,7 +94,7 @@ For our user research round, we decided to do a mix of remote video calls with G
 
 We learnt that, for small community pharmacies, the concepts in the prototype didn’t offer that much value. Since we already have an appointments feature in the backlog, we’ve decided to focus on releasing that first and then revisiting these ideas later.
 
-However, the clinics prototype was more successful. We’ve decided to take this forward with a focus on helping GPs to create flexible presets and patients lists when vaccinating in housebound and care home settings.  
+However, the clinics prototype was more successful. We’ve decided to take this forward with a focus on helping GPs to create flexible presets and patient lists when vaccinating in housebound and care home settings.  
 
 Our next step will be to create another, more focused, prototype so we can do further user research and usability testing.
 
