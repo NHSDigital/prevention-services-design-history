@@ -79,7 +79,7 @@ One for pharmacy appointments that enhanced our upcoming appointments iteration.
 The other prototype we created focused on the care home clinics scenario. This prototype was similar, but explored how users might set up a clinic to save them time later. This prototype allowed them to:
 
 - set default answers for the whole clinic
-- pre-load a list of patients in advance
+- upload a list of patients in advance
 - capture a cancellation reason
 
 ![A list of upcoming vaccination clinics](clinics-landing.png)
