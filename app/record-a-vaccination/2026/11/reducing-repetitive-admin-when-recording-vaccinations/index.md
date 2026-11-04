@@ -90,7 +90,7 @@ The other prototype we created focused on the care home clinics scenario. This p
 
 ## What we learnt from user research
 
-For our user research round, we decided to do a mix of remote video calls with GPs, hospital trusts and pharmacies. We also planned a day of face-to-face sessions at pharmacies around London. All together, we had about 14 sessions.
+For our user research round, we decided to do a mix of remote video calls with GPs, hospital trusts and pharmacies. We also planned a day of face-to-face sessions at pharmacies around London. In total, we had about 14 sessions.
 
 We learnt that, for small community pharmacies, the concepts in the prototype didn’t offer that much value. Since we already have an appointments feature in the backlog, we’ve decided to focus on releasing that first and then revisiting these ideas later.
 
