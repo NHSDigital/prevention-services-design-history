@@ -76,7 +76,7 @@ One for pharmacy appointments that enhanced our upcoming appointments iteration.
 
 ### Care home clinic prototype
 
-The other prototype we created focused on the care home clinics scenario. This prototype was similar, but explored how users might set up a clinic to save them time later. This prototype allowed them to:
+The other prototype we created focused on the care home clinics scenario. This prototype was similar but explored how users might set up a clinic to save them time later. This prototype allowed them to:
 
 - set default answers for the whole clinic
 - upload a list of patients in advance
