@@ -34,7 +34,7 @@ These are some of the initial user needs we decided to explore:
 - I need to be able to get records ready before a clinic or visit, so I spend less time entering information with the patient.  
 - I need to avoid entering the same information again and again when vaccinating several patients in the same session.  
 - I need other members of the team to add information before I see the patient, so I can focus on the vaccination, and see more patients.  
-- I need RAVS to work on the device I have access to (which may be laptop, tablet or personal smart phone).
+- I need RAVS to work on the device I have access to (which may be a laptop, tablet or personal smart phone).
 
 ## Thinking about tasks and scenarios
 
