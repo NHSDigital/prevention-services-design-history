@@ -1,6 +1,8 @@
 ---
 layout: collection
 title: All posts
+eleventyComputed:
+  description: "Showing {{ pagination.pageNumber * pagination.size + 1 }} to {{ pagination.pageNumber * pagination.size + pagination.items.length }} of {{ collections.post | length }}."
 pagination:
   data: collections.post
   reverse: true

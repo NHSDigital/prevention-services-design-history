@@ -57,6 +57,10 @@ groups:
         image:
           alt: RAVS Streamlined mission patch
           src: ravs-streamlined.png
+      - description: This mission patch celebrated reaching the milestone of recording 10 million vaccinations using the service by October 2026.
+        image:
+          alt: RAVS mission patch showing a queue of hares leading into a pharmacy
+          src: ravs-10-million-jabs-mission-patch.png
   - title: Vaccinations
     description: These mission patches celebrate work that spanned multiple vaccination teams.
     columns: 3
