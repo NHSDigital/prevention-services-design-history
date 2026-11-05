@@ -57,7 +57,7 @@ Instead, the app could provide a single ‘Get a test’ journey which brings to
 
 This is already the principle behind NHS.UK. For example, the [chlamydia page](https://www.nhs.uk/conditions/chlamydia/) lists the options for getting a test, and links to find a sexual health clinic, find a pharmacy, and find free chlamydia home test kits for under 25s.
 
-The NHS App could build on this approach. Because the user is logged in, and the app can use information such as their location, it could make the options more relevant and easier to act on. Depending on the test and the person’s circumstances, these might include:
+The NHS App could build on this approach. Because the user is logged in, and the app could use information such as their location or home address, it might be able to make the options more relevant and easier to act on. Depending on the test and the person’s circumstances, these might include:
 
 - ordering a home test kit
 - finding a nearby pharmacy, sexual health clinic, neighbourhood health centre or other service offering the test
@@ -69,6 +69,8 @@ Over time, this could offer more types of test with more options. It could also 
 ## Sketching the journey
 
 To explore the idea, we sketched a prototype of how a ‘Get a test’ journey might work.
+
+The sketch explores the overall concept for the journey, rather than the details of each screen. Some content is illustrative, and some screens contain placeholder text.
 
 ### Starting from Tests
 
@@ -138,6 +140,6 @@ Both ideas also follow the precedent set by the NHS App teams, who did the hard
 
 ## What happens next
 
-We’re working with other teams on the whole experience of testing, from getting a test to getting the result.
+We’re collaborating with other teams, including the NHS App information architecture and navigation team and the NHS App health information team, on the whole experience of testing, from getting a test to getting the result.
 
-We’re collaborating with the NHS App teams on some research to explore these ideas in more detail.
+These ideas – and others – will be researched and explored in more detail to see what is valuable, usable and feasible.
