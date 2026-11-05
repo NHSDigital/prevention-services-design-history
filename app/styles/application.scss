@@ -29,3 +29,24 @@
     }
   }
 }
+
+// Mission patch artwork that extends beyond its circle.
+//
+// A card image normally fills the whole card width. For artwork that spills
+// outside the circle, that would shrink the circle itself. Capping the image
+// in a half-width card keeps the circle the same size as the circular patches
+// in the 3-column rows.
+//
+// On a 960px page a one-third card is 298.7px wide and a one-half card is
+// 464px. The whale file is 1.346 times as wide as its circle, so the image
+// needs 298.7 x 1.346 = 402px, which is 86.66% of 464px.
+//
+// Below the desktop breakpoint every card is full width, so the image is too.
+.app-mission-patch--beyond-circle img {
+  display: block;
+  width: 100%;
+
+  @include nhsuk-media-query($from: desktop) {
+    width: 86.66%;
+  }
+}
