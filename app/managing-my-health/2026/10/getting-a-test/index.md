@@ -142,4 +142,4 @@ Both ideas also follow the precedent set by the NHS App teams, who did the hard
 
 We’re collaborating with other teams, including the NHS App information architecture and navigation team and the NHS App health information team, on the whole experience of testing, from getting a test to getting the result.
 
-These ideas – and others – will be researched and explored in more detail to see what is desirable and feasible.
+These ideas – and others – will be researched and explored in more detail to see what is valuable, usable and feasible.
