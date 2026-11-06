@@ -107,6 +107,16 @@ groups:
         image:
           alt: Mission patch for alpha phase of Manage breast screening
           src: manage-alpha-bat-mission-patch.png
+  - title: Managing my health
+    description: The team chose an orca as their mascot because orcas hunt as a group, they get further by helping others than by working alone.
+    columns: 3
+    type: "secondary"
+    items:
+      - description: This mission patch celebrated the team forming.
+        date: 2026-02-18
+        image:
+          alt: Managing my health mission patch showing an orca leaping through a yellow ring reading DPSP and Managing my health
+          src: managing-my-health-whale.png
   - title: Mission patch print specifications
     description: >
       We use [Diginate](http://diginate.com) to print our stickers. Recommended specifications:
