@@ -10,7 +10,7 @@ author:
   - Simon Whatley
 opengraphImage:
   src: /lung-health-check/2026/11/following-the-golden-threads/og-following-the-golden-threads.png
-  alt: The 5 golden threads of lung cancer screening: cohorting, notifications, risk assessment, capacity and capability, and data and analytics.
+  alt: "The 5 golden threads of lung cancer screening: cohorting, notifications, risk assessment, capacity and capability, and data and analytics."
 ---
 
 Many of the biggest problems in managing lung cancer screening are not inside any one service. They sit between different parts of the service.
