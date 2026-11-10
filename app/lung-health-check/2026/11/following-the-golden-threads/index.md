@@ -20,7 +20,7 @@ Following the threads changed the question we were asking. It stopped being ‘w
 
 **Where should each thread be owned: nationally, shared or locally?**
 
-[Image: Opportunity areas diagram showing the future service from programme to providers, with the 5 golden threads underneath]
+![Golden threads diagram showing the future service from programme to providers, with the 5 golden threads to the side](golden-threads.png "The golden threads running through lung cancer screening")
 
 ## How lung cancer screening is run
 
