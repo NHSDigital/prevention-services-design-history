@@ -8,6 +8,8 @@ tags:
   - lung cancer screening
 author:
   - Simon Whatley
+opengraphImage:
+  src: /lung-health-check/2026/11/following-the-golden-threads/og-following-the-golden-threads.png
 ---
 
 Many of the biggest problems in managing lung cancer screening are not inside any one service. They sit between different parts of the service.
