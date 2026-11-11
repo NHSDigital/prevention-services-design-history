@@ -9,8 +9,8 @@ tags:
 author:
   - Simon Whatley
 opengraphImage:
-  src: /lung-health-check/2026/11/following-the-golden-threads/og-following-the-golden-threads.png
-  alt: "The 5 golden threads of lung cancer screening: cohorting, notifications, risk assessment, capacity and capability, and data and analytics."
+  src: /lung-health-check/2026/11/following-the-golden-threads/og-following-the-golden-threads-map.png
+  alt: "Simplified map of the 5 golden threads across the lung cancer screening service. The service is shown as 7 stages: programme, cohort, record, notify, risk check, booking and providers. Cohort, record, notify and risk check are national, booking is shared and providers are local. Cohorting runs from the programme to the record. Notifications runs from the record to notify. Risk assessment covers the risk check. Capacity and capability runs from booking to providers. Data and analytics runs across every stage."
 ---
 
 Many of the biggest problems in managing [lung cancer screening](https://www.digital-prevention-services.nhs.uk/screening/lung/) are not inside any one service. They sit between different parts of the service.
