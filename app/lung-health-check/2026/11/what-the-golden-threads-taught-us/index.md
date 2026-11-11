@@ -29,13 +29,17 @@ Data transfer fed every thread. Every thread depends on information moving from 
 
 Providers use different processes and code combinations to find eligible people. Some areas invite only people with a smoking code in their GP record. People with missing codes are excluded without anyone knowing.
 
-The [SUMMIT study](https://www.uclh.nhs.uk/our-services/find-service/cancer-services/summit-study) found self-reported smoking status matched GP records for about 75% of people. The answers people give in the risk questionnaire will be better data for later rounds than GP records.
+The [SUMMIT study](https://www.uclh.nhs.uk/our-services/find-service/cancer-services/summit-study) found self-reported smoking status matched GP records for about 75% of people. The answers people give in the risk questionnaire will give us better data for later rounds than GP records.
 
 ### Some risks are clinical safety risks
 
-The risk assessment has 3 stages. The first collects people’s answers. The second turns those answers into the inputs the calculator needs. The third calculates their risk.
+The risk assessment has 3 stages:
 
-Some of the changes in the second stage are technical, such as converting date of birth to age. Others need clinical judgement, such as how to count years smoked, or how to score ‘do not know’ responses.
+1. Collect participant's answers.
+2. Turn those answers into the inputs the calculator needs.
+3. Calculate their risk.
+
+Some of the changes in the second stage are technical, such as converting date of birth to age. Others need clinical judgement, such as how to count years smoked, or how to score 'do not know' responses.
 
 If the phone and digital routes calculate risk differently, people could be wrongly included or excluded. Keeping them the same is a clinical safety issue, not just a consistency one.
 
