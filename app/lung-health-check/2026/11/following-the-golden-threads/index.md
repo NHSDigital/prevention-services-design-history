@@ -13,9 +13,9 @@ opengraphImage:
   alt: "The 5 golden threads of lung cancer screening: cohorting, notifications, risk assessment, capacity and capability, and data and analytics."
 ---
 
-Many of the biggest problems in managing lung cancer screening are not inside any one service. They sit between different parts of the service.
+Many of the biggest problems in managing [lung cancer screening](https://www.digital-prevention-services.nhs.uk/screening/lung/) are not inside any one service. They sit between different parts of the service.
 
-In July, we ran workshops with the national lung cancer screening programme and our digital team. People kept describing problems that no single system could fix. Cohorts go out of date. People who opt out get invited again. Phone and digital risk results could differ. Invitations are sent manually, which makes it hard to balance them against CT scanner capacity. Data does not make it back to the people who need it.
+In July, [we ran workshops with the national lung cancer screening programme](/lung-health-check/2026/09/building-a-shared-understanding-of-a-future-lung-service/) and our digital team. People kept describing problems that no single system could fix. Cohorts go out of date. People who opt out get invited again. Phone and digital risk results could differ. Invitations are sent manually, which makes it hard to balance them against CT scanner capacity. Data does not make it back to the people who need it.
 
 Each of these problems depends on something moving through the whole service: a person, a message, an answer, a scanner appointment or a participant record. We call the routes these things take ‘golden threads’. A golden thread is something that has to work across the whole service, not just one part of it.
 
@@ -23,11 +23,11 @@ Following the threads changed the question we were asking. It stopped being ‘w
 
 **Where should each thread be owned: nationally, shared or locally?**
 
-![Golden threads diagram showing the future service from programme to providers, with the 5 golden threads to the side](golden-threads.png "The golden threads running through lung cancer screening")
+![Flow diagram of the proposed lung cancer screening service, read from top to bottom. The programme sets out how screening should be delivered. Cohorting as a Service builds the first cohort and then sends changes. Manage lung cancer screening holds the central record and rules. NHS Notify sends messages by NHS App, email, text message and letter. Check if you need a lung scan, currently a pilot, assesses risk online, with help from staff or by phone. These 4 services are national. Book a lung screening appointment is shared. Providers are local and assess, scan and refer people onwards. Finally, the programme receives performance reports. Brackets show where each golden thread runs. Cohorting runs from the programme to Manage lung cancer screening. Notifications covers Manage lung cancer screening and NHS Notify. Risk assessment covers Check if you need a lung scan. Capacity and capability covers booking and providers. Data and analytics runs from the programme through to providers.](golden-threads.png "The 5 golden threads run across the national, shared and local parts of the proposed service. The services shown are indicative.")
 
 ## How lung cancer screening is run
 
-Lung cancer screening is run differently from other screening programmes. The NHS screening directorate oversees several screening programmes, including breast, cervical, prostate, and diabetic eye screening.
+Lung cancer screening is run differently from other screening programmes. The NHS screening directorate oversees several screening programmes, including bowel, breast, cervical, prostate, and diabetic eye screening.
 
 The NHS cancer directorate owns the lung cancer screening programme. Cancer alliances deliver it locally, often in partnership with private providers using their own software.
 
