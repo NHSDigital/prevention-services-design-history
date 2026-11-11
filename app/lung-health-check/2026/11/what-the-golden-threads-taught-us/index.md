@@ -19,8 +19,6 @@ This post covers what following the threads taught us, and what we are doing abo
 
 ## What we learnt
 
-![Six cards summarising what we learnt, each matching a heading in this section and tagged with the golden thread it relates to](what-we-learnt.png "The 6 things following the golden threads taught us")
-
 ### The problems sit between parts of the service
 
 Data transfer fed every thread. Every thread depends on information moving from one part of the service to another. This was the earliest sign that designing one part at a time would not fix the problems people described.
