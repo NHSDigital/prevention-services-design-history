@@ -1,3 +1,4 @@
+import { createHash } from 'node:crypto'
 import fs from 'node:fs/promises'
 import path from 'node:path'
 
@@ -11,6 +12,35 @@ const analyticsHost = 'https://analytics.digital-prevention-services.nhs.uk'
 const analyticsWebsiteId = 'bb2ba8c7-ccd5-4359-ad09-6ddeffbaf2ec'
 const cspInlineScriptHash =
   'sha256-tDOvXJi1PXbg0CWjLCCYSNHRXtps26K4JXkE3M6u/c0='
+
+// Removes personal data before Umami sends it. Copied from the onboarding guide at
+// https://github.com/NHSDigital/dpsp-umami#2-add-the-tracking-script
+const umamiBeforeSendScript = String.raw`
+  // Removes personal data from what is sent to Umami. Test it against your own URLs and titles.
+  function umamiBeforeSend(type, payload) {
+    const decode = (s) => {
+      try { return decodeURIComponent(s); } catch { return s; }
+    };
+    // Email addresses, UUIDs, then any run of letters and digits that contains a digit.
+    const redact = (s) => s
+      .replace(/[\w.+-]+@[\w-]+\.[\w.-]+/g, "[email]")
+      .replace(/\b[0-9a-f]{8}(-[0-9a-f]{4}){3}-[0-9a-f]{12}\b/gi, "[id]")
+      .replace(/[a-z0-9]*\d[a-z0-9]*/gi, "[id]");
+    const cleanUrl = (value) => {
+      if (!value) return value;
+      const url = new URL(value, location.origin);
+      const rest = redact(decode(url.pathname + url.search));
+      return /^https?:/i.test(value) ? url.origin + rest : rest;
+    };
+    payload.url = cleanUrl(payload.url);
+    payload.referrer = cleanUrl(payload.referrer);
+    if (payload.title) payload.title = redact(payload.title);
+    return payload;
+  }
+`
+
+// Calculated from the script above, so the CSP always matches it.
+const umamiBeforeSendHash = `sha256-${createHash('sha256').update(umamiBeforeSendScript).digest('base64')}`
 
 export default function (eleventyConfig) {
   eleventyConfig.addPlugin(nhsukEleventyPlugin, {
@@ -68,7 +98,7 @@ export default function (eleventyConfig) {
         '<head>',
         `<head>
 <meta http-equiv="Content-Security-Policy" content="default-src 'self';
-  script-src 'self' ${analyticsHost} https://player.vimeo.com '${cspInlineScriptHash}';
+  script-src 'self' ${analyticsHost} https://player.vimeo.com '${cspInlineScriptHash}' '${umamiBeforeSendHash}';
   connect-src 'self' ${analyticsHost};
   style-src 'self' 'unsafe-inline';
   img-src 'self' data:;
@@ -83,10 +113,14 @@ export default function (eleventyConfig) {
       .replace(
         '</head>',
         // After application.js so analytics does not delay it.
-        `<script defer src="${analyticsHost}/script.js"
+        // The redaction function must come before the Umami script.
+        `<script>${umamiBeforeSendScript}</script>
+<script defer src="${analyticsHost}/script.js"
   data-website-id="${analyticsWebsiteId}"
   data-host-url="${analyticsHost}"
-  data-domains="design-history.prevention-services.nhs.uk"></script>
+  data-domains="design-history.prevention-services.nhs.uk"
+  data-exclude-hash="true"
+  data-before-send="umamiBeforeSend"></script>
 </head>`
       )
   })
