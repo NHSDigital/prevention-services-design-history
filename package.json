@@ -35,8 +35,7 @@
   "dependencies": {
     "@11ty/eleventy": "^3.1.8",
     "@x-govuk/nhsuk-eleventy-plugin": "^1.5.0",
-    "http-server": "^14.1.1",
-    "is-mergeable-object": "1.1.1"
+    "http-server": "^14.1.1"
   },
   "devDependencies": {
     "@x-govuk/eslint-config": "^0.0.3",
@@ -58,7 +57,6 @@
     "fsevents": false
   },
   "overrides": {
-    "deepmerge": "https://github.com/TehShrike/deepmerge/archive/c5ad573121574db1c625b0aabcc6114ed7df6c5a.tar.gz",
     "katex": "0.18.2",
     "minimatch": "^11.0.1"
   }
