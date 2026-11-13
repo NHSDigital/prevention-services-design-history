@@ -41,6 +41,9 @@ permalink: "breast-screening/{% if pagination.pageNumber > 0 %}page/{{ paginatio
 <ul class="nhsuk-grid-row nhsuk-card-group">
 {% for area in collections['pathway-breast-screening-teams'] %}
 {% set displayName = pathways['breast-screening'].teamNames[area.data.title] if pathways['breast-screening'].teamNames[area.data.title] else area.data.title %}
+ 
+  {% set isDiscontinued = area.data.title == "Invite" %}
+  
 <li class="nhsuk-grid-column-one-third nhsuk-card-group__item">
   {{ card({
     href: area.url,
@@ -48,7 +51,8 @@ permalink: "breast-screening/{% if pagination.pageNumber > 0 %}page/{{ paginatio
     headingLevel: 5,
     heading: displayName,
     headingClasses: "nhsuk-heading-s",
-    description: area.data.description
+    description: area.data.description,
+  descriptionHtml: ('<strong class="nhsuk-tag nhsuk-tag--grey">Discontinued</strong><br> + (area.data.description | escape)) if isDiscontinued else null
   }) }}
 </li>
 {% endfor %}
