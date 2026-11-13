@@ -57,7 +57,17 @@
     "fsevents": false
   },
   "overrides": {
-    "katex": "0.18.2",
-    "minimatch": "^11.0.1"
+    "@typescript-eslint/typescript-estree@^8": {
+      "minimatch": "^11"
+    },
+    "@eslint/config-array@^0": {
+      "minimatch": "^11"
+    },
+    "eslint@10": {
+      "minimatch": "^11"
+    },
+    "micromark-extension-math@3": {
+      "katex": "^0.18.2"
+    }
   }
 }
