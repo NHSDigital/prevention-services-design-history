@@ -38,3 +38,15 @@ For bug reports, feedback or suggestions you can [submit a new issue](https://gi
 ## Technical notes
 
 The design history uses the [NHS Design System](https://service-manual.nhs.uk/design-system) and the [Eleventy](https://www.11ty.dev) static site generator with the [NHS.UK Eleventy Plugin](https://nhsuk-eleventy-plugin.x-govuk.org/).
+
+### Analytics
+
+[The Umami redaction script](app/assets/umami-before-send.js) follows the
+[Umami onboarding guide](https://github.com/NHSDigital/dpsp-umami#2-add-the-tracking-script).
+It replaces email addresses and identifiers in URLs, referrers and page titles
+before they are sent. Keep it as a classic deferred script before the Umami
+tracking script so `window.umamiBeforeSend` is available when tracking starts.
+The existing `script-src 'self'` policy allows this file without an inline hash.
+
+After building, run `node --test .github/scripts/umami-before-send.test.mjs`
+to check the generated script order and redaction behaviour.
