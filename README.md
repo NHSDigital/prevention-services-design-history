@@ -41,10 +41,13 @@ The design history uses the [NHS Design System](https://service-manual.nhs.uk/de
 
 ### Analytics
 
-[The Umami redaction script](app/assets/umami-before-send.js) follows the
+[The Umami redaction script](app/assets/umami-before-send.js) is based on the
 [Umami onboarding guide](https://github.com/NHSDigital/dpsp-umami#2-add-the-tracking-script).
-It replaces email addresses and identifiers in URLs, referrers and page titles
-before they are sent. Keep it as a classic deferred script before the Umami
+It replaces UUIDs and runs of letters and digits containing a digit in URLs,
+referrers and page titles before they are sent. Unlike the guide's example, it
+does not include an email-address filter. The identifier filters still apply
+to digits within email addresses.
+Keep it as a classic deferred script before the Umami
 tracking script so `window.umamiBeforeSend` is available when tracking starts.
 The existing `script-src 'self'` policy allows this file without an inline hash.
 

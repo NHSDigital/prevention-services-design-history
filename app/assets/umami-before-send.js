@@ -8,10 +8,9 @@ window.umamiBeforeSend = function (type, payload) {
       return s
     }
   }
-  // Email addresses, UUIDs, then any run of letters and digits that contains a digit.
+  // UUIDs, then any run of letters and digits that contains a digit.
   const redact = (s) =>
     s
-      .replace(/[\w.+-]+@[\w-]+\.[\w.-]+/g, '[email]')
       .replace(/\b[0-9a-f]{8}(-[0-9a-f]{4}){3}-[0-9a-f]{12}\b/gi, '[id]')
       .replace(/[a-z0-9]*\d[a-z0-9]*/gi, '[id]')
   const cleanUrl = (value) => {

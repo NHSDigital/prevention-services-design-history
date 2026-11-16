@@ -32,7 +32,7 @@ test('the external script registers a global callback and redacts referrers, URL
     title: 'Results for 943 476 5919'
   }
   assert.equal(window.umamiBeforeSend('event', payload), payload)
-  assert.equal(payload.url, '/patients/[id]?email=[email]')
+  assert.equal(payload.url, '/patients/[id]?email=example@example.org')
   assert.equal(
     payload.referrer,
     'https://medium.com/@hellommips/a-month-note-october-[id]-[id]'
@@ -44,4 +44,17 @@ test('the external script registers a global callback and redacts referrers, URL
   assert.equal(ordinary.url, '/about')
   assert.equal(ordinary.referrer, '')
   assert.equal(ordinary.title, 'About the service')
+
+  const email = {
+    url: '/contact?email=example%40example.org',
+    referrer: 'https://example.org/contact?email=example%40example.org',
+    title: 'Contact example@example.org'
+  }
+  window.umamiBeforeSend('event', email)
+  assert.equal(email.url, '/contact?email=example@example.org')
+  assert.equal(
+    email.referrer,
+    'https://example.org/contact?email=example@example.org'
+  )
+  assert.equal(email.title, 'Contact example@example.org')
 })
