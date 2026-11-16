@@ -12,7 +12,7 @@ window.umamiBeforeSend = function (type, payload) {
   const redact = (s) =>
     s
       .replace(/\b[0-9a-f]{8}(-[0-9a-f]{4}){3}-[0-9a-f]{12}\b/gi, '[id]')
-      .replace(/[a-z0-9]*\d[a-z0-9]*/gi, '[id]')
+      .replace(/[a-z0-9]+/gi, (word) => (/\d/.test(word) ? '[id]' : word))
   const cleanUrl = (value) => {
     if (!value) return value
     const url = new URL(value, location.origin)
