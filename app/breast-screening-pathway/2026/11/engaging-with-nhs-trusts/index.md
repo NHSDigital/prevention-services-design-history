@@ -13,7 +13,9 @@ author:
 ---
 
 The Breast Screening Trust Engagement Team’s remit is to be the link between NHS Trusts and the NHS England teams building the replacement for the National Breast Screening System (NBSS).
+
 As well as telling them about the planned changes around the move from NBSS to Rubie (Run Breast Screening in England), we’re also gathering organisational, operational, and technical intelligence about breast screening providers. This means we can monitor readiness, identify any risks, and help navigate the governance underpinning NBSS data extraction and future roll-out of Rubie to providers.
+
 
 
 ## How to contact Trusts: Finding a way in
@@ -30,7 +32,8 @@ We wanted to better understand each Trust's information governance and data acce
 
 ## What we’ve learned so far:
 ### Build relationships early: 
-Since starting this work in May 2026, we’ve spoken with Information Governance (IG) teams in 51 Trusts (of 73) and facilitated conversations with 26 technical teams within those Trusts. We’re beginning to understand how and where NBSS databases sit within Trusts and are in a good place to start with data extraction as soon as we have the green light from our IG colleagues and signed Data Protection Impact Assessments (DPIAs) and Data Sharing Arrangements (DSAs) in place. By building these relationships early through meetings and follow-ups, we’re ahead of the game on data extraction but also laying the groundwork for working with Trusts through the wider Rubie roll-out, establishing gateways between the new system and Trust infrastructure.
+Since starting this work in May 2026, we’ve spoken with Information Governance (IG) teams in 51 Trusts (of 73) and facilitated conversations with 26 technical teams within those Trusts. We’re beginning to understand how and where NBSS databases sit within Trusts and are in a good place to start with data extraction as soon as we have the green light from our IG colleagues and signed Data Protection Impact Assessments (DPIAs) and Data Sharing Arrangements (DSAs) in place. 
+By building these relationships early through meetings and follow-ups, we’re ahead of the game on data extraction but also laying the groundwork for working with Trusts through the wider Rubie roll-out, establishing gateways between the new system and Trust infrastructure.
 
 ### Take a one-to-one approach: 
 As each Trust currently operates its own instance of NBSS, a one-to-one engagement approach has been valuable to establish strong, tailored relationships and develop a detailed understanding of how individual Trusts operate. This includes understanding their local processes, upcoming workplans, requirements and ways of working. It has also allowed Trusts to have an open safe space to clarify what is needed from them and highlight any questions or concerns.
@@ -52,7 +55,8 @@ We have started to build a picture of which Trusts work together on information 
 
 
 
-> **In summary:** our key learning has been the value of an early, tailored, one-to-one approach, particularly given the differences in how Trusts operate and manage their NBSS instances. 
+## In summary:
+Our key learning has been the value of an early, tailored, one-to-one approach, particularly given the differences in how Trusts operate and manage their NBSS instances. 
 Building strong relationships is fundamental to the successful rollout of Rubie as NHS Trusts play a key role in enabling implementation of the new system and supporting its integration across Breast Screening Offices (BSOs). A collaborative approach will help support a smoother, more effective and safer transition from NBSS to Rubie. 
 
-> **Whilst Rubie is a national programme, we believe that success will be determined locally.** 
+**Whilst Rubie is a national programme, we believe that success will be determined locally.** 
