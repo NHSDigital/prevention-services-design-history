@@ -5,7 +5,7 @@ window.umamiBeforeSend = function (type, payload) {
     try {
       return decodeURIComponent(s)
     } catch {
-      return s
+      return '/[redacted]'
     }
   }
   // UUIDs, then any run of letters and digits that contains a digit.
