@@ -1,5 +1,5 @@
 ---
-title: Launching HPV self-testing Private Beta 
+title: Launching HPV self-testing private beta 
 description: HPV self-testing has been rolled out to 200,000 people. Understand what Private Beta means and what our next steps are.
 date: 2026-11-17
 tags:
