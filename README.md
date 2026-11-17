@@ -38,3 +38,20 @@ For bug reports, feedback or suggestions you can [submit a new issue](https://gi
 ## Technical notes
 
 The design history uses the [NHS Design System](https://service-manual.nhs.uk/design-system) and the [Eleventy](https://www.11ty.dev) static site generator with the [NHS.UK Eleventy Plugin](https://nhsuk-eleventy-plugin.x-govuk.org/).
+
+### Analytics
+
+[The Umami redaction script](app/assets/umami-before-send.js) is based on the
+[Umami onboarding guide](https://github.com/NHSDigital/dpsp-umami#2-add-the-tracking-script).
+It replaces UUIDs and runs of letters and digits containing a digit in URLs,
+referrers and page titles before they are sent. Unlike the guide's example, it
+does not include an email-address filter. The identifier filters still apply
+to digits within email addresses.
+If a path or query string cannot be decoded, the whole path and query are
+replaced with `/[redacted]`.
+Keep it as a classic deferred script before the Umami
+tracking script so `window.umamiBeforeSend` is available when tracking starts.
+The existing `script-src 'self'` policy allows this file without an inline hash.
+
+The shared redaction tests are maintained in the
+[Umami repository](https://github.com/NHSDigital/dpsp-umami).
