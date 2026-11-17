@@ -43,7 +43,7 @@ Invitations are going out via the NHS App, text message, email or letter respect
 
 The self-testing kit contains a swab, which is used to collect a sample from the vagina. How you do the test depends on which type of test kit you have either Copan FLOQSwabs or Hologic Aptima. The sample is then posted back to the NHS for free, where it is checked for high-risk HPV. 
 
-![Image of example of what HPV self-testing kit looks like](IMG_9822.png)
+![Image of example of what HPV self-testing kit looks like](kit.jpg)
  
 If high-risk HPV is found, people will be invited to book a follow-up cervical screening appointment at their GP surgery or sexual health clinic, where a healthcare professional will take a small sample from the cervix to check for cell changes. 
 
