@@ -14,7 +14,7 @@ author:
 
 ![Screenshots of news articles about HPV going live](articles.png)
 
-On the 25th August 2026 we began rolling out our new HPV self-testing service. The service is aimed at people who do not attend or have not recently attended cervical screening. 
+On the 25th August 2026 we began rolling out our new [HPV self-testing service](https://design-history.prevention-services.nhs.uk/hpv-self-testing/2025/05/project-context/). The service is aimed at people who do not attend or have not recently attended cervical screening. 
 
 Many eligible people do not attend cervical screening appointments. Prior research has shown that some people face barriers to attending screening in person, including practical, emotional and accessibility related reasons. HPV self-testing aims to provide an alternative way to participate in screening by allowing people to take a sample at home. 
 
@@ -81,7 +81,7 @@ Before rolling out further, we need confidence that the service works for the pe
 ## Reflections on our journey to private beta 
 The roll-out of HPV self-testing is a step towards the NHS' ambition to eliminate cervical cancer by 2040. Around 4 million eligible people are not up to date with cervical screening. This service has the potential to help people who face barriers when attending screening in a clinical setting by enabling them to get tested in the comfort of their own home. 
 
-As detailed in our previous design histories, getting to this stage has involved user research, service design and content testing across the invitation, ordering, and kit return to result journey. Throughout successful discovery and alpha stages, and through to private beta, we used feedback from potential users and accessibility testing to improve the service. Private beta gives us the opportunity to validate those decisions in a real-world setting. 
+As detailed in our [previous design histories](https://design-history.prevention-services.nhs.uk/hpv-self-testing/) , getting to this stage has involved user research, service design and content testing across the invitation, ordering, and kit return to result journey. Throughout successful discovery and alpha stages, and through to private beta, we used feedback from potential users and accessibility testing to improve the service. Private beta gives us the opportunity to validate those decisions in a real-world setting. 
 
 This has been a hugely collaborative effort and wouldn’t have been possible without the dedicated HPV team, wider Screening Senior Leadership Team, Clinical Screening colleagues and colleagues from NHS Notify, NHS App and NHS.UK.  
   
