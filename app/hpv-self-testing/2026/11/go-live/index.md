@@ -16,7 +16,7 @@ author:
 
 On the 25th August 2026 we began rolling out our new HPV self-testing service. The service is aimed at people who do not attend or have not recently attended cervical screening. 
 
-Many eligible people do not attend Cervical Screening appointments. Prior research has shown that some people face barriers to attending screening in person, including practical, emotional and accessibility related reasons. HPV self-testing aims to provide an alternative way to participate in screening by allowing people to take a sample at home. 
+Many eligible people do not attend cervical screening appointments. Prior research has shown that some people face barriers to attending screening in person, including practical, emotional and accessibility related reasons. HPV self-testing aims to provide an alternative way to participate in screening by allowing people to take a sample at home. 
 
 As part of the private beta, 200,000 people who have not responded to cervical screening are being invited to take part. 
 
