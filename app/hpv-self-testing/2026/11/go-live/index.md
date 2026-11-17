@@ -20,7 +20,7 @@ Many eligible people do not attend cervical screening appointments. Prior resear
 
 As part of the private beta, 200,000 people who have not responded to cervical screening are being invited to take part. 
 
-## What is a Private Beta and why is it important? 
+## What is a private beta and why is it important? 
 To quote [GOV.UK]( https://www.gov.uk/service-manual/agile-delivery/how-the-beta-phase-works) 
 > The beta phase is where you … start building it for real…You’ll start in private beta by inviting a limited number of people to use your service.
 
