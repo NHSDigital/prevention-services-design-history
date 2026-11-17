@@ -1,7 +1,7 @@
 ---
 title: What we’ve learned about how to engage with NHS Trusts
 description: Key reflections on contacting and building relationships with NHS Trusts 
-date: 2026-11-10
+date: 2026-11-18
 tags:
   - breast screening
   - Trusts
