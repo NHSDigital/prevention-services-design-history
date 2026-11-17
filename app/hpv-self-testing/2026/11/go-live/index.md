@@ -50,7 +50,7 @@ If high-risk HPV is found, people will be invited to book a follow-up cervical s
 A problem at any point in this journey could affect someone's ability to complete the test. 
  
  
-## What are we hoping to learn from our private beta?  
+## What we are hoping to learn from the private beta
 Before rolling out further, we need confidence that the service works for the people it is designed for. We are looking to test whether people can understand what HPV self-testing is, can complete each step of the journey successfully and whether the technology, processes and lab pathways work as intended. 
 ### Understanding the user journey 
 
