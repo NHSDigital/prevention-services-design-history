@@ -3,14 +3,16 @@ title: Launching HPV self-testing Private Beta
 description: HPV self-testing has been rolled out to 200,000 people. Understand what Private Beta means and what our next steps are.
 date: 2026-11-17
 tags:
-   - research
-   - cervical screening
+  - research
+  - cervical screening
   - hpv self testing
 author:
   - Emma Parry
+    
+
+---
 
 ![Screenshots of news articles about HPV going live](Screenshot 2026-10-27 105728.png)
----
 
 On the 25th August 2026 we began rolling out our new HPV self-testing service. The service is aimed at people who do not attend or have not recently attended cervical screening. 
 
