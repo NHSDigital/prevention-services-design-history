@@ -78,7 +78,7 @@ Before rolling out further, we need confidence that the service works for the pe
 - Are the invitation methods effective?  
 - Do people understand what they're being asked to do and why? 
   
-## What are our reflections on our journey to private beta 
+## Reflections on our journey to private beta 
 The roll-out of HPV self-testing is a step towards the NHS' ambition to eliminate cervical cancer by 2040. Around 4 million eligible people are not up to date with cervical screening. This service has the potential to help people who face barriers when attending screening in a clinical setting by enabling them to get tested in the comfort of their own home. 
 
 As detailed in our previous design histories, getting to this stage has involved user research, service design and content testing across the invitation, ordering, and kit return to result journey. Throughout successful discovery and alpha stages, and through to private beta, we used feedback from potential users and accessibility testing to improve the service. Private beta gives us the opportunity to validate those decisions in a real-world setting. 
