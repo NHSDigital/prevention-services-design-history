@@ -12,7 +12,7 @@ author:
 
 ---
 
-![Screenshots of news articles about HPV going live](Screenshot 2026-10-27 105728.png)
+![Screenshots of news articles about HPV going live](articles.png)
 
 On the 25th August 2026 we began rolling out our new HPV self-testing service. The service is aimed at people who do not attend or have not recently attended cervical screening. 
 
