@@ -22,7 +22,7 @@ As part of the private beta, 200,000 people who have not responded to cervical s
 
 ## What is a private beta and why is it important? 
 To quote [GOV.UK]( https://www.gov.uk/service-manual/agile-delivery/how-the-beta-phase-works) 
-> The beta phase is where you … start building it for real…You’ll start in private beta by inviting a limited number of people to use your service.
+> The beta phase is where you … start building it for real… You’ll start in private beta by inviting a limited number of people to use your service.
 
 This is the time to test our service in the real world with people who would use it. By doing this on a smaller scale, inviting 200,000 people rather than all 4 million people who have not responded to cervical screening, we can minimise risk and identify opportunities to improve the service. 
 ## What are we testing? 
