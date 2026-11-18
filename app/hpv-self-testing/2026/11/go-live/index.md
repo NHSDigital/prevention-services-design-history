@@ -8,6 +8,7 @@ tags:
   - hpv self testing
 author:
   - Emma Parry
+  - Teodora Preda
     
 
 ---
@@ -79,12 +80,21 @@ Before rolling out further, we need confidence that the service works for the pe
 - Do people understand what they're being asked to do and why? 
   
 ## Reflections on our journey to private beta 
+
 The roll-out of HPV self-testing is a step towards the NHS' ambition to eliminate cervical cancer by 2040. Around 4 million eligible people are not up to date with cervical screening. This service has the potential to help people who face barriers when attending screening in a clinical setting by enabling them to get tested in the comfort of their own home. 
 
 As detailed in our [previous design histories](https://design-history.prevention-services.nhs.uk/hpv-self-testing/) , getting to this stage has involved user research, service design and content testing across the invitation, ordering, and kit return to result journey. Throughout successful discovery and alpha stages, and through to private beta, we used feedback from potential users and accessibility testing to improve the service. Private beta gives us the opportunity to validate those decisions in a real-world setting. 
 
 This has been a hugely collaborative effort and wouldn’t have been possible without the dedicated HPV team, wider Screening Senior Leadership Team, Clinical Screening colleagues and colleagues from NHS Notify, NHS App and NHS.UK.  
   
+### Key learnings: 
+- Cross-teams collaboration is key to designing and building a service of this magnitude from scratch. If normally we are used to working on new features within an existing service, working on an entire new pathway – namely, non-responder pathway – brings together more stakeholders and teams than usual; teams that we have never worked with before, and vice-versa who are not used to working with digital delivery teams. Establishing a clear governance and sign-off process, as well as rapport and collaboration opportunities early on is what will ensure the success of the project. 
+
+- When researching with hard-to-reach groups, from both a demographic representation and from an engagement with the NHS perspective, getting more creative with recruitment is what will ensure a representative mix of participants. In the beginning of our Alpha, it was crucial for us to first understand and map all our target sub-groups, to then know who we want to engage with. Calling our target group an umbrella term ‘non-responders’ can lead to misunderstandings or misconceptions about the people behind that term. Our research recruitment was done through a significant amount of outreach, building new connections with communities and their leaders, social prescribers and engaging the help with healthcare professionals and GP practices. 
+
+- While we can define our own design and delivery timelines, when it comes to procurement delays, manufacturing challenges or new insights from our clinical safety or legal teams, sometimes things are out of our control. We learned the hard way, by having our private beta launch date delayed a few times. We now understand more about all these processes, what to avoid next time and what to start earlier. Spinning up a brand new service, first-of-type for the Cervical Screening pathway is no easy feat, and there’s a lot of moving parts that need to align and work together seamlessly. From a design perspective, we learned to look way beyond the participant journey, and have defined journeys for all our secondary or tertiary user groups, such as kit providers, mail couriers, laboratories, administrative staff, quality assurance staff, healthcare professionals, and so on. 
+
+
 ## Next steps 
 Every day through the private beta we are gathering new data, insights and feedback from people using the service. We will use what we learn to understand what is working well, where people experience difficulties and what changes we need to make before any wider rollout. 
 
