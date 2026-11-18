@@ -83,7 +83,7 @@ Before rolling out further, we need confidence that the service works for the pe
 
 The roll-out of HPV self-testing is a step towards the NHS' ambition to eliminate cervical cancer by 2040. Around 4 million eligible people are not up to date with cervical screening. This service has the potential to help people who face barriers when attending screening in a clinical setting by enabling them to get tested in the comfort of their own home. 
 
-As detailed in our [previous design histories](https://design-history.prevention-services.nhs.uk/hpv-self-testing/) , getting to this stage has involved user research, service design and content testing across the invitation, ordering, and kit return to result journey. Throughout successful discovery and alpha stages, and through to private beta, we used feedback from potential users and accessibility testing to improve the service. Private beta gives us the opportunity to validate those decisions in a real-world setting. 
+As detailed in our [previous design histories](/hpv-self-testing/) , getting to this stage has involved user research, service design and content testing across the invitation, ordering, and kit return to result journey. Throughout successful discovery and alpha stages, and through to private beta, we used feedback from potential users and accessibility testing to improve the service. Private beta gives us the opportunity to validate those decisions in a real-world setting. 
 
 This has been a hugely collaborative effort and wouldn’t have been possible without the dedicated HPV team, wider Screening Senior Leadership Team, Clinical Screening colleagues and colleagues from NHS Notify, NHS App and NHS.UK.  
   
