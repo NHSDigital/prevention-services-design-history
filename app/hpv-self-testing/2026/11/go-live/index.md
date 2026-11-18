@@ -15,7 +15,7 @@ author:
 
 ![Screenshots of news articles about HPV going live](articles.png)
 
-On the 25th August 2026 we began rolling out our new [HPV self-testing service](https://design-history.prevention-services.nhs.uk/hpv-self-testing/2025/05/project-context/). The service is aimed at people who do not attend or have not recently attended cervical screening. 
+On the 25th August 2026 we began rolling out our new [HPV self-testing service](/hpv-self-testing/2025/05/project-context/). The service is aimed at people who do not attend or have not recently attended cervical screening. 
 
 Many eligible people do not attend cervical screening appointments. Prior research has shown that some people face barriers to attending screening in person, including practical, emotional and accessibility related reasons. HPV self-testing aims to provide an alternative way to participate in screening by allowing people to take a sample at home. 
 
