@@ -31,7 +31,7 @@ We wanted to better understand each Trust's information governance and data acce
 
 
 
-## What we’ve learned so far:
+## What we’ve learned so far
 ### Build relationships early: 
 Since starting this work in May 2026, we’ve spoken with Information Governance (IG) teams in 51 Trusts (of 73) and facilitated conversations with 26 technical teams within those Trusts. We’re beginning to understand how and where NBSS databases sit within Trusts and are in a good place to start with data extraction as soon as we have the green light from our IG colleagues and signed Data Protection Impact Assessments (DPIAs) and Data Sharing Arrangements (DSAs) in place. 
 By building these relationships early through meetings and follow-ups, we’re ahead of the game on data extraction but also laying the groundwork for working with Trusts through the wider Rubie roll-out, establishing gateways between the new system and Trust infrastructure.
