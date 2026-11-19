@@ -26,6 +26,7 @@ To find the people we needed to speak to in the Trusts (initially information go
 
 ### The first conversations
 Once we had found people to talk to, we set up initial meetings. In these early discussions, we gave a presentation designed to introduce the Rubie programme: outlining benefits, explaining the data transformation approach, and setting out the proposed timelines.
+
 We wanted to better understand each Trust's information governance and data access processes (often called the ‘front door’ process). Also, we needed to find relevant IT and technical colleagues who could support the next phase of engagement (which focuses on identifying NBSS database location, size, management, and potential options for extracting data to be sent to NHSE for data transformation work).  
 
 
