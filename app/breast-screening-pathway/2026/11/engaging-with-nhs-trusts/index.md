@@ -22,7 +22,7 @@ As well as telling them about the planned changes around the move from NBSS to R
 To find the people we needed to speak to in the Trusts (initially information governance (IG) folks) we tried a few routes: 
 - used our NHS network – a former colleague had compiled a list of Trust Data Protection Officers and Information Governance colleagues for another NHSE national programme, and kindly shared this with us
 - we contacted Breast Screening Offices (BSOs) directly to ask if they had contacts in their Trust they could share
-- the national Digital Partnering Team were really helpful in telling Trusts CDIOs about this work and finding any missing contacts
+- the national Digital Partnering Team were really helpful in telling Trust CDIOs about this work and finding any missing contacts
 
 ### The first conversations
 Once we had found people to talk to, we set up initial meetings. In these early discussions, we gave a presentation designed to introduce the Rubie programme: outlining benefits, explaining the data transformation approach, and setting out the proposed timelines.
