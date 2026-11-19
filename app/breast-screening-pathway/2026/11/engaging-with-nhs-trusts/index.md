@@ -13,7 +13,6 @@ author:
 ---
 
 The Breast Screening Trust Engagement Team’s remit is to be the link between NHS Trusts and the NHS England teams building the replacement for the National Breast Screening System (NBSS).
-
 As well as telling them about the planned changes around the move from NBSS to Rubie (Run Breast Screening in England), we’re also gathering organisational, operational, and technical intelligence about breast screening providers. This means we can monitor readiness, identify any risks, and help navigate the governance underpinning NBSS data extraction and future roll-out of Rubie to providers.
 
 
@@ -26,7 +25,6 @@ To find the people we needed to speak to in the Trusts (initially information go
 
 ### The first conversations
 Once we had found people to talk to, we set up initial meetings. In these early discussions, we gave a presentation designed to introduce the Rubie programme: outlining benefits, explaining the data transformation approach, and setting out the proposed timelines.
-
 We wanted to better understand each Trust's information governance and data access processes (often called the ‘front door’ process). Also, we needed to find relevant IT and technical colleagues who could support the next phase of engagement (which focuses on identifying NBSS database location, size, management, and potential options for extracting data to be sent to NHSE for data transformation work).  
 
 
@@ -53,7 +51,7 @@ We have noted and tracked all new questions arising in calls and through our inb
 NHS contact details across the system are not widely or transparently available, which can make it difficult to identify target contacts. To help us seek Trust IG contacts, we leveraged our cross-NHS relationships to reach out to another NHSE national programme who already held a similar stakeholder list. 
 
 ### Map how Trusts work with each other: 
-We have started to build a picture of which Trusts work together on information governance, corporate services and/or technical and IT support. This has been useful to link up conversations with these Trusts to provide an aligned message but also hold calls with co-working Trusts together.  
+We have started to build a picture of which Trusts work together on information governance, corporate services and/or technical and IT support. This has been useful to link up conversations with these Trusts to provide an aligned message but also hold calls with Trusts that work together.  
 
 
 
