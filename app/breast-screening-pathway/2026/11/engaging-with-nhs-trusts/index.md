@@ -52,7 +52,7 @@ NHS contact details across the system are not widely or transparently available,
 
 ### Map how Trusts work with each other: 
 We have started to build a picture of which Trusts work together on information governance, corporate services and/or technical and IT support. This has been useful to link up conversations with these Trusts to provide an aligned message but also hold calls with Trusts that work together.  
-> We've learned to work together as IG people […] we don't all want to sit here doing a DPIA so one of us will do it and then share it with others as critical friends […] I'm happy to support and help the system working to do it once. - Frimley Health NHS Foundation Trust
+> We've learned to work together as IG people […] we don't all want to sit here doing a DPIA so one of us will do it and then share it with others as critical friends […] I'm happy to support and help the system working to do it once. -- Frimley Health NHS Foundation Trust
 
 
 
