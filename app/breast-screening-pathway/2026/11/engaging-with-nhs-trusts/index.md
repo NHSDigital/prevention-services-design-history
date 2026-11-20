@@ -32,7 +32,7 @@ We wanted to better understand each Trust's information governance and data acce
 ## What we’ve learned so far
 ### Build relationships early: 
 Since starting this work in May 2026, we’ve spoken with Information Governance (IG) teams in 51 Trusts (of 73) and facilitated conversations with 26 technical teams within those Trusts. We’re beginning to understand how and where NBSS databases sit within Trusts and are in a good place to start with data extraction as soon as we have the green light from our IG colleagues and signed Data Protection Impact Assessments (DPIAs) and Data Sharing Arrangements (DSAs) in place. 
-
+> "Data protection by design […] it's good to get the conversations going at an early point, because very often we aren't.” - University Hospitals Plymouth NHS Trust
 By building these relationships early through meetings and follow-ups, we’re ahead of the game on data extraction but also laying the groundwork for working with Trusts through the wider Rubie roll-out, establishing [gateways](https://www.digital-prevention-services.nhs.uk/case-studies/connecting-mammogram-machines-to-the-cloud/) between the new system and Trust infrastructure.
 
 ### Take a one-to-one approach: 
@@ -52,6 +52,7 @@ NHS contact details across the system are not widely or transparently available,
 
 ### Map how Trusts work with each other: 
 We have started to build a picture of which Trusts work together on information governance, corporate services and/or technical and IT support. This has been useful to link up conversations with these Trusts to provide an aligned message but also hold calls with Trusts that work together.  
+> "We've learned to work together as IG people […] we don't all want to sit here doing a DPIA so one of us will do it and then share it with others as critical friends […] I'm happy to support and help the system working to do it once." - Frimley Health NHS Foundation Trust
 
 
 
