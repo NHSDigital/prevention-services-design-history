@@ -18,7 +18,7 @@ As well as telling them about the planned changes around the move from NBSS to R
 
 
 
-## How to contact Trusts: Finding a way in
+## How to contact Trusts: finding a way in
 To find the people we needed to speak to in the Trusts (initially information governance (IG) folks) we tried a few routes: 
 - used our NHS network – a former colleague had compiled a list of Trust Data Protection Officers and Information Governance colleagues for another NHSE national programme, and kindly shared this with us
 - we contacted Breast Screening Offices (BSOs) directly to ask if they had contacts in their Trust they could share
