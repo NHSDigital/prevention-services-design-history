@@ -61,6 +61,7 @@ We have started to build a picture of which Trusts work together on information 
 
 ## In summary:
 Our key learning has been the value of an early, tailored, one-to-one approach, particularly given the differences in how Trusts operate and manage their NBSS instances. 
+
 Building strong relationships is fundamental to the successful rollout of Rubie as NHS Trusts play a key role in enabling implementation of the new system and supporting its integration across BSOs. A collaborative approach will help support a smoother, more effective and safer transition from NBSS to Rubie. 
 
 **Whilst Rubie is a national programme, we believe that success will be determined locally.** 
