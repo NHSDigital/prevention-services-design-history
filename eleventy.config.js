@@ -83,13 +83,19 @@ export default function (eleventyConfig) {
       .replace(
         '</head>',
         // After application.js so analytics does not delay it.
-        `<script defer src="${analyticsHost}/script.js"
+        // Classic deferred scripts execute in order, registering redaction before Umami starts.
+        `<script defer src="/assets/umami-before-send.js"></script>
+<script defer src="${analyticsHost}/script.js"
   data-website-id="${analyticsWebsiteId}"
   data-host-url="${analyticsHost}"
-  data-domains="design-history.prevention-services.nhs.uk"></script>
+  data-domains="design-history.prevention-services.nhs.uk"
+  data-exclude-hash="true"
+  data-before-send="umamiBeforeSend"></script>
 </head>`
       )
   })
+
+  eleventyConfig.addPassthroughCopy('./app/assets/umami-before-send.js')
 
   // Images and PDFs
   const imageAndDocumentExtensions = [
