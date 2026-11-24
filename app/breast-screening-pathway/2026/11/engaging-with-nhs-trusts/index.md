@@ -13,6 +13,7 @@ author:
 ---
 
 The Breast Screening Trust Engagement Team’s remit is to be the link between NHS Trusts and the NHS England teams building the replacement for the National Breast Screening System (NBSS).
+
 As well as telling them about the planned changes around the move from NBSS to Rubie (Run Breast Screening in England), we’re also gathering organisational, operational, and technical intelligence about breast screening providers. This means we can monitor readiness, identify any risks, and help navigate the governance underpinning NBSS data extraction and future roll-out of Rubie to providers.
 
 
