@@ -1,7 +1,7 @@
 ---
 layout: collection
 title: Managing my health
-description: "Supporting prevention services in the app so it is easy for people to prevent ill health – for themselves and the people they care for"
+description: "Supporting prevention services in the app so it is easy for people to prevent ill health – for themselves and the people they care for. Running the [Prevention in the app community](/pita-community)."
 area: cross-digital-prevention-services
 pagination:
   data: collections.managing-my-health
