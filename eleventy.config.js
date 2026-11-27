@@ -220,6 +220,7 @@ export default function (eleventyConfig) {
     // Cross digital prevention services
     'cohorting-as-a-service',
     'managing-my-health',
+    'pita-community',
     'policy-and-communications'
   ]) {
     eleventyConfig.addCollection(service, (collection) => {
